@@ -19,6 +19,10 @@
       </b-col>
       <b-col class="right">
         <section class="intro">
+          <h1 v-if="data.properties?.title" class="item-title">
+            {{ data.properties.title }}
+          </h1>
+
           <h2 v-if="data.properties.description">{{ $t('description') }}</h2>
           <DeprecationNotice v-if="showDeprecation" :data="data" />
           <AnonymizedNotice v-if="data.properties['anon:warning']" :warning="data.properties['anon:warning']" />
