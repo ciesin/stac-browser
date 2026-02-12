@@ -41,9 +41,17 @@
         <MetadataGroups class="mb-4" :type="data.type" :data="data" :ignoreFields="ignoredMetadataFields" />
         <LinkList v-if="linkPosition === 'right'" :title="$t('additionalResources')" :links="additionalLinks" :context="data" />
       </b-col>
-      <b-col class="catalogs-container" v-if="hasCatalogs">
-        <Catalogs :catalogs="catalogs" :hasMore="!!nextCollectionsLink" @load-more="loadMoreCollections" />
+      <b-col class="catalogs-container" v-if="catalogChildren.length || collectionChildren.length">
+          <div v-if="collectionChildren.length">
+            <h3>Collections</h3>
+            <Catalogs :catalogs="collectionChildren" />
+          </div>
+          <div v-if="catalogChildren.length">
+            <h3>Catalogs</h3>
+            <Catalogs :catalogs="catalogChildren" />
+          </div>
       </b-col>
+
       <b-col class="items-container" v-if="hasItems || hasItemAssets">
         <Items
           :stac="data" :items="items" :api="isApi"
@@ -234,7 +242,13 @@ export default defineComponent({
         }
       }
       return data;
-    }
+    },
+    catalogChildren() {
+      return this.catalogs.filter(child => child.isCatalog && child.isCatalog());
+    },
+    collectionChildren() {
+      return this.catalogs.filter(child => child.isCollection && child.isCollection());
+    },
   },
   watch: {
     data: {
