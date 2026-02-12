@@ -1,10 +1,10 @@
 <template>
   <div :class="{cc: true, [cssStacType]: true, empty: !hasCatalogs && !hasItems}" :key="data.id">
+    <span v-if="isCollection" class="badge bg-secondary ms-2">Collection</span>
+    <span v-else class="badge bg-secondary ms-2">Catalog</span>
     <b-row>
       <b-col class="meta">
         <section class="intro">
-            <span v-if="isCollection" class="badge bg-secondary ms-2">Collection</span>
-            <span v-else class="badge bg-secondary ms-2">Catalog</span>
           <h2>{{ $t('description') }}</h2>
           <DeprecationNotice v-if="showDeprecation" :data="data" />
           <AnonymizedNotice v-if="data['anon:warning']" :warning="data['anon:warning']" />
