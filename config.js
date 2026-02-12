@@ -3,7 +3,7 @@ export default {
     catalogTitle: "CIESIN STAC Browser",
     catalogImage: null,
     allowExternalAccess: false, // Must be true if catalogUrl is not given
-    allowedDomains: ["jfmartinez4.github.io"],
+    allowedDomains: ["ciesin.github.io"],
     detectLocaleFromBrowser: true,
     storeLocale: true,
     locale: "en",
