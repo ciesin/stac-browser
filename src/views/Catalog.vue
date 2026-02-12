@@ -244,11 +244,15 @@ export default defineComponent({
       return data;
     },
     catalogChildren() {
-      return this.catalogs.filter(child => child.isCatalog && child.isCatalog());
-    },
-    collectionChildren() {
-      return this.catalogs.filter(child => child.isCollection && child.isCollection());
-    },
+        return this.catalogs.filter(child =>
+          typeof child.isCatalog === "function" && child.isCatalog()
+        );
+      },
+      collectionChildren() {
+        return this.catalogs.filter(child =>
+          typeof child.isCollection === "function" && child.isCollection()
+        );
+      },
   },
   watch: {
     data: {
