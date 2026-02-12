@@ -1,5 +1,5 @@
 export default {
-    catalogUrl: "ciesin-stac/catalog.json",
+    catalogUrl: "stac/catalog.json",
     catalogTitle: "CIESIN STAC Browser - Alpha",
     catalogImage: null,
     allowExternalAccess: false, // Must be true if catalogUrl is not given
