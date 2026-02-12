@@ -1,9 +1,9 @@
 export default {
-    catalogUrl: null,
-    catalogTitle: "STAC Browser",
+    catalogUrl: "https://jfmartinez4.github.io/stac-browser/external/ciesin.github.io/sci-apps-stac/stac/catalog.json",
+    catalogTitle: "CIESIN STAC Browser",
     catalogImage: null,
-    allowExternalAccess: true, // Must be true if catalogUrl is not given
-    allowedDomains: [],
+    allowExternalAccess: false, // Must be true if catalogUrl is not given
+    allowedDomains: ["jfmartinez4.github.io"],
     detectLocaleFromBrowser: true,
     storeLocale: true,
     locale: "en",
