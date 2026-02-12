@@ -121,13 +121,26 @@ export default defineComponent({
       return null;
     },
     title() {
-      if (this.collectionsOnly) {
-        return this.$t('stacCollection', this.catalogs.length );
+      const list = this.allCatalogs;
+
+      if (!list || list.length === 0) {
+        return this.$t('stacCatalog', 0);
       }
-      else {
-        return this.$t('stacCatalog', this.catalogs.length );
+
+      const allCollections = list.every(c => {
+        if (c && typeof c.isCollection === 'function') {
+          return c.isCollection();
+        }
+        return c?.type === 'Collection';
+      });
+
+      if (allCollections) {
+        return this.$t('stacCollection', list.length);
       }
+
+      return this.$t('stacCatalog', list.length);
     },
+
     isComplete() {
       return !this.hasMore && !this.showPagination;
     },
