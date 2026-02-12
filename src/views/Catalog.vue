@@ -42,7 +42,13 @@
         <LinkList v-if="linkPosition === 'right'" :title="$t('additionalResources')" :links="additionalLinks" :context="data" />
       </b-col>
       <b-col class="catalogs-container" v-if="hasCatalogs">
-        <Catalogs :catalogs="catalogs" :hasMore="!!nextCollectionsLink" @load-more="loadMoreCollections" />
+        <Catalogs
+            :catalogs="catalogs"
+            :collectionsOnly="catalogs.every(c => c.type === 'Collection')"
+            :hasMore="!!nextCollectionsLink"
+            @load-more="loadMoreCollections"
+          />
+
       </b-col>
       <b-col class="items-container" v-if="hasItems || hasItemAssets">
         <Items
