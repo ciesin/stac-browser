@@ -127,19 +127,30 @@ export default defineComponent({
         return this.$t('stacCatalog', 0);
       }
 
-      const allCollections = list.every(c => {
-        if (c && typeof c.isCollection === 'function') {
-          return c.isCollection();
-        }
-        return c?.type === 'Collection';
-      });
+      const hasCollections = list.some(c =>
+        c && typeof c.isCollection === 'function'
+          ? c.isCollection()
+          : c?.type === 'Collection'
+      );
 
-      if (allCollections) {
+      const hasCatalogs = list.some(c =>
+        c && typeof c.isCatalog === 'function'
+          ? c.isCatalog()
+          : c?.type === 'Catalog'
+      );
+
+      if (hasCollections && !hasCatalogs) {
         return this.$t('stacCollection', list.length);
       }
 
-      return this.$t('stacCatalog', list.length);
+      if (hasCatalogs && !hasCollections) {
+        return this.$t('stacCatalog', list.length);
+      }
+
+      // Mixed case
+      return `Catalogs & Collections (${list.length})`;
     },
+
 
     isComplete() {
       return !this.hasMore && !this.showPagination;
