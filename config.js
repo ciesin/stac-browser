@@ -35,7 +35,7 @@ export default {
     displayOverview: true,
     buildTileUrlTemplate: null,
     getMapSourceOptions: null,
-    pathPrefix: "/stac-browser/",
+    pathPrefix: "",
     historyMode: "history",
     cardViewMode: "cards",
     cardViewSort: "asc",
