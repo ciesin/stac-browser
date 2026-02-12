@@ -1,6 +1,6 @@
 export default {
     catalogUrl: "https://ciesin.github.io/sci-apps-stac/stac/catalog.json",
-    catalogTitle: "CIESIN STAC Browser",
+    catalogTitle: "CIESIN STAC Browser - Alpha",
     catalogImage: null,
     allowExternalAccess: false, // Must be true if catalogUrl is not given
     allowedDomains: ["ciesin.github.io"],
