@@ -3,6 +3,12 @@
     <b-row>
       <b-col class="meta">
         <section class="intro">
+          <h1>
+            {{ data.title }}
+            <span v-if="isCollection" class="badge bg-secondary ms-2">Collection</span>
+            <span v-else class="badge bg-secondary ms-2">Catalog</span>
+          </h1>
+
           <h2>{{ $t('description') }}</h2>
           <DeprecationNotice v-if="showDeprecation" :data="data" />
           <AnonymizedNotice v-if="data['anon:warning']" :warning="data['anon:warning']" />
