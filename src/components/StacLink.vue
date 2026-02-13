@@ -169,9 +169,24 @@ export default defineComponent({
         return this.title;
       }
 
-      let fallback = typeof this.fallbackTitle === 'function' ? this.fallbackTitle() : this.fallbackTitle;
+      const fallback =
+        typeof this.fallbackTitle === 'function'
+          ? this.fallbackTitle()
+          : this.fallbackTitle;
+
+      // Prefer resolved STAC instance
+      if (this.stac) {
+        return (
+          this.stac?.properties?.title ||
+          this.stac?.title ||
+          this.stac?.id ||
+          fallback
+        );
+      }
+
       return getDisplayTitle(this.data, fallback);
     }
+
   },
   methods: {
     isLink(o) {
