@@ -1,7 +1,12 @@
 <template>
   <div :class="{cc: true, [cssStacType]: true, empty: !hasCatalogs && !hasItems}" :key="data.id">
-    <span v-if="isCollection" class="badge bg-secondary ms-2">Collection</span>
-    <span v-else class="badge bg-secondary ms-2">Catalog</span>
+    <h1 class="d-flex align-items-center">
+      {{ data.title }}
+      <span class="badge bg-secondary ms-2">
+        {{ isCollection ? 'Collection' : 'Catalog' }}
+      </span>
+    </h1>
+
     <b-row>
       <b-col class="meta">
         <section class="intro">
