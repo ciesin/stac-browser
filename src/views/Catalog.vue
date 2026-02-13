@@ -1,9 +1,9 @@
 <template>
-  <span class="badge bg-secondary">
-    {{ isCollection ? 'Collection' : 'Catalog' }}
-  </span>
-  <div :class="{cc: true, [cssStacType]: true, empty: !hasCatalogs && !hasItems}" :key="data.id">
   
+  <div :class="{cc: true, [cssStacType]: true, empty: !hasCatalogs && !hasItems}" :key="data.id">
+    <span class="badge bg-secondary">
+      {{ isCollection ? 'Collection' : 'Catalog' }}
+    </span>
      
    
 

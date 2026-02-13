@@ -130,13 +130,13 @@ export default defineComponent({
       const hasCollections = list.some(c =>
         c && typeof c.isCollection === 'function'
           ? c.isCollection()
-          : c?.type === 'Collection'
+          : c?.type === 'Collections'
       );
 
       const hasCatalogs = list.some(c =>
         c && typeof c.isCatalog === 'function'
           ? c.isCatalog()
-          : c?.type === 'Catalog'
+          : c?.type === 'Catalogs'
       );
 
       if (hasCollections && !hasCatalogs) {
