@@ -1,6 +1,9 @@
 <template>
+  <span class="badge bg-secondary">
+    {{ isCollection ? 'Collection' : 'Catalog' }}
+  </span>
   <div :class="{cc: true, [cssStacType]: true, empty: !hasCatalogs && !hasItems}" :key="data.id">
-     
+  
      
    
 
@@ -8,9 +11,7 @@
       <b-col class="meta">
         <section class="intro">
           <h2>{{ $t('description') }}</h2>
-          <span class="badge bg-secondary ms-2">
-            {{ isCollection ? 'Collection' : 'Catalog' }}
-          </span>
+          
           <DeprecationNotice v-if="showDeprecation" :data="data" />
           <AnonymizedNotice v-if="data['anon:warning']" :warning="data['anon:warning']" />
           <ReadMore v-if="data.description" :lines="10" :text="$t('read.more')" :text-less="$t('read.less')">
