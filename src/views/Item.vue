@@ -19,9 +19,19 @@
       </b-col>
       <b-col class="right">
         <section class="intro">
-          <h1 v-if="data.properties?.title" class="item-title">
-            {{ data.properties.title }}
+          <h1 class="item-title d-flex flex-column">
+            <span>
+              {{ data.properties?.title || data.title || data.id }}
+            </span>
+
+            <small
+              v-if="data.properties?.title && data.properties.title !== data.id"
+              class="text-muted mt-1"
+            >
+              {{ data.id }}
+            </small>
           </h1>
+
 
           <h2 v-if="data.properties.description">{{ $t('description') }}</h2>
           <DeprecationNotice v-if="showDeprecation" :data="data" />
