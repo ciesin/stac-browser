@@ -1,15 +1,7 @@
 <template>
   <component :is="component" class="stac-link" :id="id" :title="tooltip" v-bind="attributes">
     <img v-if="icon && !hideIcon" :src="icon.getAbsoluteUrl()" :alt="icon.title" :title="icon.title" class="icon me-2">
-    <span class="title d-flex flex-column">
-      <span class="main-title">
-        {{ mainTitle }}
-      </span>
-      <small v-if="showId" class="text-muted id-line">
-        {{ itemId }}
-      </small>
-    </span>
-
+    <span class="title">{{ displayTitle }}</span>
   </component>
 </template>
 
