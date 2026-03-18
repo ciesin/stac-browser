@@ -5,12 +5,12 @@
       <div class="group" v-for="group in groups" :key="group.rel">
         <h4 v-if="group.rel">{{ group.label }}</h4>
         <ul>
-          <LinkListEntry v-for="(link, key) in group.links" :key="key" :link="link" :context="context" :fallbackTitle="() => fallbackTitle(link)" />
+          <LinkListEntry v-for="(link, key) in group.validLinks" :key="key" :link="link" :context="context" :fallbackTitle="() => fallbackTitle(link)" />
         </ul>
       </div>
     </template>
     <ul v-else>
-      <LinkListEntry v-for="(link, key) in links" :key="key" :link="link" :context="context" :fallbackTitle="() => fallbackTitle(link)" />
+      <LinkListEntry v-for="(link, key) in validLinks" :key="key" :link="link" :context="context" :fallbackTitle="() => fallbackTitle(link)" />
     </ul>
   </section>
 </template>
@@ -46,17 +46,24 @@ export default {
   },
   computed: {
     ...mapState(['uiLanguage']),
+    validLinks() {
+      return (this.links || []).filter(link =>
+        link &&
+        typeof link.href === 'string' &&
+        link.href.trim() !== ''
+        );
+    },
     groups() {
-      let groups = this.links.reduce((summary, link) => {
+      let groups = this.validLinks.reduce((summary, link) => {
         let rel = typeof link.rel === 'string' ? link.rel.toLowerCase() : "";
         if (rel in summary) {
-          summary[rel].links.push(link);
+          summary[rel].validLinks.push(link);
         }
         else {
           summary[rel] = {
             rel: rel,
             label: this.formatRel(rel),
-            links: [link]
+            validLinks: [link]
           };
         }
         return summary;
@@ -65,7 +72,7 @@ export default {
       return Object.values(groups).sort((g1, g2) => collator.compare(g1.label, g2.label));
     },
     hasGroups() {
-      return this.groups.some(group => group.rel.length > 0 && group.links.length >= 2);
+      return this.groups.some(group => group.rel.length > 0 && group.validLinks.length >= 2);
     }
   },
   methods: {
