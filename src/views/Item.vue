@@ -42,6 +42,10 @@
           <Keywords v-if="Array.isArray(data.properties.keywords) && data.properties.keywords.length > 0" :keywords="data.properties.keywords" class="mb-3" />
         </section>
         <CollectionLink v-if="collectionLink" :link="collectionLink" />
+        <div v-if="data.license" class="mb-3">
+          <h2>{{ $t('license') }}</h2>
+          <p class="mb-0">{{ data.license }}</p>
+        </div>
         <Providers v-if="data.properties.providers" :providers="data.properties.providers" />
         <MetadataGroups :data="data" type="Item" :ignoreFields="ignoredMetadataFields" />
       </b-col>
