@@ -109,11 +109,19 @@ export default defineComponent({
         return obj;
       }
       else {
+        const isMailLike =
+          typeof this.href === 'string' &&
+          (this.href.startsWith('mailto:') || this.href.startsWith('tel:')
+        );
+
         const obj = {
           href: this.href,
-          target: '_blank',
           rel: this.link.rel,
         };
+
+        if (!isMailLike) {
+          obj.target = '_blank';
+        }
         if (this.id) {
           // Add tab index when an ID is given for popovers to make it clickable on MacOS (#655)
           obj.tabindex = 0;
@@ -160,7 +168,17 @@ export default defineComponent({
         return href;
       }
       else {
-        return this.getRequestUrl(this.link.href);
+        const href = this.link.href || '';
+
+        // Keep special schemes unchanged
+        if (
+          href.startsWith('mailto:') ||
+          href.startsWith('tel:')
+        ) {
+          return href;
+        }
+
+        return this.getRequestUrl(href);
       }
 
     },
