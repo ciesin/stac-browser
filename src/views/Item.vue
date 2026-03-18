@@ -43,7 +43,7 @@
         </section>
         <CollectionLink v-if="collectionLink" :link="collectionLink" />
         <div v-if="data.license" class="mb-3">
-          <h2>{{ $t('license') }}</h2>
+          <h2>{{ $t('License') }}</h2>
           <p class="mb-0">{{ data.license }}</p>
         </div>
         <Providers v-if="data.properties.providers" :providers="data.properties.providers" />
