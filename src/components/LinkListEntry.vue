@@ -1,6 +1,23 @@
 <template>
-  <li class="link">
-    <StacLink :id="popoverId" :data="link" :fallbackTitle="fallbackTitle" class="pe-1" />
+  <li v-if="link && typeof link.href === 'string' && link.href.trim()" class="link">
+    <a
+      v-if="isMailto"
+      class="stac-link pe-1"
+      :id="popoverId"
+      :href="link.href"
+      tabindex="0"
+    >
+      <span class="title">{{ link.title || fallbackTitle() }}</span>
+    </a>
+
+    <StacLink
+      v-else
+      :id="popoverId"
+      :data="link"
+      :fallbackTitle="fallbackTitle"
+      class="pe-1"
+    />
+
     <b-popover
       :target="popoverId" placement="auto" teleport-to="#stac-browser" class="link-more"
       focus hover :boundary-padding="20"
@@ -53,6 +70,9 @@ export default {
   computed: {
     popoverId() {
       return "popover-link-" + linkId;
+    },
+    isMailto() {
+      return typeof this.link?.href === 'string' && this.link.href.startsWith('mailto:');
     }
   },
   beforeCreate() {
