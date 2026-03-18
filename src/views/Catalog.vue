@@ -20,10 +20,6 @@
           <Keywords v-if="Array.isArray(data.keywords) && data.keywords.length > 0" :keywords="data.keywords" class="mb-3" />
           <CollectionLink v-if="collectionLink" :link="collectionLink" />
           <section v-if="isCollection" class="metadata mb-4">
-            <b-row v-if="licenses">
-              <b-col md="4" class="label">{{ $t('catalog.license') }}</b-col>
-              <b-col md="8" class="value"><span v-html="licenses" /></b-col>
-            </b-row>
             <b-row v-if="temporalExtents">
               <b-col md="4" class="label">{{ $t('catalog.temporalExtent') }}</b-col>
               <b-col md="8" class="value"><span v-html="temporalExtents" /></b-col>
