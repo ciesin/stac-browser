@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "ciesin-stac",
   "stac_version": "1.1.0",
-  "description": "CIESIN STAC is the authoritative SpatioTemporal Asset Catalog for datasets produced and curated by the Center for International Earth Science Information Network (CIESIN) and affiliated programs, including GRID3.",
+  "description": "CIESIN STAC is the authoritative SpatioTemporal Asset Catalog for datasets produced and curated by the Center for Integrated Earth System Information (CIESIN) and affiliated programs, including GRID3.",
   "links": [
     {
       "rel": "root",

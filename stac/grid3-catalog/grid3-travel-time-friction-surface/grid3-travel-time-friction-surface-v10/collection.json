@@ -61,7 +61,7 @@
   ],
   "providers": [
     {
-      "name": "Center for International Earth Science Information Network (CIESIN)",
+      "name": "Center for Integrated Earth System Information (CIESIN)",
       "roles": [
         "producer",
         "processor",

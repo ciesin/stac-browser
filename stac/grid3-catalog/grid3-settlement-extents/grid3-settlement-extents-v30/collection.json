@@ -177,11 +177,6 @@
     },
     {
       "rel": "item",
-      "href": "./grid3-nga-settlement-extents-v31/grid3-nga-settlement-extents-v31.json",
-      "type": "application/geo+json"
-    },
-    {
-      "rel": "item",
       "href": "./grid3-reu-settlement-extents-v30/grid3-reu-settlement-extents-v30.json",
       "type": "application/geo+json"
     },
@@ -309,7 +304,7 @@
   ],
   "providers": [
     {
-      "name": "Center for International Earth Science Information Network (CIESIN)",
+      "name": "Center for Integrated Earth System Information (CIESIN)",
       "roles": [
         "producer",
         "processor",
