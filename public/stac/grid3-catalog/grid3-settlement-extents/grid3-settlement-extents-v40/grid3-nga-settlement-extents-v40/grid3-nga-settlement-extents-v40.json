@@ -1,0 +1,140 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [
+    "https://stac-extensions.github.io/projection/v2.0.0/schema.json"
+  ],
+  "id": "grid3-nga-settlement-extents-v40",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          2.682409,
+          4.27491
+        ],
+        [
+          14.675924,
+          4.27491
+        ],
+        [
+          14.675924,
+          13.885091
+        ],
+        [
+          2.682409,
+          13.885091
+        ],
+        [
+          2.682409,
+          4.27491
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    2.682409,
+    4.27491,
+    14.675924,
+    13.885091
+  ],
+  "properties": {
+    "title": "GRID3 NGA - Settlement Extents v4.0",
+    "description": "This version supersedes GRID3 NGA - Settlement Extents v3.1. \u00a0The following changes were made:\n\n- \u00a0 \u00a0Creation of blocks in urban and semi-urban areas; and\n- \u00a0 \u00a0Removal of falsely detected settlements identified during fieldwork\n\nFor more information on the methodology and data sources used during the production of these data, click here.\u00a0\u00a0\n\nDataset citation\n\nCenter for Integrated Earth System Information (CIESIN), Columbia University. 2026. GRID3 NGA - Settlement Extents v4.0. New York: GRID3. https://doi.org/10.7916/fr96-f546. Accessed [DAY MONTH YEAR].\n\nContacts and data queries\n\nThe authors of this dataset appreciate feedback regarding the data, including suggestions, discovery of errors, difficulties in using the data, and format preferences. For dataset-related questions, please send an email to: info@ciesin.columbia.edu",
+    "purpose": "The GRID3 NGA - Settlement Extents v4.0 dataset consists of a geographic representation of settlements in Nigeria. Settlement extents are further delineated into settlement blocks nested within urban and small settlement areas, generated from integrated road, railway, river, settlement extent, building footprint, and remote-sensing inputs. Each block is enriched with morphological, environmental and building metrics.",
+    "keywords": [
+      "NGA",
+      "Nigeria",
+      "Settlement Extents",
+      "Settlements",
+      "settlements"
+    ],
+    "datetime": "2026-03-09T10:14:37Z",
+    "created": "2026-03-09T10:14:37Z",
+    "iso:topic_categories": [
+      "017",
+      "016"
+    ],
+    "language": "eng",
+    "esri:scale_min": 11262750.951471,
+    "esri:scale_max": 5404.724534,
+    "esri:arcgis_format": "1.0",
+    "esri:metadata_profile": "ISO19139",
+    "esri:distribution_format": "OGC Geopackage",
+    "proj:code": "EPSG:4326"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../../../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "collection",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "GRID3 Settlement Extents v4.0"
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "GRID3 Settlement Extents v4.0"
+    }
+  ],
+  "assets": {
+    "GRID3 NGA - Settlement Extents v4.0 DOI Data Download": {
+      "href": "https://doi.org/10.7916/fr96-f546",
+      "type": "text/html",
+      "title": "Download GRID3 NGA - Settlement Extents v4.0 dataset via DOI landing page",
+      "roles": [
+        "documentation",
+        "data"
+      ]
+    },
+    "GRID3 NGA - Settlement Extents v4.0 - Data Release Notes .pdf": {
+      "href": "https://academiccommons.columbia.edu/doi/10.7916/j4r6-2n09/download",
+      "type": "application/pdf",
+      "title": "GRID3 NGA - Settlement Extents v4.0 - Data Release Notes .pdf",
+      "roles": [
+        "documentation"
+      ]
+    },
+    "GRID3_NGA_settlement_extents_v4_0.gpkg": {
+      "href": "https://academiccommons.columbia.edu/doi/10.7916/422v-x117/download",
+      "type": "application/geopackage+sqlite3",
+      "title": "GRID3_NGA_settlement_extents_v4_0.gpkg",
+      "roles": [
+        "data"
+      ]
+    },
+    "GRID3 NGA - Settlement Extents v4.0.xml": {
+      "href": "https://academiccommons.columbia.edu/doi/10.7916/akph-gd70/download",
+      "type": "application/xml",
+      "title": "GRID3 NGA - Settlement Extents v4.0.xml",
+      "roles": [
+        "metadata"
+      ]
+    },
+    "GRID3 NGA - Settlement Extents v4.0 - ArcGIS Online Feature Service": {
+      "href": "https://services3.arcgis.com/BU6Aadhn6tbBEdyk/arcgis/rest/services/GRID3_NGA_settlement_extents_v4_0/FeatureServer",
+      "type": "application/octet-stream",
+      "title": "GRID3 NGA - Settlement Extents v4.0 - ArcGIS Online Feature Service",
+      "roles": [
+        "data"
+      ]
+    }
+  },
+  "collection": "grid3-settlement-extents-v40",
+  "license": "CC BY-SA 4.0",
+  "providers": [
+    {
+      "name": "Center for Integrated Earth System Information (CIESIN)",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:info@ciesin.columbia.edu"
+    }
+  ]
+}

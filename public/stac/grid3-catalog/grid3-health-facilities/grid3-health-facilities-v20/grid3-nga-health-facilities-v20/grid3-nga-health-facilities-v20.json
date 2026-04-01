@@ -57,8 +57,8 @@
       "017"
     ],
     "language": "eng",
-    "esri:scale_min": 150000000,
-    "esri:scale_max": 5000,
+    "esri:scale_min": 150000000.0,
+    "esri:scale_max": 5000.0,
     "esri:arcgis_format": "1.0",
     "esri:metadata_profile": "ISO19139",
     "proj:code": "EPSG:4326"

@@ -29,7 +29,7 @@
       "rel": "child",
       "href": "./ciesin-catalog/catalog.json",
       "type": "application/json",
-      "title": "CIESIN Catalog"
+      "title": "SEDAC Catalog"
     },
     {
       "rel": "child",

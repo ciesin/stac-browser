@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "ciesin-catalog",
   "stac_version": "1.1.0",
-  "description": "Datasets produced and curated by CIESIN",
+  "description": "Datasets produced and curated by CIESIN for the NASA Socioeconomic Data and Applications Center (SEDAC).",
   "links": [
     {
       "rel": "root",
@@ -27,5 +27,5 @@
       "title": "CIESIN STAC"
     }
   ],
-  "title": "CIESIN Catalog"
+  "title": "SEDAC Catalog"
 }
