@@ -118,7 +118,7 @@
       ]
     },
     "GRID3 NGA - Settlement Extents v4.0 - ArcGIS Online Feature Service": {
-      "href": "https://services3.arcgis.com/BU6Aadhn6tbBEdyk/arcgis/rest/services/GRID3_NGA_settlement_extents_v4_0/FeatureServer",
+      "href": "https://services3.arcgis.com/BU6Aadhn6tbBEdyk/ArcGIS/rest/services/GRID3_NGA_settlement_extents_v4_0/FeatureServer/0",
       "type": "application/octet-stream",
       "title": "GRID3 NGA - Settlement Extents v4.0 - ArcGIS Online Feature Service",
       "roles": [
