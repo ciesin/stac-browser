@@ -41,7 +41,6 @@
     "description": "The 1990 SAS Transport Files portion of the Archive of Census Related Products (ACRP) contains housing and population data from the U.S. Census Bureau's 1990 Summary tape File (STF3A) database. The data are available by state and county, county subdivision/mcd, blockgroup, and places, as well as Indian reservations, tribal districts and congressional districts. This portion of the ACRP is produced by the Columbia University Center for International Earth Science Information Network (CIESIN).",
     "doi": "https://doi.org/10.7927/H4BG2KWB",
     "stac_category": "population",
-    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\acrp-sas-transport-1990.xml",
     "keywords": [
       "Population",
       "Economy",

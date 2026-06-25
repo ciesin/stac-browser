@@ -41,7 +41,6 @@
     "description": "The Rio to Johannesburg Dashboard of Sustainable Development Indicators portion of the Compendium of Environmental Sustainability Indicator Collections contains 35 Commission on Sustainable Development (CSD) indicators for 202 countries. Commonly known as the RioJo Dashboard, indicators are from the CSD Thematic Framework from the Rio Summit (1992 UN conference on the Environment and Development) to the time of the Johannesburg Summit in 2000. The data are distributed by the Columbia University Center for International Earth Science Information Network (CIESIN).",
     "doi": "https://doi.org/10.7927/H42N506Q",
     "stac_category": "sustainability",
-    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\cesic-rio-to-johannesburg-development-indicators.xml",
     "keywords": [
       "Sustainability",
       "Country",

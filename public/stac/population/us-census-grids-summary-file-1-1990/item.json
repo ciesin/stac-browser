@@ -41,7 +41,6 @@
     "description": "The U.S. Census Grids (Summary File 1), 1990 data set contains grids of demographic and socioeconomic data from the year 1990 U.S. census in ASCII and geotiff formats. The grids have a resolution of 30 arc-seconds (0.0083 decimal degrees), or approximately 1 square km. The gridded variables are based on census block geography from Census 1990 TIGER/Line Files and census variables (population, households, and housing variables). This data set is produced by the Columbia University Center for International Earth Science Information Network (CIESIN).",
     "doi": "https://doi.org/10.7927/H4TB14TN",
     "stac_category": "population",
-    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\usgrid-summary-file1-1990.xml",
     "keywords": [
       "Population",
       "Country",

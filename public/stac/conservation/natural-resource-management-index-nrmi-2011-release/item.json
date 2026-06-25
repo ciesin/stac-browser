@@ -41,7 +41,6 @@
     "description": "The Natural Resource Management Index (NRMI), 2011 Release is a composite index for 174 countries derived from the average of four proximity-to-target indicators for eco-region protection (weighted average percentage of biomes under protected status), access to improved sanitation, access to improved water and child mortality. The 2011 release of the NRMI includes a consistent time series of NRMIs for 2006 to 2011. In addition, the 2011 release includes two new indicators that will eventually supplant the NRMI: a Natural Resource Protection Indicator (NRPI) that is solely composed of the eco-region protection indicator, and a Child Health Indicator (CHI), which is an unweighted average of the proximtiy-to-target scores for access to water, access to sanitation, and child mortality. The data set is produced and distributed by the Columbia University Center for International Earth Science Information Network (CIESIN) in collaboration with the Yale Center for Environmental Law and Policy (YCELP), Yale University.",
     "doi": "https://doi.org/10.7927/H45Q4T1N",
     "stac_category": "conservation",
-    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\nrmi-natural-resource-management-index-2011.xml",
     "keywords": [
       "Conservation",
       "Sustainability",

@@ -41,7 +41,6 @@
     "description": "The Millennium Ecosystem Assessment: MA Population provides data and information on baseline population as one of the drivers of ecosystem change. The data was used in estimating the magnitude of regional pressures on ecosystems. The MA Population data sets include Gridded Population of the World (GPW) Version 3, population grids from the Alpha version of the Global Rural-Urban Mapping Project (GRUMP), Global Subnational Infant Mortality Rates (Alpha version), and Global Subnational Prevalence of Child Malnutrition (Alpha version).",
     "doi": "https://doi.org/10.7927/H4CF9N1K",
     "stac_category": "population",
-    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\ma-population.xml",
     "keywords": [
       "Population",
       "Health",

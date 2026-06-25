@@ -41,7 +41,6 @@
     "description": "The HANPP Collection: Global Patterns in Net Primary Productivity (NPP) maps the net amount of solar energy converted to plant organic matter through photosynthesis. NPP is measured in units of elemental carbon and represents the primary food energy source for the world's ecosystems.",
     "doi": "https://doi.org/10.7927/H40Z715X",
     "stac_category": "agriculture",
-    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\hanpp-net-primary-productivity.xml",
     "keywords": [
       "Environment",
       "Society",

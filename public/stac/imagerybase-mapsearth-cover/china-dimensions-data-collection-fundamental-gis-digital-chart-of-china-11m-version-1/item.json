@@ -41,7 +41,6 @@
     "description": "The Fundamental GIS: Digital Chart of China, 1:1M, Version 1 consists of vector maps of China and surrounding areas. The maps include roads, railroads, drainage systems, contours, populated places, and urbanized areas for China proper, as well as for China and neighboring countries. The maps are at a scale of one to one million (1:1M).\n\nThis data set is produced in collaboration with the University of Washington as part of the China in Time and Space (CITAS) project and the Columbia University Center for International Earth Science Information Network (CIESIN).",
     "doi": "https://doi.org/10.7927/H4QC01D2",
     "stac_category": "imagerybase-mapsearth-cover",
-    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\cddc-china-dcw-gis.xml",
     "keywords": [
       "Country",
       "Province",

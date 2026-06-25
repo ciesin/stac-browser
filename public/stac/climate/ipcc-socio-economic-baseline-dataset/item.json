@@ -41,7 +41,6 @@
     "description": "The Intergovernmental Panel on Climate Change (IPCC) Socio-Economic Baseline Dataset consists of population, human development, economic, water resources, land cover, land use, agriculture, food, energy and biodiversity data . This dataset was collated by IPCC from a variety of sources such as The World Bank, United Nations Environment Programme (UNEP), and Food and Agriculture Organization of the United Nations (FAO), and is distributed by the Columbia University Center for International Earth Science Information Network (CIESIN).",
     "doi": "https://doi.org/10.7927/H4WM1BB7",
     "stac_category": "climate",
-    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\ipcc-socio-economic-baseline.xml",
     "keywords": [
       "Global",
       "Continent",

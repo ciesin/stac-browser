@@ -41,7 +41,6 @@
     "description": "The Anthropogenic Biomes of the World, Version 2: 2000 data set describes anthropogenic transformations within the terrestrial biosphere caused by sustained direct human interaction with ecosystems, including agriculture and urbanization circa 2000. Potential natural vegetation biomes, such as tropical rainforests or grasslands, are based on global vegetation patterns related to climate and geology. Anthropogenic transformation within each biome is approximated using population density, agricultural intensity (cropland and pasture) and urbanization. This data set is part of a time series for the years 1700, 1800, 1900, and 2000 that provides global patterns of historical transformation of the terrestrial biosphere during the Industrial Revolution.",
     "doi": "https://doi.org/10.7927/H4D798B9",
     "stac_category": "conservation",
-    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\anthromes-anthropogenic-biomes-world-v2-2000.xml",
     "keywords": [
       "Conservation",
       "Land Use",

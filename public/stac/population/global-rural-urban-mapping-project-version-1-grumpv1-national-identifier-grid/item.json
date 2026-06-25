@@ -41,7 +41,6 @@
     "description": "The Global Rural-Urban Mapping Project, Version 1 (GRUMPv1): National Identifier Grid is derived from the land area grid to create a raster surface where pixels (cells) that cover the same nation or territory have the same value. The countries and territories are not official representations of country boundaries; rather they represent the area covered by the statistical data as provided. This data set is produced by the Columbia University Center for International Earth Science Information Network (CIESIN) in collaboration with the International Food Policy Research Institute (IFPRI), The World Bank, and Centro Internacional de Agricultura Tropical (CIAT).",
     "doi": "https://doi.org/10.7927/H40K26HS",
     "stac_category": "population",
-    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\grump-v1-national-identifier-grid.xml",
     "keywords": [
       "Population",
       "Sustainability",

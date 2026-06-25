@@ -41,7 +41,6 @@
     "description": "The Global 15x15 Minute Grids of the Downscaled Population Based on the Special Report on Emissions Scenarios (SRES) B2 Scenario, 1990 and 2025, are geospatial distributions of the downscaled population per unit area (population densities). These global grids were generated using the Country-level Population and Downscaled Projections Based on the SRES B2 Scenario, 1990-2100 data set, and CIESIN's Gridded Population of World, Version 2 (GPWv2) data set as the base map. The 1990 GPW was used as the base distribution and the country-level downscaled projections were used to replace population estimates of 1990 in GPW and 2025. The fractional distribution of the population at each grid cell is the same as the 1990 GPW, sub-nationally. This data set is produced  and distributed by the Columbia University Center for International Earth Science Information Network (CIESIN).",
     "doi": "https://doi.org/10.7927/H4HQ3WTH",
     "stac_category": "climate",
-    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\sdp-downscaled-population-grid-b2-1990-2025.xml",
     "keywords": [
       "Global",
       "Continent",

@@ -41,7 +41,6 @@
     "description": "The Intergovernmental Panel on Climate Change (IPCC) Special Report on Emissions Scenarios (SRES) 1x1 Degree Gridded Emissions Dataset consists of global gridded emissions for greenhouse gases (GHGs) projected every 10 years beginning in 1990 through 2100. The grids are produced for reactive gases Methane (CH4), Carbon Monoxide (CO), Nitrogen Oxides (NOx), and Non-Methane Volatile Organic Compounds (NMVOC), along with Sulfur Dioxide (SO2), based on the IPCC SRES Emissions Scenarios Data Set Version 1.1. This data set is produced by the IPCC and is distributed by the Columbia University Center for International Earth Science Information Network (CIESIN).",
     "doi": "https://doi.org/10.7927/H4RV0KMH",
     "stac_category": "climate",
-    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\ipcc-gridded-emissions.xml",
     "keywords": [
       "Global",
       "Continent",

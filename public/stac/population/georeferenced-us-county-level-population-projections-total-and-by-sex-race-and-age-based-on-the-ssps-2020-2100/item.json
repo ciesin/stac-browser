@@ -41,7 +41,6 @@
     "description": "The Georeferenced U.S. County-Level Population Projections, Total and by Sex, Race and Age, Based on the SSPs, 2020-2100 consists of county-level population projection scenarios of total population, and by age, sex, and race in five-year intervals for all U.S. counties for the period 2020 - 2100. These data have numerous potential uses and can serve as inputs for addressing questions involving sub-national demographic change in the United States in the near, middle- and long-term.",
     "doi": "https://doi.org/10.7927/dv72-s254",
     "stac_category": "population",
-    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\popdynamics-us-county-level-pop-projections-sex-race-age-ssp-2020-2100.xml",
     "keywords": [
       "EARTH SCIENCE > HUMAN DIMENSIONS > POPULATION",
       "Population",

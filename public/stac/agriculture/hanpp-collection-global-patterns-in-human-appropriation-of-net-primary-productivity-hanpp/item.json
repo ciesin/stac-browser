@@ -41,7 +41,6 @@
     "description": "The HANPP Collection: Global Patterns in Human Appropriation of Net Primary Productivity (HANPP) represents a digital map of human appropriation of net primary productivity measured in units of elemental carbon on a one-quarter degree global grid. Net primary productivity (NPP), the net amount of solar energy converted to plant organic matter through photosynthesis, can be measured in units of elemental carbon and represents the primary food energy source for the world's ecosystems. Humans appropriate net primary productivity through the consumption of food, paper, wood and fiber, which alters the composition of the atmosphere, levels of biodiversity, energy flows within food webs and the provision of important ecosystem services.  The data set is distributed by the Columbia University Center for International Earth Science Information Network (CIESIN).",
     "doi": "https://doi.org/10.7927/H44Q7RWV",
     "stac_category": "agriculture",
-    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\hanpp-human-appropriation-net-primary-productivity.xml",
     "keywords": [
       "Global",
       "Environment",

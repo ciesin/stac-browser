@@ -41,7 +41,6 @@
     "description": "The Global Gridded Relative Deprivation Index (GRDI), Version 1 (GRDIv1) data set characterizes the relative levels of multidimensional deprivation and poverty in each 30 arc-second (~1 km) pixel, where a value of 100 represents the highest level of deprivation and a value of 0 the lowest. GRDIv1 is built from sociodemographic and satellite data inputs that were spatially harmonized, indexed, and weighted into six main components to produce the final index raster. Inputs were selected from the best-available data that either continuously vary across space or have at least administrative level 1 (provincial/state) resolution, and which have global spatial coverage.",
     "doi": "https://doi.org/10.7927/3xxe-ap97",
     "stac_category": "poverty",
-    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\povmap-grdi-v1.xml",
     "keywords": [
       "Poverty",
       "Climate",

@@ -41,7 +41,6 @@
     "description": "The Global Fire Emissions Indicators, Country-Level Tabular Data: 1997-2015 contains country tabulations from 1997 to 2015 for the total area burned (hectares) and total carbon content (tons). The annual total area burned is for all fire types per country. There are two groups of total carbon content (TCC), annual totals for all six fire types per country and annual totals for each of six fire types per country which include Agricultural, Boreal, Tropical Deforestation, Peat, Savanna, and Temperate forest fires.",
     "doi": "https://doi.org/10.7927/H4V69GJ5",
     "stac_category": "hazards",
-    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\sdei-global-fire-emissions-indicators-country-level-1997-2015.xml",
     "keywords": [
       "EARTH SCIENCE > ATMOSPHERE > AIR QUALITY > EMISSIONS",
       "Hazards",

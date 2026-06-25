@@ -41,7 +41,6 @@
     "description": "The CODATA Catalog of Roads Data Sets, Version 1 contains 367 entries describing national-level road network data sets for 147 countries and four entries describing global data sets. It was produced by the Columbia University Center for International Earth Science Information Network (CIESIN) under the oversight of the CODATA Global Roads Data Development Working Group, and as a contribution to the development of the Global Roads Open Access Data Set (gROADS).",
     "doi": "https://doi.org/10.7927/H4X63JTX",
     "stac_category": "conservation",
-    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\groads-codata-roads-catalog-v1.xml",
     "keywords": [
       "Conservation",
       "Infrastructure",

@@ -41,7 +41,6 @@
     "description": "The U.S. Census Grids (Summary File 1), 2010 data set contains grids of demographic and socioeconomic data from the year 2010 in ASCII and GeoTIFF formats. The grids have a resolution of 30 arc-seconds (0.0083 decimal degrees), or approximately 1 square km. The gridded variables are based on census block geography from Census 2010 TIGER/Line Files and census variables (population, households, and housing variables).",
     "doi": "https://doi.org/10.7927/H40Z716C",
     "stac_category": "population",
-    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\usgrid-summary-file1-2010.xml",
     "keywords": [
       "Country",
       "State",

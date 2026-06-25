@@ -41,7 +41,6 @@
     "description": "The Intergovernmental Panel on Climate Change (IPCC) Special Report Emissions Scenarios (SRES) Fluor-Gases Emissions Dataset consists of global and regional emissions of Hydrofluorocarbons (HFCs), Perfluorocarbons (PFCs), Sulfur Hexafluoride (SF6), Cholorfluorocarbons (CFCs) and Hydrochlorofluorocarbons (HCFCs) projected every 10 years beginning in 1990 through 2100. This data set is produced by the IPCC and is distributed by the Columbia University Center for International Earth Science Information Network (CIESIN).",
     "doi": "https://doi.org/10.7927/H4HD7SKJ",
     "stac_category": "climate",
-    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\ipcc-fluor-gases-emissions.xml",
     "keywords": [
       "Global",
       "Continent",

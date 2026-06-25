@@ -41,7 +41,6 @@
     "description": "The SDG Indicator 11.7.1: Urban Public Space, Availability and Access, 2023 Release, part of the SDGI collection, measures the average share of the built-up area of a city that is open space for public use for all. UN SDG 11 is \"make cities and human settlements inclusive, safe, resilient and sustainable\". Aside from environmental benefits, public space can also help improve public health, bolster community, and encourage economic exchange. As one measure of progress towards SDG 11, the UN has established SDG indicator 11.7.1. The indicator was computed by measuring both the proportion of OpenStreetMap (OSM) public space within a given urban center and the proportion of WorldPop gridded population within 400 meters to Open Public Space (OPS). Cities were delineated using the European Commission Joint Research Centre (JRC) Urban Center Database (GHS-UCDB). The SDG indicator 11.7.1 data set provides estimates of the average share of the built-up area of cities that is open space for public use for all for 8,873 urban centers across 180 countries.",
     "doi": "https://doi.org/10.7927/eavc-4k45",
     "stac_category": "sustainability",
-    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\sdgi-11-7-1-urban-public-space-availability-access-2023.xml",
     "keywords": [
       "EARTH SCIENCE > HUMAN DIMENSIONS > INFRASTRUCTURE > GREEN INFRASTRUCTURE",
       "Sustainability",

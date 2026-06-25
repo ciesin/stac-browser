@@ -41,7 +41,6 @@
     "description": "The HANPP Collection: Human Appropriation of Net Primary Productivity (HANPP) by Country and Product contains tabular data on carbon-equivalents of consumption by country and by type of product. The data were compiled from national-level FAO statistics on consumption of products such as vegetables, meat, paper, and wood.   HANPP represents the amount of carbon required to derive food and fibre products consumed by humans  including organic matter that is lost during harvesting and processing. Net primary productivity (NPP), the net amount of solar energy converted to plant organic matter through photosynthesis, can be measured in units of elemental carbon and represents the primary food energy source for the world's ecosystems. These tabular data were used to allocate country level NPP consumption to a spatial surface of NPP consumption (Global Patterns in Human Appropriation of Net Primary Productivity), which is part of this collection.",
     "doi": "https://doi.org/10.7927/H48G8HMK",
     "stac_category": "agriculture",
-    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\hanpp-by-country-and-product.xml",
     "keywords": [
       "Global",
       "Country",

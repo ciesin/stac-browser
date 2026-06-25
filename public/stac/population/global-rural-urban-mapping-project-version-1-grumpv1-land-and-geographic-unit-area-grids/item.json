@@ -41,7 +41,6 @@
     "description": "The Global Rural-Urban Mapping Project, Version 1 (GRUMPv1): Land and Geographic Unit Area Grids measure land areas in square kilometers and the mean unit size (population-weighted) in square kilometers. The land area grid permits the summation of areas (net of permanent ice and water) at the same resolution as the population density, count, and urban-rural grids. The mean unit size grids provide a quantitative surface that indicates the size of the input unit(s) from which population count and density grids are derived. Additional global grids are created from the 30 arc-second grid at 1/4, 1/2, and 1 degree resolutions. This data set is produced by the Columbia University Center for International Earth Science Information Network (CIESIN) in collaboration with the International Food Policy Research Institute (IFPRI), The World Bank, and Centro Internacional de Agricultura Tropical (CIAT).",
     "doi": "https://doi.org/10.7927/H48050JH",
     "stac_category": "population",
-    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\grump-v1-land-geographic-unit-area.xml",
     "keywords": [
       "Population",
       "Sustainability",

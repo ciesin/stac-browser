@@ -41,7 +41,6 @@
     "description": "The Gridded Population of the World, Version 3 (GPWv3): Centroids consists of estimates of human population counts and densities for the years 1990, 1995, 2000, 2005, 2010, and 2015 by administrative unit centroid location. The centroids are based on the 399,781 input administrative units used in GPWv3. In addition to population counts and variables, the centroids have associated administrative unit names and the land area of contained within the administrative unit. GPWv3 is produced by the Columbia University Center for International Earth Science Information Network (CIESIN) in collaboration with Centro Internacional de Agricultura Tropical (CIAT).",
     "doi": "https://doi.org/10.7927/H4TT4NWQ",
     "stac_category": "boundaries",
-    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\gpw-v3-centroids.xml",
     "keywords": [
       "Framework Data",
       "Country",

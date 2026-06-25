@@ -41,7 +41,6 @@
     "description": "The U.S. Climate Risk Projections by County, 2040-2049 data set contains a projection for 2040-2049 risk for the entire contiguous U.S. at the county level with a novel climate risk index integrating multiple hazards, exposures and vulnerabilities. Multiple hazards such as weather and climate are characterized as a frequency of heat wave, cold spells, drought, and heavy precipitation events along with anomalies of temperature and precipitation using high resolution (4 km) downscaled climate projections. Exposure is characterized by projections of population, infrastructure, and built surfaces prone to multiple hazards including sea level rise and storm surges. Vulnerability is characterized by projections of demographic groups most sensitive to climate hazards. This approach can guide planners in targeting counties at most risk and where adaptation strategies to reduce exposure or protect vulnerable populations might be best applied.",
     "doi": "https://doi.org/10.7927/abr8-v666",
     "stac_category": "climate",
-    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\crv-us-climate-risk-proj-county-2040-2049.xml",
     "keywords": [
       "Climatology/Meteorology/Atmosphere",
       "County",

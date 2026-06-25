@@ -41,7 +41,6 @@
     "description": "The Anthropogenic Biomes 12K Geographic Projection, 10,000 BCE - 2017 CE, data set represents 12,000 years of gridded anthropogenic biomes at 75 time points between 10,000 BCE and 2017 CE. Anthropogenic Biomes, or \"Anthromes\" categorize how the Earth's landscape has been altered by human activity. This data set is derived from the \"Anthromes 12K Digital Global Grid (DGG) system version 1 shapefile\" created by Ellis Erle and Nick Gauthier, and has been transformed into geographic grids to provide a more accessible format for broader analysis.",
     "doi": "https://doi.org/10.7927/np7r-df69",
     "stac_category": "conservation",
-    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\anthromes-anthromes-12k-geographic-projection.xml",
     "keywords": [
       "Global",
       "Biota",

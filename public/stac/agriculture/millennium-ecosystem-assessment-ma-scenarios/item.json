@@ -41,7 +41,6 @@
     "description": "The Millennium Ecosystem Assessment: MA Scenarios provides data and information on population, income, cereal production and consumption, meat production and consumption, land cover, water stress, water availability, acidification and nitrogen deposition. These scenarios provide useful insight into the complex factors that drive ecosystem change, estimating the magnitude of regional pressures on ecosystems and critical uncertainties that could undermine sustainable development. They also provide an understanding of the importance of institutions and values as the long-range outlook for the world's ecosystems depends on the course taken by global and regional development in the coming decades. The integration of changing ecosystem conditions into the global scenarios was taken as both effects and causes.",
     "doi": "https://doi.org/10.7927/H47P8WB9",
     "stac_category": "agriculture",
-    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\ma-scenarios.xml",
     "keywords": [
       "Agriculture",
       "Land Use",

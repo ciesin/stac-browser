@@ -41,7 +41,6 @@
     "description": "The India Village-Level Geospatial Socio-Economic Data Set: 1991, 2001 is a compilation of the finest level of administrative boundaries in India (village/town-level) and over 200 socio-economic variables collected during the Indian Census in 1991 and 2001. This data set was developed by digitizing village/town level boundaries from the official analog maps published by the Survey of India for 2001. This data set also utilized tabular data for 1991 and 2001 from the Primary Census Abstract (PCA) and Village Directory (VD) data series of the Indian census. The data are in UTM 44N projection and are distributed primarily as shapefiles. Separate files are provided for each of the 28 states (number of states during 1991 and 2001 census) and combined Union Territories for 1991 and 2001.",
     "doi": "https://doi.org/10.7927/H4CN71ZJ",
     "stac_category": "population",
-    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\india-india-village-level-geospatial-socio-econ-1991-2001.xml",
     "keywords": [
       "EARTH SCIENCE > HUMAN DIMENSIONS > SOCIOECONOMICS",
       "Population",

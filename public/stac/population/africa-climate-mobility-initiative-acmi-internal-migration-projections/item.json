@@ -41,7 +41,6 @@
     "description": "The Africa Climate Mobility Initiative (ACMI) Internal Migration Projections project internal migration flows at 5-year intervals from 2020 to 2050 for a combination of 2 sets of Shared Socioeconomic Pathways (SSPs) scenarios and 3 sets of Representative Concentration Pathways (RCPs) scenarios. The unit of analysis is 7.5 arc-minutes, covering the entire African continent (approximately 15 km at the equator). These grid cells are drawn using a vector representation, and not a tessellation of grid cells (rasters). While the calibration and projection took place at a grid cell resolution of 2.5 arc-minutes, these data have been aggregated to a 7.5 arc-minute resolution. These data underpin the African Shifts Report, produced by the ACMI and enabled by the Global Centre for Climate Mobility (GCCM). The ACMI was launched in September 2021 as a joint initiative of the GCCM, the African Union Commission (AUC), the United Nations System (UN), and the World Bank.",
     "doi": "https://doi.org/10.7927/5tv3-ff20",
     "stac_category": "population",
-    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\climmig-acmi-internal-migration-projections.xml",
     "keywords": [
       "Continent",
       "Country",

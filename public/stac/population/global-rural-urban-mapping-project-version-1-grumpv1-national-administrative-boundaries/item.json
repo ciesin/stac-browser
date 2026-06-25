@@ -41,7 +41,6 @@
     "description": "The Global Rural-Urban Mapping Project, Version 1 (GRUMPv1): National Administrative Boundaries are derived from the land area grid to show the outlines of pixels (cells) that contain administrative units in GRUMPv1 on a per-country/territory basis. They are derived from the pixels as polygons and thus have rectilinear boundaries at a large scale. The polygons that outline the countries and territories are not official representations; rather they represent the area covered by the statistical data as provided. This data set is produced by the Columbia University Center for International Earth Science Information Network (CIESIN) in collaboration with the International Food Policy Research Institute (IFPRI), The World Bank, and Centro Internacional de Agricultura Tropical (CIAT).",
     "doi": "https://doi.org/10.7927/H44B2Z74",
     "stac_category": "population",
-    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\grump-v1-national-admin-boundaries.xml",
     "keywords": [
       "Population",
       "Sustainability",

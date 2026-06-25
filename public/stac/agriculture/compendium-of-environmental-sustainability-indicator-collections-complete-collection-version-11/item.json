@@ -41,7 +41,6 @@
     "description": "The Compendium of Environmental Sustainability Indicator Collections, Version 1.1 contains 426 indicators for 239 countries from five major environmental sustainability indicator efforts: the 2006 Environmental Performance Index (EPI), 2005 Environmental Sustainability Index (ESI), 2004 Environmental Vulnerability Index (EVI), the Rio to Johannesburg Dashboard, the Wellbeing of Nations, and 2006 National Footprint Accounts. It also incorporates 38 ancillary variables such as region name, dummy variables for landlocked countries and small island states, population, GDP, and land area. The collection is compiled and distributed by the Columbia University Center for International Earth Science Information Network (CIESIN).",
     "doi": "https://doi.org/10.7927/H46D5QXN",
     "stac_category": "agriculture",
-    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\cesic-complete-collection-v1-1.xml",
     "keywords": [
       "Agriculture",
       "Climate",

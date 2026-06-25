@@ -41,7 +41,6 @@
     "description": "The 2002 Environmental Sustainability Index (ESI) measures overall progress toward environmental sustainability for 142 countries based on  environmental systems, stresses, human vulnerability, social and institutional capacity and global stewardship. The addition of a climate change indicator, reduction in number of capacity indicators, and  an improved imputation methodology contributed to an improvement from the 2001 ESI. The index was unveiled at the World Economic Forum's annual meeting, January 2002, New York. The 2002 ESI is the result of collaboration among the World Economic Forum (WEF), Yale Center for Environmental Law and Policy (YCELP), and the Columbia University Center for International Earth Science Information Network (CIESIN).",
     "doi": "https://doi.org/10.7927/H4SB43P8",
     "stac_category": "climate",
-    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\esi-environmental-sustainability-index-2002.xml",
     "keywords": [
       "Country",
       "Economy",

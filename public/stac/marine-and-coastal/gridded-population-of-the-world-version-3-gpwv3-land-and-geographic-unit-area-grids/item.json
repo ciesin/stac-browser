@@ -41,7 +41,6 @@
     "description": "The Gridded Population of the World, Version 3 (GPWv3): Land and Geographic Unit Area Grids measure land areas in square kilometers and the mean unit size (population-weighted) in square kilometers. The land area grid permits the summation of areas (net of permanent ice and water) at the same resolution as the population density, count, and urban-rural grids. The mean unit size grids provides a quantitative surface that indicates the size of the input unit(s) from which population count and density grids are derived..GPWv3 is produced by the Columbia University Center for International Earth Science Information Network (CIESIN) in collaboration with Centro Internacional de Agricultura Tropical (CIAT).",
     "doi": "https://doi.org/10.7927/H4K935FC",
     "stac_category": "marine-and-coastal",
-    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\gpw-v3-land-geographic-unit-area.xml",
     "keywords": [
       "Framework Data",
       "Marine and  Coastal",

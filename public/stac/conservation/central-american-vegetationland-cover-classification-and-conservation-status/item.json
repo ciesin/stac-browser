@@ -41,7 +41,6 @@
     "description": "The Central American Vegetation/Land Cover Classification and Conservation Status consists of GIS coverages of vegetation classes (forests, woodlands, savannas, shrubs, grasslands, wetlands, rocks, sand, soils, inland waters, parks and reserves) for Central America, derived from 1-kilometer resolution Advanced Very High Resolution Radiometer (AVHRR) imagery. This data set is produced by Proyecto Ambiental Regional de Centroamerica/Central America Protected Areas Systems (PROARCA/CAPAS), a conservation partnership of the Central American Commission on Environment and Development (CCAD), U.S. Agency for International Development (USAID), International Resources Group, Ltd. (IRG), The Nature Conservancy (TNC), Winrock International (WI), and is distributed by the Columbia University Center for International Earth Science Information Network (CIESIN).",
     "doi": "https://doi.org/10.7927/H4W37T87",
     "stac_category": "conservation",
-    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\lulc-central-american-vegetation-cover-classification.xml",
     "keywords": [
       "Country",
       "Biota",

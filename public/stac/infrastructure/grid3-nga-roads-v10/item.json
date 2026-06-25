@@ -38,10 +38,9 @@
   ],
   "properties": {
     "title": "GRID3 NGA - Roads v1.0",
-    "description": "<div style='text-align:Left;'><div><div><p>For more information on the methodology and data sources used during the production of this data, click <a target='_blank' href='https://academiccommons.columbia.edu/doi/10.7916/t9xr-sz30/download' rel='nofollow ugc noopener noreferrer'>here</a>.</p><p><strong>Dataset citation:</strong></p><p><span>Center for Integrated Earth System Information (CIESIN), Columbia University. 2025. GRID3 NGA - Roads v1.0.New York: Columbia University. https://doi.org/10.7916/b42r-6w17. Accessed &lt;DAY MONTH YEAR&gt;.</span></p><p><strong>Contacts and data queries:</strong></p><p><span>The authors of this dataset appreciate feedback regarding the data, including suggestions, discovery of errors, difficulties in using the data, and format preferences.</span></p><p><span>For dataset-related questions, please send an email to: info@ciesin.columbia.edu</span></p><p>&nbsp;</p></div></div></div>",
+    "description": "For more information on the methodology and data sources used during the production of this data, click here.\n\nDataset citation:\n\nCenter for Integrated Earth System Information (CIESIN), Columbia University. 2025. GRID3 NGA - Roads v1.0.New York: Columbia University. https://doi.org/10.7916/b42r-6w17. Accessed <DAY MONTH YEAR>.\n\nContacts and data queries:\n\nThe authors of this dataset appreciate feedback regarding the data, including suggestions, discovery of errors, difficulties in using the data, and format preferences.\n\nFor dataset-related questions, please send an email to: info@ciesin.columbia.edu",
     "doi": "https://doi.org/10.7916/b42r-6w17",
     "stac_category": "infrastructure",
-    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\ALL CIESIN XML\\GRID3 NGA - Roads v1.0.xml",
     "keywords": [
       "NGA",
       "Nigeria",

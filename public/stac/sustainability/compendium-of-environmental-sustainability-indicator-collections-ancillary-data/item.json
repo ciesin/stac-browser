@@ -41,7 +41,6 @@
     "description": "The Ancillary Data portion of the Compendium of Environmental Sustainability Indicator Collections contains 38 variables (time series data on population and gross domestic product as well as region codes, land area, and waterbody area) for 238 countries. The data are taken from the UN Population Division, the World Bank, the CIA Factbook, and CIESIN's Gridded Population of the World, and are distributed by the Columbia University Center for International Earth Science Information Network (CIESIN).",
     "doi": "https://doi.org/10.7927/H4B56GNC",
     "stac_category": "sustainability",
-    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\cesic-ancillary-data.xml",
     "keywords": [
       "Sustainability",
       "Country",

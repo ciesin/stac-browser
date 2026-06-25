@@ -41,7 +41,6 @@
     "description": "The U.S. Census Grids Demographic and Housing Characteristics File (DHC), 2020 contains grids of demographic and socioeconomic data from the 2020 U.S. Census. This data set includes block-level data for age, race, ethnicity, and housing (count), and land area (square kilometers) for the 50 U.S. states, Washington D.C., and Puerto Rico and are available in GeoTIFF, netCDF and Shapefile formats. The grids have a resolution of 15 arc-seconds (0.00415 decimal degrees), or approximately 500 square meters at the equator. The gridded data are derived from census block geography via U.S. Census 2020 Application Programming Interfaces (APIs), and population, households, and housing variables from the Demographic and Housing Characteristics File (DHC).",
     "doi": "https://doi.org/10.7927/yxxc-jv91",
     "stac_category": "infrastructure",
-    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\usgrid-demographic-housing-characteristics-file-2020.xml",
     "keywords": [
       "Country",
       "State",

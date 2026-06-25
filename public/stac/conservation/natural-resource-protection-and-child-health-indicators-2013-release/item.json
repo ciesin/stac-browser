@@ -41,7 +41,6 @@
     "description": "The Natural Resource Protection and Child Health Indicators, 2013 Release, are produced in support of the U.S. Millennium Challenge Corporation as selection criteria for funding eligibility. These indicators are successors to the Natural Resource Management Index (NRMI), which was produced from 2006 to 2011 and was based on the same underlying data. Like the NRMI, the Natural Resource Protection Indicator (NRPI) and Child Health Indicator (CHI) are based on proximity-to-target scores ranging from 0 to 100 (at target). The NRPI covers 221 countries and is calculated based on the weighted average percentage of biomes under protected status. The CHI is a composite index for 188 countries derived from the average of three proximity-to-target scores for access to improved sanitation, access to improved water, and child mortality. The 2013 release includes a consistent time series of NRPIs and CHIs for 2006 to 2013.",
     "doi": "https://doi.org/10.7927/H4NZ85MP",
     "stac_category": "conservation",
-    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\nrmi-natural-resource-protection-child-health-indicators-2013.xml",
     "keywords": [
       "Conservation",
       "Sustainability",

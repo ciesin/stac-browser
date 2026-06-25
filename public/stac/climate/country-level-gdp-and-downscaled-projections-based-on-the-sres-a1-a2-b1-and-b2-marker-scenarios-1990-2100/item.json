@@ -41,7 +41,6 @@
     "description": "The Country-Level GDP and Downscaled Projections Based on the Special Report on Emissions Scenarios (SRES) A1, A2, B1, and B2 marker scenarios, 1990-2100, were developed using the 1990 base year GDP (Gross Domestic Product) from national accounts database available from the UN Statistics Division. SRES regional GDP growth rates were calculated from 1990 to 2100 based on the SRES marker model regional data and applied uniformly to each country that fell within the SRES-defined regions. This data set is produced and distributed by the Columbia University Center for International Earth Science Information Network (CIESIN).",
     "doi": "https://doi.org/10.7927/H4XW4GQ1",
     "stac_category": "climate",
-    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\sdp-downscaled-gdp-a1a2b1b2-1990-2100.xml",
     "keywords": [
       "Global",
       "Continent",
