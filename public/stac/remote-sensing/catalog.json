@@ -1,0 +1,41 @@
+{
+  "type": "Catalog",
+  "id": "remote-sensing",
+  "stac_version": "1.1.0",
+  "description": "Datasets in the Remote Sensing category.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "item",
+      "href": "./viirs-plus-dmsp-change-in-lights-viirsdmsp-dlight/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./2015-urban-extents-from-viirs-and-modis-for-the-continental-us-using-machine-learning-methods/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-monthly-and-seasonal-urban-and-land-backscatter-time-series-1993-2020/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./west-africa-coastal-vulnerability-mapping-subset-of-dmsp-ols-nighttime-lights-for-economic-activity-2010/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    }
+  ],
+  "title": "Remote Sensing"
+}

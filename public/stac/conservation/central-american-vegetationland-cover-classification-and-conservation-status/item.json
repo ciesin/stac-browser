@@ -1,0 +1,77 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "central-american-vegetationland-cover-classification-and-conservation-status",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -92.0,
+          6.0
+        ],
+        [
+          -78.0,
+          6.0
+        ],
+        [
+          -78.0,
+          19.0
+        ],
+        [
+          -92.0,
+          19.0
+        ],
+        [
+          -92.0,
+          6.0
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    -92.0,
+    6.0,
+    -78.0,
+    19.0
+  ],
+  "properties": {
+    "title": "Central American Vegetation/Land Cover Classification and Conservation Status",
+    "description": "The Central American Vegetation/Land Cover Classification and Conservation Status consists of GIS coverages of vegetation classes (forests, woodlands, savannas, shrubs, grasslands, wetlands, rocks, sand, soils, inland waters, parks and reserves) for Central America, derived from 1-kilometer resolution Advanced Very High Resolution Radiometer (AVHRR) imagery. This data set is produced by Proyecto Ambiental Regional de Centroamerica/Central America Protected Areas Systems (PROARCA/CAPAS), a conservation partnership of the Central American Commission on Environment and Development (CCAD), U.S. Agency for International Development (USAID), International Resources Group, Ltd. (IRG), The Nature Conservancy (TNC), Winrock International (WI), and is distributed by the Columbia University Center for International Earth Science Information Network (CIESIN).",
+    "doi": "https://doi.org/10.7927/H4W37T87",
+    "stac_category": "conservation",
+    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\lulc-central-american-vegetation-cover-classification.xml",
+    "keywords": [
+      "Country",
+      "Biota",
+      "Farming",
+      "Geoscientific Information",
+      "Imagery/Base Maps/Earth Cover",
+      "Inland Waters",
+      "Oceans",
+      "Conservation",
+      "Land Use",
+      "Remote Sensing",
+      "EARTH SCIENCE > LAND SURFACE > SURFACE THERMAL PROPERTIES > LAND SURFACE TEMPERATURE",
+      "EARTH SCIENCE > HUMAN DIMENSIONS > ENVIRONMENTAL IMPACTS > CONSERVATION",
+      "Central America"
+    ],
+    "datetime": "1998-12-31T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Conservation"
+    }
+  ],
+  "assets": {}
+}

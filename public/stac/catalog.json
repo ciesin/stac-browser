@@ -2,7 +2,7 @@
   "type": "Catalog",
   "id": "ciesin-stac",
   "stac_version": "1.1.0",
-  "description": "CIESIN STAC is the authoritative SpatioTemporal Asset Catalog for datasets produced and curated by the Center for Integrated Earth System Information (CIESIN)  and affiliated programs, including GRID3.",
+  "description": "CIESIN STAC is the authoritative SpatioTemporal Asset Catalog for datasets produced and curated by the Center for Integrated Earth System Information (CIESIN)  and affiliated programs.",
   "links": [
     {
       "rel": "root",
@@ -27,15 +27,111 @@
     },
     {
       "rel": "child",
-      "href": "./ciesin-catalog/catalog.json",
+      "href": "./population/catalog.json",
       "type": "application/json",
-      "title": "SEDAC Catalog"
+      "title": "Population"
     },
     {
       "rel": "child",
-      "href": "./grid3-catalog/catalog.json",
+      "href": "./boundaries/catalog.json",
       "type": "application/json",
-      "title": "GRID3 Catalog"
+      "title": "Boundaries"
+    },
+    {
+      "rel": "child",
+      "href": "./agriculture/catalog.json",
+      "type": "application/json",
+      "title": "Agriculture"
+    },
+    {
+      "rel": "child",
+      "href": "./conservation/catalog.json",
+      "type": "application/json",
+      "title": "Conservation"
+    },
+    {
+      "rel": "child",
+      "href": "./health/catalog.json",
+      "type": "application/json",
+      "title": "Health"
+    },
+    {
+      "rel": "child",
+      "href": "./imagerybase-mapsearth-cover/catalog.json",
+      "type": "application/json",
+      "title": "Imagery/Base Maps/Earth Cover"
+    },
+    {
+      "rel": "child",
+      "href": "./infrastructure/catalog.json",
+      "type": "application/json",
+      "title": "Infrastructure"
+    },
+    {
+      "rel": "child",
+      "href": "./governance/catalog.json",
+      "type": "application/json",
+      "title": "Governance"
+    },
+    {
+      "rel": "child",
+      "href": "./sustainability/catalog.json",
+      "type": "application/json",
+      "title": "Sustainability"
+    },
+    {
+      "rel": "child",
+      "href": "./climate/catalog.json",
+      "type": "application/json",
+      "title": "Climate"
+    },
+    {
+      "rel": "child",
+      "href": "./marine-and-coastal/catalog.json",
+      "type": "application/json",
+      "title": "Marine and  Coastal"
+    },
+    {
+      "rel": "child",
+      "href": "./hazards/catalog.json",
+      "type": "application/json",
+      "title": "Hazards"
+    },
+    {
+      "rel": "child",
+      "href": "./society/catalog.json",
+      "type": "application/json",
+      "title": "Society"
+    },
+    {
+      "rel": "child",
+      "href": "./land-use/catalog.json",
+      "type": "application/json",
+      "title": "Land Use"
+    },
+    {
+      "rel": "child",
+      "href": "./poverty/catalog.json",
+      "type": "application/json",
+      "title": "Poverty"
+    },
+    {
+      "rel": "child",
+      "href": "./remote-sensing/catalog.json",
+      "type": "application/json",
+      "title": "Remote Sensing"
+    },
+    {
+      "rel": "child",
+      "href": "./urban/catalog.json",
+      "type": "application/json",
+      "title": "Urban"
+    },
+    {
+      "rel": "child",
+      "href": "./settlements/catalog.json",
+      "type": "application/json",
+      "title": "Settlements"
     }
   ],
   "title": "CIESIN STAC"

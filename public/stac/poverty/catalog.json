@@ -1,0 +1,46 @@
+{
+  "type": "Catalog",
+  "id": "poverty",
+  "stac_version": "1.1.0",
+  "description": "Datasets in the Poverty category.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "item",
+      "href": "./global-gridded-relative-deprivation-index-grdi-version-1/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-gridded-geographically-based-economic-data-g-econ-version-4/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-database-of-light-based-geospatial-income-inequality-lgii-measures-version-1/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./west-africa-coastal-vulnerability-mapping-social-vulnerability-indices/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./west-africa-coastal-vulnerability-mapping-gridded-subset-of-sub-national-poverty-and-extreme-poverty-prevalence/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    }
+  ],
+  "title": "Poverty"
+}

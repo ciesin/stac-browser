@@ -1,0 +1,77 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "development-threat-index",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -179.999995,
+          -89.999679
+        ],
+        [
+          179.999989,
+          -89.999679
+        ],
+        [
+          179.999989,
+          84.158781
+        ],
+        [
+          -179.999995,
+          84.158781
+        ],
+        [
+          -179.999995,
+          -89.999679
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    -179.999995,
+    -89.999679,
+    179.999989,
+    84.158781
+  ],
+  "properties": {
+    "title": "Development Threat Index",
+    "description": "The Development Threat Index data set is a terrestrial global, future development threat map based on combining these resources: agricultural expansion, urban expansion, conventional oil and gas, unconventional oil and gas, coal, mining, biofuels, solar, and wind. Each threat ranked potential development from 0-100 with 100 indicating the highest potential for future development of the resource and were produced at a 50 square kilometer (km2) grid cell resolution, excluding all cells overlapping Antarctica and those with >50% considered marine.",
+    "doi": "https://doi.org/10.7927/61jv-th84",
+    "stac_category": "agriculture",
+    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\lulc-development-threat-index.xml",
+    "keywords": [
+      "Environment",
+      "Agriculture",
+      "Conservation",
+      "Hazards",
+      "Health",
+      "Infrastructure",
+      "Land Use",
+      "Population",
+      "Remote Sensing",
+      "Sustainability",
+      "Urban",
+      "EARTH SCIENCE > HUMAN DIMENSIONS > SUSTAINABILITY",
+      "Global"
+    ],
+    "datetime": "2019-05-16T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Agriculture"
+    }
+  ],
+  "assets": {}
+}

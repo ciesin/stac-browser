@@ -1,0 +1,74 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "china-dimensions-data-collection-guobiao-gb-codes-for-the-administrative-divisions-of-the-peoples-republic-of-china",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          73.0,
+          18.0
+        ],
+        [
+          135.0,
+          18.0
+        ],
+        [
+          135.0,
+          54.0
+        ],
+        [
+          73.0,
+          54.0
+        ],
+        [
+          73.0,
+          18.0
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    73.0,
+    18.0,
+    135.0,
+    54.0
+  ],
+  "properties": {
+    "title": "China Dimensions Data Collection: GuoBiao (GB) Codes for the Administrative Divisions of the Peoples Republic of China",
+    "description": "The GuoBiao (GB) Codes for the Administrative Divisions of the People's Republic of China consists of geographic codes for the administrative divisions of China. The data includes provinces (autonomous regions, municipalities directly under the Central Government), prefectures (prefecture-level cities, autonomous prefectures, leagues), and counties (districts, county-level cities, autonomous counties, banners) for 1 January 1982 to 31 December 1992.\n\nThis data set is produced in collaboration with the Chinese Academy of Surveying and Mapping (CASM), University of Washington as part of the China in Time and Space (CITAS) project, and the Columbia University Center for International Earth Science Information Network (CIESIN).",
+    "doi": "https://doi.org/10.7927/H4KK98PS",
+    "stac_category": "boundaries",
+    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\cddc-china-guobiao-codes-admin-divisions.xml",
+    "keywords": [
+      "Country",
+      "Province",
+      "County",
+      "City",
+      "Boundaries",
+      "Society",
+      "Framework Data",
+      "EARTH SCIENCE > HUMAN DIMENSIONS > BOUNDARIES > ADMINISTRATIVE DIVISIONS",
+      "EARTH SCIENCE > HUMAN DIMENSIONS > BOUNDARIES > POLITICAL DIVISIONS",
+      "China"
+    ],
+    "datetime": "1997-02-28T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Boundaries"
+    }
+  ],
+  "assets": {}
+}

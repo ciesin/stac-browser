@@ -1,0 +1,107 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "population-exposure-estimates-in-proximity-to-nuclear-power-plants-locations",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -124.21,
+          -34.0
+        ],
+        [
+          166.45,
+          -34.0
+        ],
+        [
+          166.45,
+          68.05
+        ],
+        [
+          -124.21,
+          68.05
+        ],
+        [
+          -124.21,
+          -34.0
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    -124.21,
+    -34.0,
+    166.45,
+    68.05
+  ],
+  "properties": {
+    "title": "Population Exposure Estimates in Proximity to Nuclear Power Plants, Locations",
+    "description": "The Population Exposure Estimates in Proximity to Nuclear Power Plants, Locations data set combines information from a global data set developed by Declan Butler of Nature News and the Power Reactor Information System (PRIS), an up-to-date database of nuclear reactors maintained by the International Atomic Energy Agency (IAEA). The locations of nuclear reactors around the world are represented as point features associated with reactor specification and performance history attributes as of March 2012.",
+    "doi": "https://doi.org/10.7927/H4WH2MXH",
+    "stac_category": "hazards",
+    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\energy-pop-exposure-nuclear-plants-locations.xml",
+    "keywords": [
+      "Hazards",
+      "Infrastructure",
+      "Population",
+      "Country",
+      "Global",
+      "Society",
+      "EARTH SCIENCE > HUMAN DIMENSIONS > PUBLIC HEALTH > RADIATION EXPOSURE",
+      "EARTH SCIENCE > HUMAN DIMENSIONS > ENVIRONMENTAL IMPACTS > NUCLEAR RADIATION EXPOSURE",
+      "EARTH SCIENCE > HUMAN DIMENSIONS > POPULATION",
+      "Argentina",
+      "Armenia",
+      "Belgium",
+      "Brazil",
+      "Bulgaria",
+      "Canada",
+      "China",
+      "Czech Republic",
+      "Finland",
+      "France",
+      "Germany",
+      "Hungary",
+      "India",
+      "Iran",
+      "Italy",
+      "Japan",
+      "Kazakhstan",
+      "South Korea",
+      "Lithuania",
+      "Mexico",
+      "Netherlands",
+      "Pakistan",
+      "Romania",
+      "Russia",
+      "Slovakia",
+      "Slovenia",
+      "South Africa",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "Taiwan",
+      "Ukraine",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "datetime": "2015-01-21T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Hazards"
+    }
+  ],
+  "assets": {}
+}

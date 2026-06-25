@@ -1,0 +1,133 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "us-epa-national-priorities-list-npl-sites-point-data-with-ciesin-modifications-version-2",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -176.6525,
+          -14.3601
+        ],
+        [
+          151.78372,
+          -14.3601
+        ],
+        [
+          151.78372,
+          64.823
+        ],
+        [
+          -176.6525,
+          64.823
+        ],
+        [
+          -176.6525,
+          -14.3601
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    -176.6525,
+    -14.3601,
+    151.78372,
+    64.823
+  ],
+  "properties": {
+    "title": "U.S. EPA National Priorities List (NPL) Sites Point Data with CIESIN Modifications, Version 2",
+    "description": "The U.S. Environmental Protection Agency (EPA) National Priorities List (NPL) Sites Point Data with CIESIN Modifications, Version 2 is a modified version of the 2014 EPA NPL list. It includes all the sites that are proposed, currently on, or deleted from the Final NPL as of February 27, 2014. CIESIN has fixed eleven of the original coordinates by correcting latitude or longitude coordinates. It contains the point locations, including the eleven corrections, for 1,747 U.S. hazardous waste sites on the National Priorities List (NPL) of EPA's Comprehensive Environmental Response, Compensation, and Liability Information System (CERCLIS) for the fifty states, Puerto Rico, and 4 other territorial areas plus the now independent Palau, Federated States of Micronesia. The sites in CERCLIS are also known as Superfund Sites. The NPL is intended primarily to guide the EPA in determining which sites warrant further investigation.",
+    "doi": "https://doi.org/10.7927/H44X55RB",
+    "stac_category": "hazards",
+    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\superfund-epa-national-priorities-list-ciesin-mod-v2.xml",
+    "keywords": [
+      "Hazards",
+      "Health",
+      "Infrastructure",
+      "Land Use",
+      "Population",
+      "Urban",
+      "State",
+      "Environment",
+      "Society",
+      "EARTH SCIENCE > HUMAN DIMENSIONS > ENVIRONMENTAL GOVERNANCE/MANAGEMENT > ENVIRONMENTAL ASSESSMENTS",
+      "EARTH SCIENCE > HUMAN DIMENSIONS > PUBLIC HEALTH",
+      "North America",
+      "United States of America",
+      "American Samoa",
+      "Guam",
+      "Northern Mariana Islands",
+      "Virgin Islands",
+      "Alabama",
+      "Alaska",
+      "Arizona",
+      "Arkansas",
+      "California",
+      "Colorado",
+      "Connecticut",
+      "Delaware",
+      "District of Columbia",
+      "Florida",
+      "Georgia",
+      "Hawaii",
+      "Idaho",
+      "Illinois",
+      "Indiana",
+      "Iowa",
+      "Kansas",
+      "Kentucky",
+      "Louisiana",
+      "Maine",
+      "Maryland",
+      "Massachusetts",
+      "Michigan",
+      "Minnesota",
+      "Mississippi",
+      "Missouri",
+      "Montana",
+      "Nebraska",
+      "Nevada",
+      "New Hampshire",
+      "New Jersey",
+      "New Mexico",
+      "New York",
+      "North Carolina",
+      "North Dakota",
+      "Ohio",
+      "Oklahoma",
+      "Oregon",
+      "Pennsylvania",
+      "Puerto Rico",
+      "Rhode Island",
+      "South Carolina",
+      "South Dakota",
+      "Tennessee",
+      "Texas",
+      "Utah",
+      "Vermont",
+      "Virginia",
+      "Washington",
+      "West Virginia",
+      "Wisconsin",
+      "Wyoming"
+    ],
+    "datetime": "2014-12-12T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Hazards"
+    }
+  ],
+  "assets": {}
+}

@@ -1,0 +1,51 @@
+{
+  "type": "Catalog",
+  "id": "land-use",
+  "stac_version": "1.1.0",
+  "description": "Datasets in the Land Use category.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "item",
+      "href": "./gridded-population-of-the-world-version-4-gpwv4-data-quality-indicators-revision-11/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./gridded-population-of-the-world-version-4-gpwv4-land-and-water-area-revision-11/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-grid-of-probabilities-of-urban-expansion-to-2030/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-one-eighth-degree-urban-land-extent-projection-and-base-year-grids-by-ssp-scenarios-2000-2100/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-1-km-downscaled-urban-land-extent-projection-and-base-year-grids-by-ssp-scenarios-2000-2100/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./urban-landsat-cities-from-space/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    }
+  ],
+  "title": "Land Use"
+}

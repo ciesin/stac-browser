@@ -1,0 +1,68 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "grid3-sle-settlement-names-v10",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -13.295618,
+          6.932621
+        ],
+        [
+          -10.279584,
+          6.932621
+        ],
+        [
+          -10.279584,
+          9.99908
+        ],
+        [
+          -13.295618,
+          9.99908
+        ],
+        [
+          -13.295618,
+          6.932621
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    -13.295618,
+    6.932621,
+    -10.279584,
+    9.99908
+  ],
+  "properties": {
+    "title": "GRID3 SLE - Settlement Names v1.0",
+    "description": "<div style='text-align:Left;'><div><div><p><span>The data are provided in geodatabase file formats.   </span></p><p><span>File name: GRID3_SLE_settlement_names_v1.0.gdb with the following layers:</span></p><ul><li><span>GRID3_SLE_settlement_names_v1.0</span></li><li><span>codebook_settlement_names</span></li></ul><p><span>Extent: Sierra Leone</span></p><p><span>Coordinate system: GCS WGS 1984 <br /></span></p><p><span>For full methodological details, please see data release notes available for download\u00a0</span><a href='https://academiccommons.columbia.edu/doi/10.7916/ve3w-2h47/download' target='_blank' rel='nofollow ugc noopener noreferrer'>here</a><span>.<br /><br />Download the data as a\u00a0</span><a href='https://academiccommons.columbia.edu/doi/10.7916/yjmg-jg61/download' target='_blank' rel='nofollow ugc noopener noreferrer'>zip file</a><span>.<br /></span></p><p><span>Dataset citation:</span></p><p><span>Center for International Earth Science Information Network (CIESIN), Columbia University, Statistics Sierra Leone, and Sierra Leone Ministry of Basic and Senior Secondary Education. 2023. GRID3 SLE - Settlement Names v1. 0. New York: Geo-Referenced Infrastructure and Demographic Data for Development (GRID3). https://doi.org/10.7916/bxa4-bv46. Accessed DAY MONTH YEAR<br /></span></p><p><span></span></p><p><span></span></p><p><span></span></p></div></div></div>",
+    "doi": "https://doi.org/10.7916/bxa4-bv46",
+    "stac_category": "settlements",
+    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\ALL CIESIN XML\\GRID3 SLE - Settlement Names v1.0.xml",
+    "keywords": [
+      "Sierra Leone",
+      "SLE",
+      "Settlement Names",
+      "Settlements"
+    ],
+    "datetime": "2023-09-25T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Settlements"
+    }
+  ],
+  "assets": {}
+}

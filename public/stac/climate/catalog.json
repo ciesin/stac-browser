@@ -1,0 +1,226 @@
+{
+  "type": "Catalog",
+  "id": "climate",
+  "stac_version": "1.1.0",
+  "description": "Datasets in the Climate category.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "item",
+      "href": "./compendium-of-environmental-sustainability-indicator-collections-2004-environmental-vulnerability-index-evi/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./groundswell-africa-spatial-population-and-migration-projections-at-one-eighth-degree-according-to-ssps-and-rcps-2010-2050/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./groundswell-spatial-population-and-migration-projections-at-one-eighth-degree-according-to-ssps-and-rcps-2010-2050/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./us-climate-risk-projections-by-county-2040-2049/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./altimeter-corrected-elevations-version-2-ace2/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./pilot-2006-environmental-performance-index-epi/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./2001-environmental-sustainability-index-esi/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./2002-environmental-sustainability-index-esi/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./2005-environmental-sustainability-index-esi/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./2000-pilot-environmental-sustainability-index-esi/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-reservoir-and-dam-database-version-1-grandv1-reservoirs-revision-01/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./anthropogenic-sulfur-dioxide-emissions-1850-2005-national-and-regional-data-set-by-source-category-version-286/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./ipcc-special-report-on-emissions-scenarios-sres-emissions-scenarios-dataset-version-11/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./ipcc-special-report-on-emissions-scenarios-sres-fluor-gases-emissions-dataset/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./ipcc-special-report-on-emissions-scenarios-sres-1x1-degree-gridded-emissions-dataset/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./ipcc-is92-emissions-scenarios-a-b-c-d-e-f-dataset-version-11/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./ipcc-socio-economic-baseline-dataset/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./synthetic-assessment-of-global-distribution-of-vulnerability-to-climate-change-maps-and-data-2005-2050-and-2100/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./low-elevation-coastal-zone-lecz-global-delta-urban-rural-population-and-land-area-estimates-version-1/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./sea-level-rise-impacts-on-ramsar-wetlands-of-international-importance/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./low-elevation-coastal-zone-lecz-urban-rural-population-estimates-global-rural-urban-mapping-project-grump-alpha-version/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./low-elevation-coastal-zone-lecz-urban-rural-population-and-land-area-estimates-version-2/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./low-elevation-coastal-zone-lecz-urban-rural-population-and-land-area-estimates-version-3/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-mangrove-forests-distribution-2000/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./millennium-ecosystem-assessment-ma-climate-and-land-cover/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./national-aggregates-of-geospatial-data-collection-population-landscape-and-climate-estimates-place/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./national-aggregates-of-geospatial-data-collection-population-landscape-and-climate-estimates-version-2-place-ii/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./national-aggregates-of-geospatial-data-collection-population-landscape-and-climate-estimates-version-3-place-iii/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./national-aggregates-of-geospatial-data-collection-population-landscape-and-climate-estimates-version-4-place-iv/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-gridded-relative-deprivation-index-grdi-version-110/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-summer-land-surface-temperature-lst-grids-2013/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-urban-heat-island-uhi-data-set-2013/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-high-resolution-daily-extreme-urban-heat-exposure-uhe-daily-1983-2016/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./annual-global-high-resolution-extreme-heat-estimates-gehe-1983-2016/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./yale-center-for-earth-observation-yceo-surface-urban-heat-islands-version-4-2003-2018/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./country-level-gdp-and-downscaled-projections-based-on-the-sres-a1-a2-b1-and-b2-marker-scenarios-1990-2100/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-15-x-15-minute-grids-of-the-downscaled-gdp-based-on-the-sres-b2-scenario-1990-and-2025/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./country-level-population-and-downscaled-projections-based-on-the-sres-a1-b1-and-a2-scenarios-1990-2100/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./country-level-population-and-downscaled-projections-based-on-the-sres-b2-scenario-1990-2100/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-15-x-15-minute-grids-of-the-downscaled-population-based-on-the-sres-b2-scenario-1990-and-2025/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./west-africa-coastal-vulnerability-mapping-subset-of-high-and-low-resolution-altimeter-corrected-elevations-2-ace2/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    }
+  ],
+  "title": "Climate"
+}

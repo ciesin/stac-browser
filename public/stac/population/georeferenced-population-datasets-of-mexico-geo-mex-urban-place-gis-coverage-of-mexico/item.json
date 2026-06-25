@@ -1,0 +1,73 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "georeferenced-population-datasets-of-mexico-geo-mex-urban-place-gis-coverage-of-mexico",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -117.0,
+          14.0
+        ],
+        [
+          -86.0,
+          14.0
+        ],
+        [
+          -86.0,
+          33.0
+        ],
+        [
+          -117.0,
+          33.0
+        ],
+        [
+          -117.0,
+          14.0
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    -117.0,
+    14.0,
+    -86.0,
+    33.0
+  ],
+  "properties": {
+    "title": "Georeferenced Population Datasets of Mexico (GEO-MEX): Urban Place GIS Coverage of Mexico",
+    "description": "The Urban Place GIS Coverage of Mexico is a vector based point Geographic Information System (GIS) coverage of 696 urban places in Mexico. Each Urban Place is geographically referenced down to one tenth of a minute. The attribute data include time-series population and selected census/geographic data items for Mexican urban places from from 1921 to 1990. The cartographic data include urban place point locations on a state boundary file of Mexico. This data set is  produced by the Columbia University Center for International Earth Science Information Network (CIESIN) in collaboration with the Instituto Nacional de Estadistica Geografia e Informatica (INEGI) and the Environmental Research Institute (ERI) of Michigan.",
+    "doi": "https://doi.org/10.7927/H4WW7FKN",
+    "stac_category": "population",
+    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\geo-mex-mexico-urban-place-gis.xml",
+    "keywords": [
+      "Country",
+      "State",
+      "Framework Data",
+      "Population",
+      "Imagery/Base Maps/Earth Cover",
+      "Society",
+      "EARTH SCIENCE > HUMAN DIMENSIONS > BOUNDARIES",
+      "EARTH SCIENCE > HUMAN DIMENSIONS > POPULATION",
+      "Mexico"
+    ],
+    "datetime": "1994-12-31T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Population"
+    }
+  ],
+  "assets": {}
+}

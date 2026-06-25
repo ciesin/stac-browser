@@ -1,0 +1,121 @@
+{
+  "type": "Catalog",
+  "id": "health",
+  "stac_version": "1.1.0",
+  "description": "Datasets in the Health category.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "item",
+      "href": "./country-trends-in-major-air-pollutants/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./daily-and-annual-no2-concentrations-for-the-contiguous-united-states-1-km-grids-v1-2000-2016/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./daily-and-annual-no2-concentrations-for-the-contiguous-united-states-1-km-grids-version-110-2000-2016/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./daily-8-hour-maximum-and-annual-o3-concentrations-for-the-contiguous-united-states-1-km-grids-v1-2000-2016/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./daily-8-hour-maximum-and-annual-o3-concentrations-for-the-contiguous-united-states-1-km-grids-version-110-2000-2016/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./annual-mean-pm25-components-ec-nh4-no3-oc-so4-50m-urban-and-1km-non-urban-area-grids-for-contiguous-us-2000-2019-v1/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./annual-mean-pm25-components-trace-elements-tes-50m-urban-and-1km-non-urban-area-grids-for-contiguous-us-2000-2019-v1/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./daily-and-annual-pm25-concentrations-for-the-contiguous-united-states-1-km-grids-v1-2000-2016/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./daily-and-annual-pm25-concentrations-for-the-contiguous-united-states-1-km-grids-version-110-2000-2016/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./daily-and-annual-pm25-o3-and-no2-concentrations-at-zip-codes-for-the-contiguous-us-2000-2016-v10/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./china-dimensions-data-collection-chinese-county-level-data-on-hospitals-and-epidemiology-stations-1950-1985/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-subnational-infant-mortality-rates-version-201/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./poverty-mapping-project-global-subnational-infant-mortality-rates/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./poverty-mapping-project-small-area-estimates-of-poverty-and-inequality/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./poverty-mapping-project-unsatisfied-basic-needs/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./annual-pm25-concentrations-for-countries-and-urban-areas-1998-2016/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-3-year-running-mean-ground-level-nitrogen-dioxide-no2-grids-from-gome-sciamachy-and-gome-2/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-annual-pm25-grids-from-modis-misr-and-seawifs-aerosol-optical-depth-aod-1998-2019-v4gl03/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-annual-pm25-grids-from-modis-misr-seawifs-and-viirs-aerosol-optical-depth-aod-1998-2022-v5gl04/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./west-africa-coastal-vulnerability-mapping-demographic-and-health-survey-data-sets/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    }
+  ],
+  "title": "Health"
+}

@@ -1,0 +1,89 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "millennium-ecosystem-assessment-ma-population",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -180.0,
+          -90.0
+        ],
+        [
+          180.0,
+          -90.0
+        ],
+        [
+          180.0,
+          90.0
+        ],
+        [
+          -180.0,
+          90.0
+        ],
+        [
+          -180.0,
+          -90.0
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    -180.0,
+    -90.0,
+    180.0,
+    90.0
+  ],
+  "properties": {
+    "title": "Millennium Ecosystem Assessment: MA Population",
+    "description": "The Millennium Ecosystem Assessment: MA Population provides data and information on baseline population as one of the drivers of ecosystem change. The data was used in estimating the magnitude of regional pressures on ecosystems. The MA Population data sets include Gridded Population of the World (GPW) Version 3, population grids from the Alpha version of the Global Rural-Urban Mapping Project (GRUMP), Global Subnational Infant Mortality Rates (Alpha version), and Global Subnational Prevalence of Child Malnutrition (Alpha version).",
+    "doi": "https://doi.org/10.7927/H4CF9N1K",
+    "stac_category": "population",
+    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\ma-population.xml",
+    "keywords": [
+      "Population",
+      "Health",
+      "Poverty",
+      "CIESIN > Human and Environmental Health > Nutrition and Hunger > Famines",
+      "CIESIN > Human and Environmental Health > Vital Statistics > Infant Mortality",
+      "CIESIN > Human Attitudes, Preferences, and Behavior > Consumer Behavior > Poverty",
+      "CIESIN > Population Dynamics > Demographic Characteristics > Population Distribution",
+      "CIESIN > Population Dynamics > Demographic Characteristics > Population Size",
+      "CIESIN > Population Dynamics > Human Settlements > Rural Areas",
+      "CIESIN > Population Dynamics > Human Settlements > Urbanization",
+      "CIESIN > Population Dynamics > Vital Statistics > Global Population Estimates",
+      "Global",
+      "Global Population",
+      "Infant Mortality",
+      "Malnutrition",
+      "Population Count",
+      "Population Density",
+      "Population Estimates",
+      "Population Projections",
+      "Population Studies",
+      "Rural Population",
+      "Underweight",
+      "Urban Population",
+      "Society",
+      "EARTH SCIENCE > HUMAN DIMENSIONS > POPULATION"
+    ],
+    "datetime": "2005-05-29T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Population"
+    }
+  ],
+  "assets": {}
+}

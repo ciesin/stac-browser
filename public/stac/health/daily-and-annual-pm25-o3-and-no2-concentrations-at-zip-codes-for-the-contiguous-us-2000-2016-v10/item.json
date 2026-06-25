@@ -1,0 +1,73 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "daily-and-annual-pm25-o3-and-no2-concentrations-at-zip-codes-for-the-contiguous-us-2000-2016-v10",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -180.0,
+          17.0
+        ],
+        [
+          -65.0,
+          17.0
+        ],
+        [
+          -65.0,
+          72.0
+        ],
+        [
+          -180.0,
+          72.0
+        ],
+        [
+          -180.0,
+          17.0
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    -180.0,
+    17.0,
+    -65.0,
+    72.0
+  ],
+  "properties": {
+    "title": "Daily and Annual PM2.5, O3, and NO2 Concentrations at ZIP Codes for the Contiguous U.S., 2000-2016, v1.0",
+    "description": "The Daily and Annual PM2.5, O3, and NO2 Concentrations at ZIP Codes for the Contiguous U.S., 2000-2016, v1.0 data set contains daily and annual concentration predictions for Fine Particulate Matter (PM2.5), Ozone (O3), and Nitrogen Dioxide (NO2) pollutants at ZIP Code-level for the years 2000 to 2016. Ensemble predictions of three machine-learning models were implemented (Random Forest, Gradient Boosting, and Neural Network) to estimate the daily concentrations at the centroids of 1km x 1km grid cells across the contiguous U.S. for 2000 to 2016. The predictors included air monitoring data, satellite aerosol optical depth, meteorological conditions, chemical transport model simulations, and land-use variables. The ensemble models demonstrated excellent predictive performance with 10-fold cross-validated R-squared values of 0.86 for PM2.5, 0.86 for O3, and 0.79 for NO2. The predictions allow for estimates of ZIP Code-level pollution concentrations. For general ZIP Codes with polygon representations, pollution levels were estimated by averaging the predictions of grid cells whose centroids lie inside the polygon of that ZIP Code; for other ZIP Codes such as Post Offices or large volume single customers, they were treated as a single point and predicted their pollution levels by assigning the predictions using the nearest grid cell. The polygon shapes and points with latitudes and longitudes for ZIP Codes were obtained from Esri and the U.S. ZIP Code Database and were updated annually. The data include about 31,000 general ZIP Codes with polygon representations, and about 10,000 ZIP Codes as single points. Compared with the 1km grid data, the ZIP Code-level predictions are much smaller in size and are manageable in personal computing environments. This greatly improves the inclusion of scientists in different fields by lowering the key barrier to participation in air pollution research. The units are \u00b5g/m^3 for PM2.5 and ppb for O3 and NO2.",
+    "doi": "https://doi.org/10.7927/9yp5-hz11",
+    "stac_category": "health",
+    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\aqdh-pm2-5-o3-no2-concentrations-zipcode-contiguous-us-2000-2016.xml",
+    "keywords": [
+      "Health",
+      "Sustainability",
+      "Urban",
+      "EARTH SCIENCE > ATMOSPHERE > AEROSOLS > PARTICULATE MATTER",
+      "EARTH SCIENCE > ATMOSPHERE > AIR QUALITY > PARTICULATES",
+      "EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC CHEMISTRY > NITROGEN COMPOUNDS > NITROGEN DIOXIDE",
+      "Country",
+      "Environment",
+      "United States of America"
+    ],
+    "datetime": "2022-12-09T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Health"
+    }
+  ],
+  "assets": {}
+}

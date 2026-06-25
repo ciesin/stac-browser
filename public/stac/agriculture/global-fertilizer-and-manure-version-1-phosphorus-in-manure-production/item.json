@@ -1,0 +1,78 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "global-fertilizer-and-manure-version-1-phosphorus-in-manure-production",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -180.0,
+          -90.0
+        ],
+        [
+          180.0,
+          -90.0
+        ],
+        [
+          180.0,
+          90.0
+        ],
+        [
+          -180.0,
+          90.0
+        ],
+        [
+          -180.0,
+          -90.0
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    -180.0,
+    -90.0,
+    180.0,
+    90.0
+  ],
+  "properties": {
+    "title": "Global Fertilizer and Manure, Version 1: Phosphorus in Manure Production",
+    "description": "The Phosphorus in Manure Production data set of the Global Fertilizer and Manure, Version 1 Data Collection represents the amount of phosphorous in manure produced and present on the landscape. The manure production at grid cell level was computed based on livestock population and nutrient excretion rates. The livestock population per grid cell was computed by multiplying the density values from FAO Gridded Livestock of the World by the area of grid cell. Spatially explicit manure produced and present on landscape is derived by combining the number of livestock heads and the nutrient excretion rate. The data were compiled by Potter et al. (2010) and are distributed by the Columbia University Center for International Earth Science Information Network (CIESIN).",
+    "doi": "https://doi.org/10.7927/H49Z92TD",
+    "stac_category": "agriculture",
+    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\ferman-v1-phosphorus-in-manure-production.xml",
+    "keywords": [
+      "Agriculture",
+      "Climate",
+      "Land Use",
+      "Sustainability",
+      "Continent",
+      "Global",
+      "Farming",
+      "EARTH SCIENCE > AGRICULTURE > ANIMAL SCIENCE > ANIMAL MANURE AND WASTE",
+      "Africa",
+      "Asia",
+      "Europe",
+      "North America",
+      "Oceania",
+      "South America"
+    ],
+    "datetime": "2012-02-21T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Agriculture"
+    }
+  ],
+  "assets": {}
+}

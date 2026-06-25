@@ -1,0 +1,70 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "2015-urban-extents-from-viirs-and-modis-for-the-continental-us-using-machine-learning-methods",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -180.0,
+          -56.0
+        ],
+        [
+          180.0,
+          -56.0
+        ],
+        [
+          180.0,
+          84.0
+        ],
+        [
+          -180.0,
+          84.0
+        ],
+        [
+          -180.0,
+          -56.0
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    -180.0,
+    -56.0,
+    180.0,
+    84.0
+  ],
+  "properties": {
+    "title": "2015 Urban Extents from VIIRS and MODIS for the Continental U.S. Using Machine Learning Methods",
+    "description": "The 2015 Urban Extents from VIIRS and MODIS for the Continental U.S. Using Machine Learning Methods data set models urban settlements in the Continental United States (CONUS) as of 2015. When applied to the combination of daytime spectral and nighttime lights satellite data, the machine learning methods achieved high accuracy at an intermediate-resolution of 500 meters at large spatial scales. The input data for these models were two types of satellite imagery: Visible Infrared Imaging Radiometer Suite (VIIRS) Nighttime Light (NTL) data from the Day/Night Band (DNB), and Moderate Resolution Imaging Spectroradiometer (MODIS) corrected daytime Normalized Difference Vegetation Index (NDVI). Although several machine learning methods were evaluated, including Random Forest (RF), Gradient Boosting Machine (GBM), Neural Network (NN), and the Ensemble of RF, GBM, and NN (ESB), the highest accuracy results were achieved with NN, and those results were used to delineate the urban extents in this data set.",
+    "doi": "https://doi.org/10.7927/a49b-sm16",
+    "stac_category": "remote-sensing",
+    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\urbanspatial-urban-extents-viirs-modis-us-2015.xml",
+    "keywords": [
+      "Remote Sensing",
+      "Urban",
+      "Country",
+      "Society",
+      "EARTH SCIENCE > HUMAN DIMENSIONS > BOUNDARIES",
+      "United States of America"
+    ],
+    "datetime": "2019-10-10T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Remote Sensing"
+    }
+  ],
+  "assets": {}
+}

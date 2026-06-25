@@ -1,0 +1,69 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "grid3-nga-travel-time-friction-surface-v10",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          2.505143,
+          4.2442
+        ],
+        [
+          14.8327,
+          4.2442
+        ],
+        [
+          14.8327,
+          13.967903
+        ],
+        [
+          2.505143,
+          13.967903
+        ],
+        [
+          2.505143,
+          4.2442
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    2.505143,
+    4.2442,
+    14.8327,
+    13.967903
+  ],
+  "properties": {
+    "title": "GRID3 NGA - Travel Time Friction Surface v1.0 : Mix Travel Time",
+    "description": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN>The  GRID3 NGA - Travel Time Friction Surface v1.0 dataset is a spatial data layer in tiff format. The datasets contain 2 layers: </SPAN></P><UL><LI><P><SPAN>GRID3_NGA_walk_travel_time_friction_surface_v1_0.tif  - Applies walking speeds across the entire surface, adjusted for slope and elevation.</SPAN></P></LI><LI><P><SPAN>GRID3_NGA_mix_travel_time_friction_surface_v1_0.tif - Applies motorized speeds on roads and walking speeds in all other areas.</SPAN></P></LI></UL><P><SPAN>The resolution is 30 m. The unit of measurement in both surfaces is minutes per meter. </SPAN></P><P><SPAN>Dataset citation: </SPAN></P><P><SPAN>Center for Integrated Earth System Information (CIESIN), Columbia University. 2025. GRID3 NGA - Travel Time Friction Surface v1.0. New York: Columbia University. https://doi.org/10.7916/tw5k-ys98. Accessed &lt;DAY MONTH YEAR&gt;</SPAN></P><P><SPAN>Contacts and data queries:</SPAN></P><P><SPAN>The authors of this dataset appreciate feedback regarding the data, including suggestions, discovery of errors, difficulties in using the data, and format preferences. For dataset-related questions, please send an email to:  info@ciesin.columbia.edu</SPAN></P><P><SPAN /></P></DIV></DIV></DIV>",
+    "doi": "https://doi.org/10.7916/tw5k-ys98",
+    "stac_category": "infrastructure",
+    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\ALL CIESIN XML\\GRID3 NGA - Travel Time Friction Surface v1.0.xml",
+    "keywords": [
+      "NGA",
+      "Nigeria",
+      "travel time",
+      "Travel time",
+      "NGA, Nigeria"
+    ],
+    "datetime": "2025-09-17T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Infrastructure"
+    }
+  ],
+  "assets": {}
+}

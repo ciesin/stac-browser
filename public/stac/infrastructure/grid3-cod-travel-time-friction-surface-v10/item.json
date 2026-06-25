@@ -1,0 +1,68 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "grid3-cod-travel-time-friction-surface-v10",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          835647.076286,
+          -1733004.800696
+        ],
+        [
+          3123206.053124,
+          -1733004.800696
+        ],
+        [
+          3123206.053124,
+          698374.960916
+        ],
+        [
+          835647.076286,
+          698374.960916
+        ],
+        [
+          835647.076286,
+          -1733004.800696
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    835647.076286,
+    -1733004.800696,
+    3123206.053124,
+    698374.960916
+  ],
+  "properties": {
+    "title": "GRID3 COD - Travel Time Friction Surface v1.0",
+    "description": "<div style='text-align:Left;'><div><div><p><span>The GRID3 COD - Travel Time Friction Surface v1.0 dataset is a spatial data layer in tiff format. The datasets contain 2 layers:</span></p><ul><li><a target='_blank' href='https://academiccommons.columbia.edu/doi/10.7916/v1rc-7g38/download' rel='nofollow ugc noopener noreferrer'><span>GRID3_COD_walk_travel_time_friction_surface_v1_0.tif</span></a><span> - Applies walking speeds across the entire surface, adjusted for slope and elevation.</span></li><li><a target='_blank' href='https://academiccommons.columbia.edu/doi/10.7916/mw8y-3p73/download' rel='nofollow ugc noopener noreferrer'><span>GRID3_COD_mix_travel_time_friction_surface_v1_0.tif</span></a><span> - Applies motorized speeds on roads and walking speeds in all other areas.</span></li></ul><p><span>The resolution is 30 m. The unit of measurement in both surfaces is minutes per meter.</span></p><p><span>For more information on the methodology and data sources used during the production of this data, click </span><a target='_blank' href='https://academiccommons.columbia.edu/doi/10.7916/fkba-v884/download' rel='nofollow ugc noopener noreferrer'><span><u>here</u></span></a><span>.</span></p><p><strong>Dataset citation</strong></p><p><span>Center for Integrated Earth System Information (CIESIN), Columbia University. 2026. GRID3 COD - Travel Time Friction Surface v1.0. New York: Columbia University. https://doi.org/10.7916/11yp-gs23. Accessed &lt;DAY MONTH YEAR&gt;.</span></p><p><strong>Contacts and data queries</strong></p><p><span>The authors of this dataset appreciate feedback regarding the data, including suggestions, discovery of errors, difficulties in using the data, and format preferences. For dataset-related questions, please send an email to: info@ciesin.columbia.edu</span></p><p>&nbsp;</p></div></div></div>",
+    "doi": "https://doi.org/10.7916/11yp-gs23",
+    "stac_category": "infrastructure",
+    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\ALL CIESIN XML\\GRID3 COD - Travel Time Friction Surface v1.0.xml",
+    "keywords": [
+      "COD",
+      "Democratic Republic of the Congo",
+      "travel time",
+      "friction surface"
+    ],
+    "datetime": "2026-01-09T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Infrastructure"
+    }
+  ],
+  "assets": {}
+}

@@ -1,0 +1,70 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "archive-of-census-related-products-acrp-1990-census-block-statistics",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -180.0,
+          18.0
+        ],
+        [
+          -66.0,
+          18.0
+        ],
+        [
+          -66.0,
+          72.0
+        ],
+        [
+          -180.0,
+          72.0
+        ],
+        [
+          -180.0,
+          18.0
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    -180.0,
+    18.0,
+    -66.0,
+    72.0
+  ],
+  "properties": {
+    "title": "Archive of Census Related Products (ACRP): 1990 Census Block Statistics",
+    "description": "The 1990 Census Block Statistics portion of the Archive of Census Related Products (ACRP) contains population and housing data from the U.S. Census Bureau's 1990 Summary Tape File (STF1B). The population data includes total population, age, race, and hispanic origin, while the housing data comprises number of housing units, tenure, room density, mean contract rent, mean value, and mean number of rooms. Additional data includes land area, water area, centroids, Metropolitan Statistical Area (MSA) codes, place codes, and special area codes.  This portion of the ACRP is produced by the Columbia University Center for International Earth Science Information Network (CIESIN).",
+    "doi": "https://doi.org/10.7927/H43X84KH",
+    "stac_category": "population",
+    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\acrp-census-block-stats-1990.xml",
+    "keywords": [
+      "Society",
+      "Population",
+      "County",
+      "State",
+      "EARTH SCIENCE > HUMAN DIMENSIONS > POPULATION",
+      "United States of America"
+    ],
+    "datetime": "1996-12-31T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Population"
+    }
+  ],
+  "assets": {}
+}

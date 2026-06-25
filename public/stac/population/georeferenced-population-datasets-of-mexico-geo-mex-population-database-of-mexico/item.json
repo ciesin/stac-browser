@@ -1,0 +1,70 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "georeferenced-population-datasets-of-mexico-geo-mex-population-database-of-mexico",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -117.0,
+          14.0
+        ],
+        [
+          -87.0,
+          14.0
+        ],
+        [
+          -87.0,
+          33.0
+        ],
+        [
+          -117.0,
+          33.0
+        ],
+        [
+          -117.0,
+          14.0
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    -117.0,
+    14.0,
+    -87.0,
+    33.0
+  ],
+  "properties": {
+    "title": "Georeferenced Population Datasets of Mexico (GEO-MEX): Population Database of Mexico",
+    "description": "The Population Database of Mexico contains geographically referenced population data for Mexican states, municipalities and localities from the 1990 Mexican population and housing census. The data include population by gender and age group for approximately 83.7% of the Mexican population. This data set is produced by the Columbia University Center for International Earth Science Information Network (CIESIN).",
+    "doi": "https://doi.org/10.7927/H45D8PS8",
+    "stac_category": "population",
+    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\geo-mex-mexico-population-db.xml",
+    "keywords": [
+      "Country",
+      "State",
+      "Society",
+      "Population",
+      "EARTH SCIENCE > HUMAN DIMENSIONS > POPULATION",
+      "Mexico"
+    ],
+    "datetime": "1994-12-31T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Population"
+    }
+  ],
+  "assets": {}
+}

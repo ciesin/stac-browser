@@ -1,0 +1,71 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "last-of-the-wild-project-version-3-lwp-3-2009-human-footprint-2018-release",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -179.99,
+          -65.25
+        ],
+        [
+          180.0,
+          -65.25
+        ],
+        [
+          180.0,
+          89.9
+        ],
+        [
+          -179.99,
+          89.9
+        ],
+        [
+          -179.99,
+          -65.25
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    -179.99,
+    -65.25,
+    180.0,
+    89.9
+  ],
+  "properties": {
+    "title": "Last of the Wild Project, Version 3 (LWP-3): 2009 Human Footprint, 2018 Release",
+    "description": "The 2009 Human Footprint, 2018 Release provides a global map of the cumulative human pressure on the environment in 2009, at a spatial resolution of ~1 km. The human pressure is measured using eight variables including built-up environments, population density, electric power infrastructure, crop lands, pasture lands, roads, railways, and navigable waterways. The data set is produced by Venter et.al., and is available in the Mollweide projection.",
+    "doi": "https://doi.org/10.7927/H46T0JQ4",
+    "stac_category": "conservation",
+    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\wildareas-v3-2009-human-footprint.xml",
+    "keywords": [
+      "Human Footprint",
+      "Society",
+      "Imagery/Base Maps/Earth Cover",
+      "Conservation",
+      "Global",
+      "EARTH SCIENCE > LAND SURFACE > LAND USE/LAND COVER",
+      "EARTH SCIENCE > BIOSPHERE > ECOSYSTEMS > ANTHROPOGENIC/HUMAN INFLUENCED ECOSYSTEMS"
+    ],
+    "datetime": "2018-08-10T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Conservation"
+    }
+  ],
+  "assets": {}
+}

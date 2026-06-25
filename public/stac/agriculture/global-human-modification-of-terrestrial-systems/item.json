@@ -1,0 +1,79 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "global-human-modification-of-terrestrial-systems",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -180.0,
+          -60.0
+        ],
+        [
+          180.0,
+          -60.0
+        ],
+        [
+          180.0,
+          83.64
+        ],
+        [
+          -180.0,
+          83.64
+        ],
+        [
+          -180.0,
+          -60.0
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    -180.0,
+    -60.0,
+    180.0,
+    83.64
+  ],
+  "properties": {
+    "title": "Global Human Modification of Terrestrial Systems",
+    "description": "The Global Human Modification of Terrestrial Systems data set provides a cumulative measure of the human modification of terrestrial lands across the globe at a 1-km resolution. It is a continuous 0-1 metric that reflects the proportion of a landscape modified, based on modeling the physical extents of 13 anthropogenic stressors and their estimated impacts using spatially-explicit global data sets with a median year of 2016.",
+    "doi": "https://doi.org/10.7927/edbc-3z60",
+    "stac_category": "agriculture",
+    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\lulc-human-modification-terrestrial-systems.xml",
+    "keywords": [
+      "Agriculture",
+      "Climate",
+      "Conservation",
+      "Governance",
+      "Hazards",
+      "Infrastructure",
+      "Land Use",
+      "Population",
+      "Poverty",
+      "Remote Sensing",
+      "Sustainability",
+      "Urban",
+      "Global",
+      "Imagery/Base Maps/Earth Cover",
+      "EARTH SCIENCE > BIOSPHERE > ECOSYSTEMS > ANTHROPOGENIC/HUMAN INFLUENCED ECOSYSTEMS"
+    ],
+    "datetime": "2020-06-05T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Agriculture"
+    }
+  ],
+  "assets": {}
+}

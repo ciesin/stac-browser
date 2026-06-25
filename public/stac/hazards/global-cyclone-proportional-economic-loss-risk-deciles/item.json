@@ -1,0 +1,72 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "global-cyclone-proportional-economic-loss-risk-deciles",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -180.0,
+          -58.0
+        ],
+        [
+          180.0,
+          -58.0
+        ],
+        [
+          180.0,
+          86.0
+        ],
+        [
+          -180.0,
+          86.0
+        ],
+        [
+          -180.0,
+          -58.0
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    -180.0,
+    -58.0,
+    180.0,
+    86.0
+  ],
+  "properties": {
+    "title": "Global Cyclone Proportional Economic Loss Risk Deciles",
+    "description": "The Global Cyclone Proportional Economic Loss Risk Deciles is a 2.5 minute grid of cyclone hazard economic loss as proportions of Gross Domestic Product (GDP) per analytical unit. Estimates of GDP at risk are based on regional economic loss rates derived from historical records of the Emergency Events Database (EM-DAT). Loss rates are weighted by the hazard's frequency and distribution. The methodology of Sachs et al. (2003) is followed to determine baseline estimates of GDP per grid cell. To better reflect the confidence surrounding the data and procedures, the range of proportionalities is classified into deciles, 10 class of an approximately equal number of grid cells of increasing risk. This data set is the result of collaboration among the Columbia University Center for Hazards and Risk Research (CHRR), International Bank for Reconstruction and Development/The World Bank, and Columbia University Center for International Earth Science Information Network (CIESIN).",
+    "doi": "https://doi.org/10.7927/H44F1NNF",
+    "stac_category": "hazards",
+    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\ndh-cyclone-proportional-economic-loss-risk-deciles.xml",
+    "keywords": [
+      "Hazards",
+      "Sustainability",
+      "Global",
+      "Continent",
+      "Climatology/Meteorology/Atmosphere",
+      "Economy",
+      "EARTH SCIENCE > HUMAN DIMENSIONS > NATURAL HAZARDS > TROPICAL CYCLONES > CYCLONES",
+      "EARTH SCIENCE > HUMAN DIMENSIONS > SOCIOECONOMICS"
+    ],
+    "datetime": "2005-12-31T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Hazards"
+    }
+  ],
+  "assets": {}
+}

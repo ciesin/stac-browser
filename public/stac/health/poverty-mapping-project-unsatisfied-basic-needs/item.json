@@ -1,0 +1,70 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "poverty-mapping-project-unsatisfied-basic-needs",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -119.0,
+          -60.0
+        ],
+        [
+          -26.0,
+          -60.0
+        ],
+        [
+          -26.0,
+          33.0
+        ],
+        [
+          -119.0,
+          33.0
+        ],
+        [
+          -119.0,
+          -60.0
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    -119.0,
+    -60.0,
+    -26.0,
+    33.0
+  ],
+  "properties": {
+    "title": "Poverty Mapping Project: Unsatisfied Basic Needs",
+    "description": "The Poverty Mapping Project: Unsatisfied Basic Needs data set consists of measures of household level wellbeing and access to basic needs (such as adequate housing conditions, water, electricity, sanitation, education, and employment) for subnational administrative units of numerous countries in Latin America: Argentina, Bolivia, Brazil, Colombia, Ecuador, El Salvador, Guatemala, Honduras, Mexico, Nicaragua, and Peru. The data products include shapefiles (vector data) and tabular data sets (csv format). Additionally, a data catalog (xls format) containing detailed information and documentation is provided. This data set is produced by the Columbia University Center for International Earth Science Information Network (CIESIN), Economic Commission for Latin America and the Caribbean (ECLAC), and Centro Internacional de Agricultura Tropical (CIAT).",
+    "doi": "https://doi.org/10.7927/H45X26V8",
+    "stac_category": "health",
+    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\povmap-unsatisfied-basic-needs.xml",
+    "keywords": [
+      "Country",
+      "Health",
+      "Society",
+      "Poverty",
+      "EARTH SCIENCE > HUMAN DIMENSIONS > PUBLIC HEALTH",
+      "EARTH SCIENCE > HUMAN DIMENSIONS > SOCIOECONOMICS > POVERTY LEVELS"
+    ],
+    "datetime": "2005-12-31T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Health"
+    }
+  ],
+  "assets": {}
+}

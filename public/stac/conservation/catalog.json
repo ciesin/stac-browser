@@ -1,0 +1,256 @@
+{
+  "type": "Catalog",
+  "id": "conservation",
+  "stac_version": "1.1.0",
+  "description": "Datasets in the Conservation category.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "item",
+      "href": "./anthropogenic-biomes-12k-geographic-projection-10000-bce-2017-ce/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./anthropogenic-biomes-of-the-world-version-1/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./anthropogenic-biomes-of-the-world-version-2-1700/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./anthropogenic-biomes-of-the-world-version-2-1800/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./anthropogenic-biomes-of-the-world-version-2-1900/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./anthropogenic-biomes-of-the-world-version-2-2000/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./codata-catalog-of-roads-data-sets-version-1/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./indicators-of-coastal-water-quality-ancillary-data/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./indicators-of-coastal-water-quality-annual-chlorophyll-a-concentration-1998-2007/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./indicators-of-coastal-water-quality-change-in-chlorophyll-a-concentration-1998-2007/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./central-american-vegetationland-cover-classification-and-conservation-status/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./millennium-ecosystem-assessment-ma-biodiversity/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./natural-resource-management-index-nrmi-2010-release/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./natural-resource-management-index-nrmi-2011-release/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./natural-resource-protection-and-child-health-indicators-2012-release/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./natural-resource-protection-and-child-health-indicators-2013-release/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./natural-resource-protection-and-child-health-indicators-2014-release/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./natural-resource-protection-and-child-health-indicators-2015-release/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./natural-resource-protection-and-child-health-indicators-2016-release/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./natural-resource-protection-and-child-health-indicators-2017-release/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./natural-resource-protection-and-child-health-indicators-2018-release/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./natural-resource-protection-and-child-health-indicators-2019-release/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./natural-resource-protection-and-child-health-indicators-2020-release/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./natural-resource-protection-and-child-health-indicators-2021-release/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./natural-resource-protection-and-child-health-indicators-2022-release/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./natural-resource-protection-and-child-health-indicators-2023-release/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./natural-resource-protection-and-child-health-indicators-2024-release/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-estimated-net-migration-grids-by-decade-1970-2000/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./gridded-species-distribution-global-amphibian-richness-grids-2015-release/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./gridded-species-distribution-global-mammal-richness-grids-2015-release/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./west-africa-coastal-vulnerability-mapping-deforestation-2000-2012/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./west-africa-coastal-vulnerability-mapping-mangrove-forests-distribution-2000-polygon/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./west-africa-coastal-vulnerability-mapping-subset-of-global-mammal-and-amphibian-richness-grids-2015-release/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./last-of-the-wild-project-version-1-2002-lwp-1-global-human-footprint-dataset-geographic/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./last-of-the-wild-project-version-1-2002-lwp-1-global-human-footprint-dataset-ighp/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./last-of-the-wild-project-version-1-2002-lwp-1-last-of-the-wild-dataset-geographic/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./last-of-the-wild-project-version-1-2002-lwp-1-last-of-the-wild-dataset-ighp/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./last-of-the-wild-project-version-1-2002-lwp-1-top-one-percent-wild-areas-dataset-geographic/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./last-of-the-wild-project-version-1-2002-lwp-1-top-one-percent-wild-areas-dataset-ighp/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./last-of-the-wild-project-version-2-2005-lwp-2-global-human-footprint-dataset-geographic/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./last-of-the-wild-project-version-2-2005-lwp-2-global-human-footprint-dataset-ighp/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./last-of-the-wild-project-version-2-2005-lwp-2-global-human-influence-index-hii-dataset-geographic/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./last-of-the-wild-project-version-2-2005-lwp-2-global-human-influence-index-hii-dataset-ighp/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./last-of-the-wild-project-version-2-2005-lwp-2-last-of-the-wild-dataset-geographic/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./last-of-the-wild-project-version-2-2005-lwp-2-last-of-the-wild-dataset-ighp/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./last-of-the-wild-project-version-3-lwp-3-1993-human-footprint-2018-release/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./last-of-the-wild-project-version-3-lwp-3-2009-human-footprint-2018-release/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    }
+  ],
+  "title": "Conservation"
+}

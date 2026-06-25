@@ -1,0 +1,75 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "last-of-the-wild-project-version-2-2005-lwp-2-global-human-influence-index-hii-dataset-ighp",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -20015078.0,
+          -8673539.0
+        ],
+        [
+          20017922.0,
+          -8673539.0
+        ],
+        [
+          20017922.0,
+          8673460.0
+        ],
+        [
+          -20015078.0,
+          8673460.0
+        ],
+        [
+          -20015078.0,
+          -8673539.0
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    -20015078.0,
+    -8673539.0,
+    20017922.0,
+    8673460.0
+  ],
+  "properties": {
+    "title": "Last of the Wild Project, Version 2, 2005 (LWP-2): Global Human Influence Index (HII) Dataset (IGHP)",
+    "description": "The Global Human Influence Index Dataset of the Last of the Wild Project, Version 2, 2005 (LWP-2) is a global dataset of 1-kilometer grid cells, created from nine global data layers covering human population pressure (population density), human land use and infrastructure (built-up areas, nighttime lights, land use/land cover), and human access (coastlines, roads, railroads, navigable rivers). The dataset  in Interrupted Goode Homolosine Projection (IGHP) is produced by the Wildlife Conservation Society (WCS) and Columbia University Center for International Earth Science Information Network (CIESIN).",
+    "doi": "https://doi.org/10.7927/H46W980H",
+    "stac_category": "conservation",
+    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\wildareas-v2-human-influence-index-ighp.xml",
+    "keywords": [
+      "Biota",
+      "Environment",
+      "Imagery/Base Maps/Earth Cover",
+      "Planning/Cadastre",
+      "Global",
+      "Conservation",
+      "Land Use",
+      "Remote Sensing",
+      "Sustainability",
+      "EARTH SCIENCE > LAND SURFACE > LAND USE/LAND COVER",
+      "EARTH SCIENCE > BIOSPHERE > ECOSYSTEMS > ANTHROPOGENIC/HUMAN INFLUENCED ECOSYSTEMS"
+    ],
+    "datetime": "2005-12-31T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Conservation"
+    }
+  ],
+  "assets": {}
+}

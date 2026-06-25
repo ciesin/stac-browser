@@ -1,0 +1,71 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "archive-of-census-related-products-acrp-1990-standard-extract-files",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -180.0,
+          18.0
+        ],
+        [
+          -66.0,
+          18.0
+        ],
+        [
+          -66.0,
+          72.0
+        ],
+        [
+          -180.0,
+          72.0
+        ],
+        [
+          -180.0,
+          18.0
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    -180.0,
+    18.0,
+    -66.0,
+    72.0
+  ],
+  "properties": {
+    "title": "Archive of Census Related Products (ACRP): 1990 Standard Extract Files",
+    "description": "The 1990 Standard Extract Files portion of the Archive of Census Related Products (ACRP) contains population and housing data derived from the U.S. Census Bureau's 1990 STF3A database. The population data includes age\n\ndistribution, education levels, ethnicity, income distribution, labor force status and family structure, while the housing data embodies size and state of the housing unit, value of the unit, water, sewage, heating, and monthly owner      costs. The data are available by county, county subdivisions, place within-county, tract, block numbering area (bna), and blockgroup. Each file contains a unique POLygon IDentification (POLID) field which  matches a similar  field in the corresponding TIGER-based boundary file. Tract and blockgroup files are grouped by MSA (Metropolitan Statistical Area) and CMSA (Consolidated Metropolitan Statistical Area). This portion of the ACRP is   produced by the Columbia University Center for International Earth Science Information Network (CIESIN).",
+    "doi": "https://doi.org/10.7927/H46Q1V51",
+    "stac_category": "population",
+    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\acrp-standard-extract-1990.xml",
+    "keywords": [
+      "Population",
+      "County",
+      "State",
+      "Economy",
+      "Society",
+      "EARTH SCIENCE > HUMAN DIMENSIONS > POPULATION",
+      "United States of America"
+    ],
+    "datetime": "1996-12-31T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Population"
+    }
+  ],
+  "assets": {}
+}

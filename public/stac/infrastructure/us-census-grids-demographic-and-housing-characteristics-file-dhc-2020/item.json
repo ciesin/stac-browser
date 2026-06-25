@@ -1,0 +1,123 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "us-census-grids-demographic-and-housing-characteristics-file-dhc-2020",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -180.0,
+          17.0
+        ],
+        [
+          -65.0,
+          17.0
+        ],
+        [
+          -65.0,
+          72.0
+        ],
+        [
+          -180.0,
+          72.0
+        ],
+        [
+          -180.0,
+          17.0
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    -180.0,
+    17.0,
+    -65.0,
+    72.0
+  ],
+  "properties": {
+    "title": "U.S. Census Grids Demographic and Housing Characteristics File (DHC), 2020",
+    "description": "The U.S. Census Grids Demographic and Housing Characteristics File (DHC), 2020 contains grids of demographic and socioeconomic data from the 2020 U.S. Census. This data set includes block-level data for age, race, ethnicity, and housing (count), and land area (square kilometers) for the 50 U.S. states, Washington D.C., and Puerto Rico and are available in GeoTIFF, netCDF and Shapefile formats. The grids have a resolution of 15 arc-seconds (0.00415 decimal degrees), or approximately 500 square meters at the equator. The gridded data are derived from census block geography via U.S. Census 2020 Application Programming Interfaces (APIs), and population, households, and housing variables from the Demographic and Housing Characteristics File (DHC).",
+    "doi": "https://doi.org/10.7927/yxxc-jv91",
+    "stac_category": "infrastructure",
+    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\usgrid-demographic-housing-characteristics-file-2020.xml",
+    "keywords": [
+      "Country",
+      "State",
+      "Society",
+      "Infrastructure",
+      "Population",
+      "EARTH SCIENCE > HUMAN DIMENSIONS > POPULATION",
+      "United States of America",
+      "Alabama",
+      "Alaska",
+      "Arizona",
+      "Arkansas",
+      "California",
+      "Colorado",
+      "Connecticut",
+      "Delaware",
+      "District of Columbia",
+      "Florida",
+      "Georgia",
+      "Hawaii",
+      "Idaho",
+      "Illinois",
+      "Indiana",
+      "Iowa",
+      "Kansas",
+      "Kentucky",
+      "Louisiana",
+      "Maine",
+      "Maryland",
+      "Massachusetts",
+      "Michigan",
+      "Minnesota",
+      "Mississippi",
+      "Missouri",
+      "Montana",
+      "Nebraska",
+      "Nevada",
+      "New Hampshire",
+      "New Jersey",
+      "New Mexico",
+      "New York",
+      "North Carolina",
+      "North Dakota",
+      "Ohio",
+      "Oklahoma",
+      "Oregon",
+      "Pennsylvania",
+      "Puerto Rico",
+      "Rhode Island",
+      "South Carolina",
+      "South Dakota",
+      "Tennessee",
+      "Texas",
+      "Utah",
+      "Vermont",
+      "Virginia",
+      "Washington",
+      "West Virginia",
+      "Wisconsin",
+      "Wyoming"
+    ],
+    "datetime": "2025-06-09T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Infrastructure"
+    }
+  ],
+  "assets": {}
+}

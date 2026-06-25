@@ -1,0 +1,79 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "china-dimensions-data-collection-china-maps-bibliographic-database",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          73.0,
+          18.0
+        ],
+        [
+          135.0,
+          18.0
+        ],
+        [
+          135.0,
+          54.0
+        ],
+        [
+          73.0,
+          54.0
+        ],
+        [
+          73.0,
+          18.0
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    73.0,
+    18.0,
+    135.0,
+    54.0
+  ],
+  "properties": {
+    "title": "China Dimensions Data Collection: China Maps Bibliographic Database",
+    "description": "The China Maps Bibliographic Database is an historical collection of bibliographic information for more than 400 maps of China. The information resides in a searchable database and includes title, author/editor, publisher, location, projection, year, elevation, land cover type (forest, desert, marsh/swamp, grassland), vegetation, transportation (roads, railroads), rivers and lakes, spatial coverage (provincial, county, township), and language for maps published from 1765 to 1994. The information is available in both English and Chinese (GB Code for Chinese Characters). This data set is produced in collaboration with the University of Washington as part of the China in Time and Space (CITAS) project and the Center for International Earth Science Information Network (CIESIN).",
+    "doi": "https://doi.org/10.7927/H4ZW1HVD",
+    "stac_category": "infrastructure",
+    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\cddc-china-maps-bibliographic-db.xml",
+    "keywords": [
+      "Country",
+      "Province",
+      "County",
+      "Township",
+      "Boundaries",
+      "Economy",
+      "Farming",
+      "Society",
+      "Framework Data",
+      "Infrastructure",
+      "Land Use",
+      "EARTH SCIENCE > HUMAN DIMENSIONS > INFRASTRUCTURE",
+      "EARTH SCIENCE > BIOSPHERE > ECOSYSTEMS > FRESHWATER ECOSYSTEMS > LAKE/POND",
+      "EARTH SCIENCE > BIOSPHERE > ECOSYSTEMS > FRESHWATER ECOSYSTEMS > RIVERS/STREAMS",
+      "China"
+    ],
+    "datetime": "1997-02-28T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Infrastructure"
+    }
+  ],
+  "assets": {}
+}

@@ -1,0 +1,301 @@
+{
+  "type": "Catalog",
+  "id": "agriculture",
+  "stac_version": "1.1.0",
+  "description": "Datasets in the Agriculture category.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "item",
+      "href": "./global-agricultural-lands-croplands-2000/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-farm-size-version-1-2000/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-agricultural-lands-pastures-2000/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./china-dimensions-data-collection-agricultural-statistics-of-the-peoples-republic-of-china-1949-1990/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./china-dimensions-data-collection-china-county-level-data-on-population-census-and-agriculture-keyed-to-11m-gis-map/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./compendium-of-environmental-sustainability-indicator-collections-complete-collection-version-11/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./effects-of-climate-change-on-global-food-production-from-sres-emissions-and-socioeconomic-scenarios/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./potential-impacts-of-climate-change-on-world-food-supply-datasets-from-a-major-crop-modeling-study/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./2008-environmental-performance-index-epi/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./2010-environmental-performance-index-epi/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./2014-environmental-performance-index-epi/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./2016-environmental-performance-index-epi/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./2018-environmental-performance-index-epi/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./2020-environmental-performance-index-epi/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./2022-environmental-performance-index-epi/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./2012-environmental-performance-index-and-pilot-trend-environmental-performance-index/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-fertilizer-and-manure-version-1-nitrogen-fertilizer-application/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-fertilizer-and-manure-version-1-nitrogen-in-manure-production/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-pesticide-grids-pest-chemgrids-version-101/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-fertilizer-and-manure-version-1-phosphorus-fertilizer-application/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-fertilizer-and-manure-version-1-phosphorus-in-manure-production/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./food-insecurity-hotspots-data-set/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./twentieth-century-crop-statistics-1900-2017/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-roads-open-access-data-set-version-1-groadsv1/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./hanpp-collection-human-appropriation-of-net-primary-productivity-hanpp-by-country-and-product/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./hanpp-collection-global-patterns-in-human-appropriation-of-net-primary-productivity-hanpp/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./hanpp-collection-global-patterns-in-net-primary-productivity-npp/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./hanpp-collection-human-appropriation-of-net-primary-productivity-as-a-percentage-of-net-primary-productivity/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./india-annual-winter-cropped-area-2001-2016/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./ipcc-fourth-assessment-report-ar4-observed-climate-change-impacts-database/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./ipcc-fifth-assessment-report-ar5-observed-climate-change-impacts-database-version-201/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./inform-global-risk-index-2019-mid-year-v037/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-development-potential-indices/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./development-threat-index/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-human-modification-of-terrestrial-systems/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./millennium-ecosystem-assessment-ma-ecosystems/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./millennium-ecosystem-assessment-ma-rapid-land-cover-change/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./millennium-ecosystem-assessment-ma-scenarios/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-drought-hazard-frequency-and-distribution/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-drought-mortality-risks-and-distribution/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-drought-proportional-economic-loss-risk-deciles/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-drought-total-economic-loss-risk-deciles/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-flood-hazard-frequency-and-distribution/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-flood-mortality-risks-and-distribution/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-flood-proportional-economic-loss-risk-deciles/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-flood-total-economic-loss-risk-deciles/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-landslide-hazard-distribution/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-landslide-mortality-risks-and-distribution/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-landslide-proportional-economic-loss-risk-deciles/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-landslide-total-economic-loss-risk-deciles/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./poverty-mapping-project-global-subnational-prevalence-of-child-malnutrition/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./poverty-mapping-project-poverty-and-food-security-case-studies/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./trends-in-global-freshwater-availability-from-the-gravity-recovery-and-climate-experiment-grace/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./shared-socioeconomic-pathways-ssps-literature-database-v1-2014-2019/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./sub-global-scenarios-that-extend-the-global-ssp-narratives-literature-database-version-1-2014-2021/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./west-africa-coastal-vulnerability-mapping-commercial-crop-production-2000/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    }
+  ],
+  "title": "Agriculture"
+}

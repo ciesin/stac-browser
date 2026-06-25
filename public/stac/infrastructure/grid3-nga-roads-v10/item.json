@@ -1,0 +1,68 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "grid3-nga-roads-v10",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          2.683151,
+          4.277235
+        ],
+        [
+          14.675862,
+          4.277235
+        ],
+        [
+          14.675862,
+          13.8842
+        ],
+        [
+          2.683151,
+          13.8842
+        ],
+        [
+          2.683151,
+          4.277235
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    2.683151,
+    4.277235,
+    14.675862,
+    13.8842
+  ],
+  "properties": {
+    "title": "GRID3 NGA - Roads v1.0",
+    "description": "<div style='text-align:Left;'><div><div><p>For more information on the methodology and data sources used during the production of this data, click <a target='_blank' href='https://academiccommons.columbia.edu/doi/10.7916/t9xr-sz30/download' rel='nofollow ugc noopener noreferrer'>here</a>.</p><p><strong>Dataset citation:</strong></p><p><span>Center for Integrated Earth System Information (CIESIN), Columbia University. 2025. GRID3 NGA - Roads v1.0.New York: Columbia University. https://doi.org/10.7916/b42r-6w17. Accessed &lt;DAY MONTH YEAR&gt;.</span></p><p><strong>Contacts and data queries:</strong></p><p><span>The authors of this dataset appreciate feedback regarding the data, including suggestions, discovery of errors, difficulties in using the data, and format preferences.</span></p><p><span>For dataset-related questions, please send an email to: info@ciesin.columbia.edu</span></p><p>&nbsp;</p></div></div></div>",
+    "doi": "https://doi.org/10.7916/b42r-6w17",
+    "stac_category": "infrastructure",
+    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\ALL CIESIN XML\\GRID3 NGA - Roads v1.0.xml",
+    "keywords": [
+      "NGA",
+      "Nigeria",
+      "Roads",
+      "latest"
+    ],
+    "datetime": "2025-08-15T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Infrastructure"
+    }
+  ],
+  "assets": {}
+}

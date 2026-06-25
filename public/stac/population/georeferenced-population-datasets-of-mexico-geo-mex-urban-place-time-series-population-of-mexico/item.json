@@ -1,0 +1,72 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "georeferenced-population-datasets-of-mexico-geo-mex-urban-place-time-series-population-of-mexico",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -117.0,
+          14.0
+        ],
+        [
+          -87.0,
+          14.0
+        ],
+        [
+          -87.0,
+          33.0
+        ],
+        [
+          -117.0,
+          33.0
+        ],
+        [
+          -117.0,
+          14.0
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    -117.0,
+    14.0,
+    -87.0,
+    33.0
+  ],
+  "properties": {
+    "title": "Georeferenced Population Datasets of Mexico (GEO-MEX): Urban Place Time-Series Population of Mexico",
+    "description": "The Urban Place Time-Series Population of Mexico contains population counts for more than 700 urban centers every 10 years from 1921 through 1990. The urban centers include metropolitan, conurbation, and city areas with more than 5,000 inhabitants as of 1980. This data set is produced by the Columbia University Center for International Earth Science Information Network (CIESIN).",
+    "doi": "https://doi.org/10.7927/H4S46PV7",
+    "stac_category": "population",
+    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\geo-mex-mexico-urban-place-time-series-population.xml",
+    "keywords": [
+      "Country",
+      "State",
+      "County",
+      "City",
+      "Population",
+      "Society",
+      "EARTH SCIENCE > HUMAN DIMENSIONS > POPULATION",
+      "Mexico"
+    ],
+    "datetime": "1994-12-31T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Population"
+    }
+  ],
+  "assets": {}
+}

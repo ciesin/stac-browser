@@ -1,0 +1,116 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "africa-climate-mobility-initiative-acmi-bilateral-migration-projections",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -17.33,
+          -34.51
+        ],
+        [
+          51.27,
+          -34.51
+        ],
+        [
+          51.27,
+          37.21
+        ],
+        [
+          -17.33,
+          37.21
+        ],
+        [
+          -17.33,
+          -34.51
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    -17.33,
+    -34.51,
+    51.27,
+    37.21
+  ],
+  "properties": {
+    "title": "Africa Climate Mobility Initiative (ACMI): Bilateral Migration Projections",
+    "description": "The Africa Climate Mobility Initiative (ACMI) Bilateral Migration Projections project bilateral migration flows at 5-year intervals from 2015 to 2050 for a combination of 2 sets of Shared Socioeconomic Pathways (SSPs) scenarios and 3 sets of Representative Concentration Pathways (RCPs) scenarios. The unit of analysis for the projections are directed migration corridors from an origin country to a receiving country in the African continent. There are 46 African countries and thus 2,070 unique directed corridors. These data underpin the African Shifts Report, produced by the ACMI and enabled by the Global Centre for Climate Mobility (GCCM). The ACMI was launched in September 2021 as a joint initiative of the GCCM, the African Union Commission (AUC), the United Nations System (UN), and the World Bank.",
+    "doi": "https://doi.org/10.7927/4jb8-e177",
+    "stac_category": "population",
+    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\climmig-acmi-bilateral-migration-projections.xml",
+    "keywords": [
+      "Continent",
+      "Country",
+      "Population",
+      "Society",
+      "EARTH SCIENCE > HUMAN DIMENSIONS > POPULATION",
+      "Africa",
+      "Algeria",
+      "Angola",
+      "Benin",
+      "Botswana",
+      "Burkina Faso",
+      "Burundi",
+      "Cameroon",
+      "Central African Republic",
+      "Chad",
+      "Congo",
+      "Congo, Democratic",
+      "Cote D'Ivoire",
+      "Egypt",
+      "Eritrea",
+      "Eswatini",
+      "Ethiopia",
+      "Gabon",
+      "Gambia",
+      "Ghana",
+      "Guinea",
+      "Guinea-Bissau",
+      "Kenya",
+      "Lesotho",
+      "Liberia",
+      "Libya",
+      "Madagascar",
+      "Malawi",
+      "Mali",
+      "Mauritania",
+      "Morocco",
+      "Mozambique",
+      "Namibia",
+      "Niger",
+      "Nigeria",
+      "Rwanda",
+      "Senegal",
+      "Sierra Leone",
+      "Somalia",
+      "South Africa",
+      "Sudan",
+      "Tanzania",
+      "Togo",
+      "Tunisia",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "datetime": "2024-12-20T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Population"
+    }
+  ],
+  "assets": {}
+}

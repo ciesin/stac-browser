@@ -1,0 +1,111 @@
+{
+  "type": "Catalog",
+  "id": "infrastructure",
+  "stac_version": "1.1.0",
+  "description": "Datasets in the Infrastructure category.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "item",
+      "href": "./china-dimensions-data-collection-china-maps-bibliographic-database/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-reservoir-and-dam-database-version-1-grandv1-dams-revision-01/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-man-made-impervious-surface-gmis-dataset-from-landsat/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-human-built-up-and-settlement-extent-hbase-dataset-from-landsat/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./dar-es-salaam-land-use-and-informal-settlement-data-set/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-urban-polygons-and-points-dataset-guppd-version-1/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./us-census-grids-demographic-and-housing-characteristics-file-dhc-2020/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./west-africa-coastal-vulnerability-mapping-subset-of-jrc-map-of-accessibility/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./west-africa-coastal-vulnerability-mapping-subset-of-openstreetmap-osm-roads/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./grid3-cod-religious-centers-v10/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./grid3-cod-schools-v10/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./grid3-nga-health-facilities-v20/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./grid3-sle-health-facilities-v10/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./grid3-nga-roads-v10/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./grid3-nga-travel-time-friction-surface-v10/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./grid3-cod-health-facilities-v80/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./grid3-cod-roads-v10/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./grid3-cod-travel-time-friction-surface-v10/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    }
+  ],
+  "title": "Infrastructure"
+}

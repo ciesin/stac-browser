@@ -1,0 +1,69 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "ipcc-special-report-on-emissions-scenarios-sres-emissions-scenarios-dataset-version-11",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -180.0,
+          -90.0
+        ],
+        [
+          180.0,
+          -90.0
+        ],
+        [
+          180.0,
+          90.0
+        ],
+        [
+          -180.0,
+          90.0
+        ],
+        [
+          -180.0,
+          -90.0
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    -180.0,
+    -90.0,
+    180.0,
+    90.0
+  ],
+  "properties": {
+    "title": "IPCC Special Report on Emissions Scenarios (SRES) Emissions Scenarios Dataset Version 1.1",
+    "description": "The Intergovernmental Panel on Climate Change (IPCC) Special Report on Emissions Scenarios (SRES) Emissions Scenarios Dataset Version 1.1 consists of 40 global and regional greenhouse gases (GHGs) and sulfur emissions scenarios projected every 10 years beginning in 1990 through 2100. The scenarios are based on extensive assessment of driving forces and emissions in the scenario literature, alternative modeling approaches, and an open process that solicited wide participation and feedback. The scenarios provide the basis for future assessments of climate change and possible response strategies. This data set is produced by the IPCC and is distributed by the Columbia University Center for International Earth Science Information Network (CIESIN).",
+    "doi": "https://doi.org/10.7927/H4N29TWJ",
+    "stac_category": "climate",
+    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\ipcc-emissions-v1-1.xml",
+    "keywords": [
+      "Global",
+      "Continent",
+      "Environment",
+      "Climate",
+      "EARTH SCIENCE > ATMOSPHERE > AIR QUALITY > EMISSIONS"
+    ],
+    "datetime": "2000-07-31T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Climate"
+    }
+  ],
+  "assets": {}
+}

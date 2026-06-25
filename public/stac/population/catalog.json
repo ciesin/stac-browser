@@ -1,0 +1,326 @@
+{
+  "type": "Catalog",
+  "id": "population",
+  "stac_version": "1.1.0",
+  "description": "Datasets in the Population category.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "item",
+      "href": "./archive-of-census-related-products-acrp-1992-boundary-files/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./archive-of-census-related-products-acrp-1990-census-block-statistics/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./archive-of-census-related-products-acrp-1990-enhanced-migration-files/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./public-use-microdata-samples-pums/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./archive-of-census-related-products-acrp-1980-sas-transport-files/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./archive-of-census-related-products-acrp-1990-sas-transport-files/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./archive-of-census-related-products-acrp-1990-standard-extract-files/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./archive-of-census-related-products-acrp-1990-street-intersections/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./archive-of-census-related-products-acrp-1990-summary-tape-file-stf1b/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./archive-of-census-related-products-acrp-1990-zip-equivalency-files/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./africa-climate-mobility-initiative-acmi-bilateral-migration-projections/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./africa-climate-mobility-initiative-acmi-internal-migration-projections/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./georeferenced-population-datasets-of-mexico-geo-mex-population-database-of-mexico/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./georeferenced-population-datasets-of-mexico-geo-mex-raster-based-gis-coverage-of-mexican-population/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./georeferenced-population-datasets-of-mexico-geo-mex-gis-of-mexican-states-municipalities-and-islands/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./georeferenced-population-datasets-of-mexico-geo-mex-urban-place-gis-coverage-of-mexico/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./georeferenced-population-datasets-of-mexico-geo-mex-urban-place-time-series-population-of-mexico/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-human-settlement-layer-population-and-built-up-estimates-and-degree-of-urbanization-settlement-model-grid/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./gridded-population-of-the-world-version-3-gpwv3-population-count-grid-future-estimates/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./gridded-population-of-the-world-version-3-gpwv3-population-count-grid/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./gridded-population-of-the-world-version-3-gpwv3-population-density-grid-future-estimates/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./gridded-population-of-the-world-version-3-gpwv3-population-density-grid/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./gridded-population-of-the-world-version-4-gpwv4-administrative-unit-center-points-with-population-estimates-revision-11/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./gridded-population-of-the-world-version-4-gpwv4-basic-demographic-characteristics-revision-11/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./gridded-population-of-the-world-version-4-gpwv4-national-identifier-grid-revision-11/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./gridded-population-of-the-world-version-4-gpwv4-population-count-adjusted-to-match-2015-revision-of-un-wpp-country-totals-revision-11/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./gridded-population-of-the-world-version-4-gpwv4-population-count-revision-11/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./gridded-population-of-the-world-version-4-gpwv4-population-density-adjusted-to-match-2015-revision-un-wpp-country-totals-revision-11/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./gridded-population-of-the-world-version-4-gpwv4-population-density-revision-11/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-rural-urban-mapping-project-version-1-grumpv1-coastlines/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-rural-urban-mapping-project-version-1-grumpv1-land-and-geographic-unit-area-grids/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-rural-urban-mapping-project-version-1-grumpv1-national-administrative-boundaries/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-rural-urban-mapping-project-version-1-grumpv1-national-identifier-grid/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-rural-urban-mapping-project-version-1-grumpv1-population-count-grid/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-rural-urban-mapping-project-version-1-grumpv1-population-density-grid/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-rural-urban-mapping-project-version-1-grumpv1-settlement-points-revision-01/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-rural-urban-mapping-project-version-1-grumpv1-settlement-points/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-rural-urban-mapping-project-version-1-grumpv1-urban-extent-polygons-revision-02/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-rural-urban-mapping-project-version-1-grumpv1-urban-extents-grid/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./india-village-level-geospatial-socio-economic-data-set-1991-2001/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./spatial-data-from-the-2011-india-census/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./millennium-ecosystem-assessment-ma-population/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-one-eighth-degree-population-base-year-and-projection-grids-based-on-the-shared-socioeconomic-pathways-revision-01/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-1-km-downscaled-population-base-year-and-projection-grids-based-on-the-shared-socioeconomic-pathways-revision-01/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-population-count-grid-time-series-estimates/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-population-density-grid-time-series-estimates/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./latin-america-and-the-caribbean-population-time-series/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./georeferenced-us-county-level-population-projections-total-and-by-sex-race-and-age-based-on-the-ssps-2020-2100/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./historical-urban-population-3700-bc-ad-2000/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./us-census-grids-summary-file-1-1990-metropolitan-statistical-areas/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./us-census-grids-summary-file-1-1990/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./us-census-grids-summary-file-1-2000-metropolitan-statistical-areas/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./us-census-grids-summary-file-1-2000/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./us-census-grids-summary-file-1-2010/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./us-census-grids-summary-file-3-1990-metropolitan-statistical-areas/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./us-census-grids-summary-file-3-1990/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./us-census-grids-summary-file-3-2000-metropolitan-statistical-areas/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./us-census-grids-summary-file-3-2000/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./west-africa-coastal-vulnerability-mapping-gpw-version-4-population-density-preliminary-release-1-2010/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./west-africa-coastal-vulnerability-mapping-gpw-version-4-population-growth-preliminary-release-1-2000-2010/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./west-africa-coastal-vulnerability-mapping-population-projections-2030-and-2050/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    }
+  ],
+  "title": "Population"
+}

@@ -1,0 +1,76 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "millennium-ecosystem-assessment-ma-climate-and-land-cover",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -180.0,
+          -90.0
+        ],
+        [
+          180.0,
+          -90.0
+        ],
+        [
+          180.0,
+          90.0
+        ],
+        [
+          -180.0,
+          90.0
+        ],
+        [
+          -180.0,
+          -90.0
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    -180.0,
+    -90.0,
+    180.0,
+    90.0
+  ],
+  "properties": {
+    "title": "Millennium Ecosystem Assessment: MA Climate and Land Cover",
+    "description": "The Millennium Ecosystem Assessment: MA Climate and Land Cover provides data and information on global gridded climatological variables, global land cover maps, and national and international protected areas. The climatological data include the Climatic Research Unit (CRU) monthly terrestrial surface temperature and precipitation grids at 0.5 degree resolution from 1901-1996, along with temperature and precipitation grids at 10-minute resolution from the CRU and the International Water Management Institute (IWMI). The Global Land Cover 2000 (GLC2000) was produced by an international partnership of 30 research groups coordinated by the European Commission's Joint Research Centre (JRC), which contained two levels of land cover information; detailed and regionally optimized land cover for each continent, and a less thematically detailed global land cover that harmonizes regions into one consistent product. The maps were based on daily data from the Vegetation 1 sensor on-board SPOT 4, though mapping of regions required the use of data from additional Earth observing sensors to resolve specific issues. The international and national protected areas were generated from the World Database of Protected Areas for the year 2000.",
+    "doi": "https://doi.org/10.7927/H4QJ7F8M",
+    "stac_category": "climate",
+    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\ma-climate-land-cover.xml",
+    "keywords": [
+      "Climate",
+      "Land Use",
+      "Remote Sensing",
+      "Water",
+      "CIESIN > Environmental Protection > Land Use",
+      "CIESIN > Environmental Protection > Climate > Climate Factors",
+      "Global",
+      "Millenium Ecosystem Assessment",
+      "Protected Areas",
+      "Climatology/Meteorology/Atmosphere",
+      "Imagery/Base Maps/Earth Cover",
+      "EARTH SCIENCE > LAND SURFACE > LAND USE/LAND COVER"
+    ],
+    "datetime": "2005-05-29T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Climate"
+    }
+  ],
+  "assets": {}
+}

@@ -1,0 +1,69 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "grid3-cod-religious-centers-v10",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          15.173149999000032,
+          -12.437899999999969
+        ],
+        [
+          29.701728333000066,
+          -12.437899999999969
+        ],
+        [
+          29.701728333000066,
+          -2.583156666999965
+        ],
+        [
+          15.173149999000032,
+          -2.583156666999965
+        ],
+        [
+          15.173149999000032,
+          -12.437899999999969
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    15.173149999000032,
+    -12.437899999999969,
+    29.701728333000066,
+    -2.583156666999965
+  ],
+  "properties": {
+    "title": "GRID3 COD - Religious Centers v1.0",
+    "description": "<p>The data are available for download in OGC Geopackage format contained in a\u00a0<a href='https://academiccommons.columbia.edu/doi/10.7916/2zcw-7327/download' target='_blank' rel='nofollow ugc noopener noreferrer'>zip file</a>.</p><p></p><p>This data release supersedes the dataset \u201c<a href='https://doi.org/10.7916/z4vq-h095' target='_blank' rel='nofollow ugc noopener noreferrer'>GRID3 COD - Religious Centers: five provinces v1.0</a>\u201d.</p><p></p><p>This operational dataset has not been fully validated by government officials or ministries.</p><div></div><div>Download province level data:</div><div><ul><li><a href='https://academiccommons.columbia.edu/doi/10.7916/jyre-a256/download' target='_blank' rel='nofollow ugc noopener noreferrer'>Haut-Katanga</a></li><li><a href='https://academiccommons.columbia.edu/doi/10.7916/14e6-xp70/download' target='_blank' rel='nofollow ugc noopener noreferrer'>Kasa\u00ef</a></li><li><a href='https://academiccommons.columbia.edu/doi/10.7916/zg2q-sg41/download' target='_blank' rel='nofollow ugc noopener noreferrer'>Kasa\u00ef-Oriental</a></li><li><a href='https://academiccommons.columbia.edu/doi/10.7916/22g6-0z67/download' target='_blank' rel='nofollow ugc noopener noreferrer'>Kinshasa</a></li><li><a href='https://academiccommons.columbia.edu/doi/10.7916/fq1y-vn73/download' target='_blank' rel='nofollow ugc noopener noreferrer'>Lomami</a></li></ul><p>For more information on the methodology and data sources used during the production of this data, see the <a href='https://academiccommons.columbia.edu/doi/10.7916/a3gy-hy12/download' target='_blank' rel='nofollow ugc noopener noreferrer'>Data Release Notes</a>.<br /></p><p>Dataset citation:<br />Center for International Earth Science Information Network (CIESIN), Columbia University and Minist\u00e8re de la Sant\u00e9 Publique, Hygi\u00e8ne et Pr\u00e9vention, Democratic Republic of the Congo, 2024. GRID3 COD - Religious Centers v1.0. New York: GRID3. https://doi.org/10.7916/hesc-8041. Accessed &lt;DAY MONTH YEAR&gt;.</p><p></p><p>Contacts and data queries:<br />The authors of this dataset appreciate feedback regarding the data, including suggestions, discovery of errors, difficulties in using the data, and format preferences. For dataset-related questions, please send an email to: info@ciesin.columbia.edu<br /></p></div>",
+    "doi": "https://doi.org/10.7916/hesc-8041",
+    "stac_category": "infrastructure",
+    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\ALL CIESIN XML\\GRID3 COD - Religious Centers v1.0.xml",
+    "keywords": [
+      "COD",
+      "Democratic Republic of the Congo",
+      "POI",
+      "Religious Centers",
+      "Religious centers"
+    ],
+    "datetime": "2024-05-10T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Infrastructure"
+    }
+  ],
+  "assets": {}
+}

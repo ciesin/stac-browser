@@ -1,0 +1,72 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "indicators-of-coastal-water-quality-annual-chlorophyll-a-concentration-1998-2007",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -180.0,
+          -90.0
+        ],
+        [
+          179.99856,
+          -90.0
+        ],
+        [
+          179.99856,
+          89.99928
+        ],
+        [
+          -180.0,
+          89.99928
+        ],
+        [
+          -180.0,
+          -90.0
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    -180.0,
+    -90.0,
+    179.99856,
+    89.99928
+  ],
+  "properties": {
+    "title": "Indicators of Coastal Water Quality: Annual Chlorophyll-a Concentration 1998-2007",
+    "description": "The Annual Chlorophyll-a Concentrations component of the Indicators of Coastal Water Quality Collection consists of gridded satellite measurements of chlorophyll-a concentrations (in nanogram/cubic meter) in a band extending between 10 and 100 km from the shoreline. Chlorophyll-a concentrations are derived from NASA's Sea-viewing Wide Field-of-view Sensor (SeaWiFS). The grids are based on annual composites of SeaWiFS satellite data provided by the SeaWiFS Project, NASA/Goddard Space Flight Center and GeoEye in the form of HDF files at a resolution of 5 arc-minutes (approximately 9 x 9 km at the equator). The source files are true-color images generated from sub-sampled, calibrated, Rayleigh-corrected level-2 data, which are derived from raw radiance counts by applying sensor calibration, atmospheric corrections, and bio-optical algorithms. To arrive at chlorophyll-a concentrations, radiance counts were converted using the conversion formula provided as part of the original data files. The gridding is done by the Columbia University Center for International Earth Science Information Network (CIESIN).",
+    "doi": "https://doi.org/10.7927/H4DN4300",
+    "stac_category": "conservation",
+    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\icwq-annual-chlorophyll-a-concentration-1998-2007.xml",
+    "keywords": [
+      "Conservation",
+      "Health",
+      "Marine and  Coastal",
+      "Remote Sensing",
+      "Sustainability",
+      "Oceans",
+      "Global",
+      "EARTH SCIENCE > OCEANS > OCEAN CHEMISTRY > CHLOROPHYLL"
+    ],
+    "datetime": "2009-12-31T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Conservation"
+    }
+  ],
+  "assets": {}
+}

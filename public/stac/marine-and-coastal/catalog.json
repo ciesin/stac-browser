@@ -1,0 +1,41 @@
+{
+  "type": "Catalog",
+  "id": "marine-and-coastal",
+  "stac_version": "1.1.0",
+  "description": "Datasets in the Marine and  Coastal category.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "item",
+      "href": "./compendium-of-environmental-sustainability-indicator-collections-the-wellbeing-of-nations/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./gridded-population-of-the-world-version-3-gpwv3-coastlines/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./gridded-population-of-the-world-version-3-gpwv3-land-and-geographic-unit-area-grids/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./us-social-vulnerability-index-grids-revision-01/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    }
+  ],
+  "title": "Marine and  Coastal"
+}

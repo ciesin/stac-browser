@@ -1,0 +1,70 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "global-15-x-15-minute-grids-of-the-downscaled-gdp-based-on-the-sres-b2-scenario-1990-and-2025",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -180.0,
+          -90.0
+        ],
+        [
+          180.0,
+          -90.0
+        ],
+        [
+          180.0,
+          90.0
+        ],
+        [
+          -180.0,
+          90.0
+        ],
+        [
+          -180.0,
+          -90.0
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    -180.0,
+    -90.0,
+    180.0,
+    90.0
+  ],
+  "properties": {
+    "title": "Global 15 x 15 Minute Grids of the Downscaled GDP Based on the SRES B2 Scenario, 1990 and 2025",
+    "description": "The Global 15x15 Minute Grids of the Downscaled GDP Based on the Special Report on Emissions Scenarios (SRES) B2 Scenario, 1990 and 2025, are geospatial distributions of Gross Domestic Product (GDP) per unit area (GDP densities). These global grids were generated using the Country-level GDP and Downscaled Projections Based on the SRES B2 Scenario, 1990-2100 data set, and CIESIN's Gridded Population of World, Version 2 (GPWv2) data set as the base map. First, the GDP per capita was developed at a country-level for 1990 and 2025. Then the gridded GDP was developed within each country by applying the GDP per capita to each grid cell of the GPW, under the assumption that the GDP per capita was uniform within a country. This data set is produced and distributed by the Columbia University Center for International Earth Science Information Network (CIESIN).",
+    "doi": "https://doi.org/10.7927/H4NC5Z4X",
+    "stac_category": "climate",
+    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\sdp-downscaled-gdp-grid-b2-1990-2025.xml",
+    "keywords": [
+      "Global",
+      "Continent",
+      "Country",
+      "Climate",
+      "Economy",
+      "EARTH SCIENCE > ATMOSPHERE > AIR QUALITY > EMISSIONS"
+    ],
+    "datetime": "2004-06-30T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Climate"
+    }
+  ],
+  "assets": {}
+}

@@ -1,0 +1,81 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "anthropogenic-biomes-of-the-world-version-1",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -180.0,
+          -55.750001
+        ],
+        [
+          180.0,
+          -55.750001
+        ],
+        [
+          180.0,
+          83.083332
+        ],
+        [
+          -180.0,
+          83.083332
+        ],
+        [
+          -180.0,
+          -55.750001
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    -180.0,
+    -55.750001,
+    180.0,
+    83.083332
+  ],
+  "properties": {
+    "title": "Anthropogenic Biomes of the World, Version 1",
+    "description": "The  Anthropogenic Biomes of the World, Version 1 data set describes globally-significant ecological patterns within the terrestrial biosphere caused by sustained direct human interaction with ecosystems, including agriculture, urbanization, forestry and other land uses. Conventional biomes, such as tropical rainforests or grasslands, are based on global vegetation patterns related to climate. Now that humans have fundamentally altered global patterns of ecosystem form, process, and biodiversity, anthropogenic biomes provide a contemporary view of the terrestrial biosphere in its human-altered form. Anthropogenic biomes may also be termed \"anthromes\" to distinguish them from conventional biome systems, or \"human biomes\" (a simpler but less precise term). This data set is distributed by the Columbia University Center for International Earth Science Information Network (CIESIN).",
+    "doi": "https://doi.org/10.7927/H4H12ZXD",
+    "stac_category": "conservation",
+    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\anthromes-anthropogenic-biomes-world-v1.xml",
+    "keywords": [
+      "Conservation",
+      "Land Use",
+      "Remote Sensing",
+      "Sustainability",
+      "Continent",
+      "Global",
+      "Biota",
+      "Environment",
+      "Imagery/Base Maps/Earth Cover",
+      "Society",
+      "EARTH SCIENCE > BIOSPHERE > ECOSYSTEMS > ANTHROPOGENIC/HUMAN INFLUENCED ECOSYSTEMS",
+      "Africa",
+      "Asia",
+      "Europe",
+      "North America",
+      "Oceania",
+      "South America"
+    ],
+    "datetime": "2008-12-31T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Conservation"
+    }
+  ],
+  "assets": {}
+}

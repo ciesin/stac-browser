@@ -1,0 +1,78 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "gridded-population-of-the-world-version-4-gpwv4-administrative-unit-center-points-with-population-estimates-revision-11",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -179.96,
+          -90.0
+        ],
+        [
+          179.95,
+          -90.0
+        ],
+        [
+          179.95,
+          90.0
+        ],
+        [
+          -179.96,
+          90.0
+        ],
+        [
+          -179.96,
+          -90.0
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    -179.96,
+    -90.0,
+    179.95,
+    90.0
+  ],
+  "properties": {
+    "title": "Gridded Population of the World, Version 4 (GPWv4): Administrative Unit Center Points with Population Estimates, Revision 11",
+    "description": "The Gridded Population of the World, Version 4 (GPWv4): Administrative Unit Center Points with Population Estimates, Revision 11 consists of UN WPP-adjusted population estimates and densities for the years 2000, 2005, 2010, 2015 and 2020, as well as the basic demographic characteristics (age and sex) for the year 2010. The data set also includes administrative name, land and water area, and data context by administrative unit center point (centroid) location. The center points are based on approximately 13.5 million input administrative units used in GPWv4, therefore, these files require hardware and software that can read large amounts of data into memory.",
+    "doi": "https://doi.org/10.7927/H4BC3WMT",
+    "stac_category": "population",
+    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\gpw-v4-admin-unit-center-points-population-estimates-rev11.xml",
+    "keywords": [
+      "EARTH SCIENCE > HUMAN DIMENSIONS > POPULATION > POPULATION ESTIMATES",
+      "EARTH SCIENCE > HUMAN DIMENSIONS > BOUNDARIES",
+      "Population",
+      "Country",
+      "Continent",
+      "Global",
+      "Boundaries",
+      "Society",
+      "Africa",
+      "Asia",
+      "Europe",
+      "North America",
+      "Oceania",
+      "South America"
+    ],
+    "datetime": "2018-12-31T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Population"
+    }
+  ],
+  "assets": {}
+}

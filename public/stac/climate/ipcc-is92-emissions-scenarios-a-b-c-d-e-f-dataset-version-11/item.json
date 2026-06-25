@@ -1,0 +1,70 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "ipcc-is92-emissions-scenarios-a-b-c-d-e-f-dataset-version-11",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -180.0,
+          -90.0
+        ],
+        [
+          180.0,
+          -90.0
+        ],
+        [
+          180.0,
+          90.0
+        ],
+        [
+          -180.0,
+          90.0
+        ],
+        [
+          -180.0,
+          -90.0
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    -180.0,
+    -90.0,
+    180.0,
+    90.0
+  ],
+  "properties": {
+    "title": "IPCC IS92 Emissions Scenarios (A, B, C, D, E, F) Dataset Version 1.1",
+    "description": "The Intergovernmental Panel on Climate Change (IPCC) IS92 Emissions Scenarios (A, B, C, D, E, F) Dataset Version 1.1 consists of six global and regional greenhouse gases (GHGs) emissions scenarios projected from 1990 through 2100. The six alternative IPCC scenarios (IS92 A to F) were published in the 1992 Supplementary Report to the IPCC Assessment. These scenarios embodied a wide array of assumptions affecting how future greenhouse gas emissions might evolve in the absence of climate policies beyond those already adopted. The data set was originally produced by IPCC in 1992, and the digital version was re-edited in 2005 to resolve the discrepancies among versions of the data over years. The definitive version of this data set is distributed by the Columbia University Center for International Earth Science Information Network (CIESIN).",
+    "doi": "https://doi.org/10.7927/H41C1TT4",
+    "stac_category": "climate",
+    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\ipcc-is92-emissions-scenarios-v1-1.xml",
+    "keywords": [
+      "Global",
+      "Continent",
+      "Country",
+      "Environment",
+      "Climate",
+      "EARTH SCIENCE > ATMOSPHERE > AIR QUALITY > EMISSIONS"
+    ],
+    "datetime": "2000-07-31T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Climate"
+    }
+  ],
+  "assets": {}
+}

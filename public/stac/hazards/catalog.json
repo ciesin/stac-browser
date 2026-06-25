@@ -1,0 +1,171 @@
+{
+  "type": "Catalog",
+  "id": "hazards",
+  "stac_version": "1.1.0",
+  "description": "Datasets in the Hazards category.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "item",
+      "href": "./population-exposure-estimates-in-proximity-to-nuclear-power-plants-country-level-aggregates/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./population-exposure-estimates-in-proximity-to-nuclear-power-plants-locations/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-cyclone-hazard-frequency-and-distribution/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-cyclone-mortality-risks-and-distribution/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-cyclone-proportional-economic-loss-risk-deciles/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-cyclone-total-economic-loss-risk-deciles/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-earthquake-hazard-distribution-peak-ground-acceleration/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-earthquake-hazard-frequency-and-distribution/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-earthquake-mortality-risks-and-distribution/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-earthquake-proportional-economic-loss-risk-deciles/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-earthquake-total-economic-loss-risk-deciles/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-multihazard-frequency-and-distribution/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-multihazard-mortality-risks-and-distribution/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-multihazard-proportional-economic-loss-risk-deciles/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-multihazard-total-economic-loss-risk-deciles/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-volcano-hazard-frequency-and-distribution/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-volcano-mortality-risks-and-distribution/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-volcano-proportional-economic-loss-risk-deciles/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-volcano-total-economic-loss-risk-deciles/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./geocoded-disasters-gdis-dataset/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./us-population-grids-summary-file-1-2000-alabama-louisiana-mississippi-and-texas-alpha-version/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./us-population-grids-summary-file-1-2000-houston-metropolitan-statistical-area-alpha-version/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./us-population-grids-summary-file-1-2000-new-orleans-metropolitan-statistical-area-alpha-version/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./us-population-grids-summary-file-3-2000-alabama-louisiana-and-mississippi-alpha-version/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./us-population-grids-summary-file-3-2000-new-orleans-metropolitan-statistical-area-alpha-version/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-fire-emissions-indicators-country-level-tabular-data-1997-2015/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./global-fire-emissions-indicators-grids-1997-2015/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./atsdr-hazardous-waste-site-polygon-data-with-ciesin-modifications-version-2/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./atsdr-hazardous-waste-site-polygon-data-version-2/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./us-epa-national-priorities-list-npl-sites-point-data-with-ciesin-modifications-version-2/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    }
+  ],
+  "title": "Hazards"
+}

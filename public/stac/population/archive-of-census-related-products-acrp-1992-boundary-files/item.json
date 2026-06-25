@@ -1,0 +1,71 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "archive-of-census-related-products-acrp-1992-boundary-files",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -180.0,
+          18.0
+        ],
+        [
+          -66.0,
+          18.0
+        ],
+        [
+          -66.0,
+          72.0
+        ],
+        [
+          -180.0,
+          72.0
+        ],
+        [
+          -180.0,
+          18.0
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    -180.0,
+    18.0,
+    -66.0,
+    72.0
+  ],
+  "properties": {
+    "title": "Archive of Census Related Products (ACRP): 1992 Boundary Files",
+    "description": "The 1992 Boundary Files portion of the Archive of Census Related Products (ACRP) consists of 1992 boundary data from the U.S. Census Bureau's Topologically Integrated Geographic Encoding and Referencing (TIGER) system. The data have been processed to create the state boundary files for county, county subdivision (mcd), place, 1990 tract/block numbering area, blockgroup, and 1980 tract and mcd's (if available). The tract and blockgroup files are grouped by MSA (Metropolitan Statistical Area) and CMSA (Consolidated Metropolitan Statistical Area). County boundary files have also been created for each census block, distinguished by its unique POLygon IDentification (POLID) field, matching the corresponding POLID in the 1990 Summary Tape File (STF) data. This portion of the ACRP is produced by the Center for International Earth Science Information Network (CIESIN).",
+    "doi": "https://doi.org/10.7927/H47P8W9V",
+    "stac_category": "population",
+    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\acrp-boundary-1992.xml",
+    "keywords": [
+      "County",
+      "State",
+      "Boundaries",
+      "Framework Data",
+      "Population",
+      "EARTH SCIENCE > HUMAN DIMENSIONS > BOUNDARIES",
+      "United States of America"
+    ],
+    "datetime": "1996-12-31T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Population"
+    }
+  ],
+  "assets": {}
+}

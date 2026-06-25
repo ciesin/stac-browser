@@ -1,0 +1,78 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "global-multihazard-frequency-and-distribution",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -180.0,
+          -58.0
+        ],
+        [
+          180.0,
+          -58.0
+        ],
+        [
+          180.0,
+          85.0
+        ],
+        [
+          -180.0,
+          85.0
+        ],
+        [
+          -180.0,
+          -58.0
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    -180.0,
+    -58.0,
+    180.0,
+    85.0
+  ],
+  "properties": {
+    "title": "Global Multihazard Frequency and Distribution",
+    "description": "The Global Multihazard Frequency and Distribution is a 2.5 minute grid presenting a simple multihazard index based solely on summated single-hazard decile values. The hazards of interest include cyclones, droughts, earthquakes, floods, landslides, and volcanoes. This data set is further enriched by the inclusion of data pertaining to population, Gross Domestic Product (GDP), and transportation infrastructure. This data set is the result of collaboration among the Columbia University Center for Hazards and Risk Research (CHRR), International Bank for Reconstruction and Development/The World Bank, and Columbia University Center for International Earth Science Information Network (CIESIN).",
+    "doi": "https://doi.org/10.7927/H45718Z5",
+    "stac_category": "hazards",
+    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\ndh-multihazard-frequency-distribution.xml",
+    "keywords": [
+      "Climatology/Meteorology/Atmosphere",
+      "Geoscientific Information",
+      "Inland Waters",
+      "Global",
+      "Continent",
+      "Hazards",
+      "Sustainability",
+      "EARTH SCIENCE > HUMAN DIMENSIONS > NATURAL HAZARDS > DROUGHTS",
+      "EARTH SCIENCE > HUMAN DIMENSIONS > NATURAL HAZARDS > EARTHQUAKES",
+      "EARTH SCIENCE > HUMAN DIMENSIONS > NATURAL HAZARDS > FLOODS",
+      "EARTH SCIENCE > HUMAN DIMENSIONS > NATURAL HAZARDS > LANDSLIDES",
+      "EARTH SCIENCE > HUMAN DIMENSIONS > NATURAL HAZARDS > TROPICAL CYCLONES > CYCLONES",
+      "EARTH SCIENCE > HUMAN DIMENSIONS > NATURAL HAZARDS > VOLCANIC ERUPTIONS",
+      "EARTH SCIENCE > TERRESTRIAL HYDROSPHERE > SNOW/ICE > AVALANCHE"
+    ],
+    "datetime": "2005-12-31T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Hazards"
+    }
+  ],
+  "assets": {}
+}

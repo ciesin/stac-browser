@@ -1,0 +1,70 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "archive-of-census-related-products-acrp-1990-enhanced-migration-files",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -180.0,
+          18.0
+        ],
+        [
+          -66.0,
+          18.0
+        ],
+        [
+          -66.0,
+          72.0
+        ],
+        [
+          -180.0,
+          72.0
+        ],
+        [
+          -180.0,
+          18.0
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    -180.0,
+    18.0,
+    -66.0,
+    72.0
+  ],
+  "properties": {
+    "title": "Archive of Census Related Products (ACRP): 1990 Enhanced Migration Files",
+    "description": "The 1990 Enhanced Migration Files portion of the Archive of Census Related Products (ACRP) contains migration data derived from the U.S. Census Bureau's Summary Tape File (STP-28). The data includes counts by race and hispanic origin within each county, county to county, and state to state. This portion of the ACRP is produced by the Columbia University Center for International Earth Science Information Network (CIESIN).",
+    "doi": "https://doi.org/10.7927/H4057CV3",
+    "stac_category": "population",
+    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\acrp-enhanced-migration-1990.xml",
+    "keywords": [
+      "Population",
+      "Society",
+      "County",
+      "State",
+      "EARTH SCIENCE > HUMAN DIMENSIONS > POPULATION",
+      "United States of America"
+    ],
+    "datetime": "1996-12-31T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Population"
+    }
+  ],
+  "assets": {}
+}

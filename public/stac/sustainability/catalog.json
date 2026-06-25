@@ -1,0 +1,61 @@
+{
+  "type": "Catalog",
+  "id": "sustainability",
+  "stac_version": "1.1.0",
+  "description": "Datasets in the Sustainability category.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "item",
+      "href": "./compendium-of-environmental-sustainability-indicator-collections-ancillary-data/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./compendium-of-environmental-sustainability-indicator-collections-2006-national-footprint-accounts-nfa/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./compendium-of-environmental-sustainability-indicator-collections-rio-to-johannesburg-dashboard-of-sustainable-indicators/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./sdg-indicator-1121-urban-access-to-public-transport-2023-release/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./sdg-indicator-1171-urban-public-space-availability-and-access-2023-release/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./sdg-indicator-711-access-to-electricity-2023-release/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./sdg-indicator-911-rural-access-index-rai-2023-release/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./water-security-indicator-model-global-land-data-assimilation-system-wsim-gldas-monthly-grids-version-1/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    }
+  ],
+  "title": "Sustainability"
+}

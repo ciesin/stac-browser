@@ -1,0 +1,95 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "twentieth-century-crop-statistics-1900-2017",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          180.0,
+          -90.0
+        ],
+        [
+          -180.0,
+          -90.0
+        ],
+        [
+          -180.0,
+          90.0
+        ],
+        [
+          180.0,
+          90.0
+        ],
+        [
+          180.0,
+          -90.0
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    180.0,
+    -90.0,
+    -180.0,
+    90.0
+  ],
+  "properties": {
+    "title": "Twentieth Century Crop Statistics, 1900-2017",
+    "description": "The Twentieth Century Crop Statistics, 1900-2017 data set consists of national or subnational maize and wheat production, yield, and harvested area statistics for all available years for the period 1900-2017. It combines a new digitization of crop statistics from Italy, Spain, Indonesia, China, Mexico, Uruguay, Chile, Sweden, and Morocco with existing, publicly available, digitized data sets from India, Australia, the United States, Canada, Southern Brazil, Argentina, England, Austria, Belgium, Croatia, Czech Republic, Finland, Germany, Spain, Portugal, France, the Netherlands, and South Africa. All units are converted to hectares (ha) for units of harvested areas, tonnes for units of production, and tonnes/ha for units of yield. A ratio of 1/36.744 is used to convert wheat bushels to tonnes, and a value of 1/39.368 is used to convert maize bushels to tonnes. In all cases, the Harvest_year reported in the data set is the harvest year for the crop.",
+    "doi": "https://doi.org/10.7927/tmsp-sg82",
+    "stac_category": "agriculture",
+    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\food-twentieth-century-crop-statistics-1900-2017.xml",
+    "keywords": [
+      "Country",
+      "Farming",
+      "EARTH SCIENCE > HUMAN DIMENSIONS > ECONOMIC RESOURCES > AGRICULTURE PRODUCTION",
+      "Agriculture",
+      "Climate",
+      "Sustainability",
+      "Argentina",
+      "Australia",
+      "Austria",
+      "Belgium",
+      "Brazil",
+      "Canada",
+      "Chile",
+      "China",
+      "Croatia",
+      "Czech Republic",
+      "United Kingdom",
+      "Finland",
+      "France",
+      "India",
+      "Indonesia",
+      "Italy",
+      "Mexico",
+      "Morocco",
+      "Netherlands",
+      "Portugal",
+      "South Africa",
+      "Spain",
+      "Sweden",
+      "United States of America",
+      "Uruguay"
+    ],
+    "datetime": "2022-08-19T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Agriculture"
+    }
+  ],
+  "assets": {}
+}

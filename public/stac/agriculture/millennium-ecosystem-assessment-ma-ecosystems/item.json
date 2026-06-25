@@ -1,0 +1,86 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "millennium-ecosystem-assessment-ma-ecosystems",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -180.0,
+          -90.0
+        ],
+        [
+          180.0,
+          -90.0
+        ],
+        [
+          180.0,
+          90.0
+        ],
+        [
+          -180.0,
+          90.0
+        ],
+        [
+          -180.0,
+          -90.0
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    -180.0,
+    -90.0,
+    180.0,
+    90.0
+  ],
+  "properties": {
+    "title": "Millennium Ecosystem Assessment: MA Ecosystems",
+    "description": "The Millennium Ecosystem Assessment: MA Ecosystems provides data and information on the extent and classification of ecosystems circa 2000, including coastal, cultivated, forest and woodlands, inland water bodies, islands, marine, mountains (elevation), polar, and urban. The data set also includes socioeconomic reporting units and the location of regional MA projects. The data were used in a number of different ways in the assessment, contributing to an understanding of how humans have altered ecosystems, how changes in ecosystem services have affected human well-being, and how ecosystem changes may affect people in future decades.",
+    "doi": "https://doi.org/10.7927/H4KW5CZ6",
+    "stac_category": "agriculture",
+    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\ma-ecosystems.xml",
+    "keywords": [
+      "Agriculture",
+      "Climate",
+      "Conservation",
+      "Land Use",
+      "Marine and Coastal",
+      "Sustainability",
+      "Urban",
+      "Water",
+      "CIESIN > Environmental Protection > Ecological Dynamics > Ecosystems",
+      "Coastal Ecosystem",
+      "Cultivated Areas Classification",
+      "Forest Ecosystem",
+      "Island Ecosystem",
+      "Mountain Ecosystem",
+      "Polar Ecosystem",
+      "Woodland Classification",
+      "Biota",
+      "Elevation",
+      "Imagery/Base Maps/Earth Cover",
+      "Inland Waters",
+      "EARTH SCIENCE > BIOSPHERE > ECOSYSTEMS",
+      "Global"
+    ],
+    "datetime": "2005-05-29T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Agriculture"
+    }
+  ],
+  "assets": {}
+}

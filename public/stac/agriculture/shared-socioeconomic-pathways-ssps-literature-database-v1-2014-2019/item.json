@@ -1,0 +1,88 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "shared-socioeconomic-pathways-ssps-literature-database-v1-2014-2019",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -180.0,
+          -90.0
+        ],
+        [
+          180.0,
+          -90.0
+        ],
+        [
+          180.0,
+          90.0
+        ],
+        [
+          -180.0,
+          90.0
+        ],
+        [
+          -180.0,
+          -90.0
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    -180.0,
+    -90.0,
+    180.0,
+    90.0
+  ],
+  "properties": {
+    "title": "Shared Socioeconomic Pathways (SSPs) Literature Database, v1, 2014-2019",
+    "description": "The Shared Socioeconomic Pathways (SSPs) Literature Database, v1, 2014-2019 consists of biographic information, abstracts, and analysis of 1,360 articles published from 2014 to 2019 that used the SSPs. The database was generated from a Google Scholar search, followed by a manual examination of the results for papers that made substantial use of the SSPs. Each paper was then coded along a number of different dimensions, including categories of types of papers or analysis, number of subcategories for SSP Applications and SSP Extensions, particular Shared Socioeconomic Pathways (SSPs) used, particular Representative Concentration Pathways (RCPs) used, and particular SSP-RCP combinations used. Over the past ten years, the climate change research community developed a scenario framework combining alternative futures of climate and society to facilitate integrated research and consistent assessment to inform policy. This framework consists of Shared Socioeconomic Pathways (SSPs), Representative Concentration Pathways (RCPs), and Shared Policy Assumptions (SPAs), which together describe alternative visions of how society and climate may evolve over the coming decades, while providing a framework for combining these pathways in integrated studies. The tracking of the use of this framework in the literature allows for assessment of how it is being used, whether it is achieving its original goals, and what improvements to the framework would benefit future research.",
+    "doi": "https://doi.org/10.7927/hn96-9703",
+    "stac_category": "agriculture",
+    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\ssp-ssp-literature-db-v1.xml",
+    "keywords": [
+      "Global",
+      "Economy",
+      "Elevation",
+      "Environment",
+      "Farming",
+      "Society",
+      "Utilities/Communications",
+      "Agriculture",
+      "Governance",
+      "Health",
+      "Hazards",
+      "Infrastructure",
+      "Population",
+      "Poverty",
+      "Sustainability",
+      "Urban",
+      "Water",
+      "Climate",
+      "EARTH SCIENCE > HUMAN DIMENSIONS > ECONOMIC RESOURCES> TOURISM",
+      "EARTH SCIENCE > HUMAN DIMENSIONS > INFRASTRUCTURE",
+      "EARTH SCIENCE > HUMAN DIMENSIONS > PUBLIC HEALTH",
+      "EARTH SCIENCE > HUMAN DIMENSIONS > SOCIOECONOMICS > POVERTY LEVELS",
+      "EARTH SCIENCE > HUMAN DIMENSIONS > SUSTAINABILITY",
+      "EARTH SCIENCE > LAND SURFACE > LAND USE/LAND COVER"
+    ],
+    "datetime": "2021-03-03T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Agriculture"
+    }
+  ],
+  "assets": {}
+}

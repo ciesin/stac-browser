@@ -1,0 +1,70 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "archive-of-census-related-products-acrp-1990-summary-tape-file-stf1b",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -180.0,
+          18.0
+        ],
+        [
+          -66.0,
+          18.0
+        ],
+        [
+          -66.0,
+          72.0
+        ],
+        [
+          -180.0,
+          72.0
+        ],
+        [
+          -180.0,
+          18.0
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    -180.0,
+    18.0,
+    -66.0,
+    72.0
+  ],
+  "properties": {
+    "title": "Archive of Census Related Products (ACRP): 1990 Summary Tape File (STF1B)",
+    "description": "The 1990 Summary Tape File (STF1B) portion of the Archive of Census Related Products (ACRP) contains population and housing data, along with additional demographic data for the U.S. The population data includes age, race, sex, marital status, Hispanic origin, and household type, while the housing data encompasses tenure, number of units, value, number of rooms per unit, and the use of the unit. The data are available by county, county subdivision, place within county, tract/block numbering area (bna), blockgroup, and block. This portion of the ACRP is produced by the Center for International Earth Science Information Network (CIESIN).",
+    "doi": "https://doi.org/10.7927/H4Z60KZ9",
+    "stac_category": "population",
+    "xml_path": "D:\\jmartine\\GRID3\\sustainability\\XML\\CIESIN\\SEDAC_metadata\\acrp-summary-tape-file-stf1b-1990.xml",
+    "keywords": [
+      "State",
+      "County",
+      "Society",
+      "Population",
+      "EARTH SCIENCE > HUMAN DIMENSIONS > POPULATION",
+      "United States of America"
+    ],
+    "datetime": "1996-12-31T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "CIESIN STAC"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Population"
+    }
+  ],
+  "assets": {}
+}
