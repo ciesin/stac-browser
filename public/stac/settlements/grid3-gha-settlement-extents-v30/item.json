@@ -53,8 +53,8 @@
       "Extents"
     ],
     "datetime": "2024-09-30T00:00:00Z",
-    "start_datetime": "2024-09-30T00:00:00",
-    "end_datetime": "2024-09-30T00:00:00",
+    "start_datetime": "2024-09-30T00:00:00Z",
+    "end_datetime": "2024-09-30T00:00:00Z",
     "dataset_type": "Feature Class"
   },
   "links": [

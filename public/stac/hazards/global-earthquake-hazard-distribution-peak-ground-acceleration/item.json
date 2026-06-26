@@ -53,8 +53,8 @@
       "EARTH SCIENCE > HUMAN DIMENSIONS > NATURAL HAZARDS > EARTHQUAKES"
     ],
     "datetime": "2005-12-31T00:00:00Z",
-    "start_datetime": "19760101",
-    "end_datetime": "20021231",
+    "start_datetime": "1976-01-01T00:00:00Z",
+    "end_datetime": "2002-12-31T00:00:00Z",
     "dataset_type": "raster, map, map service"
   },
   "links": [

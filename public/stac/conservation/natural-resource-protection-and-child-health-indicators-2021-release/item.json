@@ -262,8 +262,8 @@
       "Guinea"
     ],
     "datetime": "2021-12-21T00:00:00Z",
-    "start_datetime": "20100101",
-    "end_datetime": "20211231",
+    "start_datetime": "2010-01-01T00:00:00Z",
+    "end_datetime": "2021-12-31T00:00:00Z",
     "dataset_type": "tabular"
   },
   "links": [

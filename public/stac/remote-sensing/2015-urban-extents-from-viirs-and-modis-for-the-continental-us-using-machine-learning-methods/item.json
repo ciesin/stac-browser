@@ -53,8 +53,8 @@
       "United States of America"
     ],
     "datetime": "2019-10-10T00:00:00Z",
-    "start_datetime": "20150101",
-    "end_datetime": "20151231",
+    "start_datetime": "2015-01-01T00:00:00Z",
+    "end_datetime": "2015-12-31T00:00:00Z",
     "dataset_type": "raster, map, map service"
   },
   "links": [

@@ -289,8 +289,8 @@
       "Syrian Arab Republic"
     ],
     "datetime": "2017-08-17T00:00:00Z",
-    "start_datetime": "20100101",
-    "end_datetime": "20161231",
+    "start_datetime": "2010-01-01T00:00:00Z",
+    "end_datetime": "2016-12-31T00:00:00Z",
     "dataset_type": "tabular, map service"
   },
   "links": [

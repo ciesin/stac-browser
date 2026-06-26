@@ -105,8 +105,8 @@
       "Wyoming"
     ],
     "datetime": "2013-05-17T00:00:00Z",
-    "start_datetime": "19900401",
-    "end_datetime": "19900401",
+    "start_datetime": "1990-04-01T00:00:00Z",
+    "end_datetime": "1990-04-01T00:00:00Z",
     "dataset_type": "raster"
   },
   "links": [

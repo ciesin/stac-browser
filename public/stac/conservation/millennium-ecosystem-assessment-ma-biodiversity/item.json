@@ -151,8 +151,8 @@
       "Iceland"
     ],
     "datetime": "2005-05-29T00:00:00Z",
-    "start_datetime": "19500101",
-    "end_datetime": "20011231",
+    "start_datetime": "1950-01-01T00:00:00Z",
+    "end_datetime": "2001-12-31T00:00:00Z",
     "dataset_type": "vector, raster, tabular"
   },
   "links": [

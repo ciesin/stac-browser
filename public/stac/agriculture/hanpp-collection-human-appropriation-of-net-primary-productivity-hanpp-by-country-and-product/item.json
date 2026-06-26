@@ -281,8 +281,8 @@
       "Belgium"
     ],
     "datetime": "2004-12-31T00:00:00Z",
-    "start_datetime": "19950101",
-    "end_datetime": "19951231",
+    "start_datetime": "1995-01-01T00:00:00Z",
+    "end_datetime": "1995-12-31T00:00:00Z",
     "dataset_type": "tabular"
   },
   "links": [

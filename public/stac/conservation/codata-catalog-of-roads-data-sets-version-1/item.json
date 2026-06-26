@@ -201,8 +201,8 @@
       "Western Samoa"
     ],
     "datetime": "2009-09-30T00:00:00Z",
-    "start_datetime": "19760101",
-    "end_datetime": "20081231",
+    "start_datetime": "1976-01-01T00:00:00Z",
+    "end_datetime": "2008-12-31T00:00:00Z",
     "dataset_type": "tabular"
   },
   "links": [

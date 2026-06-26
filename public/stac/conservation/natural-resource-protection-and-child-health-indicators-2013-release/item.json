@@ -292,8 +292,8 @@
       "Global"
     ],
     "datetime": "2013-12-31T00:00:00Z",
-    "start_datetime": "20060101",
-    "end_datetime": "20121231",
+    "start_datetime": "2006-01-01T00:00:00Z",
+    "end_datetime": "2012-12-31T00:00:00Z",
     "dataset_type": "tabular"
   },
   "links": [

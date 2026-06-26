@@ -54,8 +54,8 @@
       "United States of America"
     ],
     "datetime": "1996-12-31T00:00:00Z",
-    "start_datetime": "19800101",
-    "end_datetime": "19921231",
+    "start_datetime": "1980-01-01T00:00:00Z",
+    "end_datetime": "1992-12-31T00:00:00Z",
     "dataset_type": "vector"
   },
   "links": [

@@ -269,8 +269,8 @@
       "Ukraine"
     ],
     "datetime": "2005-05-29T00:00:00Z",
-    "start_datetime": "19950101",
-    "end_datetime": "21001231",
+    "start_datetime": "1995-01-01T00:00:00Z",
+    "end_datetime": "2100-12-31T00:00:00Z",
     "dataset_type": "raster, vector, tabular"
   },
   "links": [

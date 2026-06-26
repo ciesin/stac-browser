@@ -59,8 +59,8 @@
       "United States of America"
     ],
     "datetime": "2014-12-12T00:00:00Z",
-    "start_datetime": "20100526",
-    "end_datetime": "20100526",
+    "start_datetime": "2010-05-26T00:00:00Z",
+    "end_datetime": "2010-05-26T00:00:00Z",
     "dataset_type": "vector, map, map service"
   },
   "links": [

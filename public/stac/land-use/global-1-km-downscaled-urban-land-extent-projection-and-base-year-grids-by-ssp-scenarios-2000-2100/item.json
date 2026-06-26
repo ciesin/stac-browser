@@ -53,8 +53,8 @@
       "Urban"
     ],
     "datetime": "2021-11-01T00:00:00Z",
-    "start_datetime": "20000101",
-    "end_datetime": "21001231",
+    "start_datetime": "2000-01-01T00:00:00Z",
+    "end_datetime": "2100-12-31T00:00:00Z",
     "dataset_type": "raster"
   },
   "links": [

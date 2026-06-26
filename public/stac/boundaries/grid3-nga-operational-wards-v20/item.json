@@ -52,8 +52,8 @@
       "Operational Boundary"
     ],
     "datetime": "2026-04-13T00:00:00Z",
-    "start_datetime": "2026-04-13T00:00:00",
-    "end_datetime": "2026-04-13T00:00:00",
+    "start_datetime": "2026-04-13T00:00:00Z",
+    "end_datetime": "2026-04-13T00:00:00Z",
     "dataset_type": null
   },
   "links": [

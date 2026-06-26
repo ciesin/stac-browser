@@ -56,8 +56,8 @@
       "Houston"
     ],
     "datetime": "2005-09-13T00:00:00Z",
-    "start_datetime": "20000401",
-    "end_datetime": "20000401",
+    "start_datetime": "2000-04-01T00:00:00Z",
+    "end_datetime": "2000-04-01T00:00:00Z",
     "dataset_type": "raster, map"
   },
   "links": [

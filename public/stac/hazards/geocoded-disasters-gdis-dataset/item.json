@@ -56,8 +56,8 @@
       "EARTH SCIENCE > HUMAN DIMENSIONS > NATURAL HAZARDS > VOLCANIC ERUPTIONS"
     ],
     "datetime": "2021-03-10T00:00:00Z",
-    "start_datetime": "19600101",
-    "end_datetime": "20181231",
+    "start_datetime": "1960-01-01T00:00:00Z",
+    "end_datetime": "2018-12-31T00:00:00Z",
     "dataset_type": "raster, map"
   },
   "links": [

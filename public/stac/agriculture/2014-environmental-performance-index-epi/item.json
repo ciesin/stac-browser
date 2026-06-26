@@ -239,8 +239,8 @@
       "Swaziland"
     ],
     "datetime": "2014-04-17T00:00:00Z",
-    "start_datetime": "20020101",
-    "end_datetime": "20141231",
+    "start_datetime": "2002-01-01T00:00:00Z",
+    "end_datetime": "2014-12-31T00:00:00Z",
     "dataset_type": "document, tabular, map, map service"
   },
   "links": [

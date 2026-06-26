@@ -56,8 +56,8 @@
       "EARTH SCIENCE > HUMAN DIMENSIONS > SUSTAINABILITY > SUSTAINABLE DEVELOPMENT"
     ],
     "datetime": "2020-06-23T00:00:00Z",
-    "start_datetime": null,
-    "end_datetime": null,
+    "start_datetime": "1992-01-01T00:00:00Z",
+    "end_datetime": "2013-01-01T00:00:00Z",
     "dataset_type": "raster, map, map service"
   },
   "links": [

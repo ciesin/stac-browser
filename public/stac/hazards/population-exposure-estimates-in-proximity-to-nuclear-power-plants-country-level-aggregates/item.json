@@ -287,8 +287,8 @@
       "Afghanistan"
     ],
     "datetime": "2015-01-21T00:00:00Z",
-    "start_datetime": null,
-    "end_datetime": null,
+    "start_datetime": "1990-01-01T00:00:00Z",
+    "end_datetime": "2010-01-01T00:00:00Z",
     "dataset_type": "tabular"
   },
   "links": [

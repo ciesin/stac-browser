@@ -56,8 +56,8 @@
       "United States of America"
     ],
     "datetime": "2022-12-09T00:00:00Z",
-    "start_datetime": "20000101",
-    "end_datetime": "20161231",
+    "start_datetime": "2000-01-01T00:00:00Z",
+    "end_datetime": "2016-12-31T00:00:00Z",
     "dataset_type": "tabular"
   },
   "links": [

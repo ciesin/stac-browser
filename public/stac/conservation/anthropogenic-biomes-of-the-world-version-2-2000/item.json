@@ -64,8 +64,8 @@
       "South America"
     ],
     "datetime": "2014-04-14T00:00:00Z",
-    "start_datetime": "20000101",
-    "end_datetime": "20001231",
+    "start_datetime": "2000-01-01T00:00:00Z",
+    "end_datetime": "2000-12-31T00:00:00Z",
     "dataset_type": "raster, map, map service"
   },
   "links": [

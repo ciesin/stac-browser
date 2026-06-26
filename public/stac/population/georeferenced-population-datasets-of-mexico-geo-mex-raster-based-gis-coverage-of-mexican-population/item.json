@@ -55,8 +55,8 @@
       "Mexico"
     ],
     "datetime": "1994-12-31T00:00:00Z",
-    "start_datetime": "19900101",
-    "end_datetime": "19901231",
+    "start_datetime": "1990-01-01T00:00:00Z",
+    "end_datetime": "1990-12-31T00:00:00Z",
     "dataset_type": "raster"
   },
   "links": [

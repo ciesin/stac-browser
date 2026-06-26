@@ -58,8 +58,8 @@
       "EARTH SCIENCE > BIOSPHERE > ECOSYSTEMS > ANTHROPOGENIC/HUMAN INFLUENCED ECOSYSTEMS"
     ],
     "datetime": "2002-12-31T00:00:00Z",
-    "start_datetime": "19920101",
-    "end_datetime": "19951231",
+    "start_datetime": "1992-01-01T00:00:00Z",
+    "end_datetime": "1995-12-31T00:00:00Z",
     "dataset_type": "raster"
   },
   "links": [
