@@ -52,9 +52,9 @@
       "Sustainability",
       "Urban"
     ],
-    "datetime": null,
-    "start_datetime": null,
-    "end_datetime": null,
+    "datetime": "2021-11-01T00:00:00Z",
+    "start_datetime": "20000101",
+    "end_datetime": "21001231",
     "dataset_type": "raster"
   },
   "links": [
@@ -72,7 +72,7 @@
     }
   ],
   "assets": {},
-  "datetime": null,
+  "datetime": "2021-11-01T00:00:00Z",
   "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
   "providers": [
     {

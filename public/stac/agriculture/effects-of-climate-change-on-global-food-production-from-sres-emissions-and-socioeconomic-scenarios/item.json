@@ -220,9 +220,9 @@
       "Myanmar",
       "Yugoslavia"
     ],
-    "datetime": null,
-    "start_datetime": null,
-    "end_datetime": null,
+    "datetime": "2009-12-31T00:00:00Z",
+    "start_datetime": "19700101",
+    "end_datetime": "20801231",
     "dataset_type": "tabular, map, map service"
   },
   "links": [
@@ -240,7 +240,7 @@
     }
   ],
   "assets": {},
-  "datetime": null,
+  "datetime": "2009-12-31T00:00:00Z",
   "license": "The Goddard Institute for Space Studies (GISS) and Trustees of Columbia University hold the copyright of this data set. Users are prohibited from any commercial, non-free resale, or redistribution without explicit written permission from GISS and CIESIN. Users should acknowledge GISS and CIESIN as the source used in the creation of any reports, publications, new data sets, derived products, or services resulting from the use of this data set. GISS and CIESIN also request reprints of any publications and notification of any redistributing efforts.",
   "providers": [
     {

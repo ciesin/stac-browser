@@ -58,9 +58,9 @@
       "Imagery/Base Maps/Earth Cover",
       "EARTH SCIENCE > LAND SURFACE > LAND USE/LAND COVER"
     ],
-    "datetime": null,
-    "start_datetime": null,
-    "end_datetime": null,
+    "datetime": "2005-05-29T00:00:00Z",
+    "start_datetime": "19010101",
+    "end_datetime": "20001231",
     "dataset_type": "vector, raster, tabular"
   },
   "links": [
@@ -78,7 +78,7 @@
     }
   ],
   "assets": {},
-  "datetime": null,
+  "datetime": "2005-05-29T00:00:00Z",
   "license": "Users are free to use the work for non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
   "providers": [
     {

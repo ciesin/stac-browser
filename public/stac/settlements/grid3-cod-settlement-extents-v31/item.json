@@ -51,9 +51,9 @@
       "Settlements",
       "settlement extents"
     ],
-    "datetime": null,
-    "start_datetime": null,
-    "end_datetime": null,
+    "datetime": "2024-07-11T00:00:00Z",
+    "start_datetime": "2024-07-11T00:00:00",
+    "end_datetime": "2024-07-11T00:00:00",
     "dataset_type": "Feature Class"
   },
   "links": [
@@ -71,7 +71,7 @@
     }
   ],
   "assets": {},
-  "datetime": null,
+  "datetime": "2024-07-11T00:00:00Z",
   "license": "<div style='text-align:Left;'><div><div><p><span style='font-weight:bold;'>Terms of use:</span></p><p><span>Users are free to download, store, access, use, copy, adapt, transform, alter, arrange, build upon, distribute and transmit this work and any derivative works. Attribution of the source must be provided, and further distribution of this work or derived work must maintain the same terms of data use and license as set forth in this Terms of Use.</span></p><p><span>Copyright 2024. The Trustees of Columbia University in the City of New York.</span></p><p><span style='font-weight:bold;'>Data license:</span></p><p><span>The data and accompanying document are licensed under a Creative Commons Attribution-ShareAlike 4.0 International, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0) and specified in legal code (http://creativecommons.org/licenses/by-sa/4.0/legalcode)</span></p><p><span style='font-weight:bold;'>Known Data Limitations and Disclaimer:</span></p><p><span>CIESIN, Columbia University, and its co-authors follow procedures designed to ensure that data disseminated by the project are of reasonable quality. If, despite these procedures, users encounter apparent errors or misstatements in the data, they should contact CIESIN, info@ciesin.columbia.edu.</span></p><p><span>CIESIN, Columbia University, its co-authors, and their sponsors do not guarantee the accuracy, reliability, or completeness of any data provided. We provide these data without warranty of any kind whatsoever, either expressed or implied, and shall not be liable for incidental, consequential, or special damages arising out of the use of any data provided.</span></p></div></div></div>",
   "providers": [
     {

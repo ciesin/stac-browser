@@ -238,9 +238,9 @@
       "Palestine",
       "Timor-Leste"
     ],
-    "datetime": null,
-    "start_datetime": null,
-    "end_datetime": null,
+    "datetime": "2002-07-31T00:00:00Z",
+    "start_datetime": "19900101",
+    "end_datetime": "21001231",
     "dataset_type": "tabular"
   },
   "links": [
@@ -258,7 +258,7 @@
     }
   ],
   "assets": {},
-  "datetime": null,
+  "datetime": "2002-07-31T00:00:00Z",
   "license": "The Trustees of Columbia University in the City of New York hold the copyright of this data set. Users are prohibited from any commercial, non-free resale, or redistribution without explicit written permission from CIESIN. Users should acknowledge CIESIN as the source used in the creation of any reports, publications, new data sets, derived products, or services resulting from the use of this data set. CIESIN also requests reprints of any publications and notification of any redistributing efforts.",
   "providers": [
     {

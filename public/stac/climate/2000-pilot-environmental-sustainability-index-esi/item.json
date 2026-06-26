@@ -114,9 +114,9 @@
       "Zimbabwe",
       "Global"
     ],
-    "datetime": null,
-    "start_datetime": null,
-    "end_datetime": null,
+    "datetime": "2000-12-31T00:00:00Z",
+    "start_datetime": "19780101",
+    "end_datetime": "19991231",
     "dataset_type": "document"
   },
   "links": [
@@ -134,7 +134,7 @@
     }
   ],
   "assets": {},
-  "datetime": null,
+  "datetime": "2000-12-31T00:00:00Z",
   "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
   "providers": [
     {

@@ -53,9 +53,9 @@
       "EARTH SCIENCE > HUMAN DIMENSIONS > POPULATION",
       "United States of America"
     ],
-    "datetime": null,
-    "start_datetime": null,
-    "end_datetime": null,
+    "datetime": "1996-12-31T00:00:00Z",
+    "start_datetime": "19900401",
+    "end_datetime": "19900401",
     "dataset_type": "tabular"
   },
   "links": [
@@ -73,7 +73,7 @@
     }
   ],
   "assets": {},
-  "datetime": null,
+  "datetime": "1996-12-31T00:00:00Z",
   "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
   "providers": [
     {

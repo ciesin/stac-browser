@@ -56,7 +56,7 @@
       "EARTH SCIENCE > LAND SURFACE > LAND USE/LAND COVER > LAND USE CLASSES",
       "Tanzania"
     ],
-    "datetime": null,
+    "datetime": "2016-05-20T00:00:00Z",
     "start_datetime": null,
     "end_datetime": null,
     "dataset_type": "vector, map, map service"
@@ -76,7 +76,7 @@
     }
   ],
   "assets": {},
-  "datetime": null,
+  "datetime": "2016-05-20T00:00:00Z",
   "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
   "providers": [
     {

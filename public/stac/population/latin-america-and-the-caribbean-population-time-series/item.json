@@ -98,7 +98,7 @@
       "Turks and Caicos Islands",
       "US Virgin Islands"
     ],
-    "datetime": null,
+    "datetime": "2020-02-14T00:00:00Z",
     "start_datetime": null,
     "end_datetime": null,
     "dataset_type": "vector"
@@ -118,7 +118,7 @@
     }
   ],
   "assets": {},
-  "datetime": null,
+  "datetime": "2020-02-14T00:00:00Z",
   "license": "Users are free to use, copy, distribute, transmit, and adapt the work for non-commercial purposes, without restriction, as long as clear attribution of the source is provided and all distributions carry the same share-alike provision.",
   "providers": [
     {

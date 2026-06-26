@@ -57,12 +57,6 @@
     },
     {
       "rel": "child",
-      "href": "./imagerybase-mapsearth-cover/catalog.json",
-      "type": "application/json",
-      "title": "Imagery/Base Maps/Earth Cover"
-    },
-    {
-      "rel": "child",
       "href": "./infrastructure/catalog.json",
       "type": "application/json",
       "title": "Infrastructure"

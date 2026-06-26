@@ -280,7 +280,7 @@
       "Zambia",
       "Zimbabwe"
     ],
-    "datetime": null,
+    "datetime": "2005-12-31T00:00:00Z",
     "start_datetime": null,
     "end_datetime": null,
     "dataset_type": "raster, map service"
@@ -300,7 +300,7 @@
     }
   ],
   "assets": {},
-  "datetime": null,
+  "datetime": "2005-12-31T00:00:00Z",
   "license": "The Trustees of Columbia University in the City of New York and the Centro Internacional de Agricultura Tropical (CIAT) hold the copyright of this data set. Users are prohibited from any commercial, non-free resale, or redistribution without explicit written permission from CIESIN and CIAT. Users should acknowledge CIESIN and CIAT as the source used in the creation of any reports, publications, new data sets, derived products, or services resulting from the use of this data set. CIESIN and CIAT also request reprints of any publications and notification of any redistributing efforts.",
   "providers": [
     {

@@ -53,9 +53,9 @@
       "EARTH SCIENCE > LAND SURFACE > LAND USE/LAND COVER",
       "EARTH SCIENCE > BIOSPHERE > ECOSYSTEMS > ANTHROPOGENIC/HUMAN INFLUENCED ECOSYSTEMS"
     ],
-    "datetime": null,
-    "start_datetime": null,
-    "end_datetime": null,
+    "datetime": "2018-08-10T00:00:00Z",
+    "start_datetime": "20090101",
+    "end_datetime": "20091231",
     "dataset_type": "raster"
   },
   "links": [
@@ -73,7 +73,7 @@
     }
   ],
   "assets": {},
-  "datetime": null,
+  "datetime": "2018-08-10T00:00:00Z",
   "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
   "providers": [
     {

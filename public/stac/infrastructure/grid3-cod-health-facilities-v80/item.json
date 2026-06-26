@@ -51,9 +51,9 @@
       "POI",
       "latest"
     ],
-    "datetime": null,
-    "start_datetime": null,
-    "end_datetime": null,
+    "datetime": "2025-12-19T00:00:00Z",
+    "start_datetime": "2025-12-19T00:00:00",
+    "end_datetime": "2025-12-19T00:00:00",
     "dataset_type": "Feature Class"
   },
   "links": [
@@ -71,7 +71,7 @@
     }
   ],
   "assets": {},
-  "datetime": null,
+  "datetime": "2025-12-19T00:00:00Z",
   "license": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN STYLE=\"font-weight:bold;\">Terms of use</SPAN></P><P><SPAN>Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.</SPAN></P><P><SPAN>Copyright 2025. The Trustees of Columbia University in the City of New York.</SPAN></P><P><SPAN STYLE=\"font-weight:bold;\">Data license</SPAN></P><P><SPAN>The data and accompanying document are licensed under a Creative Commons Attribution 4.0 International License, CC BY 4.0 (http://creativecommons.org/licenses/by/4.0) and specified in legal code (http://creativecommons.org/licenses/by/4.0/legalcode).</SPAN></P><P><SPAN STYLE=\"font-weight:bold;\">Known Data Limitations and Disclaimer </SPAN></P><P><SPAN>The spatial accuracy of the health facilities dataset depends on both the quality of the input data and the correctness of edits applied throughout the validation process. Temporal mismatches may exist between the point datasets and the satellite imagery used for quality checks. These discrepancies may result in health facilities not being identified or in the inclusion of facilities that are no longer operational. Spelling errors and naming inconsistencies may also occur due to colloquial variations in how locations are referenced in the field.</SPAN></P><P><SPAN>Significant gaps remain in the spatial coverage of health facilities in the DRC. In Kongo Central Province, geolocation data are available for fewer than 40% of the facilities listed in the DHIS2 database. In Kwango, Haut-Uele, Bas-Uele, Nord-Kivu or Sud-Kivu Provinces no new field data collection was conducted, therefore health facility records for these provinces rely on data collected in 2018 and 2019, which may no longer reflect current conditions. Additionally, 835 health facilities in Kwango lack associated settlement name information. Users are advised to apply caution when working with these features.</SPAN></P><P><SPAN>This dataset should be considered operational; it has not been fully validated by government authorities or ministries.</SPAN></P><P><SPAN>CIESIN, Columbia University, and its co-authors follow standardized procedures designed to ensure that project data meet reasonable quality expectations. If users encounter apparent errors or misstatements in the dataset, they are encouraged to contact CIESIN at info@ciesin.columbia.edu.</SPAN></P><P><SPAN>CIESIN, Columbia University, its co-authors, and their sponsors do not guarantee the accuracy, reliability, or completeness of the data provided. All data are supplied without warranty of any kind, either expressed or implied, and the authors shall not be liable for incidental, consequential, or special damages arising from the use of these data.</SPAN></P><P><SPAN /></P></DIV></DIV></DIV>",
   "providers": [
     {

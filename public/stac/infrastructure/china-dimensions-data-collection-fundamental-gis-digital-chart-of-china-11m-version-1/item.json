@@ -43,17 +43,17 @@
     "description": "The Fundamental GIS: Digital Chart of China, 1:1M, Version 1 consists of vector maps of China and surrounding areas. The maps include roads, railroads, drainage systems, contours, populated places, and urbanized areas for China proper, as well as for China and neighboring countries. The maps are at a scale of one to one million (1:1M).\n\nThis data set is produced in collaboration with the University of Washington as part of the China in Time and Space (CITAS) project and the Columbia University Center for International Earth Science Information Network (CIESIN).",
     "purpose": "To provide fundamental GIS maps of China, and neighboring countries and regions.",
     "doi": "https://doi.org/10.7927/H4QC01D2",
-    "stac_category": "imagerybase-mapsearth-cover",
+    "stac_category": "infrastructure",
     "keywords": [
       "Country",
       "Province",
-      "Imagery/Base Maps/Earth Cover",
+      "Infrastructure",
       "EARTH SCIENCE > HUMAN DIMENSIONS > BOUNDARIES",
       "China"
     ],
-    "datetime": null,
-    "start_datetime": null,
-    "end_datetime": null,
+    "datetime": "1996-09-30T00:00:00Z",
+    "start_datetime": "19930101",
+    "end_datetime": "19931231",
     "dataset_type": "vector"
   },
   "links": [
@@ -67,11 +67,11 @@
       "rel": "parent",
       "href": "../catalog.json",
       "type": "application/json",
-      "title": "Imagery/Base Maps/Earth Cover"
+      "title": "Infrastructure"
     }
   ],
   "assets": {},
-  "datetime": null,
+  "datetime": "1996-09-30T00:00:00Z",
   "license": "The University of Washington China in Time and Space (CITAS) and Trustees of Columbia University in the City of New York hold the copyright of this data set. Users are prohibited from any commercial, non-free resale, or redistribution without explicit written permission from CITAS and CIESIN. Users should acknowledge CITAS and CIESIN as the source used in the creation of any reports, publications, new data sets, derived products, or services resulting from the use of this data set. CITAS and CIESIN also request reprints of any publications and notification of any redistributing efforts.",
   "providers": [
     {

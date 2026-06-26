@@ -54,7 +54,7 @@
       "Society",
       "India"
     ],
-    "datetime": null,
+    "datetime": "2018-03-30T00:00:00Z",
     "start_datetime": null,
     "end_datetime": null,
     "dataset_type": "vector, map"
@@ -74,7 +74,7 @@
     }
   ],
   "assets": {},
-  "datetime": null,
+  "datetime": "2018-03-30T00:00:00Z",
   "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
   "providers": [
     {

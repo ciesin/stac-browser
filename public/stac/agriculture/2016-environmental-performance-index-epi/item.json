@@ -240,9 +240,9 @@
       "Zimbabwe",
       "Global"
     ],
-    "datetime": null,
-    "start_datetime": null,
-    "end_datetime": null,
+    "datetime": "2016-06-23T00:00:00Z",
+    "start_datetime": "19500101",
+    "end_datetime": "20161231",
     "dataset_type": "document, tabular, map, map service"
   },
   "links": [
@@ -260,7 +260,7 @@
     }
   ],
   "assets": {},
-  "datetime": null,
+  "datetime": "2016-06-23T00:00:00Z",
   "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
   "providers": [
     {

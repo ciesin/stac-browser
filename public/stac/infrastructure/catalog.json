@@ -12,6 +12,11 @@
     },
     {
       "rel": "item",
+      "href": "./china-dimensions-data-collection-fundamental-gis-digital-chart-of-china-11m-version-1/item.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
       "href": "./china-dimensions-data-collection-china-maps-bibliographic-database/item.json",
       "type": "application/geo+json"
     },

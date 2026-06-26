@@ -307,9 +307,9 @@
       "Zambia",
       "Zimbabwe"
     ],
-    "datetime": null,
-    "start_datetime": null,
-    "end_datetime": null,
+    "datetime": "2023-09-05T00:00:00Z",
+    "start_datetime": "20200101",
+    "end_datetime": "20221231",
     "dataset_type": "vector, tabular, map"
   },
   "links": [
@@ -327,7 +327,7 @@
     }
   ],
   "assets": {},
-  "datetime": null,
+  "datetime": "2023-09-05T00:00:00Z",
   "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
   "providers": [
     {

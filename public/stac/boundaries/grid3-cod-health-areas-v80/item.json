@@ -52,9 +52,9 @@
       "health zones",
       "health boundaries"
     ],
-    "datetime": null,
-    "start_datetime": null,
-    "end_datetime": null,
+    "datetime": "2025-12-19T00:00:00Z",
+    "start_datetime": "2025-12-19T00:00:00",
+    "end_datetime": "2025-12-19T00:00:00",
     "dataset_type": "Feature Class"
   },
   "links": [
@@ -72,7 +72,7 @@
     }
   ],
   "assets": {},
-  "datetime": null,
+  "datetime": "2025-12-19T00:00:00Z",
   "license": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN STYLE=\"font-weight:bold;\">Terms of use</SPAN></P><P><SPAN>Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.</SPAN></P><P><SPAN>Copyright 2025. The Trustees of Columbia University in the City of New York.</SPAN></P><P><SPAN STYLE=\"font-weight:bold;\">Data license</SPAN></P><P><SPAN>The data and accompanying document are licensed under a Creative Commons Attribution 4.0 International License, CC BY 4.0 (http://creativecommons.org/licenses/by/4.0) and specified in legal code (http://creativecommons.org/licenses/by/4.0/legalcode). </SPAN></P><P><SPAN STYLE=\"font-weight:bold;\">Known Data Limitations and Disclaimer </SPAN></P><P><SPAN>The spatial accuracy of the health areas dataset depends on both the quality of the input data and the correctness of edits applied throughout the validation process. Temporal mismatches may exist between the point datasets and the satellite imagery used for quality checks. Spelling errors and naming inconsistencies may also occur due to colloquial variations in how locations are referenced in the field.</SPAN></P><P><SPAN>Boundaries in Kwango Province were generated using limited data inputs (no primary data collection took place in the province ; GRID3 did not have access to the most recent PNLP data - the only dataset available dated from 2018 ; in addition, only partial health-zone microplans were obtained from the authorities) and may therefore contain unintended errors; users are advised to apply caution when working with these features.</SPAN></P><P><SPAN>Due to ongoing insecurity in the Nord-Kivu and Sud-Kivu provinces, secondary data collection efforts are generally constrained and therefore less systematic and comprehensive. Enumerators involved in various data collection activities cannot safely access all areas of the provinces. As a result, some data inputs may be incomplete or potentially biased, which may affect the reliability of boundary-related outputs in these highly unstable contexts.</SPAN></P><P><SPAN>Table 11 in the Data Release N0tes (PDF) summarizes the number of missing health areas by province based on the DHIS2 database downloaded on June 17, 2025. While health zone boundaries remain relatively stable, the number of health areas has changed substantially over the past few years. These discrepancies are partly explained by the dynamic redefinition of health area boundaries, which aims to reduce their size and reconfigure their spatial extent. </SPAN></P><P><SPAN>This dataset should be considered operational; it has not been fully validated by government authorities.</SPAN></P><P><SPAN>CIESIN, Columbia University, and its co-authors follow established procedures to ensure that data disseminated through this project meet reasonable quality standards. If users encounter apparent errors or inconsistencies in the dataset, they are encouraged to contact CIESIN at info@ciesin.columbia.edu.</SPAN></P><P><SPAN>CIESIN, Columbia University, its co-authors, and their sponsors do not guarantee the accuracy, reliability, or completeness of the data provided. All data are supplied without warranty of any kind, either expressed or implied, and the authors shall not be liable for incidental, consequential, or special damages arising from their use.</SPAN></P></DIV></DIV></DIV>",
   "providers": [
     {

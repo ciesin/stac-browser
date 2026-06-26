@@ -56,9 +56,9 @@
       "EARTH SCIENCE > OCEANS > COASTAL PROCESSES > MANGROVES",
       "Global"
     ],
-    "datetime": null,
-    "start_datetime": null,
-    "end_datetime": null,
+    "datetime": "2005-12-31T00:00:00Z",
+    "start_datetime": "20000101",
+    "end_datetime": "20001231",
     "dataset_type": "raster, map, map service"
   },
   "links": [
@@ -76,7 +76,7 @@
     }
   ],
   "assets": {},
-  "datetime": null,
+  "datetime": "2005-12-31T00:00:00Z",
   "license": "This is a work of the U.S. Government and is not subject to copyright protection in the United States. The data may be used by anyone, anywhere, anytime without permission, license or royalty payment. Attribution using the recommended citation is requested.",
   "providers": [
     {

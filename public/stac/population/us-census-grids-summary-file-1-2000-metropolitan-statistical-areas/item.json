@@ -192,9 +192,9 @@
       "Worcester",
       "Yolo"
     ],
-    "datetime": null,
-    "start_datetime": null,
-    "end_datetime": null,
+    "datetime": "2006-05-31T00:00:00Z",
+    "start_datetime": "20000401",
+    "end_datetime": "20000401",
     "dataset_type": "raster, map, map service"
   },
   "links": [
@@ -212,7 +212,7 @@
     }
   ],
   "assets": {},
-  "datetime": null,
+  "datetime": "2006-05-31T00:00:00Z",
   "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
   "providers": [
     {

@@ -55,9 +55,9 @@
       "Inland Waters",
       "EARTH SCIENCE > TERRESTRIAL HYDROSPHERE > SURFACE WATER > SURFACE WATER FEATURES > LAKES/RESERVOIRS"
     ],
-    "datetime": null,
-    "start_datetime": null,
-    "end_datetime": null,
+    "datetime": "2011-12-22T00:00:00Z",
+    "start_datetime": "20110101",
+    "end_datetime": "20111231",
     "dataset_type": "vector, map, map service"
   },
   "links": [
@@ -75,7 +75,7 @@
     }
   ],
   "assets": {},
-  "datetime": null,
+  "datetime": "2011-12-22T00:00:00Z",
   "license": "The Global Water System Project (GWSP) holds the copyright of this data set. The GRanD database is freely available for non-commercial use. Users are prohibited from any commercial resale, or redistribution without explicit written permission from the authors (Lehner et al. 2011) or GWSP. Users should acknowledge the authors (Lehner et al. 2011) and SEDAC as the distributor as the source used in the creation of any reports, publications, new data sets, derived products, or services resulting from the use of this data set. GWSP or CIESIN may also request reprints of any publications. For further details regarding acknowledgements, citation, disclaimers, and restrictions please refer to Section 4 of the Technical Documentation which is provided with the data.",
   "providers": [
     {

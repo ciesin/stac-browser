@@ -287,9 +287,9 @@
       "Zimbabwe",
       "Afghanistan"
     ],
-    "datetime": null,
-    "start_datetime": null,
-    "end_datetime": null,
+    "datetime": "2011-09-26T00:00:00Z",
+    "start_datetime": "20000701",
+    "end_datetime": "20000701",
     "dataset_type": "vector"
   },
   "links": [
@@ -307,7 +307,7 @@
     }
   ],
   "assets": {},
-  "datetime": null,
+  "datetime": "2011-09-26T00:00:00Z",
   "license": "The Trustees of Columbia University in the City of New York, International Food Policy Research Institute (IFPRI), The World Bank, and Centro Internacional de Agricultura Tropical (CIAT) hold the copyright of this data set. Users are prohibited from any commercial, non-free resale, or redistribution without explicit written permission from CIESIN, IFPRI, The World Bank, and CIAT. Users should acknowledge CIESIN, IFPRI, The World Bank, and CIAT as the source used in the creation of any reports, publications, new data sets, derived products, or services resulting from the use of this data set. CIESIN, IFPRI, The World Bank, and CIAT also request reprints of any publications and notification of any redistributing efforts.",
   "providers": [
     {

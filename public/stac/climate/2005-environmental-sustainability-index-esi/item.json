@@ -204,9 +204,9 @@
       "Yemen",
       "Zimbabwe"
     ],
-    "datetime": null,
-    "start_datetime": null,
-    "end_datetime": null,
+    "datetime": "2005-12-31T00:00:00Z",
+    "start_datetime": "19800101",
+    "end_datetime": "20001231",
     "dataset_type": "document, tabular, map, map service"
   },
   "links": [
@@ -224,7 +224,7 @@
     }
   ],
   "assets": {},
-  "datetime": null,
+  "datetime": "2005-12-31T00:00:00Z",
   "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
   "providers": [
     {

@@ -58,9 +58,9 @@
       "EARTH SCIENCE > HUMAN DIMENSIONS > PUBLIC HEALTH",
       "United States of America"
     ],
-    "datetime": null,
-    "start_datetime": null,
-    "end_datetime": null,
+    "datetime": "2010-05-26T00:00:00Z",
+    "start_datetime": "20100526",
+    "end_datetime": "20100526",
     "dataset_type": "vector, map, map service"
   },
   "links": [
@@ -78,7 +78,7 @@
     }
   ],
   "assets": {},
-  "datetime": null,
+  "datetime": "2010-05-26T00:00:00Z",
   "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
   "providers": [
     {
