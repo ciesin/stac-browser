@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "us-climate-risk-projections-by-county-2040-2049",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "U.S. Climate Risk Projections by County, 2040-2049",
     "description": "The U.S. Climate Risk Projections by County, 2040-2049 data set contains a projection for 2040-2049 risk for the entire contiguous U.S. at the county level with a novel climate risk index integrating multiple hazards, exposures and vulnerabilities. Multiple hazards such as weather and climate are characterized as a frequency of heat wave, cold spells, drought, and heavy precipitation events along with anomalies of temperature and precipitation using high resolution (4 km) downscaled climate projections. Exposure is characterized by projections of population, infrastructure, and built surfaces prone to multiple hazards including sea level rise and storm surges. Vulnerability is characterized by projections of demographic groups most sensitive to climate hazards. This approach can guide planners in targeting counties at most risk and where adaptation strategies to reduce exposure or protect vulnerable populations might be best applied.",
+    "purpose": "To provide a U.S. county-level multi-hazard climate risk projection for 2040-2049 for climate, socioeconomic, environmental, and other related research.",
     "doi": "https://doi.org/10.7927/abr8-v666",
     "stac_category": "climate",
     "keywords": [
@@ -57,7 +60,10 @@
       "Sustainability",
       "United States of America"
     ],
-    "datetime": "2023-04-28T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "raster, map"
   },
   "links": [
     {
@@ -73,5 +79,16 @@
       "title": "Climate"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
+  "providers": [
+    {
+      "name": "KC, B., J. M. Shepherd, A. W. King, and C. J. Gaither",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "natural-resource-protection-and-child-health-indicators-2016-release",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "Natural Resource Protection and Child Health Indicators, 2016 Release",
     "description": "The Natural Resource Protection and Child Health Indicators, 2016 Release, are produced in support of the U.S. Millennium Challenge Corporation as selection criteria for funding eligibility. These indicators are successors to the Natural Resource Management Index (NRMI), which was produced from 2006 to 2011 and was based on the same underlying data. Like the NRMI, the Natural Resource Protection Indicator (NRPI) and Child Health Indicator (CHI) are based on proximity-to-target scores ranging from 0 to 100 (at target). The NRPI covers 237 countries and is calculated based on the weighted average percentage of biomes under protected status. The CHI is a composite index for 190 countries derived from the average of three proximity-to-target scores for access to improved sanitation, access to improved water, and child mortality. The 2016 release includes a consistent time series of NRPI scores for 2012-2016 and CHI scores for 2010 to 2016.",
+    "purpose": "To assist in the country selection process for the Millennium Challenge Corporation (MCC) by providing indicators of natural resource protection and child health that complement the governance, social, and economic indicators used by MCC as country selection criteria.",
     "doi": "https://doi.org/10.7927/H48913TX",
     "stac_category": "conservation",
     "keywords": [
@@ -289,7 +292,10 @@
       "Netherlands  Antilles",
       "United Arab Emirates"
     ],
-    "datetime": "2016-12-31T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "tabular"
   },
   "links": [
     {
@@ -305,5 +311,16 @@
       "title": "Conservation"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
+  "providers": [
+    {
+      "name": "Center for International Earth Science Information Network - CIESIN - Columbia University",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

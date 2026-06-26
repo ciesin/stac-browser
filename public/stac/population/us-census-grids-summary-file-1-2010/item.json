@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "us-census-grids-summary-file-1-2010",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "U.S. Census Grids (Summary File 1), 2010",
     "description": "The U.S. Census Grids (Summary File 1), 2010 data set contains grids of demographic and socioeconomic data from the year 2010 in ASCII and GeoTIFF formats. The grids have a resolution of 30 arc-seconds (0.0083 decimal degrees), or approximately 1 square km. The gridded variables are based on census block geography from Census 2010 TIGER/Line Files and census variables (population, households, and housing variables).",
+    "purpose": "To provide gridded demographic data, including characteristics of age, race, ethnicity, and housing, for the United States and Puerto Rico for data integration.",
     "doi": "https://doi.org/10.7927/H40Z716C",
     "stac_category": "population",
     "keywords": [
@@ -102,7 +105,10 @@
       "Wisconsin",
       "Wyoming"
     ],
-    "datetime": "2017-05-26T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "raster, map"
   },
   "links": [
     {
@@ -118,5 +124,16 @@
       "title": "Population"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
+  "providers": [
+    {
+      "name": "Center for International Earth Science Information Network - CIESIN - Columbia University",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

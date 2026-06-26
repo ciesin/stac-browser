@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "national-aggregates-of-geospatial-data-collection-population-landscape-and-climate-estimates-version-2-place-ii",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "National Aggregates of Geospatial Data Collection: Population, Landscape, And Climate Estimates, Version 2 (PLACE II)",
     "description": "The National Aggregates of Geospatial Data Collection: Population, Landscape, And Climate Estimates, Version 2 (PLACE II) data set contains estimates of national-level aggregations of territorial extent and population size by biome, climate zone, coastal proximity zone, elevation zone, and population density zone, a compendium of nearly 300 variables for 228 countries. This data set is produced by the Columbia University Center for International Earth Science Information Network (CIESIN).",
+    "purpose": "To provide tabular data on environmental conditions (elevations, climate, coastal) in which people reside.",
     "doi": "https://doi.org/10.7927/H4JW8BSC",
     "stac_category": "climate",
     "keywords": [
@@ -286,7 +289,10 @@
       "Timor-Leste",
       "Montenegro"
     ],
-    "datetime": "2007-12-31T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "map, tabular"
   },
   "links": [
     {
@@ -302,5 +308,16 @@
       "title": "Climate"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
+  "providers": [
+    {
+      "name": "Center for International Earth Science Information Network - CIESIN - Columbia University",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

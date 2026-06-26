@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "global-landslide-total-economic-loss-risk-deciles",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "Global Landslide Total Economic Loss Risk Deciles",
     "description": "The Global Landslide Total Economic Loss Risk Deciles is a 2.5 minute grid of global landslide total economic loss risks. A process of spatially allocating Gross Domestic Product (GDP) based upon the Sachs et al. (2003) methodology is utilized.  First the proportional contributions of subnational units to their respective national GDP are determined using sources of various origins. The contribution rates are then applied to published World Bank Development Indicators to determine a GDP value for the subnational unit. Once the national GDP has been spatially stratified into the smallest administrative units available, GDP values for grid cells are derived using Gridded Population of the World, Version 3 (GPWv3) data of population distributions. A per capita contribution value is determined within each subnational unit, and this value is multiplied by the population per grid cell. Once a GDP value has been determined on a per grid cell basis, then the regionally variable loss rate as derived from the historical records of EM-DAT is used to determine the total economic loss risks posed to a grid cell by landslide hazards. The final surface does not present absolute values of total economic loss, but rather a relative decile (1-10 with increasing risk) ranking of grid cells based upon the calculated economic loss risks. This data set is the result of collaboration among the Columbia University Center for Hazards and Risk Research (CHRR), International Bank for Reconstruction and Development/The World Bank, and Columbia University Center for International Earth Science Information Network (CIESIN).",
+    "purpose": "To provide a spatial surface of the total economic impacts of global landslide hazard.",
     "doi": "https://doi.org/10.7927/H49021PW",
     "stac_category": "agriculture",
     "keywords": [
@@ -53,7 +56,10 @@
       "EARTH SCIENCE > TERRESTRIAL HYDROSPHERE > SNOW/ICE > AVALANCHE",
       "EARTH SCIENCE > HUMAN DIMENSIONS > SOCIOECONOMICS"
     ],
-    "datetime": "2005-12-31T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "raster, map, map service"
   },
   "links": [
     {
@@ -69,5 +75,16 @@
       "title": "Agriculture"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "The Trustees of Columbia University in the City of New York, Center for Hazards and Risk Research (CHRR), and International Bank for Reconstruction and Development/The World Bank hold the copyright of this data set. Users are prohibited from any commercial, resale, or redistirbution without explicit written permission from CHRR, CIESIN, and The World Bank. Users should acknowledge CHRR, CIESIN, and The World Bank as the source used in the creation of any reports, publications, new data sets, derived products, or services resulting from the use of this data set. CHRR, CIESIN, and The World Bank request reprints of any publications and notification of any redistribution efforts.",
+  "providers": [
+    {
+      "name": "Center for Hazards and Risk Research - CHRR - Columbia University, Center for International Earth Science Information Network - CIESIN - Columbia University, and International Bank for Reconstruction and Development - The World Bank",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

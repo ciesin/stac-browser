@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "global-flood-hazard-frequency-and-distribution",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "Global Flood Hazard Frequency and Distribution",
     "description": "The Global Flood Hazard Frequency and Distribution is a 2.5 minute grid derived from a global listing of extreme flood events between 1985 and 2003 (poor or missing data in the early/mid 1990s) compiled by Dartmouth Flood Observatory and georeferenced to the nearest degree. The resultant flood frequency grid was then classified into 10 classes of approximately equal number of grid cells. The greater the grid cell value in the final data set, the higher the relative frequency of flood occurrence. This data set is the result of collaboration among the Columbia University Center for Hazards and Risk Research (CHRR) and Columbia University Center for International Earth Science Information Network (CIESIN).",
+    "purpose": "To provide a means of assessing the relative distribution and frequency of global flood hazard.",
     "doi": "https://doi.org/10.7927/H4668B3D",
     "stac_category": "agriculture",
     "keywords": [
@@ -52,7 +55,10 @@
       "Continent",
       "EARTH SCIENCE > HUMAN DIMENSIONS > NATURAL HAZARDS > FLOODS"
     ],
-    "datetime": "2005-12-31T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "raster, map, map service"
   },
   "links": [
     {
@@ -68,5 +74,16 @@
       "title": "Agriculture"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "The Trustees of Columbia University in the City of New York, Center for Hazards and Risk Research (CHRR), and International Research Institute for Climate and Society (IRI) hold the copyright of this data set. Users are prohibited from any commercial, non-free resale, or redistribution without explicit written permission from the CHRR, CIESIN, and IRI. Users should acknowledge CHRR, CIESIN, and IRI as the source used in the creation of any reports, publications, new data sets, derived products, or services resulting from the use of this data set. CHRR, CIESIN, and IRI also request reprints of any publications and notification of any redistribution efforts.",
+  "providers": [
+    {
+      "name": "Center for Hazards and Risk Research - CHRR - Columbia University, and Center for International Earth Science Information Network - CIESIN - Columbia University",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

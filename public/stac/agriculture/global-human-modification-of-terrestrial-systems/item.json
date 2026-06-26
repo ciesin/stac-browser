@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "global-human-modification-of-terrestrial-systems",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "Global Human Modification of Terrestrial Systems",
     "description": "The Global Human Modification of Terrestrial Systems data set provides a cumulative measure of the human modification of terrestrial lands across the globe at a 1-km resolution. It is a continuous 0-1 metric that reflects the proportion of a landscape modified, based on modeling the physical extents of 13 anthropogenic stressors and their estimated impacts using spatially-explicit global data sets with a median year of 2016.",
+    "purpose": "To provide a cumulative measure of human modification of terrestrial lands based on modeling the physical extents of 13 anthropogenic stressors and their estimated impacts using spatially-explicit global data sets.",
     "doi": "https://doi.org/10.7927/edbc-3z60",
     "stac_category": "agriculture",
     "keywords": [
@@ -58,7 +61,10 @@
       "Imagery/Base Maps/Earth Cover",
       "EARTH SCIENCE > BIOSPHERE > ECOSYSTEMS > ANTHROPOGENIC/HUMAN INFLUENCED ECOSYSTEMS"
     ],
-    "datetime": "2020-06-05T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "raster, map, map service"
   },
   "links": [
     {
@@ -74,5 +80,16 @@
       "title": "Agriculture"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
+  "providers": [
+    {
+      "name": "Kennedy, C. M., J. R. Oakleaf, D. M. Theobald, S. Baruch-Mordo, and J. Kiesecker",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

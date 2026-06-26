@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "low-elevation-coastal-zone-lecz-global-delta-urban-rural-population-and-land-area-estimates-version-1",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "Low Elevation Coastal Zone (LECZ) Global Delta Urban-Rural Population and Land Area Estimates, Version 1",
     "description": "The Low Elevation Coastal Zone (LECZ) Global Delta Urban-Rural Population and Land Area Estimates, Version 1 data set provides country-level estimates of urban, quasi-urban, rural, and total population (count), land area (square kilometers), and built-up areas in river delta- and non-delta contexts for 246 statistical areas (countries and other UN-recognized territories) for the years 1990, 2000, 2014 and 2015. The population estimates are disaggregated such that compounding risk factors including elevation, settlement patterns, and delta zones can be cross-examined. The Intergovernmental Panel on Climate Change (IPCC) recently concluded that without significant adaptation and mitigation action, risk to coastal communities will increase at least one order of magnitude by 2100, placing people, property, and environmental resources at greater risk. Greater-risk zones were then generated: 1) the global extent of two low-elevation zones contiguous to the coast, one bounded by an upper elevation of 10m (LECZ10), and one by an upper elevation of 5m (LECZ05); 2) the extent of the world's major deltas; 3) the distribution of people and built-up area around the world; 4) the extents of urban centers around the world. The data are layered spatially, along with political and land/water boundaries, allowing the densities and quantities of population and built-up area, as well as levels of urbanization (defined as the share of population living in \"urban centers\") to be estimated for any country or region, both inside and outside the LECZs and deltas, and at two points in time (1990 and 2015). In using such estimates of populations living in 5m and 10m LECZs and outside of LECZs, policymakers can make informed decisions based on perceived exposure and vulnerability to potential damages from sea level rise.",
+    "purpose": "To provide country-level estimates of populations and land areas in river delta- and non-delta contexts for the years 1990, 2000, 2014, and 2015 for 246 statistical areas, focusing on greater-risk zones using the global extent of low elevation zones contiguous to the coast bounded by either 5 meters or 10 meters.",
     "doi": "https://doi.org/10.7927/4hgr-db70",
     "stac_category": "climate",
     "keywords": [
@@ -300,7 +303,10 @@
       "Zambia",
       "Zimbabwe"
     ],
-    "datetime": "2024-06-14T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "tabular, map"
   },
   "links": [
     {
@@ -316,5 +322,16 @@
       "title": "Climate"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
+  "providers": [
+    {
+      "name": "Center for International Earth Science Information Network - CIESIN - Columbia University, and CUNY Institute for Demographic Research - CIDR - City University of New York",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

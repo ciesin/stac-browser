@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "daily-and-annual-pm25-concentrations-for-the-contiguous-united-states-1-km-grids-v1-2000-2016",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "Daily and Annual PM2.5 Concentrations for the Contiguous United States, 1-km Grids, v1 (2000 - 2016)",
     "description": "The Daily and Annual PM2.5 Concentrations for the Contiguous United States, 1-km Grids, v1 (2000 - 2016) data set includes predictions of PM2.5 concentrations in grid cells at a resolution of 1 km for the years 2000 to 2016. A generalized additive model was used that accounted for geographic difference to ensemble daily predictions of three machine learning models: neural network, random forest, and gradient boosting. The three machine learners incorporated multiple predictors, including satellite data, meteorological variables, land-use variables, elevation, chemical transport model predictions, several reanalysis data sets, as well as other predictors. The annual predictions were calculated by averaging the daily predictions for each year in each grid cell. The ensembled model demonstrated better predictive performance than the individual machine learners with 10-fold cross-validated R-squared values of 0.86 for daily predictions and 0.89 for annual predictions.",
+    "purpose": "To provide daily and annual PM2.5 concentration data in the U.S. at a resolution of 1 km (about 30 arc-seconds) for public health research to respectively estimate short- and long-term effects on human health, and for other related research.",
     "doi": "https://doi.org/10.7927/0rvr-4538",
     "stac_category": "health",
     "keywords": [
@@ -49,7 +52,10 @@
       "Environment",
       "United States of America"
     ],
-    "datetime": "2021-07-15T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "raster, tabular, vector"
   },
   "links": [
     {
@@ -65,5 +71,16 @@
       "title": "Health"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided",
+  "providers": [
+    {
+      "name": "Di, Q., Y. Wei, A. Shtein, C. Hultquist, X. Xing, H. Amini, L. Shi, I. Kloog, R. Silvern, J. Kelly, M. B. Sabath, C. Choirat, P. Koutrakis, A. Lyapustin, Y. Wang, L. J. Mickley, and J. Schwartz",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

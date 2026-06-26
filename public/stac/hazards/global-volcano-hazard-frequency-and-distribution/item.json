@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "global-volcano-hazard-frequency-and-distribution",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "Global Volcano Hazard Frequency and Distribution",
     "description": "Global Volcano Hazard Frequency and Distribution is a 2.5 minute gridded data set based upon the National Geophysical Data Center (NGDC) Volcano Database spanning the period  of 79 through 2000. This database includes nearly 4,000 volcanic events categorized as moderate or above (values 2 through 8) according to the Volcano Explosivity Index (VEI). Most volcanoes are georeferenced to the nearest tenth or hundredth of a degree with a few to the nearest thousandth of a degree. To produce the final output, the frequency of a volcanic hazard is computed for each grid cell, with the data set consequently being classified into deciles (10 classes of approximately equal number of grid cells). The higher the grid cell value in the final output, the higher the relative frequency of hazard posed by volcanoes. This data set is the result of collaboration among the Columbia University Center for Hazards and Risk Research (CHRR) and Columbia University Center for International Earth Science Information Network (CIESIN).",
+    "purpose": "To provide a means of assessing the relative distribution and frequency of global volcano hazard.",
     "doi": "https://doi.org/10.7927/H4BR8Q45",
     "stac_category": "hazards",
     "keywords": [
@@ -49,7 +52,10 @@
       "Sustainability",
       "EARTH SCIENCE > HUMAN DIMENSIONS > NATURAL HAZARDS > VOLCANIC ERUPTIONS"
     ],
-    "datetime": "2005-12-31T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "raster, map, map service"
   },
   "links": [
     {
@@ -65,5 +71,16 @@
       "title": "Hazards"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "The Trustees of Columbia University in the City of New York and Center for Hazards and Risk Research (CHRR) hold the copyright of this data set. Users are prohibited from any commercial, non-free resale, or redistribution without explicit written permission from CHRR and CIESIN. Users should acknowledge CHRR and CIESIN as the source used in the creation of any reports, publications, new data sets, derived products, or services resulting from the use of this data set. CHRR and CIESIN also request reprints of any publications and notification of any redistribution efforts.",
+  "providers": [
+    {
+      "name": "Center for Hazards and Risk Research - CHRR - Columbia University, and Center for International Earth Science Information Network - CIESIN - Columbia University",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

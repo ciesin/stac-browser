@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "china-dimensions-data-collection-chinese-county-level-data-on-hospitals-and-epidemiology-stations-1950-1985",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "China Dimensions Data Collection: Chinese County-Level Data on Hospitals and Epidemiology Stations, 1950-1985",
     "description": "The China Dimensions Data Collection: Chinese County-Level Data on Hospitals and Epidemiology Stations, 1950-1985 consists of hospital and epidemiological station data for the administrative regions of China from 1950 to 1985. The data includes name and years of operation at a scale of one to one million (1:1M) at the county level. This data set is produced in collaboration with the University of Washington as part of the China in Time and Space (CITAS) project and the Center for International Earth Science Information Network (CIESIN).",
+    "purpose": "To provide descriptive information on health care institutions in China between 1950 and 1985.",
     "doi": "https://doi.org/10.7927/H4V40S4D",
     "stac_category": "health",
     "keywords": [
@@ -50,7 +53,10 @@
       "EARTH SCIENCE > HUMAN DIMENSIONS > PUBLIC HEALTH",
       "China"
     ],
-    "datetime": "1997-02-28T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "tabular"
   },
   "links": [
     {
@@ -66,5 +72,16 @@
       "title": "Health"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "The University of Washington China in Time and Space (CITAS) and Trustees of Columbia University in the City of New York hold the copyright of this data set. Users are prohibited from any commercial, non-free resale, or redistribution without explicit written permission from CITAS and CIESIN. Users should acknowledge CITAS and CIESIN as the source used in the creation of any reports, publications, new data sets, derived products, or services resulting from the use of this data set. CITAS and CIESIN also request reprints of any publications and notification of any redistributing efforts.",
+  "providers": [
+    {
+      "name": "China in Time and Space - CITAS - University of Washington, and Center for International Earth Science Information Network - CIESIN",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

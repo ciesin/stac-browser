@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "global-multihazard-frequency-and-distribution",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "Global Multihazard Frequency and Distribution",
     "description": "The Global Multihazard Frequency and Distribution is a 2.5 minute grid presenting a simple multihazard index based solely on summated single-hazard decile values. The hazards of interest include cyclones, droughts, earthquakes, floods, landslides, and volcanoes. This data set is further enriched by the inclusion of data pertaining to population, Gross Domestic Product (GDP), and transportation infrastructure. This data set is the result of collaboration among the Columbia University Center for Hazards and Risk Research (CHRR), International Bank for Reconstruction and Development/The World Bank, and Columbia University Center for International Earth Science Information Network (CIESIN).",
+    "purpose": "To provide insight into the frequency and distribution of multihazard events.",
     "doi": "https://doi.org/10.7927/H45718Z5",
     "stac_category": "hazards",
     "keywords": [
@@ -57,7 +60,10 @@
       "EARTH SCIENCE > HUMAN DIMENSIONS > NATURAL HAZARDS > VOLCANIC ERUPTIONS",
       "EARTH SCIENCE > TERRESTRIAL HYDROSPHERE > SNOW/ICE > AVALANCHE"
     ],
-    "datetime": "2005-12-31T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "raster, map"
   },
   "links": [
     {
@@ -73,5 +79,16 @@
       "title": "Hazards"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "The Trustees of Columbia University in the City of New York, Center for Hazards and Risk Research (CHRR), and International Bank for Reconstruction and Development/The World Bank hold the copyright of this data set. Users are prohibited from any commercial, non-free resale, or redistribution without explicit written permission from CHRR, CIESIN, and The World Bank. Users should acknowledge CHRR, CIESIN, and The World Bank as the source used in the creation of any reports, publications, new data sets, derived products, or services resulting from the use of this data set. CHRR, CIESIN, and The World Bank also request reprints of any publications and notification of any redistribution efforts.",
+  "providers": [
+    {
+      "name": "Center for Hazards and Risk Research - CHRR - Columbia University, Center for International Earth Science Information Network - CIESIN - Columbia University, and International Bank for Reconstruction and Development - The World Bank",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "national-aggregates-of-geospatial-data-collection-population-landscape-and-climate-estimates-version-4-place-iv",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "National Aggregates of Geospatial Data Collection: Population, Landscape, And Climate Estimates, Version 4 (PLACE IV)",
     "description": "The National Aggregates of Geospatial Data Collection: Population, Landscape, And Climate Estimates, Version 4 (PLACE IV) provides measures of population (head counts) and land area (square kilometers) as totals and by urban and rural designation, within multiple biophysical themes for 248 statistical areas (countries and other territories recognized by the United Nations (UN)), UN geographic regions and subregions, and World Bank economic classifications. It improves upon previous versions by providing these estimates at both the national level, and where possible, at subnational administrative level 1 for the years 2000, 2005, 2010, 2015, and 2020, and by 5-year and broad age groups for the year 2010.",
+    "purpose": "To provide tabular data to researchers without GIS capabilities who need data on population and land area by country across a range of physical characteristics. These include measures such as the number of persons living within coastal zones, the total area within a specific elevation strata, or the number of persons living within different climate zones.",
     "doi": "https://doi.org/10.7927/rht8-jv78",
     "stac_category": "climate",
     "keywords": [
@@ -297,7 +300,10 @@
       "United States Minor Outlying Islands",
       "Western Sahara"
     ],
-    "datetime": "2022-05-24T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "tabular, map"
   },
   "links": [
     {
@@ -313,5 +319,16 @@
       "title": "Climate"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
+  "providers": [
+    {
+      "name": "Center for International Earth Science Information Network - CIESIN - Columbia University",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

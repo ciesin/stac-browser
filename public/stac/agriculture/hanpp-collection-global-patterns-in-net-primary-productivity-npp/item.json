@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "hanpp-collection-global-patterns-in-net-primary-productivity-npp",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "HANPP Collection: Global Patterns in Net Primary Productivity (NPP)",
     "description": "The HANPP Collection: Global Patterns in Net Primary Productivity (NPP) maps the net amount of solar energy converted to plant organic matter through photosynthesis. NPP is measured in units of elemental carbon and represents the primary food energy source for the world's ecosystems.",
+    "purpose": "To be utilized in conjunction with a data set of human appropriation of net primary productivity (HANPP) in order to understand global energy flows and localized impacts on the environment.",
     "doi": "https://doi.org/10.7927/H40Z715X",
     "stac_category": "agriculture",
     "keywords": [
@@ -51,7 +54,10 @@
       "Sustainability",
       "EARTH SCIENCE > BIOSPHERE > VEGETATION > CARBON"
     ],
-    "datetime": "2004-12-31T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "raster, map"
   },
   "links": [
     {
@@ -67,5 +73,16 @@
       "title": "Agriculture"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
+  "providers": [
+    {
+      "name": "Imhoff, M.L., L. Bounoua, T. Ricketts, C. Loucks, R. Harriss, and W.T. Lawrence",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

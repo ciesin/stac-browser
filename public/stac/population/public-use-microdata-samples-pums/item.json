@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "public-use-microdata-samples-pums",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "Public Use Microdata Samples (PUMS)",
     "description": "The Public Use Microdata Samples (PUMS) are computer-accessible files containing records for a sample of housing units, with information on the characteristics of each housing unit and the people in it for 1940-1990. Within the limits of sample size and geographical detail, these files allow users to prepare virtually any tabulations they require. Each datafile is documented in a codebook containing a data dictionary and supporting appendix information. Electronic versions for the codebooks are only available for the 1980 and 1990 datafiles. Identifying information has been removed to protect the confidentiality of the respondents. PUMS is produced by the United States Census Bureau (USCB) and is distributed by USCB, Inter-university Consortium for Political and Social Research (ICPSR), and Columbia University Center for International Earth Science Information Network (CIESIN).",
+    "purpose": "To provide US housing and related data for demographic analysis; The samples can be extended to analysis of the whole United States for many purposes. Comparative analysis across different groups is possible using the PUMS data.",
     "doi": "https://doi.org/10.7927/H41V5BWK",
     "stac_category": "population",
     "keywords": [
@@ -50,7 +53,10 @@
       "EARTH SCIENCE > HUMAN DIMENSIONS > POPULATION",
       "United States of America"
     ],
-    "datetime": "1990-12-31T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "tabular"
   },
   "links": [
     {
@@ -66,5 +72,16 @@
       "title": "Population"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
+  "providers": [
+    {
+      "name": "United States Census Bureau - USCB",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

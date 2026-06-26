@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "low-elevation-coastal-zone-lecz-urban-rural-population-estimates-global-rural-urban-mapping-project-grump-alpha-version",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "Low Elevation Coastal Zone (LECZ) Urban-Rural Population Estimates, Global Rural-Urban Mapping Project (GRUMP), Alpha Version",
     "description": "The Low Elevation Coastal Zone (LECZ) Urban-Rural Population Estimates consists of country-level estimates of urban, rural and total population and land area country-wide and in the LECZ, if applicable. Additionally, the data set provides the number of urban extents, their population and land area that intersect the LECZ, by city-size population classifications of less than 100,000, 100,000 to 500,000, 500,000 to 1,000,000, 1,000,000 to 5,000,000, and more than 5,000,000. All estimates are based on GRUMP Alpha data products. The LECZ was generated using SRTM Digital Elevation Model data and includes all land area that is contiguous with the coast and 10 meters or less in elevation. All grids used for population, land area, urban mask, and LECZ were of 30 arc-second (~1 km ) resolution. This data set is produced by the Columbia  University Center for International Earth Science Information Network (CIESIN) in collaboration with the International Institute for Environment and Development (IIED).",
+    "purpose": "To provide estimates of urban and rural populations and land areas in the low elevation coastal zone.",
     "doi": "https://doi.org/10.7927/H4TM782G",
     "stac_category": "climate",
     "keywords": [
@@ -299,7 +302,10 @@
       "Tokelau",
       "South Korea"
     ],
-    "datetime": "2007-12-31T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "tabular, map"
   },
   "links": [
     {
@@ -315,5 +321,16 @@
       "title": "Climate"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "The Trustees of Columbia University in the City of New York hold the copyright of this data set. Users are prohibited from any commercial, non-free resale, or redistribution without explicit written permission from CIESIN. Users should acknowledge CIESIN as the source used in the creation of any reports, publications, new data sets, derived products, or services resulting from the use of this data set. CIESIN also requests reprints of any publications and notification of any redistributing efforts.",
+  "providers": [
+    {
+      "name": "McGranahan, G., D. Balk, and B. Anderson",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "sdg-indicator-711-access-to-electricity-2023-release",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "SDG Indicator 7.1.1: Access to Electricity, 2023 Release",
     "description": "The SDG Indicator 7.1.1: Access to Electricity, 2023 Release data set, part of the Sustainable Development Goal Indicators (SDGI) collection, measures the proportion of the population with access to electricity for a given statistical area. UN SDG 7 is \"ensure access to affordable, reliable, sustainable and modern energy for all\". Tracking SDG 7: The Energy Progress Report estimated that in 2019, 759 million people around the world lacked access to electricity. Moreover, due to current policies and the detrimental effects of the COVID-19 crisis, it is predicted that by 2030, 660 million people will still not have access to electricity, with a majority of these people residing in Sub-Saharan Africa. As one measure of progress towards SDG 7, the UN agreed upon SDG indicator 7.1.1. The indicator was computed as the proportion of WorldPop gridded population located within illuminated areas defined by annual VIIRS Nighttime Lights Version 2 (VNL V2) data. The SDG indicator 7.1.1 data set provides estimates for the proportion of population with access to electricity for 206 countries and 45,979 level 2 subnational units. The data set is available at both national and level 2 subnational resolutions.",
+    "purpose": "To provide national and subnational estimates of SDG indicator 7.1.1, the proportion of the population with access to electricity, produced using global open data.",
     "doi": "https://doi.org/10.7927/gxnr-sx57",
     "stac_category": "sustainability",
     "keywords": [
@@ -304,7 +307,10 @@
       "Zambia",
       "Zimbabwe"
     ],
-    "datetime": "2023-09-05T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "vector, tabular, map"
   },
   "links": [
     {
@@ -320,5 +326,16 @@
       "title": "Sustainability"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
+  "providers": [
+    {
+      "name": "Center for International Earth Science Information Network - CIESIN - Columbia University",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

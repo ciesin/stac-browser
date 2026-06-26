@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "archive-of-census-related-products-acrp-1990-census-block-statistics",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "Archive of Census Related Products (ACRP): 1990 Census Block Statistics",
     "description": "The 1990 Census Block Statistics portion of the Archive of Census Related Products (ACRP) contains population and housing data from the U.S. Census Bureau's 1990 Summary Tape File (STF1B). The population data includes total population, age, race, and hispanic origin, while the housing data comprises number of housing units, tenure, room density, mean contract rent, mean value, and mean number of rooms. Additional data includes land area, water area, centroids, Metropolitan Statistical Area (MSA) codes, place codes, and special area codes.  This portion of the ACRP is produced by the Columbia University Center for International Earth Science Information Network (CIESIN).",
+    "purpose": "To provide population and housing data for the U.S.",
     "doi": "https://doi.org/10.7927/H43X84KH",
     "stac_category": "population",
     "keywords": [
@@ -49,7 +52,10 @@
       "EARTH SCIENCE > HUMAN DIMENSIONS > POPULATION",
       "United States of America"
     ],
-    "datetime": "1996-12-31T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "tabular"
   },
   "links": [
     {
@@ -65,5 +71,16 @@
       "title": "Population"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
+  "providers": [
+    {
+      "name": "Center for International Earth Science Information Network - CIESIN",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

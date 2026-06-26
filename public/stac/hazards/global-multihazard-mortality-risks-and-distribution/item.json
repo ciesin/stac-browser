@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "global-multihazard-mortality-risks-and-distribution",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "Global Multihazard Mortality Risks and Distribution",
     "description": "The Global Multihazard Mortality Risks and Distribution is a 2.5 minute grid identifying and characterizing the nature of multihazard risk at the global scale. For this study, multihazard considers the hazards posed by cyclones, droughts, earthquakes, floods, landslides and volcanoes. The specific hazards are grouped into the following hazard categories: drought (drought), seismic (earthquakes and volcanoes), and hydro (cyclones, floods, and landslides). Each grid cell is assessed for each hazard category; and is considered at high risk or not at high risk. Treated as a binary value, the at-risk values of the hazards categories function as a 3-digit index of multihazard.\n\nFor each of the hazard category combinations, aggregate analyses determine the total population, area, and length of major transportation features, as well as, the value of Gross Domestic Product (GDP) and agricultural GDP. This data set is the result of collaboration among the Columbia University Center for Hazards and Risk Research (CHRR), International Bank for Reconstruction and Development/The World Bank, and Columbia University Center for International Earth Science Information Network (CIESIN).",
+    "purpose": "To identify areas of the world at multihazard mortality risk and to gain insight into the nature of this risk posed.",
     "doi": "https://doi.org/10.7927/H41J97NM",
     "stac_category": "hazards",
     "keywords": [
@@ -60,7 +63,10 @@
       "EARTH SCIENCE > TERRESTRIAL HYDROSPHERE > SNOW/ICE > AVALANCHE",
       "EARTH SCIENCE > HUMAN DIMENSIONS > POPULATION > MORTALITY"
     ],
-    "datetime": "2005-12-31T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "raster, map"
   },
   "links": [
     {
@@ -76,5 +82,16 @@
       "title": "Hazards"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "The Trustees of Columbia University in the City of New York, Center for Hazards and Risk Research (CHRR), and International Bank for Reconstruction and Development/The World Bank hold the copyright of this data set. Users are prohibited from any commercial, non-free resale, or redistribution without explicit written permission from CHRR, CIESIN, and The World Bank. Users should acknowledge CHRR, CIESIN, and The World Bank as the source used in the creation of any reports, publications, new data sets, derived products, or services resulting from the use of this data set. CHRR, CIESIN, and The World Bank also request reprints of any publications and notification of any redistribution efforts.",
+  "providers": [
+    {
+      "name": "Center for Hazards and Risk Research - CHRR - Columbia University, Center for International Earth Science Information Network - CIESIN - Columbia University, and International Bank for Reconstruction and Development - The World Bank",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

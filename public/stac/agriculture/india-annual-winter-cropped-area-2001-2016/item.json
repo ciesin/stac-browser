@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "india-annual-winter-cropped-area-2001-2016",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "India Annual Winter Cropped Area, 2001-2016",
     "description": "The India Annual Winter Cropped Area, 2001 - 2016 consists of annual winter cropped areas for most of India (except the Northeastern states) from 2000-2001 to 2015-2016. This data set utilizes the NASA Moderate Resolution Imaging Spectroradiometer (MODIS) Enhanced Vegetation Index (EVI; spatial resolution: 250m) for the winter growing season (October-March). The methodology uses an automated algorithm identifying the EVI peak in each pixel for each year and linearly scales the EVI value between 0% and 100% cropped area within that particular pixel. Maps were then resampled to 1 km and were validated using high-resolution QuickBird, RapidEye, SkySat, and WorldView-2 images spanning 2008 to 2016 across 11 different agricultural regions of India. The spatial resolution of the data set is 1 km, resampled from 250m. The data are distributed as GeoTIFF and NetCDF files and are in WGS 84 projection.",
+    "purpose": "To provide data that can be used in land cover and land use change (LCLUC) studies, agricultural applications, and to assist with policy-making in regards to sustainable agricultural intensification.",
     "doi": "https://doi.org/10.7927/H47D2S3W",
     "stac_category": "agriculture",
     "keywords": [
@@ -50,7 +53,10 @@
       "Farming",
       "India"
     ],
-    "datetime": "2017-11-10T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "raster, map, map service"
   },
   "links": [
     {
@@ -66,5 +72,16 @@
       "title": "Agriculture"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
+  "providers": [
+    {
+      "name": "Jain, M., P. Mondal, G. L. Galford, G. Fiske, and R. S. DeFries",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

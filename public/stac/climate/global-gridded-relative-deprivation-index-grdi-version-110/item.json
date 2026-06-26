@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "global-gridded-relative-deprivation-index-grdi-version-110",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "Global Gridded Relative Deprivation Index (GRDI), Version 1.10",
     "description": "The Global Gridded Relative Deprivation Index (GRDI), Version 1.10 (GRDIv1.10) data set characterizes relative levels of multidimensional deprivation and poverty at 30 arc-seconds spatial resolution (~1 km at the equator) ranging from 0 (lowest) to 100 (highest). GRDIv1.10 is built from sociodemographic and satellite data inputs from five global spatial layers that were spatially harmonized, indexed, and aggregated into an index. These include Subnational Human Development Index (SHDI) and Infant Mortality Rate (IMR) data, gridded Child Dependency Ratios (CDR), nighttime lights intensity, and proportion of the grid cell that is built-up. This version corrects some issues with GRDI Version 1 (GRDIv1) by using a less restrictive uninhabited areas mask based on populated areas instead of built-up areas, improved processing of the child dependency ratio data, and removal of the trend in nighttime light input. In addition, a different set of weights is used to combine the five input layers in the final index that dampens the urban-bias exhibited by the previous version of the index, no matter the development level of the country.",
+    "purpose": "To provide a global gridded relative deprivation index characterizing the levels of multidimensional deprivation in each pixel at ~1 km resolution.",
     "doi": "https://doi.org/10.7927/q57x-jt34",
     "stac_category": "climate",
     "keywords": [
@@ -53,7 +56,10 @@
       "Society",
       "Global"
     ],
-    "datetime": "2025-05-28T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "raster"
   },
   "links": [
     {
@@ -69,5 +75,16 @@
       "title": "Climate"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
+  "providers": [
+    {
+      "name": "Center for Integrated Earth System Information - CIESIN - Columbia University",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

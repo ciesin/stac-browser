@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "2001-environmental-sustainability-index-esi",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "2001 Environmental Sustainability Index (ESI)",
     "description": "The 2001 Environmental Sustainability Index (ESI) utilizes a refined methodology based on the 2000 Pilot ESI effort, to construct an index covering 122 countries that measures the overall progress towards environmental sustainability. The index is a composite measure of the current status of a nation's environmental systems, pressures on those systems, human vulnerability to environmental change, national capacity to respond, and contributions to global environmental stewardship. The refinements included the addition and deletion of indicators, filling gaps in data coverage, new data sets, and the modification of the aggregation scheme. The index was unveiled at the World Economic Forum's annual meeting, January 2001, Davos, Switzerland. The 2001 ESI is the result of collaboration among the World Economic Forum (WEF), Yale Center for Environmental Law and Policy (YCELP), and the Columbia University Center for International Earth Science Information Network (CIESIN).",
+    "purpose": "To provide  a comparative index of national-level environmental sustainability based on lessons learned from the year 2000 pilot effort.",
     "doi": "https://doi.org/10.7927/H4X34VDM",
     "stac_category": "climate",
     "keywords": [
@@ -178,7 +181,10 @@
       "Kyrgyzstan",
       "Senegal"
     ],
-    "datetime": "2001-12-31T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "document, tabular"
   },
   "links": [
     {
@@ -194,5 +200,16 @@
       "title": "Climate"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
+  "providers": [
+    {
+      "name": "World Economic Forum - WEF - Global Leaders for Tomorrow Environment Task Force, Yale Center for Environmental Law and Policy - YCELP - Yale University, and Center for International Earth Science Information Network - CIESIN - Columbia University",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

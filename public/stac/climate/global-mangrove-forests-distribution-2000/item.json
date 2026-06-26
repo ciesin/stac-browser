@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "global-mangrove-forests-distribution-2000",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "Global Mangrove Forests Distribution, 2000",
     "description": "The Global Mangrove Forests Distribution, 2000 data set is a compilation of the extent of mangroves forests from the Global Land Survey and the Landsat archive with hybrid supervised and unsupervised digital image classification techniques. The data are available at 30-m spatial resolution. The total area of mangroves in the year 2000 was estimated at 137,760 km2 in 118 countries and territories in the tropical and subtropical regions of the world.",
+    "purpose": "To provide data that can be used in global mangrove forest distribution modeling, land cover change analysis, global carbon accounting studies and to assist with policy-making in regards to human-environment interactions and future adaptive strategies.",
     "doi": "https://doi.org/10.7927/H4J67DW8",
     "stac_category": "climate",
     "keywords": [
@@ -53,7 +56,10 @@
       "EARTH SCIENCE > OCEANS > COASTAL PROCESSES > MANGROVES",
       "Global"
     ],
-    "datetime": "2005-12-31T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "raster, map, map service"
   },
   "links": [
     {
@@ -69,5 +75,16 @@
       "title": "Climate"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "This is a work of the U.S. Government and is not subject to copyright protection in the United States. The data may be used by anyone, anywhere, anytime without permission, license or royalty payment. Attribution using the recommended citation is requested.",
+  "providers": [
+    {
+      "name": "Giri, C., E. Ochieng, L.L.Tieszen,  Z. Zhu,  A. Singh, T. Loveland, J. Masek, and N. Duke",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "natural-resource-management-index-nrmi-2011-release",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "Natural Resource Management Index (NRMI), 2011 Release",
     "description": "The Natural Resource Management Index (NRMI), 2011 Release is a composite index for 174 countries derived from the average of four proximity-to-target indicators for eco-region protection (weighted average percentage of biomes under protected status), access to improved sanitation, access to improved water and child mortality. The 2011 release of the NRMI includes a consistent time series of NRMIs for 2006 to 2011. In addition, the 2011 release includes two new indicators that will eventually supplant the NRMI: a Natural Resource Protection Indicator (NRPI) that is solely composed of the eco-region protection indicator, and a Child Health Indicator (CHI), which is an unweighted average of the proximtiy-to-target scores for access to water, access to sanitation, and child mortality. The data set is produced and distributed by the Columbia University Center for International Earth Science Information Network (CIESIN) in collaboration with the Yale Center for Environmental Law and Policy (YCELP), Yale University.",
+    "purpose": "To assist in the country selection process for the Millennium Challenge Corporation by providing indicators of natural resource protection and child health that complement the governance, social, and economic indicators used by MCC as country selection criteria.",
     "doi": "https://doi.org/10.7927/H45Q4T1N",
     "stac_category": "conservation",
     "keywords": [
@@ -282,7 +285,10 @@
       "Hong Kong",
       "Nauru"
     ],
-    "datetime": "2011-12-31T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "tabular"
   },
   "links": [
     {
@@ -298,5 +304,16 @@
       "title": "Conservation"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
+  "providers": [
+    {
+      "name": "Center for International Earth Science Information Network - CIESIN - Columbia University",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

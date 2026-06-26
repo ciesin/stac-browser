@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "sea-level-rise-impacts-on-ramsar-wetlands-of-international-importance",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "Sea Level Rise Impacts on Ramsar Wetlands of International Importance",
     "description": "The Sea Level Rise Impacts on Ramsar Wetlands of International Importance data set represents the results of an analysis using the boundaries for Ramsar sites designated under the Ramsar Convention on Wetlands and intersecting them with different elevation zones in the coastal zone to assess area and percent area that would become inundated under 1 and 2 meter sea level rise scenarios. This data set provides results for 613 sites with defined boundaries that were found to intersect with the 0-5m above mean sea level coastal zone, defined by NASA Shuttle Radar Topography Mission (SRTM) elevation data. In addition to assessing the degree of risk of inundation, the data set provides population density and percent of land that is urban within the site and within 1km and 5km buffers surrounding the site. The data set also reports on infant mortality rates within 1km and 5km buffers around the site, as a measure of poverty levels that may affect adaptive capacity.",
+    "purpose": "To provide a preliminary assessment of coastal Ramsar Sites that are at risk to inundation as a consequence of sea level rise.",
     "doi": "https://doi.org/10.7927/H4CC0XMD",
     "stac_category": "climate",
     "keywords": [
@@ -172,7 +175,10 @@
       "Tanzania",
       "Uruguay"
     ],
-    "datetime": "2013-11-14T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "tabular, map service"
   },
   "links": [
     {
@@ -188,5 +194,16 @@
       "title": "Climate"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
+  "providers": [
+    {
+      "name": "Center for International Earth Science Information Network - CIESIN - Columbia University",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

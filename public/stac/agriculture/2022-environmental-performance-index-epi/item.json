@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "2022-environmental-performance-index-epi",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "2022 Environmental Performance Index (EPI)",
     "description": "The 2022 Environmental Performance Index (EPI) ranks 180 countries on 40 performance indicators in the following 11 issue categories: air quality, sanitation and drinking water, heavy metals, waste management, biodiversity and habitat, ecosystem services, fisheries, acid rain, agriculture, water resources, and climate change mitigation. These categories track performance and progress on three broad policy objectives, environmental health, ecosystem vitality, and climate change. The EPI's proximity-to-target methodology facilitates cross-country comparisons among economic and regional peer groups. The data set includes the 2022 EPI, component scores, and time-series source data. It is the result of a collaboration of the Yale Center for Environmental Law and Policy (YCELP), Yale University, and the Columbia University Center for International Earth Science Information Network (CIESIN).",
+    "purpose": "To provide quantitative metrics for evaluating a country's environmental performance in different policy categories relative to clearly defined targets.",
     "doi": "https://doi.org/10.7927/dwt2-9k25",
     "stac_category": "agriculture",
     "keywords": [
@@ -277,7 +280,10 @@
       "Zambia",
       "Zimbabwe"
     ],
-    "datetime": "2022-12-31T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "document, tabular, map"
   },
   "links": [
     {
@@ -293,5 +299,16 @@
       "title": "Agriculture"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
+  "providers": [
+    {
+      "name": "Yale Center for Environmental Law and Policy - YCELP - Yale University, and Center for International Earth Science Information Network - CIESIN - Columbia University",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

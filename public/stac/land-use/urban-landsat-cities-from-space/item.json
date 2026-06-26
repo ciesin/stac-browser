@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "urban-landsat-cities-from-space",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "Urban Landsat: Cities from Space",
     "description": "The Urban Landsat: Cities from Space data set contains images for 66 urban areas and the raw, underlying data for 28 of these places. Each image shows a Landsat false color composite in UTM projection. The R/G/B layers correspond to TM/ETM+ bands 7/4/2. Each pixel is 30x30 meters in area and most images are 30x30 km in area.  A 2% linear stretch has been applied to the images. The Landsat data files contain six reflected bands of calibrated exoatmospheric reflectance stored in ENVI band sequential (BSQ) format. Geographic coordinates are included in the header files. The data files contain 1000x1000x6 4 byte floating point numbers as indicated in the header files.",
+    "purpose": "To serve a wide user community by providing composite Landsat images and raw data for urban areas that can be used in interdisciplinary studies of remote sensing and the environment.",
     "doi": "https://doi.org/10.7927/H4SQ8XB1",
     "stac_category": "land-use",
     "keywords": [
@@ -70,7 +73,10 @@
       "Vietnam",
       "Hungary"
     ],
-    "datetime": "2006-12-31T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "raster, map"
   },
   "links": [
     {
@@ -86,5 +92,16 @@
       "title": "Land Use"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "The Trustees of Columbia University hold the copyright of this data set. Users are prohibited from any commercial sale or free redistribution without explicit written permission from CIESIN. Users should acknowledge CIESIN as the source used in the creation of any reports, publications, new data sets, derived products, or services resulting from the use of this data set. CIESIN also requests reprints of any publications and notification of any redistributing efforts.",
+  "providers": [
+    {
+      "name": "Small, C",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

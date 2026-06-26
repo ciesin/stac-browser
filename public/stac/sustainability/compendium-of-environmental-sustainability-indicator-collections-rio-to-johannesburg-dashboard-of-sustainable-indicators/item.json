@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "compendium-of-environmental-sustainability-indicator-collections-rio-to-johannesburg-dashboard-of-sustainable-indicators",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "Compendium of Environmental Sustainability Indicator Collections: Rio to Johannesburg Dashboard of Sustainable Indicators",
     "description": "The Rio to Johannesburg Dashboard of Sustainable Development Indicators portion of the Compendium of Environmental Sustainability Indicator Collections contains 35 Commission on Sustainable Development (CSD) indicators for 202 countries. Commonly known as the RioJo Dashboard, indicators are from the CSD Thematic Framework from the Rio Summit (1992 UN conference on the Environment and Development) to the time of the Johannesburg Summit in 2000. The data are distributed by the Columbia University Center for International Earth Science Information Network (CIESIN).",
+    "purpose": "To provide data to  gauge broad similarities and differences of national progress on sustainability of countries, over time and relative to other nations.",
     "doi": "https://doi.org/10.7927/H42N506Q",
     "stac_category": "sustainability",
     "keywords": [
@@ -213,7 +216,10 @@
       "West Bank",
       "Virgin Islands"
     ],
-    "datetime": "2002-12-31T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "tabular"
   },
   "links": [
     {
@@ -229,5 +235,16 @@
       "title": "Sustainability"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "The Consultative Group on Sustainable Development Indicators (CSDGI) and Trustees of Columbia University hold the copyright of this data set. Users are prohibited from any commercial, non-free resale, or redistribution without explicit written permission from CDSGI and CIESIN. Users should acknowledge CSDGI and CIESIN as the source used in the creation of any reports, publications, new data sets, derived products, or services resulting from the use of this data set. CSDGI and CIESIN also request reprints of any publications and notification of any redistributing efforts.",
+  "providers": [
+    {
+      "name": "Consultative Group on Sustainable Development Indicators - CGSDI",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

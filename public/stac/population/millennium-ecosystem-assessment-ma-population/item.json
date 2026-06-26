@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "millennium-ecosystem-assessment-ma-population",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "Millennium Ecosystem Assessment: MA Population",
     "description": "The Millennium Ecosystem Assessment: MA Population provides data and information on baseline population as one of the drivers of ecosystem change. The data was used in estimating the magnitude of regional pressures on ecosystems. The MA Population data sets include Gridded Population of the World (GPW) Version 3, population grids from the Alpha version of the Global Rural-Urban Mapping Project (GRUMP), Global Subnational Infant Mortality Rates (Alpha version), and Global Subnational Prevalence of Child Malnutrition (Alpha version).",
+    "purpose": "To preserve access to the original population data used by the Millennium Ecosystem Assessment (MA) and other related research.",
     "doi": "https://doi.org/10.7927/H4CF9N1K",
     "stac_category": "population",
     "keywords": [
@@ -68,7 +71,10 @@
       "Society",
       "EARTH SCIENCE > HUMAN DIMENSIONS > POPULATION"
     ],
-    "datetime": "2005-05-29T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "raster"
   },
   "links": [
     {
@@ -84,5 +90,16 @@
       "title": "Population"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "The Trustees of Columbia University in the City of New York holds the copyright of this data set. Users are prohibited from any commercial, non-free resale, or redistribution without explicit written permission from\n\nCIESIN. Users should acknowledge CIESIN as the source used in the creation of any reports, publications, new data sets, derived products, or services resulting from the use of this data set. CIESIN also requests reprints of any publications and notification of any redistributing efforts.",
+  "providers": [
+    {
+      "name": "Millennium Ecosystem Assessment",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

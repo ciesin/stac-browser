@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "global-15-x-15-minute-grids-of-the-downscaled-population-based-on-the-sres-b2-scenario-1990-and-2025",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "Global 15 x 15 Minute Grids of the Downscaled Population Based on the SRES B2 Scenario, 1990 and 2025",
     "description": "The Global 15x15 Minute Grids of the Downscaled Population Based on the Special Report on Emissions Scenarios (SRES) B2 Scenario, 1990 and 2025, are geospatial distributions of the downscaled population per unit area (population densities). These global grids were generated using the Country-level Population and Downscaled Projections Based on the SRES B2 Scenario, 1990-2100 data set, and CIESIN's Gridded Population of World, Version 2 (GPWv2) data set as the base map. The 1990 GPW was used as the base distribution and the country-level downscaled projections were used to replace population estimates of 1990 in GPW and 2025. The fractional distribution of the population at each grid cell is the same as the 1990 GPW, sub-nationally. This data set is produced  and distributed by the Columbia University Center for International Earth Science Information Network (CIESIN).",
+    "purpose": "To provide a gridded data on country-level population and downscaled projections based on the SRES B2 marker scenario.",
     "doi": "https://doi.org/10.7927/H4HQ3WTH",
     "stac_category": "climate",
     "keywords": [
@@ -51,7 +54,10 @@
       "EARTH SCIENCE > ATMOSPHERE > AIR QUALITY > EMISSIONS",
       "EARTH SCIENCE > HUMAN DIMENSIONS > POPULATION"
     ],
-    "datetime": "2004-04-30T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "raster, map"
   },
   "links": [
     {
@@ -67,5 +73,16 @@
       "title": "Climate"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "The Trustees of Columbia University in the City of New York hold the copyright of this data set. Users are prohibited from any commercial, non-free resale, or redistribution without explicit written permission from CIESIN. Users should acknowledge CIESIN as the source used in the creation of any reports, publications, new data sets, derived products, or services resulting from the use of this data set. CIESIN also requests reprints of any publications and notification of any redistributing efforts.",
+  "providers": [
+    {
+      "name": "Yetman, G., S.R. Gaffin, and  X. Xing",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

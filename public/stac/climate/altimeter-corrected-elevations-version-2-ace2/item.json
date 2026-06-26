@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "altimeter-corrected-elevations-version-2-ace2",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "Altimeter Corrected Elevations, Version 2 (ACE2)",
     "description": "The Altimeter Corrected Elevations, Version 2 (ACE2) data set, is the Global Digital Elevation Model (GDEM) created by using multi-mission Satellite Radar Altimetry with the Shuttle Radar Topography Mission (SRTM). It was created by synergistically merging the SRTM data set with Satellite Radar Altimetry within the region bounded by 60\u00b0N and 60\u00b0S. Over the areas lying outside the SRTM latitude limits, other sources have been used including Global Observations to Benefit the Environment (GLOBE) and the original Altimeter Corrected Elevations (ACE) Digital Elevation Model (DEM), together with new matrices derived from reprocessing the European Remote Sensing (ERS-1) Geodetic Mission data set with an enhanced re-tracking system, and the inclusion of data from other satellites. ACE2 was developed at resolutions of  3, 9 and 30 arc-seconds, and 5 arc-minutes. The data are distributed in little-endian format as 15 degree by 15 degree tiles, with the file name referring to the southwestern edge of the southwestern most pixel.",
+    "purpose": "To provide satellite altimeter corrected digital elevation data for environmental, socioeconomic, climate and other related research, such as flood risk assessment, land deformations, landslide modelling, urban planning, and sea level rise impacts.",
     "doi": "https://doi.org/10.7927/H40G3H78",
     "stac_category": "climate",
     "keywords": [
@@ -48,7 +51,10 @@
       "Elevation",
       "Global"
     ],
-    "datetime": "2019-03-22T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "raster, map"
   },
   "links": [
     {
@@ -64,5 +70,16 @@
       "title": "Climate"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
+  "providers": [
+    {
+      "name": "Berry, P. A. M., R. Smith, and J. Benveniste",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

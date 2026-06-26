@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "global-fire-emissions-indicators-grids-1997-2015",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "Global Fire Emissions Indicators, Grids: 1997-2015",
     "description": "The Global Fire Emissions Indicators, Grids: 1997-2015 contain a time-series of rasters from 1997 to 2015 for total area burned (hectares) and total carbon content (tons). The annual total area burned raster is the sum of monthly rasters, which are products of the Cell Area and Burn Fraction (fraction of the cell area burned in the month). There are two groups of total carbon content (TCC) rasters, annual totals for all fire types and annual totals for each of six fire types which include Agricultural, Boreal, Tropical Deforestation, Peat, Savanna, and Temperate forest fires. The annual TCC raster for all fire types is the sum of monthly carbon emission rasters. The annual TCC raster for each fire type is the product of Dry Matter, Burn Fraction, and Fire Type Contribution.",
+    "purpose": "To provide data that can be used to calculate trace gas and aerosol emissions, due to fires; monitor and assess national efforts to manage emissions.",
     "doi": "https://doi.org/10.7927/H400002V",
     "stac_category": "hazards",
     "keywords": [
@@ -53,7 +56,10 @@
       "EARTH SCIENCE > ATMOSPHERE > AIR QUALITY > EMISSIONS",
       "Global"
     ],
-    "datetime": "2018-02-23T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "raster, map"
   },
   "links": [
     {
@@ -69,5 +75,16 @@
       "title": "Hazards"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
+  "providers": [
+    {
+      "name": "Giglio, L., J. T. Randerson, and G. R. van der Werf",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

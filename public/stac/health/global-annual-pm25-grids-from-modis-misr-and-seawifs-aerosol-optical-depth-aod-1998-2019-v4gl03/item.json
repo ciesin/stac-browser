@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "global-annual-pm25-grids-from-modis-misr-and-seawifs-aerosol-optical-depth-aod-1998-2019-v4gl03",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "Global Annual PM2.5 Grids from MODIS, MISR and SeaWiFS Aerosol Optical Depth (AOD), 1998-2019, V4.GL.03",
     "description": "The Global Annual PM2.5 Grids from MODIS, MISR and SeaWiFS Aerosol Optical Depth (AOD), 1998-2019, V4.GL.03 consists of annual concentrations (micrograms per cubic meter) of all composition ground-level fine particulate matter (PM2.5). This data set combines AOD retrievals from multiple satellite algorithms\n\nincluding the NASA MODerate resolution Imaging Spectroradiometer Collection 6.1 (MODIS C6.1), Multi-angle Imaging SpectroRadiometer Version 23 (MISRv23), MODIS Multi-Angle Implementation of Atmospheric Correction Collection 6 (MAIAC C6), and the Sea-Viewing Wide Field-of-View Sensor (SeaWiFS) Deep Blue Version 4. The GEOS-Chem chemical transport model is used to relate this total column measure of aerosol to near-surface PM2.5 concentration. Geographically Weighted Regression (GWR) is used with global ground-based measurements from the World Health Organization (WHO) database to predict and adjust for the residual PM2.5 bias per grid cell in the initial satellite-derived values. These estimates are primarily intended to aid in large-scale studies. Gridded data sets are provided at a resolution of 0.01 degrees to allow users to agglomerate data as best meets their particular needs. Data sets are gridded at the finest resolution of the information sources that were incorporated, but do not fully resolve PM2.5 gradients at the gridded resolution due to influence by information sources at coarser resolution. The data are distributed as GeoTIFF files and are in WGS84 projection.",
+    "purpose": "To provide an annual global surface of concentrations (micrograms per cubic meter) of all composition ground-level fine particulate matter of 2.5 micrometers or smaller (PM2.5) for large-scale health and environmental research.",
     "doi": "https://doi.org/10.7927/fx80-4n39",
     "stac_category": "health",
     "keywords": [
@@ -51,7 +54,10 @@
       "Global",
       "Environment"
     ],
-    "datetime": "2022-01-20T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "raster, map"
   },
   "links": [
     {
@@ -67,5 +73,16 @@
       "title": "Health"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
+  "providers": [
+    {
+      "name": "Hammer, M. S., A. van Donkelaar, C. Li, A. Lyapustin, A. M. Sayer, N. C. Hsu, R. C. Levy, M. J. Garay, O. V. Kalashnikova, R. A. Kahn, M. Brauer, J. S. Apte, D. K. Henze, L. Zhang, Q. Zhang, B. Ford, J. R. Pierce, and R. V. Martin",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

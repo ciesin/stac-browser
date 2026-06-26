@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "historical-urban-population-3700-bc-ad-2000",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "Historical Urban Population: 3700 BC - AD 2000",
     "description": "The Historical Urban Population, 3700 BC - AD 2000, originally developed by the Yale School of Forestry & Environmental Studies, is the first spatially explicit global data set containing location and size of urban populations over the last 6,000 years. The data set was created by digitizing, transcribing, and geocoding historical, archaeological, and census-based urban population data. Each data point consists of a city name, latitude, longitude, year, population, and a reliability ranking to assess the geographic uncertainty of each data point. Despite spatial and temporal gaps, no other geocoded data set at this resolution exists. It can therefore be used to investigate long-term historical urbanization trends and patterns, evaluate the current era of urbanization, and build a richer record of urban population through history.",
+    "purpose": "To provide spatially explicit, historic, city-level population data from 3700 BC to AD 2000 for improved understanding of contemporary and historical urbanization trends.",
     "doi": "https://doi.org/10.7927/H4ZG6QBX",
     "stac_category": "population",
     "keywords": [
@@ -183,7 +186,10 @@
       "Tunisia",
       "North Korea"
     ],
-    "datetime": "2018-05-04T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "tabular, video animation, map"
   },
   "links": [
     {
@@ -199,5 +205,16 @@
       "title": "Population"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for non-commercial purposes, without restriction, as long as clear attribution of the source is provided and all distributions carry the same share-alike provision.",
+  "providers": [
+    {
+      "name": "Reba, M. L., F. Reitsma, and K. C. Seto",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

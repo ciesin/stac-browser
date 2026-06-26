@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "us-census-grids-summary-file-3-1990-metropolitan-statistical-areas",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "U.S. Census Grids (Summary File 3), 1990: Metropolitan Statistical Areas",
     "description": "The U.S. Census Grids (Summary File 3), 1990: Metropolitan Statistical Areas data set contains grids of demographic and socioeconomic data from the year 1990 U.S. Census in ASCII and GeoTIFF formats for 50 metropolitan statistical areas with at least one million in population. The grids have a resolution of 7.5 arc-seconds (0.002075 decimal degrees), or approximately 250 square meters. The gridded variables are based on census block geography from Census 1990 TIGER/Line Files and census variables (population, households, and housing variables). This data set is produced by the Columbia University Center for International Earth Science Information Network (CIESIN)",
+    "purpose": "To provide gridded demographic data, including characteristics of income, education, and housing, for metropolitan statistical areas at a finer resolution than is available in the 30 arc-second grids used for the United States as a whole.",
     "doi": "https://doi.org/10.7927/H4F18WNN",
     "stac_category": "population",
     "keywords": [
@@ -163,7 +166,10 @@
       "Wilmington",
       "Middletown"
     ],
-    "datetime": "2013-05-17T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "raster"
   },
   "links": [
     {
@@ -179,5 +185,16 @@
       "title": "Population"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
+  "providers": [
+    {
+      "name": "Seirup, L., G. Yetman, and L. Razafindrazay",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

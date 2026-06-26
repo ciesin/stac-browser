@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "inform-global-risk-index-2019-mid-year-v037",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "INFORM Global Risk Index 2019 Mid Year, v0.3.7",
     "description": "The INFORM Global Risk Index 2019 Mid Year, v0.3.7 data set identifies the countries at a high risk of humanitarian crisis that are more likely to require international assistance. The INFORM Global Risk Index (GRI) model is based on risk concepts published in the scientific literature and envisages three dimensions of risk: Hazard & Exposure, Vulnerability, and Lack of Coping Capacity. The INFORM GRI model is split into different levels to provide a quick overview of the underlying factors leading to humanitarian risk. The INFORM GRI model supports a proactive crisis management framework, and will be helpful for an objective allocation of resources for disaster management, as well as for coordinated actions focused on anticipating, mitigating, and preparing for humanitarian emergencies. Only the two main sections, Vulnerability and Lack of Coping Capacity, not the Hazard & Exposure section, were used in the IPCC AR6.",
+    "purpose": "To assess country-level vulnerability and coping capacity related to climate change based on the data set used in Chapter 8 of the Sixth Assessment Report (AR6) by the Intergovernmental Panel on Climate Change (IPCC) Working Group II (WGII).",
     "doi": "https://doi.org/10.7927/yzp7-sm30",
     "stac_category": "agriculture",
     "keywords": [
@@ -248,7 +251,10 @@
       "Zimbabwe",
       "Reunion"
     ],
-    "datetime": "2022-02-25T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "tabular"
   },
   "links": [
     {
@@ -264,5 +270,16 @@
       "title": "Agriculture"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
+  "providers": [
+    {
+      "name": "Joint Research Centre - JRC - European Commission",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

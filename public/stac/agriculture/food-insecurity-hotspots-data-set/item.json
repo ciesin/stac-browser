@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "food-insecurity-hotspots-data-set",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "Food Insecurity Hotspots Data Set",
     "description": "The Food Insecurity Hotspots Data Set consists of grids at 250 meter (~7.2 arc-seconds) resolution that identify the level of intensity and frequency of food insecurity over the 10 years between 2009 and 2019, as well as hotspot areas that have experienced consecutive food insecurity events. The gridded data are based on subnational food security analysis provided by FEWS NET (Famine Early Warning Systems Network) in five (5) regions, including Central America and the Caribbean, Central Asia, East Africa, Southern Africa, and West Africa. Based on the Integrated Food Security Phase Classification (IPC), food insecurity is defined as Minimal, Stressed, Crisis, Emergency, and Famine.",
+    "purpose": "To provide gridded data that identify the level of intensity and frequency of food insecurity over the 10 years between 2009 and 2019, as well as hotspot areas that have experienced consecutive food insecurity events, based on FEWS NET Food Security Data.",
     "doi": "https://doi.org/10.7927/cx02-2587",
     "stac_category": "agriculture",
     "keywords": [
@@ -55,7 +58,10 @@
       "Society",
       "Global"
     ],
-    "datetime": "2020-07-27T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "raster, vector, map"
   },
   "links": [
     {
@@ -71,5 +77,16 @@
       "title": "Agriculture"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License\n\n(https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
+  "providers": [
+    {
+      "name": "Center for International Earth Science Information Network - CIESIN - Columbia University",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

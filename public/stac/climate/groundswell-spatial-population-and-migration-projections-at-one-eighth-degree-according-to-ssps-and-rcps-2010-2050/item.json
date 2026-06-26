@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "groundswell-spatial-population-and-migration-projections-at-one-eighth-degree-according-to-ssps-and-rcps-2010-2050",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "Groundswell Spatial Population and Migration Projections at One-Eighth Degree According to SSPs and RCPs, 2010-2050",
     "description": "The Groundswell Spatial Population and Migration Projections at One-Eighth Degree According to SSPs and RCPs, 2010-2050, data set provides a baseline population distribution for 2010 and projections from 2020 to 2050, in ten-year increments, of population distribution and internal climate-related and other migration. The projections are produced using the NCAR-CIDR Spatial Population Downscaling Model developed by the CUNY Institute for Demographic Research (CIDR) and the National Center for Atmospheric Research (NCAR). The model incorporates assumptions based on future development scenarios (Shared Socioeconomic Pathways or SSPs) and emissions trajectories (Representative Concentration Pathways or RCPs). The SSPs include SSP2, representing a middle-of-the road future, and SSP4, representing an unequal development future. Climate models using low and high emissions scenarios, RCP2.6 and RCP8.5, then drive climate impact models on crop productivity and water availability from the Inter-Sectoral Impacts Model Intercomparison Project (ISIMIP). Sea-level rise impacts in the coastal zone are estimated to be 1 meter under RCP2.6 and 2 meters under RCP8.5, to account for potential storm surge or coastal flooding. Three scenarios are generated, a pessimistic reference scenario combining SSP4 and RCP8.5, a more climate-friendly scenario combining SSP4 and RCP2.6, and a more inclusive development scenario combining SSP2 and RCP8.5, and each scenario represents an ensemble of four model runs combining different climate impact models. The modeling work was funded and developed jointly with The World Bank, and covers most World Bank client countries, with reports released in 2018 and 2021 that address different regions and provide full methodological details.",
+    "purpose": "To provide a data set that allows users to understand how slow-onset climate change impacts on water availability and crop productivity, coupled with sea-level rise and storm surge, may affect the future population distribution and climate-related internal migration in low to middle income countries.",
     "doi": "https://doi.org/10.7927/c5kq-fb78",
     "stac_category": "climate",
     "keywords": [
@@ -164,7 +167,10 @@
       "Zambia",
       "Zimbabwe"
     ],
-    "datetime": "2022-07-08T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "vector, map"
   },
   "links": [
     {
@@ -180,5 +186,16 @@
       "title": "Climate"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
+  "providers": [
+    {
+      "name": "CUNY Institute for Demographic Research - CIDR - City University of New York, Center for International Earth Science Information Network - CIESIN - Columbia University, and The World Bank",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

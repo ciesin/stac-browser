@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "us-census-grids-demographic-and-housing-characteristics-file-dhc-2020",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "U.S. Census Grids Demographic and Housing Characteristics File (DHC), 2020",
     "description": "The U.S. Census Grids Demographic and Housing Characteristics File (DHC), 2020 contains grids of demographic and socioeconomic data from the 2020 U.S. Census. This data set includes block-level data for age, race, ethnicity, and housing (count), and land area (square kilometers) for the 50 U.S. states, Washington D.C., and Puerto Rico and are available in GeoTIFF, netCDF and Shapefile formats. The grids have a resolution of 15 arc-seconds (0.00415 decimal degrees), or approximately 500 square meters at the equator. The gridded data are derived from census block geography via U.S. Census 2020 Application Programming Interfaces (APIs), and population, households, and housing variables from the Demographic and Housing Characteristics File (DHC).",
+    "purpose": "To provide spatially disaggregated population and housing layers that are compatible with data sets from social, economic, and Earth science disciplines, and remote sensing for use in research, policy-making, and communications.",
     "doi": "https://doi.org/10.7927/yxxc-jv91",
     "stac_category": "infrastructure",
     "keywords": [
@@ -102,7 +105,10 @@
       "Wisconsin",
       "Wyoming"
     ],
-    "datetime": "2025-06-09T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "vector, raster"
   },
   "links": [
     {
@@ -118,5 +124,16 @@
       "title": "Infrastructure"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
+  "providers": [
+    {
+      "name": "Center for Integrated Earth System Information - CIESIN - Columbia University",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

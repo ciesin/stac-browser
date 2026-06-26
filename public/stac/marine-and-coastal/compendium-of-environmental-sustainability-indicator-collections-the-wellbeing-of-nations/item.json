@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "compendium-of-environmental-sustainability-indicator-collections-the-wellbeing-of-nations",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "Compendium of Environmental Sustainability Indicator Collections: The Wellbeing of Nations",
     "description": "The Wellbeing of Nations portion of the Compendium of Environmental Sustainability Indicator Collections contains a subset of 123 variables assembled from the Wellbeing of Nations, which assesses human and ecosystem wellbeing for 183 countries. The variables selected include both raw data and processed indicators and indices created by the report's author, Robert Prescott-Allen. The data are distributed by the Columbia University Center for International Earth Science Information Network (CIESIN).",
+    "purpose": "To provide data that address the key issues of sustainability by combining indicators of human wellbeing with those of environmental sustainability to generate a more comprehensive picture of the state of the world.",
     "doi": "https://doi.org/10.7927/H4MS3QNT",
     "stac_category": "marine-and-coastal",
     "keywords": [
@@ -234,7 +237,10 @@
       "Zambia",
       "Zimbabwe"
     ],
-    "datetime": "2001-12-31T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "tabular, map"
   },
   "links": [
     {
@@ -250,5 +256,16 @@
       "title": "Marine and  Coastal"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
+  "providers": [
+    {
+      "name": "Prescott-Allen, R",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

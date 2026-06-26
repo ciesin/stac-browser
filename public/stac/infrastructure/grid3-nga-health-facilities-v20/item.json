@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "grid3-nga-health-facilities-v20",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "GRID3 NGA - Health Facilities v2.0",
     "description": "This current version supersedes the GRID3 NGA - Health Facilities dataset; the following changes were made: \n\n- \n\nChange of data schema\n- \n\nUpdate of data inputs to incorporate records from the Nigeria Health Facility Registry (HFR, 2024).\n- \n\nSchema and data attributes\u2019 standardization based on national guidelines \n\nFor more information on the methodology and data sources used during the production of this data, see the\u00a0Data Release Notes.\n\nDataset citation \n\nCenter for Integrated Earth System Information (CIESIN), Columbia University 2024. GRID3 NGA - Health Facilities v2.0. New York: GRID3.  https://doi.org/10.7916/kv1n-0743. Accessed [DAY MONTH YEAR].\n\nContacts and data queries\n\nThe authors of this dataset appreciate feedback regarding the data, including suggestions, discovery of errors, difficulties in using the data, and format preferences. For dataset-related questions, please send an email to:  info@ciesin.columbia.edu",
+    "purpose": "The GRID3 NGA - Health Facilities v2.0 dataset is a non-exhaustive, non-validated geographic representation of health facility points in Nigeria. The dataset incorporates recent updates from both the Nigeria Health Facility Registry (HFR) and GRID3. This dataset is considered operational.",
     "doi": "https://doi.org/10.7916/kv1n-0743",
     "stac_category": "infrastructure",
     "keywords": [
@@ -48,7 +51,10 @@
       "POI",
       "v2"
     ],
-    "datetime": "2024-11-13T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": null
   },
   "links": [
     {
@@ -64,5 +70,16 @@
       "title": "Infrastructure"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "<span style='font-weight:bold;'>Terms of use</span><br />Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.<br /><br /><div>Copyright 2024. The Trustees of Columbia University in the City of New York.</div><div><br /></div><span style='font-weight:bold;'>Data license</span><br />The data and accompanying document are licensed under a Creative Commons Attribution 4.0 International License, CC BY 4.0<br />(https://creativecommons.org/licenses/by/4.0) and specified in legal code (https://creativecommons.org/licenses/by/4.0/legalcode).",
+  "providers": [
+    {
+      "name": "Center for Integrated Earth System Information (CIESIN)",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:info@ciesin.columbia.edu"
+    }
+  ]
 }

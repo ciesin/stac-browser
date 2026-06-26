@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "population-exposure-estimates-in-proximity-to-nuclear-power-plants-country-level-aggregates",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "Population Exposure Estimates in Proximity to Nuclear Power Plants, Country-Level Aggregates",
     "description": "The Population Exposure Estimates in Proximity to Nuclear Power Plants, Country-Level Aggregates data set consists of country-level estimates of total, urban, and rural populations and land area, country-wide, that are in proximity to a nuclear power plant. This data set was created using a global data set of point locations of nuclear power plants, with buffer zones at 30km, 75km, 150km, 300km, 600km, and 1200km, and the Global Population Count Grid Time Series Estimates, Version 1 to estimate the population within each buffer zone for the years 1990, 2000, and 2010. Global Rural-Urban Mapping Project, Version 1 (GRUMPv1) Land and Geographic Unit Area Grids were used to estimate land area within each buffer zone. The GRUMPv1 Urban Extents Grid was used to further delineate population and land area estimates within urban and rural areas. All grids used for population, land area, and urban mask were of 1 km (30 arc-second) resolution.",
+    "purpose": "To provide estimates of total, urban and rural populations and land areas in proximity to nuclear power plants.",
     "doi": "https://doi.org/10.7927/H41834D6",
     "stac_category": "hazards",
     "keywords": [
@@ -283,7 +286,10 @@
       "Syrian Arab Republic",
       "Afghanistan"
     ],
-    "datetime": "2015-01-21T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "tabular"
   },
   "links": [
     {
@@ -299,5 +305,16 @@
       "title": "Hazards"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
+  "providers": [
+    {
+      "name": "Center for International Earth Science Information Network - CIESIN - Columbia University",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

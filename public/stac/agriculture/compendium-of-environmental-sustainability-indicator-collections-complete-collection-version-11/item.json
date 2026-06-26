@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "compendium-of-environmental-sustainability-indicator-collections-complete-collection-version-11",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "Compendium of Environmental Sustainability Indicator Collections: Complete Collection, Version 1.1",
     "description": "The Compendium of Environmental Sustainability Indicator Collections, Version 1.1 contains 426 indicators for 239 countries from five major environmental sustainability indicator efforts: the 2006 Environmental Performance Index (EPI), 2005 Environmental Sustainability Index (ESI), 2004 Environmental Vulnerability Index (EVI), the Rio to Johannesburg Dashboard, the Wellbeing of Nations, and 2006 National Footprint Accounts. It also incorporates 38 ancillary variables such as region name, dummy variables for landlocked countries and small island states, population, GDP, and land area. The collection is compiled and distributed by the Columbia University Center for International Earth Science Information Network (CIESIN).",
+    "purpose": "To make the acquisition, comparison and analysis of sustainability indicators easier by compiling them in a single database, incorporating multiple country codes, and condensing the indicator descriptions into short methodological summaries in an accompanying data dictionary.",
     "doi": "https://doi.org/10.7927/H46D5QXN",
     "stac_category": "agriculture",
     "keywords": [
@@ -298,7 +301,10 @@
       "United States Minor Outlying Islands",
       "St Lucia"
     ],
-    "datetime": "2006-12-31T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "tabular"
   },
   "links": [
     {
@@ -314,5 +320,16 @@
       "title": "Agriculture"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
+  "providers": [
+    {
+      "name": "Center for International Earth Science Information Network - CIESIN - Columbia University",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

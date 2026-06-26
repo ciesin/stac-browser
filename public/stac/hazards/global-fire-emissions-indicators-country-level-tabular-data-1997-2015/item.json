@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "global-fire-emissions-indicators-country-level-tabular-data-1997-2015",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "Global Fire Emissions Indicators, Country-Level Tabular Data: 1997-2015",
     "description": "The Global Fire Emissions Indicators, Country-Level Tabular Data: 1997-2015 contains country tabulations from 1997 to 2015 for the total area burned (hectares) and total carbon content (tons). The annual total area burned is for all fire types per country. There are two groups of total carbon content (TCC), annual totals for all six fire types per country and annual totals for each of six fire types per country which include Agricultural, Boreal, Tropical Deforestation, Peat, Savanna, and Temperate forest fires.",
+    "purpose": "To provide data that can be used to calculate trace gas and aerosol emissions due to fires; monitor and assess national efforts to manage emissions.",
     "doi": "https://doi.org/10.7927/H4V69GJ5",
     "stac_category": "hazards",
     "keywords": [
@@ -285,7 +288,10 @@
       "Zimbabwe",
       "St Martin"
     ],
-    "datetime": "2018-02-23T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "tabular"
   },
   "links": [
     {
@@ -301,5 +307,16 @@
       "title": "Hazards"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
+  "providers": [
+    {
+      "name": "Center for International Earth Science Information Network - CIESIN - Columbia University",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

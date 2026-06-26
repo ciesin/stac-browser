@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "millennium-ecosystem-assessment-ma-scenarios",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "Millennium Ecosystem Assessment: MA Scenarios",
     "description": "The Millennium Ecosystem Assessment: MA Scenarios provides data and information on population, income, cereal production and consumption, meat production and consumption, land cover, water stress, water availability, acidification and nitrogen deposition. These scenarios provide useful insight into the complex factors that drive ecosystem change, estimating the magnitude of regional pressures on ecosystems and critical uncertainties that could undermine sustainable development. They also provide an understanding of the importance of institutions and values as the long-range outlook for the world's ecosystems depends on the course taken by global and regional development in the coming decades. The integration of changing ecosystem conditions into the global scenarios was taken as both effects and causes.",
+    "purpose": "To preserve access to the original set of socioeconomic and natural resource scenarios used by the Millennium Ecosystem Assessment (MA) and other related research.",
     "doi": "https://doi.org/10.7927/H47P8WB9",
     "stac_category": "agriculture",
     "keywords": [
@@ -265,7 +268,10 @@
       "United Kingdom",
       "Ukraine"
     ],
-    "datetime": "2005-05-29T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "raster, vector, tabular"
   },
   "links": [
     {
@@ -281,5 +287,16 @@
       "title": "Agriculture"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "Users are free to use the work for non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
+  "providers": [
+    {
+      "name": "Millennium Ecosystem Assessment",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

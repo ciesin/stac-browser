@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "annual-global-high-resolution-extreme-heat-estimates-gehe-1983-2016",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "Annual Global High-Resolution Extreme Heat Estimates (GEHE), 1983-2016",
     "description": "The Annual Global High-Resolution Extreme Heat Estimates (GEHE), 1983-2016 data set provides global 0.05 degrees (~5 km) gridded annual counts of the number of days where the maximum Wet Bulb Globe Temperature (WBGTmax) exceeded dangerous hot-humid heat thresholds for the period 1983 to 2016. The thresholds are based on the International Standards Organization (ISO) criteria for occupational heat-related risk, defined as days where WBGTmax > 28, 30, and 32 degrees Celsius. This data set also includes the annual rate of change in the number of extreme humid-heat days that exceeded these thresholds. GEHE has a wide array of applications for mapping and quantifying extreme humid-heat dynamics over a 34-year time period, and is the highest resolution data set of its kind to date. GEHE provides scientific researchers and decision makers from a wide range of arenas, including climate change, public and occupational health, urban planning and design, hazards risk reduction, and food security, insights into how humid-heat has impacted human and environmental systems worldwide. The data set can be used to pinpoint how changes in extreme humid-heat impact human health and well-being, as well as ecological systems, across scales of analysis, from local, to national, to global.",
+    "purpose": "To provide a high-resolution, longitudinal global data set of annual extreme humid-heat.",
     "doi": "https://doi.org/10.7927/hff0-k565",
     "stac_category": "climate",
     "keywords": [
@@ -52,7 +55,10 @@
       "Climatology/Meteorology/Atmosphere",
       "EARTH SCIENCE > HUMAN DIMENSIONS > NATURAL HAZARDS > HEAT"
     ],
-    "datetime": "2023-08-11T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "raster"
   },
   "links": [
     {
@@ -68,5 +74,16 @@
       "title": "Climate"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
+  "providers": [
+    {
+      "name": "Tuholske, C., P. Peterson, C. Funk, and  K. Caylor",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

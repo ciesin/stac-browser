@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "global-grid-of-probabilities-of-urban-expansion-to-2030",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "Global Grid of Probabilities of Urban Expansion to 2030",
     "description": "The Global Grid of Probabilities of Urban Expansion to 2030 presents spatially explicit probabilistic forecasts of global urban land cover change from 2000 to 2030 at a 2.5 arc-minute resolution. For each grid cell that is non-urban in 2000, a Monte-Carlo model assigned a probability of becoming urban by the year 2030. The authors first extracted urban extent circa 2000 from the NASA MODIS Land Cover Type Product Version 5, which provides a conservative estimate of global urban land cover. The authors then used population densities from the Global Rural-Urban Mapping Project, Version 1 (GRUMPv1) to create the population density driver map. They estimated the amount of new urban land in each United Nations region by 2030 in a Monte-Carlo fashion based on present empirical distribution of regional urban population densities and probability density functions of projected regional population and GDP values for 2030. To facilitate integration with other data products, CIESIN reprojected the data from Goode's Homolosine to Geographic WGS84 projection.",
+    "purpose": "To assess likely future areas of urban expansion up to the year 2030.",
     "doi": "https://doi.org/10.7927/H4Z899CG",
     "stac_category": "land-use",
     "keywords": [
@@ -49,7 +52,10 @@
       "Imagery/Base Maps/Earth Cover",
       "EARTH SCIENCE > HUMAN DIMENSIONS > HABITAT CONVERSION/FRAGMENTATION > URBANIZATION/URBAN SPRAWL"
     ],
-    "datetime": "2016-03-04T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "raster, map, map service"
   },
   "links": [
     {
@@ -65,5 +71,16 @@
       "title": "Land Use"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
+  "providers": [
+    {
+      "name": "Seto, K., B. G\u00fcneralp, and L.R. Hutyra",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "millennium-ecosystem-assessment-ma-climate-and-land-cover",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "Millennium Ecosystem Assessment: MA Climate and Land Cover",
     "description": "The Millennium Ecosystem Assessment: MA Climate and Land Cover provides data and information on global gridded climatological variables, global land cover maps, and national and international protected areas. The climatological data include the Climatic Research Unit (CRU) monthly terrestrial surface temperature and precipitation grids at 0.5 degree resolution from 1901-1996, along with temperature and precipitation grids at 10-minute resolution from the CRU and the International Water Management Institute (IWMI). The Global Land Cover 2000 (GLC2000) was produced by an international partnership of 30 research groups coordinated by the European Commission's Joint Research Centre (JRC), which contained two levels of land cover information; detailed and regionally optimized land cover for each continent, and a less thematically detailed global land cover that harmonizes regions into one consistent product. The maps were based on daily data from the Vegetation 1 sensor on-board SPOT 4, though mapping of regions required the use of data from additional Earth observing sensors to resolve specific issues. The international and national protected areas were generated from the World Database of Protected Areas for the year 2000.",
+    "purpose": "To preserve access to the original climate and land cover data used by the Millennium Ecosystem Assessment (MA) and other related research.",
     "doi": "https://doi.org/10.7927/H4QJ7F8M",
     "stac_category": "climate",
     "keywords": [
@@ -55,7 +58,10 @@
       "Imagery/Base Maps/Earth Cover",
       "EARTH SCIENCE > LAND SURFACE > LAND USE/LAND COVER"
     ],
-    "datetime": "2005-05-29T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "vector, raster, tabular"
   },
   "links": [
     {
@@ -71,5 +77,16 @@
       "title": "Climate"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "Users are free to use the work for non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
+  "providers": [
+    {
+      "name": "Millennium Ecosystem Assessment",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

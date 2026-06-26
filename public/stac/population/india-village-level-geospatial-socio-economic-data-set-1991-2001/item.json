@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "india-village-level-geospatial-socio-economic-data-set-1991-2001",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "India Village-Level Geospatial Socio-Economic Data Set: 1991, 2001",
     "description": "The India Village-Level Geospatial Socio-Economic Data Set: 1991, 2001 is a compilation of the finest level of administrative boundaries in India (village/town-level) and over 200 socio-economic variables collected during the Indian Census in 1991 and 2001. This data set was developed by digitizing village/town level boundaries from the official analog maps published by the Survey of India for 2001. This data set also utilized tabular data for 1991 and 2001 from the Primary Census Abstract (PCA) and Village Directory (VD) data series of the Indian census. The data are in UTM 44N projection and are distributed primarily as shapefiles. Separate files are provided for each of the 28 states (number of states during 1991 and 2001 census) and combined Union Territories for 1991 and 2001.",
+    "purpose": "To provide data that can be used in independent spatial statistical analyses, construction of development-related indices, or in combination with remote sensing data in order to identify spatio-temporal patterns and/or changes in different demographic categories, such as male, female, urban, rural, level of education, etc.",
     "doi": "https://doi.org/10.7927/H4CN71ZJ",
     "stac_category": "population",
     "keywords": [
@@ -51,7 +54,10 @@
       "Society",
       "India"
     ],
-    "datetime": "2018-03-30T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "vector, map"
   },
   "links": [
     {
@@ -67,5 +73,16 @@
       "title": "Population"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
+  "providers": [
+    {
+      "name": "Meiyappan, P., P. S. Roy, A. Soliman, T. Li, P. Mondal, S. Wang, and A. K. Jain",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

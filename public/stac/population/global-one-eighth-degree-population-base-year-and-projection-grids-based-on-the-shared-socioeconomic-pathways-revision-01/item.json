@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "global-one-eighth-degree-population-base-year-and-projection-grids-based-on-the-shared-socioeconomic-pathways-revision-01",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "Global One-Eighth Degree Population Base Year and Projection Grids Based on the Shared Socioeconomic Pathways, Revision 01",
     "description": "The Global One-Eighth Degree Population Base Year and Projection Grids Based on the Shared Socioeconomic Pathways, Revision 01, data set consists of global urban, rural, and total population data for the base year 2000, and population projections at ten-year intervals for 2010-2100 at a resolution of one-eighth degree (7.5 arc-minutes), consistent both quantitatively and qualitatively with the SSPs. Spatial demographic data are key inputs for the analysis of land use, energy use, and emissions, as well as for the assessment of climate change vulnerability, impacts, and adaptation. The SSPs are developed to support future climate and global change research and the Intergovernmental Panel on Climate Change (IPCC) Sixth Assessment Report (AR6).",
+    "purpose": "To provide global urban, rural, and total population base year and projection grids based on the Shared Socioeconomic Pathways (SSPs) data at a resolution of one-eighth degree (7.5 arc-minutes) for climate, socioeconomic, environmental, and other related research.",
     "doi": "https://doi.org/10.7927/m30p-j498",
     "stac_category": "population",
     "keywords": [
@@ -48,7 +51,10 @@
       "Global",
       "Society"
     ],
-    "datetime": "2020-04-09T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "raster, map, map service"
   },
   "links": [
     {
@@ -64,5 +70,16 @@
       "title": "Population"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
+  "providers": [
+    {
+      "name": "Jones, B., and B. C. O'Neill",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

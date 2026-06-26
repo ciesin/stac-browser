@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "china-dimensions-data-collection-guobiao-gb-codes-for-the-administrative-divisions-of-the-peoples-republic-of-china",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "China Dimensions Data Collection: GuoBiao (GB) Codes for the Administrative Divisions of the Peoples Republic of China",
     "description": "The GuoBiao (GB) Codes for the Administrative Divisions of the People's Republic of China consists of geographic codes for the administrative divisions of China. The data includes provinces (autonomous regions, municipalities directly under the Central Government), prefectures (prefecture-level cities, autonomous prefectures, leagues), and counties (districts, county-level cities, autonomous counties, banners) for 1 January 1982 to 31 December 1992.\n\nThis data set is produced in collaboration with the Chinese Academy of Surveying and Mapping (CASM), University of Washington as part of the China in Time and Space (CITAS) project, and the Columbia University Center for International Earth Science Information Network (CIESIN).",
+    "purpose": "To provide a dynamic matrix for the identification of spatially and temporally-specific data on Chinese administrative units.",
     "doi": "https://doi.org/10.7927/H4KK98PS",
     "stac_category": "boundaries",
     "keywords": [
@@ -53,7 +56,10 @@
       "EARTH SCIENCE > HUMAN DIMENSIONS > BOUNDARIES > POLITICAL DIVISIONS",
       "China"
     ],
-    "datetime": "1997-02-28T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "tabular"
   },
   "links": [
     {
@@ -69,5 +75,16 @@
       "title": "Boundaries"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "The University of Washington China in Time and Space (CITAS), Chinese Academy of Surveying and Mapping (CASM), and Trustees of Columbia University in the City of New York hold the copyright of this data set. Users are prohibited from any commercial, non-free resale, or redistribution without explicit written permission from CITAS, CASM, and CIESIN. Users should acknowledge CITAS, CASM, and CIESIN as the source used in the creation of any reports, publications, new data sets, derived products, or services resulting from the use of this data set. CITAS, CASM, and CIESIN also request reprints of any publications and notification of any redistributing efforts",
+  "providers": [
+    {
+      "name": "China in Time and Space - CITAS - University of Washington, Chinese Academy of Surveying and Mapping - CASM, and Center for International Earth Science Information Network - CIESIN",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

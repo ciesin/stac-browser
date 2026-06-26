@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "compendium-of-environmental-sustainability-indicator-collections-ancillary-data",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "Compendium of Environmental Sustainability Indicator Collections: Ancillary Data",
     "description": "The Ancillary Data portion of the Compendium of Environmental Sustainability Indicator Collections contains 38 variables (time series data on population and gross domestic product as well as region codes, land area, and waterbody area) for 238 countries. The data are taken from the UN Population Division, the World Bank, the CIA Factbook, and CIESIN's Gridded Population of the World, and are distributed by the Columbia University Center for International Earth Science Information Network (CIESIN).",
+    "purpose": "To provide population estimates, gross domestic product, and surface area data to be used in conjunction with the sustainability indicators included in the compendium.",
     "doi": "https://doi.org/10.7927/H4B56GNC",
     "stac_category": "sustainability",
     "keywords": [
@@ -289,7 +292,10 @@
       "Antarctica",
       "Yugoslavia"
     ],
-    "datetime": "2006-12-31T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "tabular"
   },
   "links": [
     {
@@ -305,5 +311,16 @@
       "title": "Sustainability"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
+  "providers": [
+    {
+      "name": "Center for International Earth Science Information Network - CIESIN - Columbia University",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

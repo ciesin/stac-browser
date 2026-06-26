@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "development-threat-index",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "Development Threat Index",
     "description": "The Development Threat Index data set is a terrestrial global, future development threat map based on combining these resources: agricultural expansion, urban expansion, conventional oil and gas, unconventional oil and gas, coal, mining, biofuels, solar, and wind. Each threat ranked potential development from 0-100 with 100 indicating the highest potential for future development of the resource and were produced at a 50 square kilometer (km2) grid cell resolution, excluding all cells overlapping Antarctica and those with >50% considered marine.",
+    "purpose": "To provide a future development threat map based on combining these resources: agricultural expansion, urban expansion, conventional oil and gas, unconventional oil and gas, coal, mining, biofuels, solar, and wind.",
     "doi": "https://doi.org/10.7927/61jv-th84",
     "stac_category": "agriculture",
     "keywords": [
@@ -56,7 +59,10 @@
       "EARTH SCIENCE > HUMAN DIMENSIONS > SUSTAINABILITY",
       "Global"
     ],
-    "datetime": "2019-05-16T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "raster, map, map service"
   },
   "links": [
     {
@@ -72,5 +78,16 @@
       "title": "Agriculture"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
+  "providers": [
+    {
+      "name": "Oakleaf, J. R., C. M. Kennedy, S. Baruch-Mordo, P. C. West, J. S. Gerber, L. Jarvis, and J. Kiesecker",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

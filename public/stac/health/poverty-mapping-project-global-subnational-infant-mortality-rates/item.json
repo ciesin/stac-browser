@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "poverty-mapping-project-global-subnational-infant-mortality-rates",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "Poverty Mapping Project: Global Subnational Infant Mortality Rates",
     "description": "The Poverty Mapping Project: Global Subnational Infant Mortality Rates data set consists of estimates of infant mortality rates for the year 2000. The infant mortality rate for a region or country is defined as the number of children who die before their first birthday for every 1,000 live births. The data products include a shapefile (vector data) of rates, grids (raster data) of rates (per 10,000 live births in order to preserve precision in integer format), births (the rate denominator) and deaths (the rate numerator), and a tabular data set of the same and associated data. Over 10,000 national and subnational units are represented in the tabular and grid data sets, while the shapefile uses approximately 1,000 units in order to protect the intellectual property of source data sets for Brazil, China, and Mexico. This data set is produced by the Columbia University Center for International Earth Science Information Network (CIESIN).",
+    "purpose": "To provide a global subnational map of infant mortality rate estimates that can be used by a wide user community in interdisciplinary studies of health, poverty and the environment.",
     "doi": "https://doi.org/10.7927/H4PZ56R2",
     "stac_category": "health",
     "keywords": [
@@ -287,7 +290,10 @@
       "Niue",
       "Vatican City"
     ],
-    "datetime": "2005-12-31T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "raster, vector, tabular, map, map service"
   },
   "links": [
     {
@@ -303,5 +309,16 @@
       "title": "Health"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
+  "providers": [
+    {
+      "name": "Center for International Earth Science Information Network - CIESIN - Columbia University",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

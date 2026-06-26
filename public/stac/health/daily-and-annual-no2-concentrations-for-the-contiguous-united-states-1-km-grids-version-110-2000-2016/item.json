@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "daily-and-annual-no2-concentrations-for-the-contiguous-united-states-1-km-grids-version-110-2000-2016",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "Daily and Annual NO2 Concentrations for the Contiguous United States, 1-km Grids, Version 1.10 (2000-2016)",
     "description": "The Daily and Annual NO2 Concentrations for the Contiguous United States, 1-km Grids, Version 1.10 (2000-2016) data set contains daily predictions of Nitrogen Dioxide (NO2) concentrations at a high resolution (1-km grid cells) for the years 2000 to 2016. An ensemble modeling framework was used to assess NO2 levels with high accuracy, which combined estimates from three machine learning models (neural network, random forest, and gradient boosting), with a generalized additive model. Predictor variables included NO2 column concentrations from satellites, land-use variables, meteorological variables, predictions from two chemical transport models, GEOS-Chem and the U.S. Environmental Protection Agency (EPA) Community Multiscale Air Quality Modeling System (CMAQ), along with other ancillary variables. The annual predictions were calculated by averaging the daily predictions for each year in each grid cell. The ensemble produced a cross-validated R-squared value of 0.79 overall, a spatial R-squared value of 0.84, and a temporal R-squared value of 0.73. In version 1.10, the completeness of daily NO2 predictions have been enhanced by employing linear interpolation to impute missing values. Specifically, for days with small spatial patches of missing data with less than 100 grid cells, inverse distance weighting interpolation was used to fill the missing grid cells. Other missing daily NO2 predictions were interpolated from the nearest days with available data. Annual predictions were updated by averaging the imputed daily predictions for each year in each grid cell. These daily and annual NO2 predictions allow public health researchers to respectively estimate the short- and long-term effects of NO2 exposures on human health, supporting the U.S. EPA for the revision of the National Ambient Air Quality Standards for daily average and annual average concentrations of NO2. The data are available in RDS and GeoTIFF formats for statistical research and geospatial analysis.",
+    "purpose": "To provide daily and annual Nitrogen Dioxide (NO2) concentration data in the U.S. at a resolution of 1-km (about 30 arc-seconds) for public health research to respectively estimate short- and long-term effects on human health, and for other related research.",
     "doi": "https://doi.org/10.7927/rz28-p167",
     "stac_category": "health",
     "keywords": [
@@ -48,7 +51,10 @@
       "Environment",
       "United States of America"
     ],
-    "datetime": "2024-01-30T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "raster, tabular, vector"
   },
   "links": [
     {
@@ -64,5 +70,16 @@
       "title": "Health"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided",
+  "providers": [
+    {
+      "name": "Di, Q., Y. Wei, A. Shtein, X. Xing, E. Castro, H. Amini, C. Hultquist, L. Shi, I. Kloog, R. Silvern, J. Kelly, M. B. Sabath, C. Choirat, P. Koutrakis, A. Lyapustin, Y. Wang, L. J. Mickley, Y. Daouk, and J. Schwartz",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

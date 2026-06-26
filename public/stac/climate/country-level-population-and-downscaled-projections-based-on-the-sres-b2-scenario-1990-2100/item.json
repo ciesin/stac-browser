@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "country-level-population-and-downscaled-projections-based-on-the-sres-b2-scenario-1990-2100",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "Country-Level Population and Downscaled Projections Based on the SRES B2 Scenario, 1990-2100",
     "description": "The Country-Level Population and Downscaled Projections Based on Special Report on Emissions Scenarios (SRES) B2 Scenario, 1990-2100, were based on the UN 1998 Medium Long Range Projection for the years 1995 to 2100. The official version projects population for 8 regions of the world including Africa, Asia (minus India and China), India, China, Europe, Latin America, Northern America, and Oceania. This data set is produced and distributed by the Columbia University Center for International Earth Science Information Network (CIESIN).",
+    "purpose": "To provide data on country-level population and downscaled projections based on the SRES B2 marker scenario.",
     "doi": "https://doi.org/10.7927/H4PC308P",
     "stac_category": "climate",
     "keywords": [
@@ -235,7 +238,10 @@
       "Zaire",
       "Gaza Strip"
     ],
-    "datetime": "2002-07-31T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "tabular"
   },
   "links": [
     {
@@ -251,5 +257,16 @@
       "title": "Climate"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "The Trustees of Columbia University in the City of New York hold the copyright of this data set. Users are prohibited from any commercial, non-free resale, or redistribution without explicit written permission from CIESIN. Users should acknowledge CIESIN as the source used in the creation of any reports, publications, new data sets, derived products, or services resulting from the use of this data set. CIESIN also requests reprints of any publications and notification of any redistributing efforts.",
+  "providers": [
+    {
+      "name": "Gaffin, S.R., X. Xing, and G. Yetman",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:ciesin.info@ciesin.columbia.edu"
+    }
+  ]
 }

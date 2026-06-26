@@ -1,7 +1,9 @@
 {
   "type": "Feature",
   "stac_version": "1.1.0",
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+  ],
   "id": "grid3-nga-roads-v10",
   "geometry": {
     "type": "Polygon",
@@ -39,6 +41,7 @@
   "properties": {
     "title": "GRID3 NGA - Roads v1.0",
     "description": "For more information on the methodology and data sources used during the production of this data, click here.\n\nDataset citation:\n\nCenter for Integrated Earth System Information (CIESIN), Columbia University. 2025. GRID3 NGA - Roads v1.0.New York: Columbia University. https://doi.org/10.7916/b42r-6w17. Accessed <DAY MONTH YEAR>.\n\nContacts and data queries:\n\nThe authors of this dataset appreciate feedback regarding the data, including suggestions, discovery of errors, difficulties in using the data, and format preferences.\n\nFor dataset-related questions, please send an email to: info@ciesin.columbia.edu",
+    "purpose": "The GRID3 NGA - Roads v1.0 spatial dataset consists of road and path locations in Nigeria.",
     "doi": "https://doi.org/10.7916/b42r-6w17",
     "stac_category": "infrastructure",
     "keywords": [
@@ -47,7 +50,10 @@
       "Roads",
       "latest"
     ],
-    "datetime": "2025-08-15T00:00:00Z"
+    "datetime": null,
+    "start_datetime": null,
+    "end_datetime": null,
+    "dataset_type": "Feature Class"
   },
   "links": [
     {
@@ -63,5 +69,16 @@
       "title": "Infrastructure"
     }
   ],
-  "assets": {}
+  "assets": {},
+  "datetime": null,
+  "license": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN STYLE=\"font-weight:bold;\">Terms of use:</SPAN></P><P><SPAN>Users are free to download, store, access, use, copy, adapt, transform, alter, arrange, build upon, distribute and transmit this work and any derivative works. Attribution of the source must be provided, and further distribution of this work or derived work must maintain the same terms of data use and license as set forth in this Terms of Use.</SPAN></P><P><SPAN>Copyright 2024. The Trustees of Columbia University in the City of New York.</SPAN></P><P><SPAN STYLE=\"font-weight:bold;\">Data license:</SPAN></P><P><SPAN>The data and accompanying document are licensed under a Creative Commons Attribution-ShareAlike 4.0 International, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0) and specified in legal code (https://creativecommons.org/licenses/by-sa/4.0/legalcode)</SPAN></P><P><SPAN STYLE=\"font-weight:bold;\">Known Data Limitations and Disclaimer: </SPAN></P><P><SPAN>Only minimal topological cleaning was performed during the production of this road dataset. As a result, users should anticipate the presence of gaps between road segments or instances of overlapping geometries. No ground-truthing or independent validation was conducted to verify the accuracy or completeness of the road network.</SPAN></P><P><SPAN>An additional limitation arises from the process used to intersect roads with GRID3 settlement polygons. When a settlement polygon represents a small, isolated settlement or hamlet, especially one situated far from other populated areas, the likelihood of having a single, continuous road segment extending to it is reduced. Consequently, there is a risk that road segments located en route to such remote settlements were inadvertently removed during the filtering process. Similarly, in cases where uncleaned road segments extended toward a remote settlement, only the segment that directly intersected the settlement polygon was retained, while adjacent but non-touching segments were discarded. This may result in disconnected road fragments appearing across the landscape. Although some of these fragments appear to be entirely unconnected, they were intentionally retained in the dataset at this stage, acknowledging that they may still hold value for future refinements or contextual analysis.</SPAN></P><P><SPAN>This dataset should be considered operational and not authoritative. </SPAN></P><P><SPAN>CIESIN, Columbia University follow procedures designed to ensure that data disseminated by the project are of reasonable quality. If, despite these procedures, users encounter apparent errors or misstatements in the data, they should contact CIESIN, info@ciesin.columbia.edu.</SPAN></P><P><SPAN>CIESIN, Columbia University and their sponsors do not guarantee the accuracy, reliability, or completeness of any data provided. We provide these data without warranty of any kind whatsoever, either expressed or implied, and shall not be liable for incidental, consequential, or special damages arising out of the use of any data provided.</SPAN></P><P><SPAN /></P><P><SPAN /></P><P><SPAN /></P></DIV></DIV></DIV>",
+  "providers": [
+    {
+      "name": "Center for Integrated Earth System Information (CIESIN)",
+      "roles": [
+        "producer"
+      ],
+      "url": "mailto:info@ciesin.columbia.edu"
+    }
+  ]
 }
