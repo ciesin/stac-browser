@@ -73,7 +73,15 @@
       "title": "Agriculture"
     }
   ],
-  "assets": {},
+  "assets": {
+    "DOI Link": {
+      "href": "https://doi.org/10.7927/H4P848VZ",
+      "type": "DOI",
+      "roles": [
+        "documentation"
+      ]
+    }
+  },
   "datetime": "2005-12-31T00:00:00Z",
   "license": "The Trustees of Columbia University in the City of New York, Center for Hazards and Risk Research (CHRR), and Norwegian Geotechnical Institute (NGI) hold the copyright of this data set. Users are prohibited from any commercial, non-free resale, or redistribution without explicit written permission from CHRR, CIESIN, and NGI. Users should acknowledge CHRR, CIESIN, and NGI as the source used in the creation of any reports, publications, new data sets, derived products, or services resulting from the use of this data set. CHRR, CIESIN, and NGI also request reprints of any publications and notification of any redistribution efforts.",
   "providers": [

@@ -71,7 +71,15 @@
       "title": "Health"
     }
   ],
-  "assets": {},
+  "assets": {
+    "DOI Link": {
+      "href": "https://doi.org/10.7927/7wj3-en73",
+      "type": "DOI",
+      "roles": [
+        "documentation"
+      ]
+    }
+  },
   "datetime": "2023-04-28T00:00:00Z",
   "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided",
   "providers": [

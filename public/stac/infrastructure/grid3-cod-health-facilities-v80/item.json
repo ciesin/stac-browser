@@ -70,7 +70,204 @@
       "title": "Infrastructure"
     }
   ],
-  "assets": {},
+  "assets": {
+    "GRID3 COD - Health Facilities v8.0 Data Release Notes.pdf": {
+      "href": "https://academiccommons.columbia.edu/doi/10.7916/kcrg-gs96/download",
+      "type": "other",
+      "roles": [
+        "other"
+      ]
+    },
+    "GRID3_COD_health_facilities_v8_0.gdb.zip": {
+      "href": "https://academiccommons.columbia.edu/doi/10.7916/2j7e-at59/download",
+      "type": "zip",
+      "roles": [
+        "data"
+      ]
+    },
+    "GRID3_COD_Sankuru_health_facilities_v8_0.gpkg": {
+      "href": "https://academiccommons.columbia.edu/doi/10.7916/s01m-7p10/download",
+      "type": "other",
+      "roles": [
+        "other"
+      ]
+    },
+    "GRID3_COD_Bas-Uele_health_facilities_v8_0.gpkg": {
+      "href": "https://academiccommons.columbia.edu/doi/10.7916/gyvq-tw44/download",
+      "type": "other",
+      "roles": [
+        "other"
+      ]
+    },
+    "GRID3_COD_Kasai\u0308-Central_health_facilities_v8_0.gpkg": {
+      "href": "https://academiccommons.columbia.edu/doi/10.7916/chz4-yv63/download",
+      "type": "other",
+      "roles": [
+        "other"
+      ]
+    },
+    "GRID3_COD_Kinshasa_health_facilities_v8_0.gpkg": {
+      "href": "https://academiccommons.columbia.edu/doi/10.7916/xsqy-9w09/download",
+      "type": "other",
+      "roles": [
+        "other"
+      ]
+    },
+    "GRID3_COD_Equateur_health_facilities_v8_0.gpkg": {
+      "href": "https://academiccommons.columbia.edu/doi/10.7916/apr9-3k31/download",
+      "type": "other",
+      "roles": [
+        "other"
+      ]
+    },
+    "GRID3_COD_Haut-Lomami_health_facilities_v8_0.gpkg": {
+      "href": "https://academiccommons.columbia.edu/doi/10.7916/tjtt-vf14/download",
+      "type": "other",
+      "roles": [
+        "other"
+      ]
+    },
+    "GRID3_COD_Kasai\u0308-Oriental_health_facilities_v8_0.gpkg": {
+      "href": "https://academiccommons.columbia.edu/doi/10.7916/y2qg-b261/download",
+      "type": "other",
+      "roles": [
+        "other"
+      ]
+    },
+    "GRID3_COD_Kongo-Central_health_facilities_v8_0.gpkg": {
+      "href": "https://academiccommons.columbia.edu/doi/10.7916/yc1m-1466/download",
+      "type": "other",
+      "roles": [
+        "other"
+      ]
+    },
+    "GRID3_COD_Haut-Katanga_health_facilities_v8_0.gpkg": {
+      "href": "https://academiccommons.columbia.edu/doi/10.7916/s5e2-7f67/download",
+      "type": "other",
+      "roles": [
+        "other"
+      ]
+    },
+    "GRID3_COD_Haut-Uele_health_facilities_v8_0.gpkg": {
+      "href": "https://academiccommons.columbia.edu/doi/10.7916/n599-zs88/download",
+      "type": "other",
+      "roles": [
+        "other"
+      ]
+    },
+    "GRID3_COD_Kwango_health_facilities_v8_0.gpkg": {
+      "href": "https://academiccommons.columbia.edu/doi/10.7916/74wx-pc69/download",
+      "type": "other",
+      "roles": [
+        "other"
+      ]
+    },
+    "GRID3_COD_Kasai\u0308_health_facilities_v8_0.gpkg": {
+      "href": "https://academiccommons.columbia.edu/doi/10.7916/rywy-2042/download",
+      "type": "other",
+      "roles": [
+        "other"
+      ]
+    },
+    "GRID3_COD_Ituri_health_facilities_v8_0.gpkg": {
+      "href": "https://academiccommons.columbia.edu/doi/10.7916/jcmj-tx33/download",
+      "type": "other",
+      "roles": [
+        "other"
+      ]
+    },
+    "GRID3_COD_Maniema_health_facilities_v8_0.gpkg": {
+      "href": "https://academiccommons.columbia.edu/doi/10.7916/rqhx-n240/download",
+      "type": "other",
+      "roles": [
+        "other"
+      ]
+    },
+    "GRID3_COD_Nord-Kivu_health_facilities_v8_0.gpkg": {
+      "href": "https://academiccommons.columbia.edu/doi/10.7916/3jfs-q358/download",
+      "type": "other",
+      "roles": [
+        "other"
+      ]
+    },
+    "GRID3_COD_Sud-Ubangi_health_facilities_v8_0.gpkg": {
+      "href": "https://academiccommons.columbia.edu/doi/10.7916/ccq1-c173/download",
+      "type": "other",
+      "roles": [
+        "other"
+      ]
+    },
+    "GRID3_COD_Nord-Ubangi_health_facilities_v8_0.gpkg": {
+      "href": "https://academiccommons.columbia.edu/doi/10.7916/9c0m-nb79/download",
+      "type": "other",
+      "roles": [
+        "other"
+      ]
+    },
+    "GRID3_COD_Sud-Kivu_health_facilities_v8_0.gpkg": {
+      "href": "https://academiccommons.columbia.edu/doi/10.7916/vm43-9k67/download",
+      "type": "other",
+      "roles": [
+        "other"
+      ]
+    },
+    "GRID3_COD_Mai-Ndombe_health_facilities_v8_0.gpkg": {
+      "href": "https://academiccommons.columbia.edu/doi/10.7916/by9m-t679/download",
+      "type": "other",
+      "roles": [
+        "other"
+      ]
+    },
+    "GRID3_COD_Mongala_health_facilities_v8_0.gpkg": {
+      "href": "https://academiccommons.columbia.edu/doi/10.7916/4kgt-1w35/download",
+      "type": "other",
+      "roles": [
+        "other"
+      ]
+    },
+    "GRID3_COD_Lomami_health_facilities_v8_0.gpkg": {
+      "href": "https://academiccommons.columbia.edu/doi/10.7916/7gms-4m27/download",
+      "type": "other",
+      "roles": [
+        "other"
+      ]
+    },
+    "GRID3_COD_Lualaba_health_facilities_v8_0.gpkg": {
+      "href": "https://academiccommons.columbia.edu/doi/10.7916/bygn-e980/download",
+      "type": "other",
+      "roles": [
+        "other"
+      ]
+    },
+    "GRID3_COD_Kwilu_health_facilities_v8_0.gpkg": {
+      "href": "https://academiccommons.columbia.edu/doi/10.7916/sk3f-7749/download",
+      "type": "other",
+      "roles": [
+        "other"
+      ]
+    },
+    "GRID3_COD_Tanganyika_health_facilities_v8_0.gpkg": {
+      "href": "https://academiccommons.columbia.edu/doi/10.7916/wq8t-c061/download",
+      "type": "other",
+      "roles": [
+        "other"
+      ]
+    },
+    "GRID3_COD_Tshopo_health_facilities_v8_0.gpkg": {
+      "href": "https://academiccommons.columbia.edu/doi/10.7916/9tdh-he32/download",
+      "type": "other",
+      "roles": [
+        "other"
+      ]
+    },
+    "GRID3_COD_Tshuapa_health_facilities_v8_0.gpkg": {
+      "href": "https://academiccommons.columbia.edu/doi/10.7916/ms1x-g960/download",
+      "type": "other",
+      "roles": [
+        "other"
+      ]
+    }
+  },
   "datetime": "2025-12-19T00:00:00Z",
   "license": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN STYLE=\"font-weight:bold;\">Terms of use</SPAN></P><P><SPAN>Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.</SPAN></P><P><SPAN>Copyright 2025. The Trustees of Columbia University in the City of New York.</SPAN></P><P><SPAN STYLE=\"font-weight:bold;\">Data license</SPAN></P><P><SPAN>The data and accompanying document are licensed under a Creative Commons Attribution 4.0 International License, CC BY 4.0 (http://creativecommons.org/licenses/by/4.0) and specified in legal code (http://creativecommons.org/licenses/by/4.0/legalcode).</SPAN></P><P><SPAN STYLE=\"font-weight:bold;\">Known Data Limitations and Disclaimer </SPAN></P><P><SPAN>The spatial accuracy of the health facilities dataset depends on both the quality of the input data and the correctness of edits applied throughout the validation process. Temporal mismatches may exist between the point datasets and the satellite imagery used for quality checks. These discrepancies may result in health facilities not being identified or in the inclusion of facilities that are no longer operational. Spelling errors and naming inconsistencies may also occur due to colloquial variations in how locations are referenced in the field.</SPAN></P><P><SPAN>Significant gaps remain in the spatial coverage of health facilities in the DRC. In Kongo Central Province, geolocation data are available for fewer than 40% of the facilities listed in the DHIS2 database. In Kwango, Haut-Uele, Bas-Uele, Nord-Kivu or Sud-Kivu Provinces no new field data collection was conducted, therefore health facility records for these provinces rely on data collected in 2018 and 2019, which may no longer reflect current conditions. Additionally, 835 health facilities in Kwango lack associated settlement name information. Users are advised to apply caution when working with these features.</SPAN></P><P><SPAN>This dataset should be considered operational; it has not been fully validated by government authorities or ministries.</SPAN></P><P><SPAN>CIESIN, Columbia University, and its co-authors follow standardized procedures designed to ensure that project data meet reasonable quality expectations. If users encounter apparent errors or misstatements in the dataset, they are encouraged to contact CIESIN at info@ciesin.columbia.edu.</SPAN></P><P><SPAN>CIESIN, Columbia University, its co-authors, and their sponsors do not guarantee the accuracy, reliability, or completeness of the data provided. All data are supplied without warranty of any kind, either expressed or implied, and the authors shall not be liable for incidental, consequential, or special damages arising from the use of these data.</SPAN></P><P><SPAN /></P></DIV></DIV></DIV>",
   "providers": [

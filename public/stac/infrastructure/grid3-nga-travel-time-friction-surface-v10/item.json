@@ -70,7 +70,29 @@
       "title": "Infrastructure"
     }
   ],
-  "assets": {},
+  "assets": {
+    "GRID3 NGA - Travel Time Friction Surface v1.0 - Data Release Notes ": {
+      "href": "https://academiccommons.columbia.edu/doi/10.7916/1am9-ms73/download",
+      "type": "other",
+      "roles": [
+        "other"
+      ]
+    },
+    "GRID3_NGA_mix_travel_time_friction_surface_v1_0.zip": {
+      "href": "https://academiccommons.columbia.edu/doi/10.7916/zvnx-2v35/download",
+      "type": "zip",
+      "roles": [
+        "data"
+      ]
+    },
+    "GRID3_NGA_walk_travel_time_friction_surface_v1_0.zip": {
+      "href": "https://academiccommons.columbia.edu/doi/10.7916/97nc-wt39/download",
+      "type": "zip",
+      "roles": [
+        "data"
+      ]
+    }
+  },
   "datetime": "2025-09-17T00:00:00Z",
   "license": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN STYLE=\"font-weight:bold;\">Terms of use:</SPAN></P><P><SPAN>Users are free to download, store, access, use, copy, adapt, transform, alter, arrange, build upon, distribute and transmit this work and any derivative works. Attribution of the source must be provided, and further distribution of this work or derived work must maintain the same terms of data use and license as set forth in this Terms of Use.</SPAN></P><P><SPAN>Copyright 2025. The Trustees of Columbia University in the City of New York.</SPAN></P><P><SPAN STYLE=\"font-weight:bold;\">Data license:</SPAN></P><P><SPAN>The data and accompanying document are licensed under a Creative Commons Attribution-ShareAlike 4.0 International, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0) and specified in legal code (https://creativecommons.org/licenses/by-sa/4.0/legalcode).</SPAN></P><P><SPAN STYLE=\"font-weight:bold;\">Known Data Limitations and Disclaimer:</SPAN></P><P><SPAN>This dataset should be considered operational; it has not been fully validated by government officials or ministries.</SPAN></P><P><SPAN>CIESIN, Columbia University follow procedures designed to generate data of reasonable quality. If, despite these procedures, users encounter apparent errors or misstatements in the data, they should contact CIESIN, info@ciesin.columbia.edu.</SPAN></P><P><SPAN>CIESIN, Columbia University, its co-authors, and their sponsors do not guarantee the accuracy, reliability, or completeness of any data provided. We provide these data without warranty of any kind whatsoever, either expressed or implied, and shall not be liable for incidental, consequential, or special damages arising out of the use of any data provided.</SPAN></P><P><SPAN /></P></DIV></DIV></DIV>",
   "providers": [

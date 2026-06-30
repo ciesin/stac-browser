@@ -77,7 +77,15 @@
       "title": "Hazards"
     }
   ],
-  "assets": {},
+  "assets": {
+    "DOI Link": {
+      "href": "https://doi.org/10.7927/H48P5XF7",
+      "type": "DOI",
+      "roles": [
+        "documentation"
+      ]
+    }
+  },
   "datetime": "2010-05-26T00:00:00Z",
   "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
   "providers": [

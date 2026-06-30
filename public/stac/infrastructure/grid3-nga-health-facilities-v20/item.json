@@ -70,7 +70,22 @@
       "title": "Infrastructure"
     }
   ],
-  "assets": {},
+  "assets": {
+    "GRID3 NGA - Health Facilities v2.0 - Data Release Notes.pdf": {
+      "href": "https://academiccommons.columbia.edu/doi/10.7916/tksj-6s23/download",
+      "type": "other",
+      "roles": [
+        "other"
+      ]
+    },
+    "NGA_health_facilities_v2_0.gpkg": {
+      "href": "https://academiccommons.columbia.edu/doi/10.7916/bws3-8q75/download",
+      "type": "other",
+      "roles": [
+        "other"
+      ]
+    }
+  },
   "datetime": "2024-11-13T00:00:00Z",
   "license": "<span style='font-weight:bold;'>Terms of use</span><br />Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.<br /><br /><div>Copyright 2024. The Trustees of Columbia University in the City of New York.</div><div><br /></div><span style='font-weight:bold;'>Data license</span><br />The data and accompanying document are licensed under a Creative Commons Attribution 4.0 International License, CC BY 4.0<br />(https://creativecommons.org/licenses/by/4.0) and specified in legal code (https://creativecommons.org/licenses/by/4.0/legalcode).",
   "providers": [
