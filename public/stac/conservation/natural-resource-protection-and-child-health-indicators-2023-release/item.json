@@ -307,11 +307,16 @@
     }
   ],
   "assets": {
-    "DOI Link": {
+    "NaN": {
       "href": "https://doi.org/10.7927/hvgh-g750",
       "type": "DOI",
+      "title": "nan for Natural Resource Protection and Child Health Indicators, 2023 Release",
       "roles": [
-        "documentation"
+        [
+          "documentation",
+          "metadata",
+          "data"
+        ]
       ]
     }
   },

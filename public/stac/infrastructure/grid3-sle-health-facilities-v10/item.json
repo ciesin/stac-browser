@@ -73,6 +73,7 @@
     "Data Release Notes Sierra Leone National Health Facilities Version 01.pdf": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/514p-gz80/download",
       "type": "other",
+      "title": "Data Release Notes Sierra Leone National Health Facilities Version 01.pdf for GRID3 SLE - Health Facilities v1.0",
       "roles": [
         "other"
       ]
@@ -80,6 +81,7 @@
     "SLE_NationalHealthFacilites_v01.zip": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/fhg4-qa91/download",
       "type": "zip",
+      "title": "SLE_NationalHealthFacilites_v01.zip for GRID3 SLE - Health Facilities v1.0",
       "roles": [
         "data"
       ]

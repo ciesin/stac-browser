@@ -80,11 +80,16 @@
     }
   ],
   "assets": {
-    "DOI Link": {
+    "NaN": {
       "href": "https://doi.org/10.7927/H4Q81B0R",
       "type": "DOI",
+      "title": "nan for Global Fertilizer and Manure, Version 1: Nitrogen Fertilizer Application",
       "roles": [
-        "documentation"
+        [
+          "documentation",
+          "metadata",
+          "data"
+        ]
       ]
     }
   },

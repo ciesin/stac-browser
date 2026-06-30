@@ -74,11 +74,16 @@
     }
   ],
   "assets": {
-    "DOI Link": {
+    "NaN": {
       "href": "https://doi.org/10.7927/H4HQ3WTH",
       "type": "DOI",
+      "title": "nan for Global 15 x 15 Minute Grids of the Downscaled Population Based on the SRES B2 Scenario, 1990 and 2025",
       "roles": [
-        "documentation"
+        [
+          "documentation",
+          "metadata",
+          "data"
+        ]
       ]
     }
   },

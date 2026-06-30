@@ -80,11 +80,16 @@
     }
   ],
   "assets": {
-    "DOI Link": {
+    "NaN": {
       "href": "https://doi.org/10.7927/H4KH0K81",
       "type": "DOI",
+      "title": "nan for Global Fertilizer and Manure, Version 1: Nitrogen in Manure Production",
       "roles": [
-        "documentation"
+        [
+          "documentation",
+          "metadata",
+          "data"
+        ]
       ]
     }
   },

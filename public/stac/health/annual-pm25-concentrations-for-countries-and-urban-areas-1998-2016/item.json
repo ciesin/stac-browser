@@ -74,11 +74,16 @@
     }
   ],
   "assets": {
-    "DOI Link": {
+    "NaN": {
       "href": "https://doi.org/10.7927/rja8-8h89",
       "type": "DOI",
+      "title": "nan for Annual PM2.5 Concentrations for Countries and Urban Areas, 1998-2016",
       "roles": [
-        "documentation"
+        [
+          "documentation",
+          "metadata",
+          "data"
+        ]
       ]
     }
   },

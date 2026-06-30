@@ -91,11 +91,16 @@
     }
   ],
   "assets": {
-    "DOI Link": {
+    "NaN": {
       "href": "https://doi.org/10.7927/w6w3-3896",
       "type": "DOI",
+      "title": "nan for Sub-global Scenarios that Extend the Global SSP Narratives: Literature Database, Version 1, 2014-2021",
       "roles": [
-        "documentation"
+        [
+          "documentation",
+          "metadata",
+          "data"
+        ]
       ]
     }
   },

@@ -74,11 +74,16 @@
     }
   ],
   "assets": {
-    "DOI Link": {
+    "NaN": {
       "href": "https://doi.org/10.7927/brq1-xc29",
       "type": "DOI",
+      "title": "nan for Global Urban Polygons and Points Dataset (GUPPD), Version 1",
       "roles": [
-        "documentation"
+        [
+          "documentation",
+          "metadata",
+          "data"
+        ]
       ]
     }
   },

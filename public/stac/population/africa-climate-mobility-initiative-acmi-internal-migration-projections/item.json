@@ -123,11 +123,16 @@
     }
   ],
   "assets": {
-    "DOI Link": {
+    "NaN": {
       "href": "https://doi.org/10.7927/5tv3-ff20",
       "type": "DOI",
+      "title": "nan for Africa Climate Mobility Initiative (ACMI): Internal Migration Projections",
       "roles": [
-        "documentation"
+        [
+          "documentation",
+          "metadata",
+          "data"
+        ]
       ]
     }
   },

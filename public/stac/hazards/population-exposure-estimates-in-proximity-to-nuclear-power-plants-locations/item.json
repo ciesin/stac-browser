@@ -109,11 +109,16 @@
     }
   ],
   "assets": {
-    "DOI Link": {
+    "NaN": {
       "href": "https://doi.org/10.7927/H4WH2MXH",
       "type": "DOI",
+      "title": "nan for Population Exposure Estimates in Proximity to Nuclear Power Plants, Locations",
       "roles": [
-        "documentation"
+        [
+          "documentation",
+          "metadata",
+          "data"
+        ]
       ]
     }
   },

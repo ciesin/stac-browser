@@ -295,11 +295,16 @@
     }
   ],
   "assets": {
-    "DOI Link": {
+    "NaN": {
       "href": "https://doi.org/10.7927/et1q-jj80",
       "type": "DOI",
+      "title": "nan for Country Trends in Major Air Pollutants",
       "roles": [
-        "documentation"
+        [
+          "documentation",
+          "metadata",
+          "data"
+        ]
       ]
     }
   },

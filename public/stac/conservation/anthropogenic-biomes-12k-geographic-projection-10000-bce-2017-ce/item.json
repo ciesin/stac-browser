@@ -72,11 +72,16 @@
     }
   ],
   "assets": {
-    "DOI Link": {
+    "NaN": {
       "href": "https://doi.org/10.7927/np7r-df69",
       "type": "DOI",
+      "title": "nan for Anthropogenic Biomes 12K Geographic Projection, 10,000 BCE - 2017 CE",
       "roles": [
-        "documentation"
+        [
+          "documentation",
+          "metadata",
+          "data"
+        ]
       ]
     }
   },

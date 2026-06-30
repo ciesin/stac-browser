@@ -75,6 +75,7 @@
     "GRID3 ZMB - Settlement Extents v3.0 - Data Release Notes .pdf": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/x6hm-0s95/download",
       "type": "other",
+      "title": "GRID3 ZMB - Settlement Extents v3.0 - Data Release Notes .pdf for GRID3 ZMB - Settlement Extents v3.0",
       "roles": [
         "other"
       ]
@@ -82,6 +83,7 @@
     "GRID3_ZMB_settlement_extents_v3_0.zip": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/gssg-ac28/download",
       "type": "zip",
+      "title": "GRID3_ZMB_settlement_extents_v3_0.zip for GRID3 ZMB - Settlement Extents v3.0",
       "roles": [
         "data"
       ]
@@ -89,6 +91,7 @@
     "GRID3_ZMB_settlement_grid_v3_0.zip": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/m0s3-ka04/download",
       "type": "zip",
+      "title": "GRID3_ZMB_settlement_grid_v3_0.zip for GRID3 ZMB - Settlement Extents v3.0",
       "roles": [
         "data"
       ]

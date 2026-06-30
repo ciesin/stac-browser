@@ -302,11 +302,16 @@
     }
   ],
   "assets": {
-    "DOI Link": {
+    "NaN": {
       "href": "https://doi.org/10.7927/H4PN93H3",
       "type": "DOI",
+      "title": "nan for National Aggregates of Geospatial Data Collection: Population, Landscape, And Climate Estimates (PLACE)",
       "roles": [
-        "documentation"
+        [
+          "documentation",
+          "metadata",
+          "data"
+        ]
       ]
     }
   },

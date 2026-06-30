@@ -75,6 +75,7 @@
     "GRID3 COD - Health Areas v8.0 Data Release Notes.pdf": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/jvyd-2t31/download",
       "type": "other",
+      "title": "GRID3 COD - Health Areas v8.0 Data Release Notes.pdf for GRID3 COD - Health Areas v8.0",
       "roles": [
         "other"
       ]
@@ -82,6 +83,7 @@
     "GRID3_COD_health_areas_v8_0.gdb.zip": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/mvem-rs10/download",
       "type": "zip",
+      "title": "GRID3_COD_health_areas_v8_0.gdb.zip for GRID3 COD - Health Areas v8.0",
       "roles": [
         "data"
       ]
@@ -89,6 +91,7 @@
     "GRID3_COD_Bas-Uele_health_areas_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/fse0-9c79/download",
       "type": "other",
+      "title": "GRID3_COD_Bas-Uele_health_areas_v8_0.gpkg for GRID3 COD - Health Areas v8.0",
       "roles": [
         "other"
       ]
@@ -96,6 +99,7 @@
     "GRID3_COD_Ituri_health_areas_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/j498-fa85/download",
       "type": "other",
+      "title": "GRID3_COD_Ituri_health_areas_v8_0.gpkg for GRID3 COD - Health Areas v8.0",
       "roles": [
         "other"
       ]
@@ -103,6 +107,7 @@
     "GRID3_COD_Kasai\u0308_health_areas_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/4j1r-h346/download",
       "type": "other",
+      "title": "GRID3_COD_Kasai\u0308_health_areas_v8_0.gpkg for GRID3 COD - Health Areas v8.0",
       "roles": [
         "other"
       ]
@@ -110,6 +115,7 @@
     "GRID3_COD_Kongo-Central_health_areas_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/5c2v-6d75/download",
       "type": "other",
+      "title": "GRID3_COD_Kongo-Central_health_areas_v8_0.gpkg for GRID3 COD - Health Areas v8.0",
       "roles": [
         "other"
       ]
@@ -117,6 +123,7 @@
     "GRID3_COD_Haut-Katanga_health_areas_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/zrrd-1x23/download",
       "type": "other",
+      "title": "GRID3_COD_Haut-Katanga_health_areas_v8_0.gpkg for GRID3 COD - Health Areas v8.0",
       "roles": [
         "other"
       ]
@@ -124,6 +131,7 @@
     "GRID3_COD_Kasai\u0308-Central_health_areas_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/5011-h134/download",
       "type": "other",
+      "title": "GRID3_COD_Kasai\u0308-Central_health_areas_v8_0.gpkg for GRID3 COD - Health Areas v8.0",
       "roles": [
         "other"
       ]
@@ -131,6 +139,7 @@
     "GRID3_COD_Haut-Lomami_health_areas_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/rbxn-hn05/download",
       "type": "other",
+      "title": "GRID3_COD_Haut-Lomami_health_areas_v8_0.gpkg for GRID3 COD - Health Areas v8.0",
       "roles": [
         "other"
       ]
@@ -138,6 +147,7 @@
     "GRID3_COD_Haut-Uele_health_areas_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/vtta-0c25/download",
       "type": "other",
+      "title": "GRID3_COD_Haut-Uele_health_areas_v8_0.gpkg for GRID3 COD - Health Areas v8.0",
       "roles": [
         "other"
       ]
@@ -145,6 +155,7 @@
     "GRID3_COD_Kinshasa_health_areas_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/rjdt-6682/download",
       "type": "other",
+      "title": "GRID3_COD_Kinshasa_health_areas_v8_0.gpkg for GRID3 COD - Health Areas v8.0",
       "roles": [
         "other"
       ]
@@ -152,6 +163,7 @@
     "GRID3_COD_Equateur_health_areas_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/r7ef-hy18/download",
       "type": "other",
+      "title": "GRID3_COD_Equateur_health_areas_v8_0.gpkg for GRID3 COD - Health Areas v8.0",
       "roles": [
         "other"
       ]
@@ -159,6 +171,7 @@
     "GRID3_COD_Sud-Ubangi_health_areas_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/yhpa-3028/download",
       "type": "other",
+      "title": "GRID3_COD_Sud-Ubangi_health_areas_v8_0.gpkg for GRID3 COD - Health Areas v8.0",
       "roles": [
         "other"
       ]
@@ -166,6 +179,7 @@
     "GRID3_COD_Sud-Kivu_health_areas_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/vv8a-wz73/download",
       "type": "other",
+      "title": "GRID3_COD_Sud-Kivu_health_areas_v8_0.gpkg for GRID3 COD - Health Areas v8.0",
       "roles": [
         "other"
       ]
@@ -173,6 +187,7 @@
     "GRID3_COD_Tanganyika_health_areas_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/234m-se22/download",
       "type": "other",
+      "title": "GRID3_COD_Tanganyika_health_areas_v8_0.gpkg for GRID3 COD - Health Areas v8.0",
       "roles": [
         "other"
       ]
@@ -180,6 +195,7 @@
     "GRID3_COD_Tshuapa_health_areas_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/qcp0-5s71/download",
       "type": "other",
+      "title": "GRID3_COD_Tshuapa_health_areas_v8_0.gpkg for GRID3 COD - Health Areas v8.0",
       "roles": [
         "other"
       ]
@@ -187,6 +203,7 @@
     "GRID3_COD_Nord-Ubangi_health_areas_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/6mm4-ay29/download",
       "type": "other",
+      "title": "GRID3_COD_Nord-Ubangi_health_areas_v8_0.gpkg for GRID3 COD - Health Areas v8.0",
       "roles": [
         "other"
       ]
@@ -194,6 +211,7 @@
     "GRID3_COD_Nord-Kivu_health_areas_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/gbrv-cw47/download",
       "type": "other",
+      "title": "GRID3_COD_Nord-Kivu_health_areas_v8_0.gpkg for GRID3 COD - Health Areas v8.0",
       "roles": [
         "other"
       ]
@@ -201,6 +219,7 @@
     "GRID3_COD_Mai-Ndombe_health_areas_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/8yb9-rg76/download",
       "type": "other",
+      "title": "GRID3_COD_Mai-Ndombe_health_areas_v8_0.gpkg for GRID3 COD - Health Areas v8.0",
       "roles": [
         "other"
       ]
@@ -208,6 +227,7 @@
     "GRID3_COD_Mongala_health_areas_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/k7sa-vs59/download",
       "type": "other",
+      "title": "GRID3_COD_Mongala_health_areas_v8_0.gpkg for GRID3 COD - Health Areas v8.0",
       "roles": [
         "other"
       ]
@@ -215,6 +235,7 @@
     "GRID3_COD_Maniema_health_areas_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/yynp-t147/download",
       "type": "other",
+      "title": "GRID3_COD_Maniema_health_areas_v8_0.gpkg for GRID3 COD - Health Areas v8.0",
       "roles": [
         "other"
       ]
@@ -222,6 +243,7 @@
     "GRID3_COD_Lualaba_health_areas_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/w6mg-0n38/download",
       "type": "other",
+      "title": "GRID3_COD_Lualaba_health_areas_v8_0.gpkg for GRID3 COD - Health Areas v8.0",
       "roles": [
         "other"
       ]
@@ -229,6 +251,7 @@
     "GRID3_COD_Lomami_health_areas_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/12bk-s228/download",
       "type": "other",
+      "title": "GRID3_COD_Lomami_health_areas_v8_0.gpkg for GRID3 COD - Health Areas v8.0",
       "roles": [
         "other"
       ]
@@ -236,6 +259,7 @@
     "GRID3_COD_Kwilu_health_areas_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/ke4k-vx45/download",
       "type": "other",
+      "title": "GRID3_COD_Kwilu_health_areas_v8_0.gpkg for GRID3 COD - Health Areas v8.0",
       "roles": [
         "other"
       ]
@@ -243,6 +267,7 @@
     "GRID3_COD_Kasai\u0308-Oriental_health_areas_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/xjzj-ad35/download",
       "type": "other",
+      "title": "GRID3_COD_Kasai\u0308-Oriental_health_areas_v8_0.gpkg for GRID3 COD - Health Areas v8.0",
       "roles": [
         "other"
       ]
@@ -250,6 +275,7 @@
     "GRID3_COD_Sankuru_health_areas_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/hjd1-4r57/download",
       "type": "other",
+      "title": "GRID3_COD_Sankuru_health_areas_v8_0.gpkg for GRID3 COD - Health Areas v8.0",
       "roles": [
         "other"
       ]
@@ -257,6 +283,7 @@
     "GRID3_COD_Kwango_health_areas_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/2tyd-m340/download",
       "type": "other",
+      "title": "GRID3_COD_Kwango_health_areas_v8_0.gpkg for GRID3 COD - Health Areas v8.0",
       "roles": [
         "other"
       ]
@@ -264,6 +291,7 @@
     "GRID3_COD_Tshopo_health_areas_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/cb7v-yv96/download",
       "type": "other",
+      "title": "GRID3_COD_Tshopo_health_areas_v8_0.gpkg for GRID3 COD - Health Areas v8.0",
       "roles": [
         "other"
       ]

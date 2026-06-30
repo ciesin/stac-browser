@@ -74,11 +74,16 @@
     }
   ],
   "assets": {
-    "DOI Link": {
+    "NaN": {
       "href": "https://doi.org/10.7927/H44F1NNF",
       "type": "DOI",
+      "title": "nan for Global Cyclone Proportional Economic Loss Risk Deciles",
       "roles": [
-        "documentation"
+        [
+          "documentation",
+          "metadata",
+          "data"
+        ]
       ]
     }
   },

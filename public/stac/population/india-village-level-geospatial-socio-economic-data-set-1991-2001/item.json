@@ -74,11 +74,16 @@
     }
   ],
   "assets": {
-    "DOI Link": {
+    "NaN": {
       "href": "https://doi.org/10.7927/H4CN71ZJ",
       "type": "DOI",
+      "title": "nan for India Village-Level Geospatial Socio-Economic Data Set: 1991, 2001",
       "roles": [
-        "documentation"
+        [
+          "documentation",
+          "metadata",
+          "data"
+        ]
       ]
     }
   },

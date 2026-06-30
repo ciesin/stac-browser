@@ -97,11 +97,16 @@
     }
   ],
   "assets": {
-    "DOI Link": {
+    "NaN": {
       "href": "https://doi.org/10.7927/jmc9-q708",
       "type": "DOI",
+      "title": "nan for Groundswell Africa Spatial Population and Migration Projections at One-Eighth Degree According to SSPs and RCPs, 2010-2050",
       "roles": [
-        "documentation"
+        [
+          "documentation",
+          "metadata",
+          "data"
+        ]
       ]
     }
   },

@@ -75,6 +75,7 @@
     "GRID3 UGA - Settlement Extents v3.0 - Data Release Notes .pdf": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/9xwn-k572/download",
       "type": "other",
+      "title": "GRID3 UGA - Settlement Extents v3.0 - Data Release Notes .pdf for GRID3 UGA - Settlement Extents v3.0",
       "roles": [
         "other"
       ]
@@ -82,6 +83,7 @@
     "GRID3_UGA_settlement_extents_v3_0.zip": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/hx1j-b416/download",
       "type": "zip",
+      "title": "GRID3_UGA_settlement_extents_v3_0.zip for GRID3 UGA - Settlement Extents v3.0",
       "roles": [
         "data"
       ]
@@ -89,6 +91,7 @@
     "GRID3_UGA_settlement_grid_v3_0.zip": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/qkb2-7q05/download",
       "type": "zip",
+      "title": "GRID3_UGA_settlement_grid_v3_0.zip for GRID3 UGA - Settlement Extents v3.0",
       "roles": [
         "data"
       ]

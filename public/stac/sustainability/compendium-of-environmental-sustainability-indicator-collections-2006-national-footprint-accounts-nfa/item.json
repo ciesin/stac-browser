@@ -220,11 +220,16 @@
     }
   ],
   "assets": {
-    "DOI Link": {
+    "NaN": {
       "href": "https://doi.org/10.7927/H4RF5RZT",
       "type": "DOI",
+      "title": "nan for Compendium of Environmental Sustainability Indicator Collections: 2006 National Footprint Accounts (NFA)",
       "roles": [
-        "documentation"
+        [
+          "documentation",
+          "metadata",
+          "data"
+        ]
       ]
     }
   },

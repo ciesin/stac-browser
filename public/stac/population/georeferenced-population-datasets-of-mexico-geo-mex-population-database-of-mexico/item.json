@@ -72,11 +72,16 @@
     }
   ],
   "assets": {
-    "DOI Link": {
+    "NaN": {
       "href": "https://doi.org/10.7927/H45D8PS8",
       "type": "DOI",
+      "title": "nan for Georeferenced Population Datasets of Mexico (GEO-MEX): Population Database of Mexico",
       "roles": [
-        "documentation"
+        [
+          "documentation",
+          "metadata",
+          "data"
+        ]
       ]
     }
   },

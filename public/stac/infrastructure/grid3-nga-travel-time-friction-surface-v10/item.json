@@ -74,6 +74,7 @@
     "GRID3 NGA - Travel Time Friction Surface v1.0 - Data Release Notes ": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/1am9-ms73/download",
       "type": "other",
+      "title": "GRID3 NGA - Travel Time Friction Surface v1.0 - Data Release Notes  for GRID3 NGA - Travel Time Friction Surface v1.0",
       "roles": [
         "other"
       ]
@@ -81,6 +82,7 @@
     "GRID3_NGA_mix_travel_time_friction_surface_v1_0.zip": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/zvnx-2v35/download",
       "type": "zip",
+      "title": "GRID3_NGA_mix_travel_time_friction_surface_v1_0.zip for GRID3 NGA - Travel Time Friction Surface v1.0",
       "roles": [
         "data"
       ]
@@ -88,6 +90,7 @@
     "GRID3_NGA_walk_travel_time_friction_surface_v1_0.zip": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/97nc-wt39/download",
       "type": "zip",
+      "title": "GRID3_NGA_walk_travel_time_friction_surface_v1_0.zip for GRID3 NGA - Travel Time Friction Surface v1.0",
       "roles": [
         "data"
       ]

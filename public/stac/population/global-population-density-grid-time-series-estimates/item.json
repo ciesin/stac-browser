@@ -72,11 +72,16 @@
     }
   ],
   "assets": {
-    "DOI Link": {
+    "NaN": {
       "href": "https://doi.org/10.7927/H47M05W2",
       "type": "DOI",
+      "title": "nan for Global Population Density Grid Time Series Estimates",
       "roles": [
-        "documentation"
+        [
+          "documentation",
+          "metadata",
+          "data"
+        ]
       ]
     }
   },

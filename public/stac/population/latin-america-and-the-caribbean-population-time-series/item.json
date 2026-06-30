@@ -118,11 +118,16 @@
     }
   ],
   "assets": {
-    "DOI Link": {
+    "NaN": {
       "href": "https://doi.org/10.7927/H4R78C4K",
       "type": "DOI",
+      "title": "nan for Latin America and the Caribbean Population Time Series",
       "roles": [
-        "documentation"
+        [
+          "documentation",
+          "metadata",
+          "data"
+        ]
       ]
     }
   },

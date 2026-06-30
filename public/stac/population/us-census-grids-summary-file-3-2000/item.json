@@ -124,11 +124,16 @@
     }
   ],
   "assets": {
-    "DOI Link": {
+    "NaN": {
       "href": "https://doi.org/10.7927/H42R3PMN",
       "type": "DOI",
+      "title": "nan for U.S. Census Grids (Summary File 3), 2000",
       "roles": [
-        "documentation"
+        [
+          "documentation",
+          "metadata",
+          "data"
+        ]
       ]
     }
   },

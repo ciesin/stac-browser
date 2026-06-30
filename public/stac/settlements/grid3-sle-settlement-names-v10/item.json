@@ -73,6 +73,7 @@
     "GRID3_SLE_SettlementNames_DataReleaseNotes_V1.pdf": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/ve3w-2h47/download",
       "type": "other",
+      "title": "GRID3_SLE_SettlementNames_DataReleaseNotes_V1.pdf for GRID3 SLE - Settlement Names v1.0",
       "roles": [
         "other"
       ]
@@ -80,6 +81,7 @@
     "GRID3_SLE_SettlementNames_v1.zip": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/yjmg-jg61/download",
       "type": "zip",
+      "title": "GRID3_SLE_SettlementNames_v1.zip for GRID3 SLE - Settlement Names v1.0",
       "roles": [
         "data"
       ]

@@ -78,11 +78,16 @@
     }
   ],
   "assets": {
-    "DOI Link": {
+    "NaN": {
       "href": "https://doi.org/10.7927/H4QJ7F8M",
       "type": "DOI",
+      "title": "nan for Millennium Ecosystem Assessment: MA Climate and Land Cover",
       "roles": [
-        "documentation"
+        [
+          "documentation",
+          "metadata",
+          "data"
+        ]
       ]
     }
   },

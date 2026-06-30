@@ -206,11 +206,16 @@
     }
   ],
   "assets": {
-    "DOI Link": {
+    "NaN": {
       "href": "https://doi.org/10.7927/H4ZG6QBX",
       "type": "DOI",
+      "title": "nan for Historical Urban Population: 3700 BC - AD 2000",
       "roles": [
-        "documentation"
+        [
+          "documentation",
+          "metadata",
+          "data"
+        ]
       ]
     }
   },

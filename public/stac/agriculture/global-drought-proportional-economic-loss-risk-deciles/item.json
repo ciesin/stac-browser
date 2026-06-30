@@ -77,11 +77,16 @@
     }
   ],
   "assets": {
-    "DOI Link": {
+    "NaN": {
       "href": "https://doi.org/10.7927/H4MG7MDV",
       "type": "DOI",
+      "title": "nan for Global Drought Proportional Economic Loss Risk Deciles",
       "roles": [
-        "documentation"
+        [
+          "documentation",
+          "metadata",
+          "data"
+        ]
       ]
     }
   },

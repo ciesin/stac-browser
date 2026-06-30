@@ -75,6 +75,7 @@
     "GRID3 GAB - Settlement Extents v3.0 - Data Release Notes .pdf": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/zdpp-f211/download",
       "type": "other",
+      "title": "GRID3 GAB - Settlement Extents v3.0 - Data Release Notes .pdf for GRID3 GAB - Settlement Extents v3.0",
       "roles": [
         "other"
       ]
@@ -82,6 +83,7 @@
     "GRID3_GAB_settlement_extents_v3_0.zip": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/33x1-ab85/download",
       "type": "zip",
+      "title": "GRID3_GAB_settlement_extents_v3_0.zip for GRID3 GAB - Settlement Extents v3.0",
       "roles": [
         "data"
       ]
@@ -89,6 +91,7 @@
     "GRID3_GAB_settlement_grid_v3_0.zip": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/fc4r-sj54/download",
       "type": "zip",
+      "title": "GRID3_GAB_settlement_grid_v3_0.zip for GRID3 GAB - Settlement Extents v3.0",
       "roles": [
         "data"
       ]

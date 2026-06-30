@@ -256,11 +256,16 @@
     }
   ],
   "assets": {
-    "DOI Link": {
+    "NaN": {
       "href": "https://doi.org/10.7927/H48W3B88",
       "type": "DOI",
+      "title": "nan for Indicators of Coastal Water Quality: Change in Chlorophyll-a Concentration 1998-2007",
       "roles": [
-        "documentation"
+        [
+          "documentation",
+          "metadata",
+          "data"
+        ]
       ]
     }
   },

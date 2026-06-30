@@ -73,6 +73,7 @@
     "GRID3 COD - Roads v1.0 - Data Release Notes.pdf": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/ekz8-yp85/download",
       "type": "other",
+      "title": "GRID3 COD - Roads v1.0 - Data Release Notes.pdf for GRID3 COD - Roads v1.0",
       "roles": [
         "other"
       ]
@@ -80,6 +81,7 @@
     "GRID3_COD_roads_v1_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/vcra-te92/download",
       "type": "other",
+      "title": "GRID3_COD_roads_v1_0.gpkg for GRID3 COD - Roads v1.0",
       "roles": [
         "other"
       ]
@@ -87,6 +89,7 @@
     "GRID3_COD_roads_v1_0.xml": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/6ye2-g042/download",
       "type": "xml",
+      "title": "GRID3_COD_roads_v1_0.xml for GRID3 COD - Roads v1.0",
       "roles": [
         "metadata"
       ]

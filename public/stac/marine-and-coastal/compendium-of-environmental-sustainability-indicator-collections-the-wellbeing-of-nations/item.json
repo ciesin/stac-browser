@@ -257,11 +257,16 @@
     }
   ],
   "assets": {
-    "DOI Link": {
+    "NaN": {
       "href": "https://doi.org/10.7927/H4MS3QNT",
       "type": "DOI",
+      "title": "nan for Compendium of Environmental Sustainability Indicator Collections: The Wellbeing of Nations",
       "roles": [
-        "documentation"
+        [
+          "documentation",
+          "metadata",
+          "data"
+        ]
       ]
     }
   },

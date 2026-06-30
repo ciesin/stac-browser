@@ -310,11 +310,16 @@
     }
   ],
   "assets": {
-    "DOI Link": {
+    "NaN": {
       "href": "https://doi.org/10.7927/H4PZ56R2",
       "type": "DOI",
+      "title": "nan for Poverty Mapping Project: Global Subnational Infant Mortality Rates",
       "roles": [
-        "documentation"
+        [
+          "documentation",
+          "metadata",
+          "data"
+        ]
       ]
     }
   },

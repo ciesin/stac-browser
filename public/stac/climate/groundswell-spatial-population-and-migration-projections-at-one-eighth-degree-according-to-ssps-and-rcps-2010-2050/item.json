@@ -187,11 +187,16 @@
     }
   ],
   "assets": {
-    "DOI Link": {
+    "NaN": {
       "href": "https://doi.org/10.7927/c5kq-fb78",
       "type": "DOI",
+      "title": "nan for Groundswell Spatial Population and Migration Projections at One-Eighth Degree According to SSPs and RCPs, 2010-2050",
       "roles": [
-        "documentation"
+        [
+          "documentation",
+          "metadata",
+          "data"
+        ]
       ]
     }
   },

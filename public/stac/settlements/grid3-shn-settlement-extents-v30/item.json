@@ -76,6 +76,7 @@
     "GRID3 SHN - Settlement Extents v3.0 - Data Release Notes .pdf": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/t0h2-nm33/download",
       "type": "other",
+      "title": "GRID3 SHN - Settlement Extents v3.0 - Data Release Notes .pdf for GRID3 SHN - Settlement Extents v3.0",
       "roles": [
         "other"
       ]
@@ -83,6 +84,7 @@
     "GRID3_SHN_settlement_extents_v3_0.zip": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/wb99-kj31/download",
       "type": "zip",
+      "title": "GRID3_SHN_settlement_extents_v3_0.zip for GRID3 SHN - Settlement Extents v3.0",
       "roles": [
         "data"
       ]
@@ -90,6 +92,7 @@
     "GRID3_SHN_settlement_grid_v3_0.zip": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/e573-f581/download",
       "type": "zip",
+      "title": "GRID3_SHN_settlement_grid_v3_0.zip for GRID3 SHN - Settlement Extents v3.0",
       "roles": [
         "data"
       ]

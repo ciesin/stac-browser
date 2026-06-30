@@ -75,6 +75,7 @@
     "GRID3 TCD - Settlement Extents v3.0 - Data Release Notes .pdf": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/q2t8-1c79/download",
       "type": "other",
+      "title": "GRID3 TCD - Settlement Extents v3.0 - Data Release Notes .pdf for GRID3 TCD - Settlement Extents v3.0",
       "roles": [
         "other"
       ]
@@ -82,6 +83,7 @@
     "GRID3_TCD_settlement_extents_v3_0.zip": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/9qe7-zj16/download",
       "type": "zip",
+      "title": "GRID3_TCD_settlement_extents_v3_0.zip for GRID3 TCD - Settlement Extents v3.0",
       "roles": [
         "data"
       ]
@@ -89,6 +91,7 @@
     "GRID3_TCD_settlement_grid_v3_0.zip": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/3dwe-3a69/download",
       "type": "zip",
+      "title": "GRID3_TCD_settlement_grid_v3_0.zip for GRID3 TCD - Settlement Extents v3.0",
       "roles": [
         "data"
       ]
