@@ -77,14 +77,10 @@
   "assets": {
     "DOI Link": {
       "href": "https://doi.org/10.7927/H4VX0DFT",
-      "type": "DOI",
+      "type": "DOI Link",
       "title": "DOI Link for Global Drought Hazard Frequency and Distribution",
       "roles": [
-        [
-          "documentation",
-          "metadata",
-          "data"
-        ]
+        "other"
       ]
     }
   },

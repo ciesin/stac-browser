@@ -74,7 +74,7 @@
   "assets": {
     "GRID3 NER - Settlement Extents v3.0 - Data Release Notes .pdf": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/2tyb-9r96/download",
-      "type": "other",
+      "type": "PDF File",
       "title": "GRID3 NER - Settlement Extents v3.0 - Data Release Notes .pdf for GRID3 NER - Settlement Extents v3.0",
       "roles": [
         "other"
@@ -82,23 +82,23 @@
     },
     "GRID3_NER_settlement_extents_v3_0.zip": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/mpn9-k972/download",
-      "type": "zip",
+      "type": "Zip File",
       "title": "GRID3_NER_settlement_extents_v3_0.zip for GRID3 NER - Settlement Extents v3.0",
       "roles": [
-        "data"
+        "other"
       ]
     },
     "GRID3_NER_settlement_grid_v3_0.zip": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/9rg4-9s64/download",
-      "type": "zip",
+      "type": "Zip File",
       "title": "GRID3_NER_settlement_grid_v3_0.zip for GRID3 NER - Settlement Extents v3.0",
       "roles": [
-        "data"
+        "other"
       ]
     }
   },
   "datetime": "2024-09-30T00:00:00Z",
-  "license": "<div style=\"text-align:Left;\"><div><div><p>Terms of use:</p><p>Users are free to download, store, access, use, copy, adapt, transform, alter, arrange, build upon, distribute and transmit this work and any derivative works. Attribution of the source must be provided, and further distribution of this work or derived work must maintain the same terms of data use and license as set forth in this Terms of Use.</p><p>Copyright 2024. The Trustees of Columbia University in the City of New York.</p><p>Data license:</p><p>The data and accompanying document are licensed under a Creative Commons Attribution-ShareAlike 4.0 International, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0) and specified in legal code (https://creativecommons.org/licenses/by-sa/4.0/legalcode).</p><p>Known Data Limitations and Disclaimer:</p><p>CIESIN, Columbia University, and its co-authors follow procedures designed to ensure that data disseminated by the project are of reasonable quality. If, despite these procedures, users encounter apparent errors or misstatements in the data, they should contact CIESIN, info@ciesin.columbia.edu.</p><p>CIESIN, Columbia University, its co-authors, and their sponsors do not guarantee the accuracy, reliability, or completeness of any data provided. We provide these data without warranty of any kind whatsoever, either expressed or implied, and shall not be liable for incidental, consequential, or special damages arising out of the use of any data provided.</p><p></p></div></div></div>",
+  "license": "Terms of use:\n\nUsers are free to download, store, access, use, copy, adapt, transform, alter, arrange, build upon, distribute and transmit this work and any derivative works. Attribution of the source must be provided, and further distribution of this work or derived work must maintain the same terms of data use and license as set forth in this Terms of Use.\n\nCopyright 2024. The Trustees of Columbia University in the City of New York.\n\nData license:\n\nThe data and accompanying document are licensed under a Creative Commons Attribution-ShareAlike 4.0 International, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0) and specified in legal code (https://creativecommons.org/licenses/by-sa/4.0/legalcode).\n\nKnown Data Limitations and Disclaimer:\n\nCIESIN, Columbia University, and its co-authors follow procedures designed to ensure that data disseminated by the project are of reasonable quality. If, despite these procedures, users encounter apparent errors or misstatements in the data, they should contact CIESIN, info@ciesin.columbia.edu.\n\nCIESIN, Columbia University, its co-authors, and their sponsors do not guarantee the accuracy, reliability, or completeness of any data provided. We provide these data without warranty of any kind whatsoever, either expressed or implied, and shall not be liable for incidental, consequential, or special damages arising out of the use of any data provided.",
   "providers": [
     {
       "name": "Center for International Earth Science Information Network (CIESIN)",

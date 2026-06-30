@@ -259,14 +259,10 @@
   "assets": {
     "DOI Link": {
       "href": "https://doi.org/10.7927/eavc-4k45",
-      "type": "DOI",
+      "type": "DOI Link",
       "title": "DOI Link for SDG Indicator 11.7.1: Urban Public Space, Availability and Access, 2023 Release",
       "roles": [
-        [
-          "documentation",
-          "metadata",
-          "data"
-        ]
+        "other"
       ]
     }
   },

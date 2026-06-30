@@ -309,14 +309,10 @@
   "assets": {
     "DOI Link": {
       "href": "https://doi.org/10.7927/H4CR5R8J",
-      "type": "DOI",
+      "type": "DOI Link",
       "title": "DOI Link for Global Rural-Urban Mapping Project, Version 1 (GRUMPv1): Coastlines",
       "roles": [
-        [
-          "documentation",
-          "metadata",
-          "data"
-        ]
+        "other"
       ]
     }
   },

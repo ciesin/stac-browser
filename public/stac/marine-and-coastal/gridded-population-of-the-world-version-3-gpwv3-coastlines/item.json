@@ -302,14 +302,10 @@
   "assets": {
     "DOI Link": {
       "href": "https://doi.org/10.7927/H4Q23X5Q",
-      "type": "DOI",
+      "type": "DOI Link",
       "title": "DOI Link for Gridded Population of the World, Version 3 (GPWv3): Coastlines",
       "roles": [
-        [
-          "documentation",
-          "metadata",
-          "data"
-        ]
+        "other"
       ]
     }
   },

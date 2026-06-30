@@ -77,14 +77,10 @@
   "assets": {
     "DOI Link": {
       "href": "https://doi.org/10.7927/H4736NT2",
-      "type": "DOI",
+      "type": "DOI Link",
       "title": "DOI Link for Global Volcano Mortality Risks and Distribution",
       "roles": [
-        [
-          "documentation",
-          "metadata",
-          "data"
-        ]
+        "other"
       ]
     }
   },

@@ -88,14 +88,10 @@
   "assets": {
     "DOI Link": {
       "href": "https://doi.org/10.7927/H4542KJV",
-      "type": "DOI",
+      "type": "DOI Link",
       "title": "DOI Link for IPCC Fourth Assessment Report (AR4) Observed Climate Change Impacts Database",
       "roles": [
-        [
-          "documentation",
-          "metadata",
-          "data"
-        ]
+        "other"
       ]
     }
   },

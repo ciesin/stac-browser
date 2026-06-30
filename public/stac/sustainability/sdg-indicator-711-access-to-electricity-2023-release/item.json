@@ -329,14 +329,10 @@
   "assets": {
     "DOI Link": {
       "href": "https://doi.org/10.7927/gxnr-sx57",
-      "type": "DOI",
+      "type": "DOI Link",
       "title": "DOI Link for SDG Indicator 7.1.1: Access to Electricity, 2023 Release",
       "roles": [
-        [
-          "documentation",
-          "metadata",
-          "data"
-        ]
+        "other"
       ]
     }
   },

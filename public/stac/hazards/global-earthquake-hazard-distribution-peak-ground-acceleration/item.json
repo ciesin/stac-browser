@@ -74,14 +74,10 @@
   "assets": {
     "DOI Link": {
       "href": "https://doi.org/10.7927/H4BZ63ZS",
-      "type": "DOI",
+      "type": "DOI Link",
       "title": "DOI Link for Global Earthquake Hazard Distribution - Peak Ground Acceleration",
       "roles": [
-        [
-          "documentation",
-          "metadata",
-          "data"
-        ]
+        "other"
       ]
     }
   },

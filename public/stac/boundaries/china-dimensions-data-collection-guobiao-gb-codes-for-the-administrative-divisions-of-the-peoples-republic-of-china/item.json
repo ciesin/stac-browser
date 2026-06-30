@@ -78,14 +78,10 @@
   "assets": {
     "DOI Link": {
       "href": "https://doi.org/10.7927/H4KK98PS",
-      "type": "DOI",
+      "type": "DOI Link",
       "title": "DOI Link for China Dimensions Data Collection: GuoBiao (GB) Codes for the Administrative Divisions of the Peoples Republic of China",
       "roles": [
-        [
-          "documentation",
-          "metadata",
-          "data"
-        ]
+        "other"
       ]
     }
   },

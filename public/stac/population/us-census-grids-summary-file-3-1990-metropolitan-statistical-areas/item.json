@@ -188,14 +188,10 @@
   "assets": {
     "DOI Link": {
       "href": "https://doi.org/10.7927/H4F18WNN",
-      "type": "DOI",
+      "type": "DOI Link",
       "title": "DOI Link for U.S. Census Grids (Summary File 3), 1990: Metropolitan Statistical Areas",
       "roles": [
-        [
-          "documentation",
-          "metadata",
-          "data"
-        ]
+        "other"
       ]
     }
   },

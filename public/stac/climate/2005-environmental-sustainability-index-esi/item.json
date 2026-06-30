@@ -226,14 +226,10 @@
   "assets": {
     "DOI Link": {
       "href": "https://doi.org/10.7927/H40V89R6",
-      "type": "DOI",
+      "type": "DOI Link",
       "title": "DOI Link for 2005 Environmental Sustainability Index (ESI)",
       "roles": [
-        [
-          "documentation",
-          "metadata",
-          "data"
-        ]
+        "other"
       ]
     }
   },

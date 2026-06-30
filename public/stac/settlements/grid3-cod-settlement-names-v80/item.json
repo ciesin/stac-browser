@@ -72,7 +72,7 @@
   "assets": {
     "GRID3 COD - Settlement Names v8.0 Data Release Notes.pdf": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/5pwz-wm70/download",
-      "type": "other",
+      "type": "PDF File",
       "title": "GRID3 COD - Settlement Names v8.0 Data Release Notes.pdf for GRID3 COD - Settlement Names v8.0",
       "roles": [
         "other"
@@ -80,15 +80,15 @@
     },
     "GRID3_COD_settlement_names_v8_0.gdb.zip": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/rq94-q368/download",
-      "type": "zip",
+      "type": "Zip File",
       "title": "GRID3_COD_settlement_names_v8_0.gdb.zip for GRID3 COD - Settlement Names v8.0",
       "roles": [
-        "data"
+        "other"
       ]
     },
     "GRID3_COD_Bas-Uele_settlement_names_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/wz6j-zk97/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Bas-Uele_settlement_names_v8_0.gpkg for GRID3 COD - Settlement Names v8.0",
       "roles": [
         "other"
@@ -96,7 +96,7 @@
     },
     "GRID3_COD_Equateur_settlement_names_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/5446-j385/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Equateur_settlement_names_v8_0.gpkg for GRID3 COD - Settlement Names v8.0",
       "roles": [
         "other"
@@ -104,7 +104,7 @@
     },
     "GRID3_COD_Kasai\u0308-Central_settlement_names_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/ksvr-0533/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Kasai\u0308-Central_settlement_names_v8_0.gpkg for GRID3 COD - Settlement Names v8.0",
       "roles": [
         "other"
@@ -112,7 +112,7 @@
     },
     "GRID3_COD_Haut-Lomami_settlement_names_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/5hzh-fb82/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Haut-Lomami_settlement_names_v8_0.gpkg for GRID3 COD - Settlement Names v8.0",
       "roles": [
         "other"
@@ -120,7 +120,7 @@
     },
     "GRID3_COD_Kwango_settlement_names_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/xr20-2t66/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Kwango_settlement_names_v8_0.gpkg for GRID3 COD - Settlement Names v8.0",
       "roles": [
         "other"
@@ -128,7 +128,7 @@
     },
     "GRID3_COD_Kasai\u0308-Oriental_settlement_names_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/jce6-3k11/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Kasai\u0308-Oriental_settlement_names_v8_0.gpkg for GRID3 COD - Settlement Names v8.0",
       "roles": [
         "other"
@@ -136,7 +136,7 @@
     },
     "GRID3_COD_Tanganyika_settlement_names_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/4qfa-dr03/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Tanganyika_settlement_names_v8_0.gpkg for GRID3 COD - Settlement Names v8.0",
       "roles": [
         "other"
@@ -144,7 +144,7 @@
     },
     "GRID3_COD_Tshuapa_settlement_names_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/0sq4-jp97/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Tshuapa_settlement_names_v8_0.gpkg for GRID3 COD - Settlement Names v8.0",
       "roles": [
         "other"
@@ -152,7 +152,7 @@
     },
     "GRID3_COD_Tshopo_settlement_names_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/b3y5-3632/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Tshopo_settlement_names_v8_0.gpkg for GRID3 COD - Settlement Names v8.0",
       "roles": [
         "other"
@@ -160,7 +160,7 @@
     },
     "GRID3_COD_Haut-Uele_settlement_names_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/adn6-vn50/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Haut-Uele_settlement_names_v8_0.gpkg for GRID3 COD - Settlement Names v8.0",
       "roles": [
         "other"
@@ -168,7 +168,7 @@
     },
     "GRID3_COD_Ituri_settlement_names_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/t22z-s082/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Ituri_settlement_names_v8_0.gpkg for GRID3 COD - Settlement Names v8.0",
       "roles": [
         "other"
@@ -176,7 +176,7 @@
     },
     "GRID3_COD_Kasai\u0308_settlement_names_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/55f7-5d68/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Kasai\u0308_settlement_names_v8_0.gpkg for GRID3 COD - Settlement Names v8.0",
       "roles": [
         "other"
@@ -184,7 +184,7 @@
     },
     "GRID3_COD_Kinshasa_settlement_names_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/vmrk-5w76/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Kinshasa_settlement_names_v8_0.gpkg for GRID3 COD - Settlement Names v8.0",
       "roles": [
         "other"
@@ -192,7 +192,7 @@
     },
     "GRID3_COD_Kongo-Central_settlement_names_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/fw3d-zk42/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Kongo-Central_settlement_names_v8_0.gpkg for GRID3 COD - Settlement Names v8.0",
       "roles": [
         "other"
@@ -200,7 +200,7 @@
     },
     "GRID3_COD_Haut-Katanga_settlement_names_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/w6rx-gg22/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Haut-Katanga_settlement_names_v8_0.gpkg for GRID3 COD - Settlement Names v8.0",
       "roles": [
         "other"
@@ -208,7 +208,7 @@
     },
     "GRID3_COD_Sud-Kivu_settlement_names_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/m121-4c17/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Sud-Kivu_settlement_names_v8_0.gpkg for GRID3 COD - Settlement Names v8.0",
       "roles": [
         "other"
@@ -216,7 +216,7 @@
     },
     "GRID3_COD_Mai-Ndombe_settlement_names_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/vgbj-qg50/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Mai-Ndombe_settlement_names_v8_0.gpkg for GRID3 COD - Settlement Names v8.0",
       "roles": [
         "other"
@@ -224,7 +224,7 @@
     },
     "GRID3_COD_Mongala_settlement_names_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/mebe-1k79/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Mongala_settlement_names_v8_0.gpkg for GRID3 COD - Settlement Names v8.0",
       "roles": [
         "other"
@@ -232,7 +232,7 @@
     },
     "GRID3_COD_Sankuru_settlement_names_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/m7bh-wj40/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Sankuru_settlement_names_v8_0.gpkg for GRID3 COD - Settlement Names v8.0",
       "roles": [
         "other"
@@ -240,7 +240,7 @@
     },
     "GRID3_COD_Sud-Ubangi_settlement_names_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/txt3-tt16/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Sud-Ubangi_settlement_names_v8_0.gpkg for GRID3 COD - Settlement Names v8.0",
       "roles": [
         "other"
@@ -248,7 +248,7 @@
     },
     "GRID3_COD_Nord-Ubangi_settlement_names_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/7hga-vk18/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Nord-Ubangi_settlement_names_v8_0.gpkg for GRID3 COD - Settlement Names v8.0",
       "roles": [
         "other"
@@ -256,7 +256,7 @@
     },
     "GRID3_COD_Nord-Kivu_settlement_names_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/1w4m-hx95/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Nord-Kivu_settlement_names_v8_0.gpkg for GRID3 COD - Settlement Names v8.0",
       "roles": [
         "other"
@@ -264,7 +264,7 @@
     },
     "GRID3_COD_Maniema_settlement_names_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/vxy6-t509/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Maniema_settlement_names_v8_0.gpkg for GRID3 COD - Settlement Names v8.0",
       "roles": [
         "other"
@@ -272,7 +272,7 @@
     },
     "GRID3_COD_Lualaba_settlement_names_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/53xe-y372/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Lualaba_settlement_names_v8_0.gpkg for GRID3 COD - Settlement Names v8.0",
       "roles": [
         "other"
@@ -280,7 +280,7 @@
     },
     "GRID3_COD_Kwilu_settlement_names_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/yy2q-nv37/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Kwilu_settlement_names_v8_0.gpkg for GRID3 COD - Settlement Names v8.0",
       "roles": [
         "other"
@@ -288,7 +288,7 @@
     },
     "GRID3_COD_Lomami_settlement_names_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/90zh-v748/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Lomami_settlement_names_v8_0.gpkg for GRID3 COD - Settlement Names v8.0",
       "roles": [
         "other"
@@ -296,7 +296,7 @@
     }
   },
   "datetime": "2025-12-19T00:00:00Z",
-  "license": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN STYLE=\"font-weight:bold;\">Terms of use</SPAN></P><P><SPAN>Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.</SPAN></P><P><SPAN>Copyright 2025. The Trustees of Columbia University in the City of New York.</SPAN></P><P><SPAN STYLE=\"font-weight:bold;\">Data license</SPAN></P><P><SPAN>The data and accompanying document are licensed under a Creative Commons Attribution 4.0 International License, CC BY 4.0 (http://creativecommons.org/licenses/by/4.0) and specified in legal code (http://creativecommons.org/licenses/by/4.0/legalcode). </SPAN></P><P><SPAN STYLE=\"font-weight:bold;\">Known Data Limitations and Disclaimer </SPAN></P><P><SPAN>The spatial accuracy of the settlement names data are dependent on both the accuracy of the input data as well as on the correctness of the edits made throughout the validation process. In general, it was assumed that the field-collected data were more accurate than secondary sources. Temporal mismatches may exist among this dataset and the satellite imagery used to perform quality checks. This may lead to settlements not being identified or the inclusion of abandoned settlements. Likewise, spelling mistakes and/or mismatches may have occurred due to colloquial variations on how data points are referred to in the field.</SPAN></P><P><SPAN>The settlement names in the Kwango Province were generated using limited data inputs (no primary data collection took place in the province ; GRID3 did not have access to the most recent PNLP data - the only dataset available dated from 2018 ; in addition, only partial health-zone microplans were obtained from the authorities) and may therefore contain unintended errors; users are advised to apply caution when working with these features. </SPAN></P><P><SPAN>Kwango data used for settlement names may be missing health area information. Due to possible error in the boundaries and absence of comprehensive microplans, we chose not to assign health area attributes based on their spatial location.</SPAN></P><P><SPAN>Due to ongoing insecurity in the Nord-Kivu and Sud-Kivu provinces, secondary data collection efforts are generally constrained and therefore less systematic and comprehensive. Enumerators involved in various data collection activities cannot safely access all areas of the provinces. As a result, some data inputs may be incomplete or potentially biased, which may affect the reliability of the settlement name data outputs in these highly unstable contexts.</SPAN></P><P><SPAN>This dataset should be considered operational; it has not been fully validated by government officials.</SPAN></P><P><SPAN>CIESIN, Columbia University, and its co-authors follow procedures designed to ensure that data disseminated by the project are of reasonable quality. If, despite these procedures, users encounter apparent errors or misstatements in the data, they should contact CIESIN, info@ciesin.columbia.edu.</SPAN></P><P><SPAN>CIESIN, Columbia University, its co-authors, and their sponsors do not guarantee the accuracy, reliability, or completeness of any data provided. We provide these data without warranty of any kind whatsoever, either expressed or implied, and shall not be liable for incidental, consequential, or special damages arising out of the use of any data provided. </SPAN></P><P><SPAN /></P><P><SPAN /></P></DIV></DIV></DIV>",
+  "license": "Terms of use\n\nUsers are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.\n\nCopyright 2025. The Trustees of Columbia University in the City of New York.\n\nData license\n\nThe data and accompanying document are licensed under a Creative Commons Attribution 4.0 International License, CC BY 4.0 (http://creativecommons.org/licenses/by/4.0) and specified in legal code (http://creativecommons.org/licenses/by/4.0/legalcode). \n\nKnown Data Limitations and Disclaimer \n\nThe spatial accuracy of the settlement names data are dependent on both the accuracy of the input data as well as on the correctness of the edits made throughout the validation process. In general, it was assumed that the field-collected data were more accurate than secondary sources. Temporal mismatches may exist among this dataset and the satellite imagery used to perform quality checks. This may lead to settlements not being identified or the inclusion of abandoned settlements. Likewise, spelling mistakes and/or mismatches may have occurred due to colloquial variations on how data points are referred to in the field.\n\nThe settlement names in the Kwango Province were generated using limited data inputs (no primary data collection took place in the province ; GRID3 did not have access to the most recent PNLP data - the only dataset available dated from 2018 ; in addition, only partial health-zone microplans were obtained from the authorities) and may therefore contain unintended errors; users are advised to apply caution when working with these features. \n\nKwango data used for settlement names may be missing health area information. Due to possible error in the boundaries and absence of comprehensive microplans, we chose not to assign health area attributes based on their spatial location.\n\nDue to ongoing insecurity in the Nord-Kivu and Sud-Kivu provinces, secondary data collection efforts are generally constrained and therefore less systematic and comprehensive. Enumerators involved in various data collection activities cannot safely access all areas of the provinces. As a result, some data inputs may be incomplete or potentially biased, which may affect the reliability of the settlement name data outputs in these highly unstable contexts.\n\nThis dataset should be considered operational; it has not been fully validated by government officials.\n\nCIESIN, Columbia University, and its co-authors follow procedures designed to ensure that data disseminated by the project are of reasonable quality. If, despite these procedures, users encounter apparent errors or misstatements in the data, they should contact CIESIN, info@ciesin.columbia.edu.\n\nCIESIN, Columbia University, its co-authors, and their sponsors do not guarantee the accuracy, reliability, or completeness of any data provided. We provide these data without warranty of any kind whatsoever, either expressed or implied, and shall not be liable for incidental, consequential, or special damages arising out of the use of any data provided.",
   "providers": [
     {
       "name": "Center for Integrated Earth System Information (CIESIN)",

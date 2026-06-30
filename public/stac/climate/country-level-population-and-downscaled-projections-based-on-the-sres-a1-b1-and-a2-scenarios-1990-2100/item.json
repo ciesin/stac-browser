@@ -260,14 +260,10 @@
   "assets": {
     "DOI Link": {
       "href": "https://doi.org/10.7927/H4T43R01",
-      "type": "DOI",
+      "type": "DOI Link",
       "title": "DOI Link for Country-Level Population and Downscaled Projections Based on the SRES A1, B1, and A2 Scenarios, 1990-2100",
       "roles": [
-        [
-          "documentation",
-          "metadata",
-          "data"
-        ]
+        "other"
       ]
     }
   },

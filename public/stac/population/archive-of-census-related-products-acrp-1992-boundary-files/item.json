@@ -75,14 +75,10 @@
   "assets": {
     "DOI Link": {
       "href": "https://doi.org/10.7927/H47P8W9V",
-      "type": "DOI",
+      "type": "DOI Link",
       "title": "DOI Link for Archive of Census Related Products (ACRP): 1992 Boundary Files",
       "roles": [
-        [
-          "documentation",
-          "metadata",
-          "data"
-        ]
+        "other"
       ]
     }
   },

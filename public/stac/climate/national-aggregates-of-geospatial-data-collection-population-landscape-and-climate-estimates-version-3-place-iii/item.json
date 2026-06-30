@@ -315,14 +315,10 @@
   "assets": {
     "DOI Link": {
       "href": "https://doi.org/10.7927/H4F769GP",
-      "type": "DOI",
+      "type": "DOI Link",
       "title": "DOI Link for National Aggregates of Geospatial Data Collection: Population, Landscape, And Climate Estimates, Version 3 (PLACE III)",
       "roles": [
-        [
-          "documentation",
-          "metadata",
-          "data"
-        ]
+        "other"
       ]
     }
   },

@@ -127,14 +127,10 @@
   "assets": {
     "DOI Link": {
       "href": "https://doi.org/10.7927/H40Z716C",
-      "type": "DOI",
+      "type": "DOI Link",
       "title": "DOI Link for U.S. Census Grids (Summary File 1), 2010",
       "roles": [
-        [
-          "documentation",
-          "metadata",
-          "data"
-        ]
+        "other"
       ]
     }
   },

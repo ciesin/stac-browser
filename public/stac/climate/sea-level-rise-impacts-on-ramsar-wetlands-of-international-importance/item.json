@@ -197,14 +197,10 @@
   "assets": {
     "DOI Link": {
       "href": "https://doi.org/10.7927/H4CC0XMD",
-      "type": "DOI",
+      "type": "DOI Link",
       "title": "DOI Link for Sea Level Rise Impacts on Ramsar Wetlands of International Importance",
       "roles": [
-        [
-          "documentation",
-          "metadata",
-          "data"
-        ]
+        "other"
       ]
     }
   },

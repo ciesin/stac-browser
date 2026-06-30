@@ -73,14 +73,10 @@
   "assets": {
     "DOI Link": {
       "href": "https://doi.org/10.7927/H4QC01D2",
-      "type": "DOI",
+      "type": "DOI Link",
       "title": "DOI Link for China Dimensions Data Collection: Fundamental GIS: Digital Chart of China, 1:1M, Version 1",
       "roles": [
-        [
-          "documentation",
-          "metadata",
-          "data"
-        ]
+        "other"
       ]
     }
   },

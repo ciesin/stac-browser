@@ -189,14 +189,10 @@
   "assets": {
     "DOI Link": {
       "href": "https://doi.org/10.7927/c5kq-fb78",
-      "type": "DOI",
+      "type": "DOI Link",
       "title": "DOI Link for Groundswell Spatial Population and Migration Projections at One-Eighth Degree According to SSPs and RCPs, 2010-2050",
       "roles": [
-        [
-          "documentation",
-          "metadata",
-          "data"
-        ]
+        "other"
       ]
     }
   },

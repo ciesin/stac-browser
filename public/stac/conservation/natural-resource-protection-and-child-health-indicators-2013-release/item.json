@@ -313,14 +313,10 @@
   "assets": {
     "DOI Link": {
       "href": "https://doi.org/10.7927/H4NZ85MP",
-      "type": "DOI",
+      "type": "DOI Link",
       "title": "DOI Link for Natural Resource Protection and Child Health Indicators, 2013 Release",
       "roles": [
-        [
-          "documentation",
-          "metadata",
-          "data"
-        ]
+        "other"
       ]
     }
   },

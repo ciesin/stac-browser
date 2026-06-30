@@ -73,7 +73,7 @@
   "assets": {
     "GRID3 COD - Health Facilities v8.0 Data Release Notes.pdf": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/kcrg-gs96/download",
-      "type": "other",
+      "type": "PDF File",
       "title": "GRID3 COD - Health Facilities v8.0 Data Release Notes.pdf for GRID3 COD - Health Zones v8.0",
       "roles": [
         "other"
@@ -81,15 +81,15 @@
     },
     "GRID3_COD_health_facilities_v8_0.gdb.zip": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/2j7e-at59/download",
-      "type": "zip",
+      "type": "Zip File",
       "title": "GRID3_COD_health_facilities_v8_0.gdb.zip for GRID3 COD - Health Zones v8.0",
       "roles": [
-        "data"
+        "other"
       ]
     },
     "GRID3_COD_Sankuru_health_facilities_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/s01m-7p10/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Sankuru_health_facilities_v8_0.gpkg for GRID3 COD - Health Zones v8.0",
       "roles": [
         "other"
@@ -97,7 +97,7 @@
     },
     "GRID3_COD_Bas-Uele_health_facilities_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/gyvq-tw44/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Bas-Uele_health_facilities_v8_0.gpkg for GRID3 COD - Health Zones v8.0",
       "roles": [
         "other"
@@ -105,7 +105,7 @@
     },
     "GRID3_COD_Kasai\u0308-Central_health_facilities_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/chz4-yv63/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Kasai\u0308-Central_health_facilities_v8_0.gpkg for GRID3 COD - Health Zones v8.0",
       "roles": [
         "other"
@@ -113,7 +113,7 @@
     },
     "GRID3_COD_Kinshasa_health_facilities_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/xsqy-9w09/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Kinshasa_health_facilities_v8_0.gpkg for GRID3 COD - Health Zones v8.0",
       "roles": [
         "other"
@@ -121,7 +121,7 @@
     },
     "GRID3_COD_Equateur_health_facilities_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/apr9-3k31/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Equateur_health_facilities_v8_0.gpkg for GRID3 COD - Health Zones v8.0",
       "roles": [
         "other"
@@ -129,7 +129,7 @@
     },
     "GRID3_COD_Haut-Lomami_health_facilities_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/tjtt-vf14/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Haut-Lomami_health_facilities_v8_0.gpkg for GRID3 COD - Health Zones v8.0",
       "roles": [
         "other"
@@ -137,7 +137,7 @@
     },
     "GRID3_COD_Kasai\u0308-Oriental_health_facilities_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/y2qg-b261/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Kasai\u0308-Oriental_health_facilities_v8_0.gpkg for GRID3 COD - Health Zones v8.0",
       "roles": [
         "other"
@@ -145,7 +145,7 @@
     },
     "GRID3_COD_Kongo-Central_health_facilities_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/yc1m-1466/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Kongo-Central_health_facilities_v8_0.gpkg for GRID3 COD - Health Zones v8.0",
       "roles": [
         "other"
@@ -153,7 +153,7 @@
     },
     "GRID3_COD_Haut-Katanga_health_facilities_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/s5e2-7f67/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Haut-Katanga_health_facilities_v8_0.gpkg for GRID3 COD - Health Zones v8.0",
       "roles": [
         "other"
@@ -161,7 +161,7 @@
     },
     "GRID3_COD_Haut-Uele_health_facilities_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/n599-zs88/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Haut-Uele_health_facilities_v8_0.gpkg for GRID3 COD - Health Zones v8.0",
       "roles": [
         "other"
@@ -169,7 +169,7 @@
     },
     "GRID3_COD_Kwango_health_facilities_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/74wx-pc69/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Kwango_health_facilities_v8_0.gpkg for GRID3 COD - Health Zones v8.0",
       "roles": [
         "other"
@@ -177,7 +177,7 @@
     },
     "GRID3_COD_Kasai\u0308_health_facilities_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/rywy-2042/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Kasai\u0308_health_facilities_v8_0.gpkg for GRID3 COD - Health Zones v8.0",
       "roles": [
         "other"
@@ -185,7 +185,7 @@
     },
     "GRID3_COD_Ituri_health_facilities_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/jcmj-tx33/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Ituri_health_facilities_v8_0.gpkg for GRID3 COD - Health Zones v8.0",
       "roles": [
         "other"
@@ -193,7 +193,7 @@
     },
     "GRID3_COD_Maniema_health_facilities_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/rqhx-n240/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Maniema_health_facilities_v8_0.gpkg for GRID3 COD - Health Zones v8.0",
       "roles": [
         "other"
@@ -201,7 +201,7 @@
     },
     "GRID3_COD_Nord-Kivu_health_facilities_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/3jfs-q358/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Nord-Kivu_health_facilities_v8_0.gpkg for GRID3 COD - Health Zones v8.0",
       "roles": [
         "other"
@@ -209,7 +209,7 @@
     },
     "GRID3_COD_Sud-Ubangi_health_facilities_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/ccq1-c173/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Sud-Ubangi_health_facilities_v8_0.gpkg for GRID3 COD - Health Zones v8.0",
       "roles": [
         "other"
@@ -217,7 +217,7 @@
     },
     "GRID3_COD_Nord-Ubangi_health_facilities_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/9c0m-nb79/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Nord-Ubangi_health_facilities_v8_0.gpkg for GRID3 COD - Health Zones v8.0",
       "roles": [
         "other"
@@ -225,7 +225,7 @@
     },
     "GRID3_COD_Sud-Kivu_health_facilities_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/vm43-9k67/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Sud-Kivu_health_facilities_v8_0.gpkg for GRID3 COD - Health Zones v8.0",
       "roles": [
         "other"
@@ -233,7 +233,7 @@
     },
     "GRID3_COD_Mai-Ndombe_health_facilities_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/by9m-t679/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Mai-Ndombe_health_facilities_v8_0.gpkg for GRID3 COD - Health Zones v8.0",
       "roles": [
         "other"
@@ -241,7 +241,7 @@
     },
     "GRID3_COD_Mongala_health_facilities_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/4kgt-1w35/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Mongala_health_facilities_v8_0.gpkg for GRID3 COD - Health Zones v8.0",
       "roles": [
         "other"
@@ -249,7 +249,7 @@
     },
     "GRID3_COD_Lomami_health_facilities_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/7gms-4m27/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Lomami_health_facilities_v8_0.gpkg for GRID3 COD - Health Zones v8.0",
       "roles": [
         "other"
@@ -257,7 +257,7 @@
     },
     "GRID3_COD_Lualaba_health_facilities_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/bygn-e980/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Lualaba_health_facilities_v8_0.gpkg for GRID3 COD - Health Zones v8.0",
       "roles": [
         "other"
@@ -265,7 +265,7 @@
     },
     "GRID3_COD_Kwilu_health_facilities_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/sk3f-7749/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Kwilu_health_facilities_v8_0.gpkg for GRID3 COD - Health Zones v8.0",
       "roles": [
         "other"
@@ -273,7 +273,7 @@
     },
     "GRID3_COD_Tanganyika_health_facilities_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/wq8t-c061/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Tanganyika_health_facilities_v8_0.gpkg for GRID3 COD - Health Zones v8.0",
       "roles": [
         "other"
@@ -281,7 +281,7 @@
     },
     "GRID3_COD_Tshopo_health_facilities_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/9tdh-he32/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Tshopo_health_facilities_v8_0.gpkg for GRID3 COD - Health Zones v8.0",
       "roles": [
         "other"
@@ -289,7 +289,7 @@
     },
     "GRID3_COD_Tshuapa_health_facilities_v8_0.gpkg": {
       "href": "https://academiccommons.columbia.edu/doi/10.7916/ms1x-g960/download",
-      "type": "other",
+      "type": "GeoPackage File",
       "title": "GRID3_COD_Tshuapa_health_facilities_v8_0.gpkg for GRID3 COD - Health Zones v8.0",
       "roles": [
         "other"
@@ -297,7 +297,7 @@
     }
   },
   "datetime": "2025-12-19T00:00:00Z",
-  "license": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN STYLE=\"font-weight:bold;\">Terms of use</SPAN></P><P><SPAN>Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.</SPAN></P><P><SPAN>Copyright 2025. The Trustees of Columbia University in the City of New York.</SPAN></P><P><SPAN STYLE=\"font-weight:bold;\">Data license</SPAN></P><P><SPAN>The data and accompanying document are licensed under a Creative Commons Attribution 4.0 International License, CC BY 4.0 (http://creativecommons.org/licenses/by/4.0) and specified in legal code (http://creativecommons.org/licenses/by/4.0/legalcode). </SPAN></P><P><SPAN STYLE=\"font-weight:bold;\">Known Data Limitations and Disclaimer Known Data Limitations and Disclaimer</SPAN></P><P><SPAN>The spatial accuracy of the health zone data depends on both the quality of the input datasets and the correctness of edits applied throughout the validation process. In general, field-collected data were assumed to represent the most accurate information available. Temporal mismatches may exist between the point datasets and the satellite imagery used for quality assurance. Spelling errors or naming inconsistencies may also occur due to colloquial variations in how locations are referenced in the field.</SPAN></P><P><SPAN>Boundaries in Kwango Province were generated using limited data inputs (no primary data collection took place in the province ; GRID3 did not have access to the most recent PNLP data - the only dataset available dated from 2018 ; in addition, only partial health-zone microplans were obtained from the authorities) and may therefore contain unintended errors; users are advised to apply caution when working with these features.</SPAN></P><P><SPAN>Due to ongoing insecurity in the Nord-Kivu and Sud-Kivu provinces, secondary data collection efforts are generally constrained and therefore less systematic and comprehensive. Enumerators involved in various data collection activities cannot safely access all areas of the provinces. As a result, some data inputs may be incomplete or potentially biased, which may affect the reliability of boundary-related outputs in these highly unstable contexts.</SPAN></P><P><SPAN>The health zone boundaries produced by GRID3 aim to represent operational health service areas using a bottom-up approach, grounded in the realities faced by health workers and informed by service delivery activities such as bed net distribution campaigns. These boundaries reflect the practical limits of health areas\u2014where services are actually delivered\u2014rather than formal administrative divisions. Consequently, the resulting health zone boundaries do not systematically align with official administrative boundaries. For example, while the administrative boundary in the south of Maniema is formally defined by the 5th parallel south, the GRID3 health zone and provincial boundaries are derived from empirical field data collected and therefore do not follow a straight, geometrically defined line. </SPAN></P><P><SPAN>Official administrative boundary in southern Maniema (see Data Release Notes)</SPAN></P><P><SPAN>GRID3 operational boundary derived from field-based inputs reported by local and cross-border health areas and health zones. (See Data Release Notes)</SPAN></P><P><SPAN>Similar discrepancies exist along the southern boundary of Kinshasa with Kongo Central, Mai-Ndombe, and \u00c9quateur provinces, as well as along the southern boundary of Tanganyika.. </SPAN></P><P><SPAN>Although this dataset includes all 519 health zones present in the latest DHIS2 download, it should be considered operational. It has not yet undergone full validation by government authorities.</SPAN></P><P><SPAN>CIESIN, Columbia University, and its co-authors follow standardized procedures to ensure that data disseminated through this project meet reasonable quality expectations. If users identify apparent errors or discrepancies in the dataset, they are encouraged to contact CIESIN at info@ciesin.columbia.edu.</SPAN></P><P><SPAN>CIESIN, Columbia University, its co-authors, and their sponsors do not guarantee the accuracy, reliability, or completeness of the data provided. All data are supplied without warranty of any kind, either expressed or implied. The authors shall not be held liable for incidental, consequential, or special damages arising from the use of these data.</SPAN></P></DIV></DIV></DIV>",
+  "license": "Terms of use\n\nUsers are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.\n\nCopyright 2025. The Trustees of Columbia University in the City of New York.\n\nData license\n\nThe data and accompanying document are licensed under a Creative Commons Attribution 4.0 International License, CC BY 4.0 (http://creativecommons.org/licenses/by/4.0) and specified in legal code (http://creativecommons.org/licenses/by/4.0/legalcode). \n\nKnown Data Limitations and Disclaimer Known Data Limitations and Disclaimer\n\nThe spatial accuracy of the health zone data depends on both the quality of the input datasets and the correctness of edits applied throughout the validation process. In general, field-collected data were assumed to represent the most accurate information available. Temporal mismatches may exist between the point datasets and the satellite imagery used for quality assurance. Spelling errors or naming inconsistencies may also occur due to colloquial variations in how locations are referenced in the field.\n\nBoundaries in Kwango Province were generated using limited data inputs (no primary data collection took place in the province ; GRID3 did not have access to the most recent PNLP data - the only dataset available dated from 2018 ; in addition, only partial health-zone microplans were obtained from the authorities) and may therefore contain unintended errors; users are advised to apply caution when working with these features.\n\nDue to ongoing insecurity in the Nord-Kivu and Sud-Kivu provinces, secondary data collection efforts are generally constrained and therefore less systematic and comprehensive. Enumerators involved in various data collection activities cannot safely access all areas of the provinces. As a result, some data inputs may be incomplete or potentially biased, which may affect the reliability of boundary-related outputs in these highly unstable contexts.\n\nThe health zone boundaries produced by GRID3 aim to represent operational health service areas using a bottom-up approach, grounded in the realities faced by health workers and informed by service delivery activities such as bed net distribution campaigns. These boundaries reflect the practical limits of health areas\u2014where services are actually delivered\u2014rather than formal administrative divisions. Consequently, the resulting health zone boundaries do not systematically align with official administrative boundaries. For example, while the administrative boundary in the south of Maniema is formally defined by the 5th parallel south, the GRID3 health zone and provincial boundaries are derived from empirical field data collected and therefore do not follow a straight, geometrically defined line. \n\nOfficial administrative boundary in southern Maniema (see Data Release Notes)\n\nGRID3 operational boundary derived from field-based inputs reported by local and cross-border health areas and health zones. (See Data Release Notes)\n\nSimilar discrepancies exist along the southern boundary of Kinshasa with Kongo Central, Mai-Ndombe, and \u00c9quateur provinces, as well as along the southern boundary of Tanganyika.. \n\nAlthough this dataset includes all 519 health zones present in the latest DHIS2 download, it should be considered operational. It has not yet undergone full validation by government authorities.\n\nCIESIN, Columbia University, and its co-authors follow standardized procedures to ensure that data disseminated through this project meet reasonable quality expectations. If users identify apparent errors or discrepancies in the dataset, they are encouraged to contact CIESIN at info@ciesin.columbia.edu.\n\nCIESIN, Columbia University, its co-authors, and their sponsors do not guarantee the accuracy, reliability, or completeness of the data provided. All data are supplied without warranty of any kind, either expressed or implied. The authors shall not be held liable for incidental, consequential, or special damages arising from the use of these data.",
   "providers": [
     {
       "name": "Center for Integrated Earth System Information (CIESIN)",

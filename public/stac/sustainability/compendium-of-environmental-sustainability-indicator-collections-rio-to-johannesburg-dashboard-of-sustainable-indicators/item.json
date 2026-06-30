@@ -238,14 +238,10 @@
   "assets": {
     "DOI Link": {
       "href": "https://doi.org/10.7927/H42N506Q",
-      "type": "DOI",
+      "type": "DOI Link",
       "title": "DOI Link for Compendium of Environmental Sustainability Indicator Collections: Rio to Johannesburg Dashboard of Sustainable Indicators",
       "roles": [
-        [
-          "documentation",
-          "metadata",
-          "data"
-        ]
+        "other"
       ]
     }
   },

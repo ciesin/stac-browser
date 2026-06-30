@@ -265,14 +265,10 @@
   "assets": {
     "DOI Link": {
       "href": "https://doi.org/10.7927/H4XW4GQ1",
-      "type": "DOI",
+      "type": "DOI Link",
       "title": "DOI Link for Country-Level GDP and Downscaled Projections Based on the SRES A1, A2, B1, and B2 Marker Scenarios, 1990-2100",
       "roles": [
-        [
-          "documentation",
-          "metadata",
-          "data"
-        ]
+        "other"
       ]
     }
   },

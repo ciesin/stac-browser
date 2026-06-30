@@ -75,14 +75,10 @@
   "assets": {
     "DOI Link": {
       "href": "https://doi.org/10.7927/weq9-pv30",
-      "type": "DOI",
+      "type": "DOI Link",
       "title": "DOI Link for Global Pesticide Grids (PEST-CHEMGRIDS), Version 1.01",
       "roles": [
-        [
-          "documentation",
-          "metadata",
-          "data"
-        ]
+        "other"
       ]
     }
   },

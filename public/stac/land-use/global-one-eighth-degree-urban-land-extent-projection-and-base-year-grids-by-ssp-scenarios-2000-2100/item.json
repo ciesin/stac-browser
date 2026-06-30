@@ -73,14 +73,10 @@
   "assets": {
     "DOI Link": {
       "href": "https://doi.org/10.7927/nj0x-8y67",
-      "type": "DOI",
+      "type": "DOI Link",
       "title": "DOI Link for Global One-Eighth Degree Urban Land Extent Projection and Base Year Grids by SSP Scenarios, 2000-2100",
       "roles": [
-        [
-          "documentation",
-          "metadata",
-          "data"
-        ]
+        "other"
       ]
     }
   },

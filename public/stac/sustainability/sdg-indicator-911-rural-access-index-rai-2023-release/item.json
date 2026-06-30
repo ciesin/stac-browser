@@ -332,14 +332,10 @@
   "assets": {
     "DOI Link": {
       "href": "https://doi.org/10.7927/fcre-m572",
-      "type": "DOI",
+      "type": "DOI Link",
       "title": "DOI Link for SDG Indicator 9.1.1: Rural Access Index (RAI), 2023 Release",
       "roles": [
-        [
-          "documentation",
-          "metadata",
-          "data"
-        ]
+        "other"
       ]
     }
   },

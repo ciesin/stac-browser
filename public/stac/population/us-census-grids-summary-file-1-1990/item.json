@@ -126,14 +126,10 @@
   "assets": {
     "DOI Link": {
       "href": "https://doi.org/10.7927/H4TB14TN",
-      "type": "DOI",
+      "type": "DOI Link",
       "title": "DOI Link for U.S. Census Grids (Summary File 1), 1990",
       "roles": [
-        [
-          "documentation",
-          "metadata",
-          "data"
-        ]
+        "other"
       ]
     }
   },

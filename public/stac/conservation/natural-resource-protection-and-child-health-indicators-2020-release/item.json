@@ -300,14 +300,10 @@
   "assets": {
     "DOI Link": {
       "href": "https://doi.org/10.7927/7ppx-6m60",
-      "type": "DOI",
+      "type": "DOI Link",
       "title": "DOI Link for Natural Resource Protection and Child Health Indicators, 2020 Release",
       "roles": [
-        [
-          "documentation",
-          "metadata",
-          "data"
-        ]
+        "other"
       ]
     }
   },
