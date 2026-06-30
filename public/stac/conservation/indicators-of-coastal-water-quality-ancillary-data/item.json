@@ -74,10 +74,10 @@
     }
   ],
   "assets": {
-    "NaN": {
+    "DOI Link": {
       "href": "https://doi.org/10.7927/H4J96490",
       "type": "DOI",
-      "title": "nan for Indicators of Coastal Water Quality: Ancillary Data",
+      "title": "DOI Link for Indicators of Coastal Water Quality: Ancillary Data",
       "roles": [
         [
           "documentation",

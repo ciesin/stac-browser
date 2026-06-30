@@ -76,10 +76,10 @@
     }
   ],
   "assets": {
-    "NaN": {
+    "DOI Link": {
       "href": "https://doi.org/10.7927/H4G15XS1",
       "type": "DOI",
-      "title": "nan for U.S. Population Grids (Summary File 3), 2000: New Orleans Metropolitan Statistical Area, Alpha Version",
+      "title": "DOI Link for U.S. Population Grids (Summary File 3), 2000: New Orleans Metropolitan Statistical Area, Alpha Version",
       "roles": [
         [
           "documentation",

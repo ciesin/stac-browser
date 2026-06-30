@@ -308,10 +308,10 @@
     }
   ],
   "assets": {
-    "NaN": {
+    "DOI Link": {
       "href": "https://doi.org/10.7927/H4SQ8XGT",
       "type": "DOI",
-      "title": "nan for Natural Resource Protection and Child Health Indicators, 2017 Release",
+      "title": "DOI Link for Natural Resource Protection and Child Health Indicators, 2017 Release",
       "roles": [
         [
           "documentation",

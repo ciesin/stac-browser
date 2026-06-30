@@ -73,10 +73,10 @@
     }
   ],
   "assets": {
-    "NaN": {
+    "DOI Link": {
       "href": "https://doi.org/10.7927/H47D2S3W",
       "type": "DOI",
-      "title": "nan for India Annual Winter Cropped Area, 2001-2016",
+      "title": "DOI Link for India Annual Winter Cropped Area, 2001-2016",
       "roles": [
         [
           "documentation",

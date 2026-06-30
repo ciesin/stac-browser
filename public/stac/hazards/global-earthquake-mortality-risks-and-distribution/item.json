@@ -75,10 +75,10 @@
     }
   ],
   "assets": {
-    "NaN": {
+    "DOI Link": {
       "href": "https://doi.org/10.7927/H43F4MH2",
       "type": "DOI",
-      "title": "nan for Global Earthquake Mortality Risks and Distribution",
+      "title": "DOI Link for Global Earthquake Mortality Risks and Distribution",
       "roles": [
         [
           "documentation",

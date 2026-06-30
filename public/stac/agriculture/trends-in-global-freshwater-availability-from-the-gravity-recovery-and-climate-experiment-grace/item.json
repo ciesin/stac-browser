@@ -76,10 +76,10 @@
     }
   ],
   "assets": {
-    "NaN": {
+    "DOI Link": {
       "href": "https://doi.org/10.7927/H4TT4P2C",
       "type": "DOI",
-      "title": "nan for Trends in Global Freshwater Availability from the Gravity Recovery and Climate Experiment (GRACE)",
+      "title": "DOI Link for Trends in Global Freshwater Availability from the Gravity Recovery and Climate Experiment (GRACE)",
       "roles": [
         [
           "documentation",

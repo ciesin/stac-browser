@@ -77,10 +77,10 @@
     }
   ],
   "assets": {
-    "NaN": {
+    "DOI Link": {
       "href": "https://doi.org/10.7927/H47W694W",
       "type": "DOI",
-      "title": "nan for Last of the Wild Project, Version 1, 2002 (LWP-1): Global Human Footprint Dataset (IGHP)",
+      "title": "DOI Link for Last of the Wild Project, Version 1, 2002 (LWP-1): Global Human Footprint Dataset (IGHP)",
       "roles": [
         [
           "documentation",

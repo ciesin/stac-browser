@@ -91,10 +91,10 @@
     }
   ],
   "assets": {
-    "NaN": {
+    "DOI Link": {
       "href": "https://doi.org/10.7927/H4CF9N1K",
       "type": "DOI",
-      "title": "nan for Millennium Ecosystem Assessment: MA Population",
+      "title": "DOI Link for Millennium Ecosystem Assessment: MA Population",
       "roles": [
         [
           "documentation",

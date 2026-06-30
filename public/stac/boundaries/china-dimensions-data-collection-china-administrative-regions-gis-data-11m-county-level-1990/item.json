@@ -73,10 +73,10 @@
     }
   ],
   "assets": {
-    "NaN": {
+    "DOI Link": {
       "href": "https://doi.org/10.7927/H4C24TCF",
       "type": "DOI",
-      "title": "nan for China Dimensions Data Collection: China Administrative Regions GIS Data: 1:1M, County Level, 1990",
+      "title": "DOI Link for China Dimensions Data Collection: China Administrative Regions GIS Data: 1:1M, County Level, 1990",
       "roles": [
         [
           "documentation",

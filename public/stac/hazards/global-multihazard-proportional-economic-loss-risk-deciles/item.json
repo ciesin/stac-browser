@@ -82,10 +82,10 @@
     }
   ],
   "assets": {
-    "NaN": {
+    "DOI Link": {
       "href": "https://doi.org/10.7927/H4WS8R5B",
       "type": "DOI",
-      "title": "nan for Global Multihazard Proportional Economic Loss Risk Deciles",
+      "title": "DOI Link for Global Multihazard Proportional Economic Loss Risk Deciles",
       "roles": [
         [
           "documentation",

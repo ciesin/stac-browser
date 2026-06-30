@@ -84,10 +84,10 @@
     }
   ],
   "assets": {
-    "NaN": {
+    "DOI Link": {
       "href": "http://doi.org/10.7927/H408638T",
       "type": "DOI",
-      "title": "nan for Global Summer Land Surface Temperature (LST) Grids, 2013",
+      "title": "DOI Link for Global Summer Land Surface Temperature (LST) Grids, 2013",
       "roles": [
         [
           "documentation",

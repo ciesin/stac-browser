@@ -96,10 +96,10 @@
     }
   ],
   "assets": {
-    "NaN": {
+    "DOI Link": {
       "href": "https://doi.org/10.7927/H43R0QR1",
       "type": "DOI",
-      "title": "nan for Potential Impacts of Climate Change on World Food Supply: Datasets from a Major Crop Modeling Study",
+      "title": "DOI Link for Potential Impacts of Climate Change on World Food Supply: Datasets from a Major Crop Modeling Study",
       "roles": [
         [
           "documentation",

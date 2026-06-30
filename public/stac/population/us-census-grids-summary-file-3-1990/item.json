@@ -123,10 +123,10 @@
     }
   ],
   "assets": {
-    "NaN": {
+    "DOI Link": {
       "href": "https://doi.org/10.7927/H4JS9NC2",
       "type": "DOI",
-      "title": "nan for U.S. Census Grids (Summary File 3), 1990",
+      "title": "DOI Link for U.S. Census Grids (Summary File 3), 1990",
       "roles": [
         [
           "documentation",

@@ -88,10 +88,10 @@
     }
   ],
   "assets": {
-    "NaN": {
+    "DOI Link": {
       "href": "https://doi.org/10.7927/H4KW5CZ6",
       "type": "DOI",
-      "title": "nan for Millennium Ecosystem Assessment: MA Ecosystems",
+      "title": "DOI Link for Millennium Ecosystem Assessment: MA Ecosystems",
       "roles": [
         [
           "documentation",

@@ -321,10 +321,10 @@
     }
   ],
   "assets": {
-    "NaN": {
+    "DOI Link": {
       "href": "https://doi.org/10.7927/H46D5QXN",
       "type": "DOI",
-      "title": "nan for Compendium of Environmental Sustainability Indicator Collections: Complete Collection, Version 1.1",
+      "title": "DOI Link for Compendium of Environmental Sustainability Indicator Collections: Complete Collection, Version 1.1",
       "roles": [
         [
           "documentation",

@@ -319,10 +319,10 @@
     }
   ],
   "assets": {
-    "NaN": {
+    "DOI Link": {
       "href": "http://doi.org/10.7927/H42V2D1C",
       "type": "DOI",
-      "title": "nan for Global Gridded Geographically Based Economic Data (G-Econ), Version 4",
+      "title": "DOI Link for Global Gridded Geographically Based Economic Data (G-Econ), Version 4",
       "roles": [
         [
           "documentation",

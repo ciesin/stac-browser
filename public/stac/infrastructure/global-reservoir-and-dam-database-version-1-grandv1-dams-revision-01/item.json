@@ -75,10 +75,10 @@
     }
   ],
   "assets": {
-    "NaN": {
+    "DOI Link": {
       "href": "https://doi.org/10.7927/H4N877QK",
       "type": "DOI",
-      "title": "nan for Global Reservoir and Dam Database, Version 1 (GRanDv1): Dams, Revision 01",
+      "title": "DOI Link for Global Reservoir and Dam Database, Version 1 (GRanDv1): Dams, Revision 01",
       "roles": [
         [
           "documentation",

@@ -71,10 +71,10 @@
     }
   ],
   "assets": {
-    "NaN": {
+    "DOI Link": {
       "href": "https://doi.org/10.7927/0gdn-6y33",
       "type": "DOI",
-      "title": "nan for Global Subnational Infant Mortality Rates, Version 2.01",
+      "title": "DOI Link for Global Subnational Infant Mortality Rates, Version 2.01",
       "roles": [
         [
           "documentation",

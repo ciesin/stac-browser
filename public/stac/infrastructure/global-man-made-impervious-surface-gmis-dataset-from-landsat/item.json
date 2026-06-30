@@ -324,10 +324,10 @@
     }
   ],
   "assets": {
-    "NaN": {
+    "DOI Link": {
       "href": "https://doi.org/10.7927/H4P55KKF",
       "type": "DOI",
-      "title": "nan for Global Man-made Impervious Surface (GMIS) Dataset From Landsat",
+      "title": "DOI Link for Global Man-made Impervious Surface (GMIS) Dataset From Landsat",
       "roles": [
         [
           "documentation",

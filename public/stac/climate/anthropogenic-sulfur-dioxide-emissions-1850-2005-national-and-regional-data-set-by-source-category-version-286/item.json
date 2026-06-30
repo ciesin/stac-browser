@@ -213,10 +213,10 @@
     }
   ],
   "assets": {
-    "NaN": {
+    "DOI Link": {
       "href": "https://doi.org/10.7927/H49884X9",
       "type": "DOI",
-      "title": "nan for Anthropogenic Sulfur Dioxide Emissions, 1850-2005: National and Regional Data Set by Source Category, Version 2.86",
+      "title": "DOI Link for Anthropogenic Sulfur Dioxide Emissions, 1850-2005: National and Regional Data Set by Source Category, Version 2.86",
       "roles": [
         [
           "documentation",

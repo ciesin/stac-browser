@@ -77,10 +77,10 @@
     }
   ],
   "assets": {
-    "NaN": {
+    "DOI Link": {
       "href": "https://doi.org/10.7927/H4JH3J4N",
       "type": "DOI",
-      "title": "nan for Global Landslide Mortality Risks and Distribution",
+      "title": "DOI Link for Global Landslide Mortality Risks and Distribution",
       "roles": [
         [
           "documentation",

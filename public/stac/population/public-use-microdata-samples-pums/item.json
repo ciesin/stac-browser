@@ -73,10 +73,10 @@
     }
   ],
   "assets": {
-    "NaN": {
+    "DOI Link": {
       "href": "https://doi.org/10.7927/H41V5BWK",
       "type": "DOI",
-      "title": "nan for Public Use Microdata Samples (PUMS)",
+      "title": "DOI Link for Public Use Microdata Samples (PUMS)",
       "roles": [
         [
           "documentation",

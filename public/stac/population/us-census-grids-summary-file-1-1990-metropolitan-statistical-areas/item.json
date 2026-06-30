@@ -157,10 +157,10 @@
     }
   ],
   "assets": {
-    "NaN": {
+    "DOI Link": {
       "href": "https://doi.org/10.7927/H4PK0D3B",
       "type": "DOI",
-      "title": "nan for U.S. Census Grids (Summary File 1), 1990: Metropolitan Statistical Areas",
+      "title": "DOI Link for U.S. Census Grids (Summary File 1), 1990: Metropolitan Statistical Areas",
       "roles": [
         [
           "documentation",

@@ -71,10 +71,10 @@
     }
   ],
   "assets": {
-    "NaN": {
+    "DOI Link": {
       "href": "https://doi.org/10.7927/gya1-wp91",
       "type": "DOI",
-      "title": "nan for Spatial Data from the 2011 India Census",
+      "title": "DOI Link for Spatial Data from the 2011 India Census",
       "roles": [
         [
           "documentation",

@@ -71,10 +71,10 @@
     }
   ],
   "assets": {
-    "NaN": {
+    "DOI Link": {
       "href": "https://doi.org/10.7927/kd8b-2376",
       "type": "DOI",
-      "title": "nan for Global Database of Light-based Geospatial Income Inequality (LGII) Measures, Version 1",
+      "title": "DOI Link for Global Database of Light-based Geospatial Income Inequality (LGII) Measures, Version 1",
       "roles": [
         [
           "documentation",

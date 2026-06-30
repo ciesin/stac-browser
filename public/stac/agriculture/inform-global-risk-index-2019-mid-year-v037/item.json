@@ -271,10 +271,10 @@
     }
   ],
   "assets": {
-    "NaN": {
+    "DOI Link": {
       "href": "https://doi.org/10.7927/yzp7-sm30",
       "type": "DOI",
-      "title": "nan for INFORM Global Risk Index 2019 Mid Year, v0.3.7",
+      "title": "DOI Link for INFORM Global Risk Index 2019 Mid Year, v0.3.7",
       "roles": [
         [
           "documentation",
