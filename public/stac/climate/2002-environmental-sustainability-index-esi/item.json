@@ -205,10 +205,11 @@
       "Cote D'Ivoire",
       "Ukraine"
     ],
-    "datetime": "2002-12-31T00:00:00Z",
+    "publication_date": "2002-12-31T00:00:00Z",
     "start_datetime": "1980-01-01T00:00:00Z",
     "end_datetime": "2000-12-31T00:00:00Z",
-    "dataset_type": "document, tabular, map"
+    "dataset_type": "document, tabular, map",
+    "datetime": null
   },
   "links": [
     {

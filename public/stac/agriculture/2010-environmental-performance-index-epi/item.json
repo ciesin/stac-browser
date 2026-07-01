@@ -228,10 +228,11 @@
       "Serbia",
       "Suriname"
     ],
-    "datetime": "2010-12-31T00:00:00Z",
+    "publication_date": "2010-12-31T00:00:00Z",
     "start_datetime": "1994-01-01T00:00:00Z",
     "end_datetime": "2009-12-31T00:00:00Z",
-    "dataset_type": "document, tabular, map service"
+    "dataset_type": "document, tabular, map service",
+    "datetime": null
   },
   "links": [
     {

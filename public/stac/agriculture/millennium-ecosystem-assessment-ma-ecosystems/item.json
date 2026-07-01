@@ -73,10 +73,11 @@
       "EARTH SCIENCE > BIOSPHERE > ECOSYSTEMS",
       "Global"
     ],
-    "datetime": "2005-05-29T00:00:00Z",
+    "publication_date": "2005-05-29T00:00:00Z",
     "start_datetime": "2000-01-01T00:00:00Z",
     "end_datetime": "2000-12-31T00:00:00Z",
-    "dataset_type": "vector, raster, tabular"
+    "dataset_type": "vector, raster, tabular",
+    "datetime": null
   },
   "links": [
     {

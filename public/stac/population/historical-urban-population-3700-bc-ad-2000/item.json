@@ -191,10 +191,11 @@
       "Tunisia",
       "North Korea"
     ],
-    "datetime": "2018-05-04T00:00:00Z",
+    "publication_date": "2018-05-04T00:00:00Z",
     "start_datetime": "3700-01-01T00:00:00Z",
     "end_datetime": "2000-12-31T00:00:00Z",
-    "dataset_type": "tabular, video animation, map"
+    "dataset_type": "tabular, video animation, map",
+    "datetime": null
   },
   "links": [
     {

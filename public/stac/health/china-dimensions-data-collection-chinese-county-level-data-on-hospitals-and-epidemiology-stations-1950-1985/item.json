@@ -58,10 +58,11 @@
       "EARTH SCIENCE > HUMAN DIMENSIONS > PUBLIC HEALTH",
       "China"
     ],
-    "datetime": "1997-02-28T00:00:00Z",
+    "publication_date": "1997-02-28T00:00:00Z",
     "start_datetime": "1950-01-01T00:00:00Z",
     "end_datetime": "1985-12-31T00:00:00Z",
-    "dataset_type": "tabular"
+    "dataset_type": "tabular",
+    "datetime": null
   },
   "links": [
     {

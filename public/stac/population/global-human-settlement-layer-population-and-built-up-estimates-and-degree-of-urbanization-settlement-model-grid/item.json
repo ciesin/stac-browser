@@ -57,10 +57,11 @@
       "Urban",
       "Global"
     ],
-    "datetime": "2021-07-29T00:00:00Z",
+    "publication_date": "2021-07-29T00:00:00Z",
     "start_datetime": "1975-01-01T00:00:00Z",
     "end_datetime": "2015-01-01T00:00:00Z",
-    "dataset_type": "raster, map"
+    "dataset_type": "raster, map",
+    "datetime": null
   },
   "links": [
     {

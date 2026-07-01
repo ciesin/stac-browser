@@ -61,10 +61,11 @@
       "EARTH SCIENCE > HUMAN DIMENSIONS > SOCIOECONOMICS",
       "China"
     ],
-    "datetime": "1997-02-28T00:00:00Z",
+    "publication_date": "1997-02-28T00:00:00Z",
     "start_datetime": "1993-01-01T00:00:00Z",
     "end_datetime": "1993-12-31T00:00:00Z",
-    "dataset_type": "document"
+    "dataset_type": "document",
+    "datetime": null
   },
   "links": [
     {

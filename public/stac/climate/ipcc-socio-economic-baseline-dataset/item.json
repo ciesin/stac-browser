@@ -258,10 +258,11 @@
       "Panama",
       "Romania"
     ],
-    "datetime": "1998-12-31T00:00:00Z",
+    "publication_date": "1998-12-31T00:00:00Z",
     "start_datetime": "1980-01-01T00:00:00Z",
     "end_datetime": "2025-01-01T00:00:00Z",
-    "dataset_type": "tabular"
+    "dataset_type": "tabular",
+    "datetime": null
   },
   "links": [
     {

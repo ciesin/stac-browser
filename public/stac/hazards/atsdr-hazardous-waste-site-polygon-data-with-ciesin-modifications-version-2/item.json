@@ -63,10 +63,11 @@
       "EARTH SCIENCE > HUMAN DIMENSIONS > PUBLIC HEALTH",
       "United States of America"
     ],
-    "datetime": "2014-12-12T00:00:00Z",
+    "publication_date": "2014-12-12T00:00:00Z",
     "start_datetime": "2010-05-26T00:00:00Z",
     "end_datetime": "2010-05-26T00:00:00Z",
-    "dataset_type": "vector, map, map service"
+    "dataset_type": "vector, map, map service",
+    "datetime": null
   },
   "links": [
     {

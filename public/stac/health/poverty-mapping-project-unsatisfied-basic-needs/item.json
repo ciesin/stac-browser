@@ -57,10 +57,11 @@
       "EARTH SCIENCE > HUMAN DIMENSIONS > PUBLIC HEALTH",
       "EARTH SCIENCE > HUMAN DIMENSIONS > SOCIOECONOMICS > POVERTY LEVELS"
     ],
-    "datetime": "2005-12-31T00:00:00Z",
+    "publication_date": "2005-12-31T00:00:00Z",
     "start_datetime": "1998-01-01T00:00:00Z",
     "end_datetime": "2001-12-31T00:00:00Z",
-    "dataset_type": "vector, tabular"
+    "dataset_type": "vector, tabular",
+    "datetime": null
   },
   "links": [
     {

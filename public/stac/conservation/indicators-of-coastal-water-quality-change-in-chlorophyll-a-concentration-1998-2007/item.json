@@ -241,10 +241,11 @@
       "Kenya",
       "Madagascar"
     ],
-    "datetime": "2009-12-31T00:00:00Z",
+    "publication_date": "2009-12-31T00:00:00Z",
     "start_datetime": "1998-01-01T00:00:00Z",
     "end_datetime": "2007-12-31T00:00:00Z",
-    "dataset_type": "tabular, map, map service"
+    "dataset_type": "tabular, map, map service",
+    "datetime": null
   },
   "links": [
     {

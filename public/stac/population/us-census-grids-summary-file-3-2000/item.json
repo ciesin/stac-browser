@@ -109,10 +109,11 @@
       "Wisconsin",
       "Wyoming"
     ],
-    "datetime": "2006-05-31T00:00:00Z",
+    "publication_date": "2006-05-31T00:00:00Z",
     "start_datetime": "2000-04-01T00:00:00Z",
     "end_datetime": "2000-04-01T00:00:00Z",
-    "dataset_type": "raster, map, map service"
+    "dataset_type": "raster, map, map service",
+    "datetime": null
   },
   "links": [
     {

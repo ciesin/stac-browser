@@ -60,10 +60,11 @@
       "Land Use",
       "Water"
     ],
-    "datetime": "2018-12-31T00:00:00Z",
+    "publication_date": "2018-12-31T00:00:00Z",
     "start_datetime": "2010-07-01T00:00:00Z",
     "end_datetime": "2010-07-01T00:00:00Z",
-    "dataset_type": "raster, map, map service"
+    "dataset_type": "raster, map, map service",
+    "datetime": null
   },
   "links": [
     {

@@ -205,10 +205,11 @@
       "Uganda",
       "Western Samoa"
     ],
-    "datetime": "2009-09-30T00:00:00Z",
+    "publication_date": "2009-09-30T00:00:00Z",
     "start_datetime": "1976-01-01T00:00:00Z",
     "end_datetime": "2008-12-31T00:00:00Z",
-    "dataset_type": "tabular"
+    "dataset_type": "tabular",
+    "datetime": null
   },
   "links": [
     {

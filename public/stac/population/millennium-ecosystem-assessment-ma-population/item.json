@@ -76,10 +76,11 @@
       "Society",
       "EARTH SCIENCE > HUMAN DIMENSIONS > POPULATION"
     ],
-    "datetime": "2005-05-29T00:00:00Z",
+    "publication_date": "2005-05-29T00:00:00Z",
     "start_datetime": "1990-01-01T00:00:00Z",
     "end_datetime": "2002-12-31T00:00:00Z",
-    "dataset_type": "raster"
+    "dataset_type": "raster",
+    "datetime": null
   },
   "links": [
     {

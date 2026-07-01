@@ -58,10 +58,11 @@
       "Urban",
       "EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC CHEMISTRY > NITROGEN COMPOUNDS > NITROGEN DIOXIDE"
     ],
-    "datetime": "2017-05-19T00:00:00Z",
+    "publication_date": "2017-05-19T00:00:00Z",
     "start_datetime": "1996-01-01T00:00:00Z",
     "end_datetime": "2012-12-31T00:00:00Z",
-    "dataset_type": "raster, map, map service"
+    "dataset_type": "raster, map, map service",
+    "datetime": null
   },
   "links": [
     {

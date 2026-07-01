@@ -61,10 +61,11 @@
       "EARTH SCIENCE > HUMAN DIMENSIONS > ECONOMIC RESOURCES",
       "China"
     ],
-    "datetime": "1996-12-31T00:00:00Z",
+    "publication_date": "1996-12-31T00:00:00Z",
     "start_datetime": "1990-01-01T00:00:00Z",
     "end_datetime": "1991-12-31T00:00:00Z",
-    "dataset_type": "vector"
+    "dataset_type": "vector",
+    "datetime": null
   },
   "links": [
     {

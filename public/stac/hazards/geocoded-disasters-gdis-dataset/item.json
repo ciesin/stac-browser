@@ -60,10 +60,11 @@
       "EARTH SCIENCE > HUMAN DIMENSIONS > NATURAL HAZARDS > TROPICAL CYCLONES > CYCLONES",
       "EARTH SCIENCE > HUMAN DIMENSIONS > NATURAL HAZARDS > VOLCANIC ERUPTIONS"
     ],
-    "datetime": "2021-03-10T00:00:00Z",
+    "publication_date": "2021-03-10T00:00:00Z",
     "start_datetime": "1960-01-01T00:00:00Z",
     "end_datetime": "2018-12-31T00:00:00Z",
-    "dataset_type": "raster, map"
+    "dataset_type": "raster, map",
+    "datetime": null
   },
   "links": [
     {

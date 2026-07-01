@@ -58,10 +58,11 @@
       "EARTH SCIENCE > LAND SURFACE > LAND USE/LAND COVER",
       "EARTH SCIENCE > BIOSPHERE > ECOSYSTEMS > ANTHROPOGENIC/HUMAN INFLUENCED ECOSYSTEMS"
     ],
-    "datetime": "2018-08-10T00:00:00Z",
+    "publication_date": "2018-08-10T00:00:00Z",
     "start_datetime": "2009-01-01T00:00:00Z",
     "end_datetime": "2009-12-31T00:00:00Z",
-    "dataset_type": "raster"
+    "dataset_type": "raster",
+    "datetime": null
   },
   "links": [
     {

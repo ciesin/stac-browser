@@ -56,10 +56,11 @@
       "Elevation",
       "Global"
     ],
-    "datetime": "2019-03-22T00:00:00Z",
+    "publication_date": "2019-03-22T00:00:00Z",
     "start_datetime": "1994-01-01T00:00:00Z",
     "end_datetime": "2005-12-31T00:00:00Z",
-    "dataset_type": "raster, map"
+    "dataset_type": "raster, map",
+    "datetime": null
   },
   "links": [
     {

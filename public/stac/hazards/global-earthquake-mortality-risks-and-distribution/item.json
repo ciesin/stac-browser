@@ -60,10 +60,11 @@
       "EARTH SCIENCE > HUMAN DIMENSIONS > NATURAL HAZARDS > EARTHQUAKES",
       "EARTH SCIENCE > HUMAN DIMENSIONS > POPULATION > MORTALITY"
     ],
-    "datetime": "2005-12-31T00:00:00Z",
+    "publication_date": "2005-12-31T00:00:00Z",
     "start_datetime": "2000-01-01T00:00:00Z",
     "end_datetime": "2000-12-31T00:00:00Z",
-    "dataset_type": "raster, map, map service"
+    "dataset_type": "raster, map, map service",
+    "datetime": null
   },
   "links": [
     {

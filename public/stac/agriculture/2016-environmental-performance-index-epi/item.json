@@ -245,10 +245,11 @@
       "Zimbabwe",
       "Global"
     ],
-    "datetime": "2016-06-23T00:00:00Z",
+    "publication_date": "2016-06-23T00:00:00Z",
     "start_datetime": "1950-01-01T00:00:00Z",
     "end_datetime": "2016-12-31T00:00:00Z",
-    "dataset_type": "document, tabular, map, map service"
+    "dataset_type": "document, tabular, map, map service",
+    "datetime": null
   },
   "links": [
     {

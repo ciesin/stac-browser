@@ -307,10 +307,11 @@
       "Tokelau",
       "South Korea"
     ],
-    "datetime": "2007-12-31T00:00:00Z",
+    "publication_date": "2007-12-31T00:00:00Z",
     "start_datetime": "1990-01-01T00:00:00Z",
     "end_datetime": "2000-01-01T00:00:00Z",
-    "dataset_type": "tabular, map"
+    "dataset_type": "tabular, map",
+    "datetime": null
   },
   "links": [
     {

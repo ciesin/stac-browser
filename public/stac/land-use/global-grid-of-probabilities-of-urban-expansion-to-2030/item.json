@@ -57,10 +57,11 @@
       "Imagery/Base Maps/Earth Cover",
       "EARTH SCIENCE > HUMAN DIMENSIONS > HABITAT CONVERSION/FRAGMENTATION > URBANIZATION/URBAN SPRAWL"
     ],
-    "datetime": "2016-03-04T00:00:00Z",
+    "publication_date": "2016-03-04T00:00:00Z",
     "start_datetime": "2000-01-01T00:00:00Z",
     "end_datetime": "2030-12-31T00:00:00Z",
-    "dataset_type": "raster, map, map service"
+    "dataset_type": "raster, map, map service",
+    "datetime": null
   },
   "links": [
     {

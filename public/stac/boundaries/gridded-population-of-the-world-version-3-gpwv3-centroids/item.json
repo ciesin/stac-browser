@@ -287,10 +287,11 @@
       "Zambia",
       "Zimbabwe"
     ],
-    "datetime": "2005-12-31T00:00:00Z",
+    "publication_date": "2005-12-31T00:00:00Z",
     "start_datetime": "1990-07-01T00:00:00Z",
     "end_datetime": "2015-07-01T00:00:00Z",
-    "dataset_type": "vector, tabular, map service"
+    "dataset_type": "vector, tabular, map service",
+    "datetime": null
   },
   "links": [
     {

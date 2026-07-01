@@ -119,10 +119,11 @@
       "Zimbabwe",
       "Global"
     ],
-    "datetime": "2000-12-31T00:00:00Z",
+    "publication_date": "2000-12-31T00:00:00Z",
     "start_datetime": "1978-01-01T00:00:00Z",
     "end_datetime": "1999-12-31T00:00:00Z",
-    "dataset_type": "document"
+    "dataset_type": "document",
+    "datetime": null
   },
   "links": [
     {

@@ -56,10 +56,11 @@
       "Environment",
       "United States of America"
     ],
-    "datetime": "2022-06-21T00:00:00Z",
+    "publication_date": "2022-06-21T00:00:00Z",
     "start_datetime": "2000-01-01T00:00:00Z",
     "end_datetime": "2016-12-31T00:00:00Z",
-    "dataset_type": "raster, tabular, vector"
+    "dataset_type": "raster, tabular, vector",
+    "datetime": null
   },
   "links": [
     {

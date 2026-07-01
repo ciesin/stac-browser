@@ -256,10 +256,11 @@
       "Zimbabwe",
       "Reunion"
     ],
-    "datetime": "2022-02-25T00:00:00Z",
+    "publication_date": "2022-02-25T00:00:00Z",
     "start_datetime": "2019-01-01T00:00:00Z",
     "end_datetime": "2019-12-31T00:00:00Z",
-    "dataset_type": "tabular"
+    "dataset_type": "tabular",
+    "datetime": null
   },
   "links": [
     {

@@ -55,10 +55,11 @@
       "travel time",
       "friction surface"
     ],
-    "datetime": "2026-01-09T00:00:00Z",
+    "publication_date": "2026-01-09T00:00:00Z",
     "start_datetime": "2026-01-09T00:00:00Z",
     "end_datetime": "2026-01-09T00:00:00Z",
-    "dataset_type": null
+    "dataset_type": null,
+    "datetime": null
   },
   "links": [
     {

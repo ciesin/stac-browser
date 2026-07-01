@@ -55,10 +55,11 @@
       "Farming",
       "EARTH SCIENCE > AGRICULTURE"
     ],
-    "datetime": "2025-05-28T00:00:00Z",
+    "publication_date": "2025-05-28T00:00:00Z",
     "start_datetime": "2000-01-01T00:00:00Z",
     "end_datetime": "2000-12-31T00:00:00Z",
-    "dataset_type": "raster"
+    "dataset_type": "raster",
+    "datetime": null
   },
   "links": [
     {

@@ -243,10 +243,11 @@
       "Palestine",
       "Timor-Leste"
     ],
-    "datetime": "2002-07-31T00:00:00Z",
+    "publication_date": "2002-07-31T00:00:00Z",
     "start_datetime": "1990-01-01T00:00:00Z",
     "end_datetime": "2100-12-31T00:00:00Z",
-    "dataset_type": "tabular"
+    "dataset_type": "tabular",
+    "datetime": null
   },
   "links": [
     {

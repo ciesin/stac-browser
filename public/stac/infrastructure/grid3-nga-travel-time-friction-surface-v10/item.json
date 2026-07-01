@@ -56,10 +56,11 @@
       "Travel time",
       "NGA, Nigeria"
     ],
-    "datetime": "2025-09-17T00:00:00Z",
+    "publication_date": "2025-09-17T00:00:00Z",
     "start_datetime": "2025-09-17T00:00:00Z",
     "end_datetime": "2025-09-17T00:00:00Z",
-    "dataset_type": null
+    "dataset_type": null,
+    "datetime": null
   },
   "links": [
     {

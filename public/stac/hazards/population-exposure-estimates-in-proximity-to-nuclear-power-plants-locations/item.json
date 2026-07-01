@@ -94,10 +94,11 @@
       "United Kingdom",
       "United States of America"
     ],
-    "datetime": "2015-01-21T00:00:00Z",
+    "publication_date": "2015-01-21T00:00:00Z",
     "start_datetime": "1956-01-01T00:00:00Z",
     "end_datetime": "2012-12-31T00:00:00Z",
-    "dataset_type": "vector, tabular, map service"
+    "dataset_type": "vector, tabular, map service",
+    "datetime": null
   },
   "links": [
     {

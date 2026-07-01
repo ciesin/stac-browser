@@ -296,10 +296,11 @@
       "South Africa",
       "South Sudan"
     ],
-    "datetime": "2014-12-31T00:00:00Z",
+    "publication_date": "2014-12-31T00:00:00Z",
     "start_datetime": "2006-01-01T00:00:00Z",
     "end_datetime": "2013-12-31T00:00:00Z",
-    "dataset_type": "tabular"
+    "dataset_type": "tabular",
+    "datetime": null
   },
   "links": [
     {

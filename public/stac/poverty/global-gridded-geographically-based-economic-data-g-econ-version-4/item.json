@@ -304,10 +304,11 @@
       "Congo",
       "Wake Island"
     ],
-    "datetime": "2016-12-02T00:00:00Z",
+    "publication_date": "2016-12-02T00:00:00Z",
     "start_datetime": "1990-01-01T00:00:00Z",
     "end_datetime": "2005-01-01T00:00:00Z",
-    "dataset_type": "raster, tabular, map"
+    "dataset_type": "raster, tabular, map",
+    "datetime": null
   },
   "links": [
     {

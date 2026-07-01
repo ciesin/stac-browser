@@ -110,10 +110,11 @@
       "Wisconsin",
       "Wyoming"
     ],
-    "datetime": "2025-06-09T00:00:00Z",
+    "publication_date": "2025-06-09T00:00:00Z",
     "start_datetime": "2020-01-01T00:00:00Z",
     "end_datetime": "2020-12-31T00:00:00Z",
-    "dataset_type": "vector, raster"
+    "dataset_type": "vector, raster",
+    "datetime": null
   },
   "links": [
     {

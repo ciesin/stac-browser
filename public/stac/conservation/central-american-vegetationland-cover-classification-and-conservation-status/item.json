@@ -64,10 +64,11 @@
       "EARTH SCIENCE > HUMAN DIMENSIONS > ENVIRONMENTAL IMPACTS > CONSERVATION",
       "Central America"
     ],
-    "datetime": "1998-12-31T00:00:00Z",
+    "publication_date": "1998-12-31T00:00:00Z",
     "start_datetime": "1992-01-01T00:00:00Z",
     "end_datetime": "1993-12-31T00:00:00Z",
-    "dataset_type": "raster, vector"
+    "dataset_type": "raster, vector",
+    "datetime": null
   },
   "links": [
     {

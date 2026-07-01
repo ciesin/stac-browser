@@ -65,10 +65,11 @@
       "Oceania",
       "South America"
     ],
-    "datetime": "2018-12-31T00:00:00Z",
+    "publication_date": "2018-12-31T00:00:00Z",
     "start_datetime": "2000-07-01T00:00:00Z",
     "end_datetime": "2020-07-01T00:00:00Z",
-    "dataset_type": "vector, tabular, database, map, map service"
+    "dataset_type": "vector, tabular, database, map, map service",
+    "datetime": null
   },
   "links": [
     {
