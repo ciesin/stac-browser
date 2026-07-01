@@ -2,7 +2,7 @@
   "type": "Feature",
   "stac_version": "1.1.0",
   "stac_extensions": [
-    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+    "https://stac-extensions.github.io/projection/v2.0.0/schema.json"
   ],
   "id": "daily-and-annual-pm25-o3-and-no2-concentrations-at-zip-codes-for-the-contiguous-us-2000-2016-v10",
   "geometry": {

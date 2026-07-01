@@ -2,7 +2,7 @@
   "type": "Feature",
   "stac_version": "1.1.0",
   "stac_extensions": [
-    "https://stac-extensions.github.io/eo/v1.1.0/schema.json"
+    "https://stac-extensions.github.io/projection/v2.0.0/schema.json"
   ],
   "id": "global-annual-pm25-grids-from-modis-misr-and-seawifs-aerosol-optical-depth-aod-1998-2019-v4gl03",
   "geometry": {
