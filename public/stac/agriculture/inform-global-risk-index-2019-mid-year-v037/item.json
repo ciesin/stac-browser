@@ -42,7 +42,12 @@
     "title": "INFORM Global Risk Index 2019 Mid Year, v0.3.7",
     "description": "The INFORM Global Risk Index 2019 Mid Year, v0.3.7 data set identifies the countries at a high risk of humanitarian crisis that are more likely to require international assistance. The INFORM Global Risk Index (GRI) model is based on risk concepts published in the scientific literature and envisages three dimensions of risk: Hazard & Exposure, Vulnerability, and Lack of Coping Capacity. The INFORM GRI model is split into different levels to provide a quick overview of the underlying factors leading to humanitarian risk. The INFORM GRI model supports a proactive crisis management framework, and will be helpful for an objective allocation of resources for disaster management, as well as for coordinated actions focused on anticipating, mitigating, and preparing for humanitarian emergencies. Only the two main sections, Vulnerability and Lack of Coping Capacity, not the Hazard & Exposure section, were used in the IPCC AR6.",
     "purpose": "To assess country-level vulnerability and coping capacity related to climate change based on the data set used in Chapter 8 of the Sixth Assessment Report (AR6) by the Intergovernmental Panel on Climate Change (IPCC) Working Group II (WGII).",
+    "authors": "Joint Research Centre - JRC - European Commission",
+    "publishers": "NASA Socioeconomic Data and Applications Center (SEDAC)",
+    "place": "Palisades, NY",
+    "version": null,
     "doi": "https://doi.org/10.7927/yzp7-sm30",
+    "citation": "Joint Research Centre - JRC - European Commission. 2022-02-25T00:00:00Z. INFORM Global Risk Index 2019 Mid Year, v0.3.7. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/yzp7-sm30. Accessed [DAY MONTH YEAR].",
     "stac_category": "agriculture",
     "keywords": [
       "EARTH SCIENCE > HUMAN DIMENSIONS > SOCIAL BEHAVIOR > VULNERABILITY LEVELS/INDEX",
@@ -258,6 +263,12 @@
   },
   "links": [
     {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/yzp7-sm30",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
+    {
       "rel": "root",
       "href": "../../catalog.json",
       "type": "application/json",
@@ -281,14 +292,5 @@
     }
   },
   "datetime": "2022-02-25T00:00:00Z",
-  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
-  "providers": [
-    {
-      "name": "Joint Research Centre - JRC - European Commission",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided."
 }

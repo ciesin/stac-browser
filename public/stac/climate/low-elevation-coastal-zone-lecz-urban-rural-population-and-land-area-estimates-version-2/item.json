@@ -42,7 +42,12 @@
     "title": "Low Elevation Coastal Zone (LECZ) Urban-Rural Population and Land Area Estimates, Version 2",
     "description": "The Low Elevation Coastal Zone (LECZ) Urban-Rural Population and Land Area Estimates, Version 2 data set consists of country-level estimates of urban population, rural population, total population and land area country-wide and in LECZs for years 1990, 2000, 2010, and 2100. The LECZs were derived from Shuttle Radar Topography Mission (SRTM), 3 arc-second (~90m) data which were post processed by ISciences LLC to include only elevations less than 20m contiguous to coastlines; and to supplement SRTM data in northern and southern latitudes. The population and land area statistics presented herein are summarized at the low coastal elevations of less than or equal to 1m, 3m, 5m, 7m, 9m, 10m, 12m, and 20m. Additionally, estimates are provided for elevations greater than  20m, and nationally. The spatial coverage of this data set includes 202 of the 232 countries and statistical areas delineated in the Gridded Rural-Urban Mapping Project version 1 (GRUMPv1) data set. The 30 omitted areas were not included because they were landlocked, or otherwise lacked coastal features. This data set makes use of the population inputs of GRUMPv1 allocated at 3 arc-seconds to match the SRTM elevations, and at 30 arc-seconds resolution in order to reflect uncertainty levels in the product resulting from the interplay of input population data resolutions (based on census units) and the elevation data. Urban and rural areas are differentiated by the GRUMPv1 Urban Extents. This data set is produced by the Columbia University Center for International Earth Science Information Network (CIESIN).",
     "purpose": "To provide estimates of urban and rural populations and land areas for the years 1990, 2000, and 2010; and projections to the year 2100 for 202 countries with contiguous coastal elevations in the following categories:  less than or equal to 1m, 3m, 5m, 7m, 9m, 10m, 12m, or 20m; as well as national totals.",
+    "authors": "Center for International Earth Science Information Network - CIESIN - Columbia University",
+    "publishers": "NASA Socioeconomic Data and Applications Center (SEDAC)",
+    "place": "Palisades, NY",
+    "version": "2.00",
     "doi": "https://doi.org/10.7927/H4MW2F2J",
+    "citation": "Center for International Earth Science Information Network - CIESIN - Columbia University. 2013-12-31T00:00:00Z. Low Elevation Coastal Zone (LECZ) Urban-Rural Population and Land Area Estimates, Version 2. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4MW2F2J. Accessed [DAY MONTH YEAR].",
     "stac_category": "climate",
     "keywords": [
       "Country",
@@ -274,6 +279,12 @@
   },
   "links": [
     {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/H4MW2F2J",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
+    {
       "rel": "root",
       "href": "../../catalog.json",
       "type": "application/json",
@@ -297,14 +308,5 @@
     }
   },
   "datetime": "2013-12-31T00:00:00Z",
-  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
-  "providers": [
-    {
-      "name": "Center for International Earth Science Information Network - CIESIN - Columbia University",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided."
 }

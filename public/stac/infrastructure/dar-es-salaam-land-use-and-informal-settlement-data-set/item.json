@@ -42,7 +42,12 @@
     "title": "Dar es Salaam Land Use and Informal Settlement Data Set",
     "description": "The Dar es Salaam Land Use and Informal Settlement Data Set represents urban land use and consolidation of informal settlements for the years 1982, 1992, 1998, and 2002, in Dar es Salaam, Tanzania. The land use categories are informal settlement areas, planned residential areas, ocean and estuaries, vacant and agriculture lands, and other urban features such as industrial or recreation areas. The data are based on the World Geodetic System spheroid of 1984 and use the Universal Transverse Mercator Zone 37 South projection.",
     "purpose": "To provide urban land use and informal settlements for the years 1982, 1992, 1998, and 2002 in Dar es Salaam, Tanzania.",
+    "authors": "Sliuzas, R.V., A. Hill, C. Lindner, and  S. Greiving",
+    "publishers": "NASA Socioeconomic Data and Applications Center (SEDAC)",
+    "place": "Palisades, NY",
+    "version": "1.00",
     "doi": "https://doi.org/10.7927/H43T9F56",
+    "citation": "Sliuzas, R.V., A. Hill, C. Lindner, and  S. Greiving. 2016-05-20T00:00:00Z. Dar es Salaam Land Use and Informal Settlement Data Set. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H43T9F56. Accessed [DAY MONTH YEAR].",
     "stac_category": "infrastructure",
     "keywords": [
       "Infrastructure",
@@ -62,6 +67,12 @@
     "dataset_type": "vector, map, map service"
   },
   "links": [
+    {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/H43T9F56",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
     {
       "rel": "root",
       "href": "../../catalog.json",
@@ -86,14 +97,5 @@
     }
   },
   "datetime": "2016-05-20T00:00:00Z",
-  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
-  "providers": [
-    {
-      "name": "Sliuzas, R.V., A. Hill, C. Lindner, and  S. Greiving",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided."
 }

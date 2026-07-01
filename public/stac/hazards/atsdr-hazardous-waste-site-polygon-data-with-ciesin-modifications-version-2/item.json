@@ -42,7 +42,12 @@
     "title": "ATSDR Hazardous Waste Site Polygon Data with CIESIN Modifications, Version 2",
     "description": "The Agency for Toxic Substances and Disease Registry (ATSDR) Hazardous Waste Site Polygon Data with CIESIN Modifications, Version 2 is a database providing georeferenced data for 1,572 National Priorities List (NPL) Superfund sites. These were selected from the larger set of the ATSDR Hazardous Waste Site Polygon Data, Version 2 data set with polygons from May 26, 2010. The modified data set contains only sites that have been proposed, currently on, or deleted from the final NPL as of October 25, 2013.  Of the 2,080 ATSDR polygons from 2010, 1,575 were NPL sites but three sites were excluded - 2 in the Virgin Islands and 1 in Guam.  This data set is modified by the Columbia University Center for International Earth Science Information Network (CIESIN).  The modified polygon database includes all the attributes for these NPL sites provided in the ATSDR GRASP Hazardous Waste Site Polygon database and selected attributes from the EPA List 9 Active CERCLIS sites and SCAP 12 NPL sites databases. These polygons represent sites considered for cleanup under the Comprehensive Environmental Response, Compensation and Liability Act (CERCLA or Superfund). The Geospatial Research, Analysis, and Services Program (GRASP, Division of Health Studies, Agency for Toxic Substances and Disease Registry, Centers for Disease Control and Prevention) has created site boundary data using the best available information for those sites where health assessments or consultations have been requested.",
     "purpose": "To provide an easily accessible, corrected data set of polygons for hazardous waste sites in the United States which can be used to identify nearby populations and assess their potential risk.",
+    "authors": "Agency for Toxic Substances and Disease Registry - ATSDR, National Institute for Environmental Health Sciences Columbia University Superfund Research Program - NIEHS CU SRP, and Center for International Earth Science Information Network - CIESIN - Columbia University",
+    "publishers": "NASA Socioeconomic Data and Applications Center (SEDAC)",
+    "place": "Palisades, NY",
+    "version": "2.00",
     "doi": "https://doi.org/10.7927/H4DF6P5Z",
+    "citation": "Agency for Toxic Substances and Disease Registry - ATSDR, National Institute for Environmental Health Sciences Columbia University Superfund Research Program - NIEHS CU SRP, and Center for International Earth Science Information Network - CIESIN - Columbia University. 2014-12-12T00:00:00Z. ATSDR Hazardous Waste Site Polygon Data with CIESIN Modifications, Version 2. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4DF6P5Z. Accessed [DAY MONTH YEAR].",
     "stac_category": "hazards",
     "keywords": [
       "Hazards",
@@ -64,6 +69,12 @@
     "dataset_type": "vector, map, map service"
   },
   "links": [
+    {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/H4DF6P5Z",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
     {
       "rel": "root",
       "href": "../../catalog.json",
@@ -88,14 +99,5 @@
     }
   },
   "datetime": "2014-12-12T00:00:00Z",
-  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
-  "providers": [
-    {
-      "name": "Agency for Toxic Substances and Disease Registry - ATSDR, National Institute for Environmental Health Sciences Columbia University Superfund Research Program - NIEHS CU SRP, and Center for International Earth Science Information Network - CIESIN - Columbia University",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided."
 }

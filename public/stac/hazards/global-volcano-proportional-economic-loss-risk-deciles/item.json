@@ -42,7 +42,12 @@
     "title": "Global Volcano Proportional Economic Loss Risk Deciles",
     "description": "Global Volcano Proportional Economic Loss Risk Deciles is a 2.5 minute grid of volcano hazard economic loss as proportions of Gross Domestic Product (GDP) per analytical unit. Estimates of GDP at risk are based on regional economic loss rates derived from historical records of the Emergency Events Database (EM-DAT). Loss rates are weighted by the hazard's frequency and distribution. The methodology of Sachs et al. (2003) is followed to determine baseline estimates of GDP per grid cell. To better reflect the confidence surrounding the data and procedures, the range of proportionalities is classified into deciles, 10 class of an approximately equal number of grid cells of increasing risk. This data set is the result of collaboration among the Columbia University Center for Hazards and Risk Research (CHRR), International Bank for Reconstruction and Development/The World Bank, and Columbia University Center for International Earth Science Information Network (CIESIN).",
     "purpose": "To provide a spatial surface of the proportional economic impacts of global volcano hazard.",
+    "authors": "Center for Hazards and Risk Research - CHRR - Columbia University, Center for International Earth Science Information Network - CIESIN - Columbia University, and International Bank for Reconstruction and Development - The World Bank",
+    "publishers": "Center for Hazards and Risk Research (CHRR)/Columbia University",
+    "place": "Palisades, NY",
+    "version": "1.00",
     "doi": "https://doi.org/10.7927/H43B5X3R",
+    "citation": "Center for Hazards and Risk Research - CHRR - Columbia University, Center for International Earth Science Information Network - CIESIN - Columbia University, and International Bank for Reconstruction and Development - The World Bank. 2005-12-31T00:00:00Z. Global Volcano Proportional Economic Loss Risk Deciles. Palisades, NY: Center for Hazards and Risk Research (CHRR)/Columbia University. https://doi.org/10.7927/H43B5X3R. Accessed [DAY MONTH YEAR].",
     "stac_category": "hazards",
     "keywords": [
       "Economy",
@@ -60,6 +65,12 @@
     "dataset_type": "raster, map, map service"
   },
   "links": [
+    {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/H43B5X3R",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
     {
       "rel": "root",
       "href": "../../catalog.json",
@@ -84,14 +95,5 @@
     }
   },
   "datetime": "2005-12-31T00:00:00Z",
-  "license": "The Trustees of Columbia University in the City of New York, Center for Hazards and Risk Research (CHRR), and International Bank for Reconstruction and Development/The World Bank hold the copyright of this data set. Users are prohibited from any commercial, resale, or redistirbution without explicit written permission from CHRR, CIESIN, and The World Bank. Users should acknowledge CHRR, CIESIN, and The World Bank as the source used in the creation of any reports, publications, new data sets, derived products, or services resulting from the use of this data set. CHRR, CIESIN, and The World Bank request reprints of any publications and notification of any redistribution efforts.",
-  "providers": [
-    {
-      "name": "Center for Hazards and Risk Research - CHRR - Columbia University, Center for International Earth Science Information Network - CIESIN - Columbia University, and International Bank for Reconstruction and Development - The World Bank",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "The Trustees of Columbia University in the City of New York, Center for Hazards and Risk Research (CHRR), and International Bank for Reconstruction and Development/The World Bank hold the copyright of this data set. Users are prohibited from any commercial, resale, or redistirbution without explicit written permission from CHRR, CIESIN, and The World Bank. Users should acknowledge CHRR, CIESIN, and The World Bank as the source used in the creation of any reports, publications, new data sets, derived products, or services resulting from the use of this data set. CHRR, CIESIN, and The World Bank request reprints of any publications and notification of any redistribution efforts."
 }

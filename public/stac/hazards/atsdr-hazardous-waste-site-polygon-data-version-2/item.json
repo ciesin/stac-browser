@@ -42,7 +42,12 @@
     "title": "ATSDR Hazardous Waste Site Polygon Data, Version 2",
     "description": "The Agency for Toxic Substances and Disease Registry (ATSDR) Hazardous Waste Site Polygon Data, Version 2 consists of 2,080 polygons for selected hazardous waste sites that were compiled on May 26, 2010. Most polygons represent sites considered for cleanup under the Comprehensive Environmental Response, Compensation and Liability Act (CERCLA or Superfund). Typical sites are either on the EPA National Priorities List (NPL) or are being considered for inclusion on the NPL. The hazardous waste site boundaries maintained by the Geospatial Research, Analysis, and Services Program (GRASP, Division of Health Studies, Agency for Toxic Substances and Disease Registry, Centers for Disease Control and Prevention) contain NPL and non-NPL hazardous waste site boundaries for which health assessments or consultations have been requested.",
     "purpose": "To provide the ATSDR polygon data set of hazardous waste sites in the United States, Puerto Rico, and other territories which can be used to identify nearby populations and assess their potential risk.",
+    "authors": "Agency for Toxic Substances and Disease Registry - ATSDR",
+    "publishers": "Geospatial Research, Analysis, and Services Program (GRASP)",
+    "place": "Atlanta, GA",
+    "version": "2.00",
     "doi": "https://doi.org/10.7927/H48P5XF7",
+    "citation": "Agency for Toxic Substances and Disease Registry - ATSDR. 2010-05-26T00:00:00Z. ATSDR Hazardous Waste Site Polygon Data, Version 2. Atlanta, GA: Geospatial Research, Analysis, and Services Program (GRASP). https://doi.org/10.7927/H48P5XF7. Accessed [DAY MONTH YEAR].",
     "stac_category": "hazards",
     "keywords": [
       "Hazards",
@@ -64,6 +69,12 @@
     "dataset_type": "vector, map, map service"
   },
   "links": [
+    {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/H48P5XF7",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
     {
       "rel": "root",
       "href": "../../catalog.json",
@@ -88,14 +99,5 @@
     }
   },
   "datetime": "2010-05-26T00:00:00Z",
-  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
-  "providers": [
-    {
-      "name": "Agency for Toxic Substances and Disease Registry - ATSDR",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:gisdata@cdc.gov"
-    }
-  ]
+  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided."
 }

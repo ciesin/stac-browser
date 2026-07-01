@@ -42,7 +42,12 @@
     "title": "Twentieth Century Crop Statistics, 1900-2017",
     "description": "The Twentieth Century Crop Statistics, 1900-2017 data set consists of national or subnational maize and wheat production, yield, and harvested area statistics for all available years for the period 1900-2017. It combines a new digitization of crop statistics from Italy, Spain, Indonesia, China, Mexico, Uruguay, Chile, Sweden, and Morocco with existing, publicly available, digitized data sets from India, Australia, the United States, Canada, Southern Brazil, Argentina, England, Austria, Belgium, Croatia, Czech Republic, Finland, Germany, Spain, Portugal, France, the Netherlands, and South Africa. All units are converted to hectares (ha) for units of harvested areas, tonnes for units of production, and tonnes/ha for units of yield. A ratio of 1/36.744 is used to convert wheat bushels to tonnes, and a value of 1/39.368 is used to convert maize bushels to tonnes. In all cases, the Harvest_year reported in the data set is the harvest year for the crop.",
     "purpose": "To provide a unique crop yield data set that spans the twentieth century for many of the world's major bread baskets.",
+    "authors": "Anderson, W., W. Baethgen, F. Capitanio, P. Ciais, G. Cunha, L. Goddard, B. Schauberger , K. Sonder, G. Podesta, M. van der Velde, L. You, and Y. Ru",
+    "publishers": "NASA Socioeconomic Data and Applications Center (SEDAC)",
+    "place": "Palisades, NY",
+    "version": "1.00",
     "doi": "https://doi.org/10.7927/tmsp-sg82",
+    "citation": "Anderson, W., W. Baethgen, F. Capitanio, P. Ciais, G. Cunha, L. Goddard, B. Schauberger , K. Sonder, G. Podesta, M. van der Velde, L. You, and Y. Ru. 2022-08-19T00:00:00Z. Twentieth Century Crop Statistics, 1900-2017. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/tmsp-sg82. Accessed [DAY MONTH YEAR].",
     "stac_category": "agriculture",
     "keywords": [
       "Country",
@@ -84,6 +89,12 @@
   },
   "links": [
     {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/tmsp-sg82",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
+    {
       "rel": "root",
       "href": "../../catalog.json",
       "type": "application/json",
@@ -107,14 +118,5 @@
     }
   },
   "datetime": "2022-08-19T00:00:00Z",
-  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
-  "providers": [
-    {
-      "name": "Anderson, W., W. Baethgen, F. Capitanio, P. Ciais, G. Cunha, L. Goddard, B. Schauberger , K. Sonder, G. Podesta, M. van der Velde, L. You, and Y. Ru",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided."
 }

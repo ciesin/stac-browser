@@ -42,7 +42,12 @@
     "title": "Global Agricultural Lands: Pastures, 2000",
     "description": "The Global Pastures data set represents the proportion of land areas used as pasture land (land used to support grazing animals) in the year 2000. Satellite data from Modetate Resolution Imaging Spectroradiometer (MODIS) and Satellite Pour l'Observation de la Terre (SPOT) Image Vegetation sensors were combined with agricultural inventory data to create a global data set. The visual presentation of these data demonstrates the extent to which human land use for agriculture has changed the Earth and in which areas this change is most intense. The data were compiled by Navin Ramankutty  et al. (2008) and distributed by the Columbia University Center for International Earth Science Information Network (CIESIN).",
     "purpose": "To provide data on the extent of pasturelands for research on human-environment interactions.",
+    "authors": "Ramankutty, N., A.T. Evan, C. Monfreda, and  J.A. Foley",
+    "publishers": "NASA Socioeconomic Data and Applications Center (SEDAC)",
+    "place": "Palisades, NY",
+    "version": "1.00",
     "doi": "https://doi.org/10.7927/H47H1GGR",
+    "citation": "Ramankutty, N., A.T. Evan, C. Monfreda, and  J.A. Foley. 2010-12-31T00:00:00Z. Global Agricultural Lands: Pastures, 2000. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H47H1GGR. Accessed [DAY MONTH YEAR].",
     "stac_category": "agriculture",
     "keywords": [
       "Agriculture",
@@ -68,6 +73,12 @@
   },
   "links": [
     {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/H47H1GGR",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
+    {
       "rel": "root",
       "href": "../../catalog.json",
       "type": "application/json",
@@ -91,14 +102,5 @@
     }
   },
   "datetime": "2010-12-31T00:00:00Z",
-  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
-  "providers": [
-    {
-      "name": "Ramankutty, N., A.T. Evan, C. Monfreda, and  J.A. Foley",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided."
 }

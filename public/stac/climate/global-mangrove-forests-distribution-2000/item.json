@@ -42,7 +42,12 @@
     "title": "Global Mangrove Forests Distribution, 2000",
     "description": "The Global Mangrove Forests Distribution, 2000 data set is a compilation of the extent of mangroves forests from the Global Land Survey and the Landsat archive with hybrid supervised and unsupervised digital image classification techniques. The data are available at 30-m spatial resolution. The total area of mangroves in the year 2000 was estimated at 137,760 km2 in 118 countries and territories in the tropical and subtropical regions of the world.",
     "purpose": "To provide data that can be used in global mangrove forest distribution modeling, land cover change analysis, global carbon accounting studies and to assist with policy-making in regards to human-environment interactions and future adaptive strategies.",
+    "authors": "Giri, C., E. Ochieng, L.L.Tieszen,  Z. Zhu,  A. Singh, T. Loveland, J. Masek, and N. Duke",
+    "publishers": "NASA Socioeconomic Data and Applications Center (SEDAC)",
+    "place": "Palisades, NY",
+    "version": "1.00",
     "doi": "https://doi.org/10.7927/H4J67DW8",
+    "citation": "Giri, C., E. Ochieng, L.L.Tieszen,  Z. Zhu,  A. Singh, T. Loveland, J. Masek, and N. Duke. 2005-12-31T00:00:00Z. Global Mangrove Forests Distribution, 2000. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4J67DW8. Accessed [DAY MONTH YEAR].",
     "stac_category": "climate",
     "keywords": [
       "Climate",
@@ -62,6 +67,12 @@
     "dataset_type": "raster, map, map service"
   },
   "links": [
+    {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/H4J67DW8",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
     {
       "rel": "root",
       "href": "../../catalog.json",
@@ -86,14 +97,5 @@
     }
   },
   "datetime": "2005-12-31T00:00:00Z",
-  "license": "This is a work of the U.S. Government and is not subject to copyright protection in the United States. The data may be used by anyone, anywhere, anytime without permission, license or royalty payment. Attribution using the recommended citation is requested.",
-  "providers": [
-    {
-      "name": "Giri, C., E. Ochieng, L.L.Tieszen,  Z. Zhu,  A. Singh, T. Loveland, J. Masek, and N. Duke",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "This is a work of the U.S. Government and is not subject to copyright protection in the United States. The data may be used by anyone, anywhere, anytime without permission, license or royalty payment. Attribution using the recommended citation is requested."
 }

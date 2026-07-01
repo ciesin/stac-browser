@@ -42,7 +42,12 @@
     "title": "Millennium Ecosystem Assessment: MA Rapid Land Cover Change",
     "description": "The Millennium Ecosystem Assessment: MA Rapid Land Cover Change provides data and information on global and regional land cover change in raster format for agriculture (cropland increase and disease), deforestation (forest mask and hotspots), desertification (hotspot areas of degraded land and degradation types), and fires (most frequent and exceptional fires). Urbanization data are in vector format for cities with the highest rate of change (1995-2015), largest cities (2000), and the overlay of these two data layers for the year 2000. This assessment identified the need to synthesize what is known about areas of rapid land cover change around the world in order to evaluate how the provision of ecosystem goods and services has changed.",
     "purpose": "To preserve access to the original rapid land cover change data used by the Millennium Ecosystem Assessment (MA) and other related research.",
+    "authors": "Millennium Ecosystem Assessment",
+    "publishers": "Island Press",
+    "place": "Washington, DC",
+    "version": "1.00",
     "doi": "https://doi.org/10.7927/H4G44N76",
+    "citation": "Millennium Ecosystem Assessment. 2005-05-29T00:00:00Z. Millennium Ecosystem Assessment: MA Rapid Land Cover Change. Washington, DC: Island Press. https://doi.org/10.7927/H4G44N76. Accessed [DAY MONTH YEAR].",
     "stac_category": "agriculture",
     "keywords": [
       "Agriculture",
@@ -72,6 +77,12 @@
   },
   "links": [
     {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/H4G44N76",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
+    {
       "rel": "root",
       "href": "../../catalog.json",
       "type": "application/json",
@@ -95,14 +106,5 @@
     }
   },
   "datetime": "2005-05-29T00:00:00Z",
-  "license": "Users are free to use the work for non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
-  "providers": [
-    {
-      "name": "Millennium Ecosystem Assessment",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "Users are free to use the work for non-commercial purposes, without restriction, as long as clear attribution of the source is provided."
 }

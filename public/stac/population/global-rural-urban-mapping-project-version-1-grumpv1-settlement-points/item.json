@@ -42,7 +42,12 @@
     "title": "Global Rural-Urban Mapping Project, Version 1 (GRUMPv1): Settlement Points",
     "description": "The Global Rural-Urban Mapping Project, Version 1 (GRUMPv1): Settlement Points contains geospatial location for selected settlements. This data set is produced by the Columbia University Center for International Earth Science Information Network (CIESIN) in collaboration with the International Food Policy Research Institute (IFPRI), The World Bank, and Centro Internacional de Agricultura Tropical (CIAT).",
     "purpose": "To provide populated place (point) data with consistent population estimates.",
+    "authors": "Center for International Earth Science Information Network - CIESIN - Columbia University, International Food Policy Research Institute - IFPRI, The World Bank, and Centro Internacional de Agricultura Tropical - CIAT",
+    "publishers": "NASA Socioeconomic Data and Applications Center (SEDAC)",
+    "place": "Palisades, NY",
+    "version": "1.00",
     "doi": "https://doi.org/10.7927/H4M906KR",
+    "citation": "Center for International Earth Science Information Network - CIESIN - Columbia University, International Food Policy Research Institute - IFPRI, The World Bank, and Centro Internacional de Agricultura Tropical - CIAT. 2011-09-26T00:00:00Z. Global Rural-Urban Mapping Project, Version 1 (GRUMPv1): Settlement Points. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4M906KR. Accessed [DAY MONTH YEAR].",
     "stac_category": "population",
     "keywords": [
       "Population",
@@ -297,6 +302,12 @@
   },
   "links": [
     {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/H4M906KR",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
+    {
       "rel": "root",
       "href": "../../catalog.json",
       "type": "application/json",
@@ -320,14 +331,5 @@
     }
   },
   "datetime": "2011-09-26T00:00:00Z",
-  "license": "The Trustees of Columbia University in the City of New York, International Food Policy Research Institute (IFPRI), The World Bank, and Centro Internacional de Agricultura Tropical (CIAT) hold the copyright of this data set. Users are prohibited from any commercial, non-free resale, or redistribution without explicit written permission from CIESIN, IFPRI, The World Bank, and CIAT. Users should acknowledge CIESIN, IFPRI, The World Bank, and CIAT as the source used in the creation of any reports, publications, new data sets, derived products, or services resulting from the use of this data set. CIESIN, IFPRI, The World Bank, and CIAT also request reprints of any publications and notification of any redistributing efforts.",
-  "providers": [
-    {
-      "name": "Center for International Earth Science Information Network - CIESIN - Columbia University, International Food Policy Research Institute - IFPRI, The World Bank, and Centro Internacional de Agricultura Tropical - CIAT",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "The Trustees of Columbia University in the City of New York, International Food Policy Research Institute (IFPRI), The World Bank, and Centro Internacional de Agricultura Tropical (CIAT) hold the copyright of this data set. Users are prohibited from any commercial, non-free resale, or redistribution without explicit written permission from CIESIN, IFPRI, The World Bank, and CIAT. Users should acknowledge CIESIN, IFPRI, The World Bank, and CIAT as the source used in the creation of any reports, publications, new data sets, derived products, or services resulting from the use of this data set. CIESIN, IFPRI, The World Bank, and CIAT also request reprints of any publications and notification of any redistributing efforts."
 }

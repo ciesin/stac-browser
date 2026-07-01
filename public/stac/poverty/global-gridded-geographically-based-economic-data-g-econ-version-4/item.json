@@ -42,7 +42,12 @@
     "title": "Global Gridded Geographically Based Economic Data (G-Econ), Version 4",
     "description": "The Global Gridded Geographically Based Economic Data (G-Econ), Version 4 contains derived one degree grid cells of Gross Domestic Product (GDP) data in Grid and ASCII formats for both Market Exchange Rate (MER) and Purchasing Power Parity (PPP) for the years 1990, 1995, 2000 and 2005. MER is the exchange rate between local and U.S. dollar currencies for a given time period established by the market. PPP is the exchange rate between a country's currency and U.S. dollars adjusted to reflect the actual cost in U.S. dollars of purchasing a standardized market basket of goods in that country using the country's currency. The original data from the G-Econ Project at Yale University is also available in tabular format and includes latitude and longitude geographic coordinates of the grid cells, area of grid cells, as well as country names, distance to coast, elevation, vegetation, population, precipitation and temperature.",
     "purpose": "To provide global gridded Gross Domestic Product (GDP) data in both Market Exchange Rate (MER) and Purchasing Power Parity (PPP) to be used for socioeconomic, environmental, climate, and other related research.",
+    "authors": "Nordhaus, W.D., and X. Chen",
+    "publishers": "NASA Socioeconomic Data and Applications Center (SEDAC)",
+    "place": "Palisades, NY",
+    "version": "4.00",
     "doi": "http://doi.org/10.7927/H42V2D1C",
+    "citation": "Nordhaus, W.D., and X. Chen. 2016-12-02T00:00:00Z. Global Gridded Geographically Based Economic Data (G-Econ), Version 4. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). http://doi.org/10.7927/H42V2D1C. Accessed [DAY MONTH YEAR].",
     "stac_category": "poverty",
     "keywords": [
       "Poverty",
@@ -306,6 +311,12 @@
   },
   "links": [
     {
+      "rel": "documentation",
+      "href": "http://doi.org/10.7927/H42V2D1C",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
+    {
       "rel": "root",
       "href": "../../catalog.json",
       "type": "application/json",
@@ -329,14 +340,5 @@
     }
   },
   "datetime": "2016-12-02T00:00:00Z",
-  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
-  "providers": [
-    {
-      "name": "Nordhaus, W.D., and X. Chen",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided."
 }

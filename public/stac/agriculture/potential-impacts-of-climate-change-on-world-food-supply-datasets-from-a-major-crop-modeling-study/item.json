@@ -42,7 +42,12 @@
     "title": "Potential Impacts of Climate Change on World Food Supply: Datasets from a Major Crop Modeling Study",
     "description": "The Potential Impacts of Climate Change on World Food Supply: Datasets from a Major Crop Modeling Study contain projected country and regional changes in grain crop yields due to global climate change. Equilibrium and transient scenarios output from General Circulation Models (GCMs) with three levels of farmer adaptations to climate change were utilized to generate crop yield estimates of wheat, rice, coarse grains (barley and maize), and protein feed (soybean) at 125 agricultural sites representing major world agricultural regions. Projected yields at the agricultural sites were aggregated to major trading regions, and fed into the Basic Linked Systems (BLS) global trade model to produce country and regional estimates of potential price increases, food shortages, and risk of hunger. These datasets are produced by the Goddard Institute for Space Studies (GISS) and are distributed by the Columbia University Center for International Earth Science Information Network (CIESIN).",
     "purpose": "To provide an assessment of potential climate change impacts on world crop production, including quantitative estimates of yield changes of major food.",
+    "authors": "Rosensweig, C. and  A. Iglesias",
+    "publishers": "NASA Goddard Institute for Space Studies (GISS)",
+    "place": "New York, NY",
+    "version": "1.00",
     "doi": "https://doi.org/10.7927/H43R0QR1",
+    "citation": "Rosensweig, C. and  A. Iglesias. 1999-12-31T00:00:00Z. Potential Impacts of Climate Change on World Food Supply: Datasets from a Major Crop Modeling Study. New York, NY: NASA Goddard Institute for Space Studies (GISS). https://doi.org/10.7927/H43R0QR1. Accessed [DAY MONTH YEAR].",
     "stac_category": "agriculture",
     "keywords": [
       "Continent",
@@ -83,6 +88,12 @@
   },
   "links": [
     {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/H43R0QR1",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
+    {
       "rel": "root",
       "href": "../../catalog.json",
       "type": "application/json",
@@ -106,14 +117,5 @@
     }
   },
   "datetime": "1999-12-31T00:00:00Z",
-  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
-  "providers": [
-    {
-      "name": "Rosensweig, C. and  A. Iglesias",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided."
 }

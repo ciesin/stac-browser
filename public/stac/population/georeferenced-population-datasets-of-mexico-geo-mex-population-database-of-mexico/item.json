@@ -42,7 +42,12 @@
     "title": "Georeferenced Population Datasets of Mexico (GEO-MEX): Population Database of Mexico",
     "description": "The Population Database of Mexico contains geographically referenced population data for Mexican states, municipalities and localities from the 1990 Mexican population and housing census. The data include population by gender and age group for approximately 83.7% of the Mexican population. This data set is produced by the Columbia University Center for International Earth Science Information Network (CIESIN).",
     "purpose": "To provide geographically referenced population data for Mexico for conducting assessments of human interactions with the environment.",
+    "authors": "Center for International Earth Science Information Network - CIESIN",
+    "publishers": "NASA Socioeconomic Data and Applications Center (SEDAC)",
+    "place": "Saginaw, MI",
+    "version": "1.00",
     "doi": "https://doi.org/10.7927/H45D8PS8",
+    "citation": "Center for International Earth Science Information Network - CIESIN. 1994-12-31T00:00:00Z. Georeferenced Population Datasets of Mexico (GEO-MEX): Population Database of Mexico. Saginaw, MI: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H45D8PS8. Accessed [DAY MONTH YEAR].",
     "stac_category": "population",
     "keywords": [
       "Country",
@@ -58,6 +63,12 @@
     "dataset_type": "tabular"
   },
   "links": [
+    {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/H45D8PS8",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
     {
       "rel": "root",
       "href": "../../catalog.json",
@@ -82,14 +93,5 @@
     }
   },
   "datetime": "1994-12-31T00:00:00Z",
-  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
-  "providers": [
-    {
-      "name": "Center for International Earth Science Information Network - CIESIN",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided."
 }

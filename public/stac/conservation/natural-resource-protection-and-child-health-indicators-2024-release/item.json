@@ -42,7 +42,12 @@
     "title": "Natural Resource Protection and Child Health Indicators, 2024 Release",
     "description": "The Natural Resource Protection and Child Health Indicators, 2024 Release, is produced in support of the U.S. Millennium Challenge Corporation as selection criteria for funding eligibility. The Natural Resource Protection Indicator (NRPI) and Child Health Indicator (CHI) are based on proximity-to-target scores ranging from 0 to 100 (at target). The NRPI covers 76 countries which are eligible for MCC funding and is using the 2024 Environmental Performance Index. The CHI is a composite index for 198 countries derived from the average of three proximity-to-target scores for at least basic access to water, at least basic access to sanitation, and child mortality rates. The 2024 release includes a consistent time series of NRPI scores for 2019 to 2024 and CHI scores for 2010 to 2023.",
     "purpose": "To assist in the country selection process for the Millennium Challenge Corporation (MCC) by providing indicators of natural resource protection and child health that complement the governance, social, and economic indicators used by MCC as country selection criteria.",
+    "authors": "Center for Integrated Earth System Information - CIESIN - Columbia University",
+    "publishers": "Center for Integrated Earth System Information (CIESIN)",
+    "place": "Palisades, NY",
+    "version": "2024.00",
     "doi": "https://doi.org/10.7927/zw0f-vm33",
+    "citation": "Center for Integrated Earth System Information - CIESIN - Columbia University. 2025-06-06T00:00:00Z. Natural Resource Protection and Child Health Indicators, 2024 Release. Palisades, NY: Center for Integrated Earth System Information (CIESIN). https://doi.org/10.7927/zw0f-vm33. Accessed [DAY MONTH YEAR].",
     "stac_category": "conservation",
     "keywords": [
       "Conservation",
@@ -262,6 +267,12 @@
   },
   "links": [
     {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/zw0f-vm33",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
+    {
       "rel": "root",
       "href": "../../catalog.json",
       "type": "application/json",
@@ -285,14 +296,5 @@
     }
   },
   "datetime": "2025-06-06T00:00:00Z",
-  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
-  "providers": [
-    {
-      "name": "Center for Integrated Earth System Information - CIESIN - Columbia University",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided."
 }

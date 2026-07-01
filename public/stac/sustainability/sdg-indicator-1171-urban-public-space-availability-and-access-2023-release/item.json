@@ -42,7 +42,12 @@
     "title": "SDG Indicator 11.7.1: Urban Public Space, Availability and Access, 2023 Release",
     "description": "The SDG Indicator 11.7.1: Urban Public Space, Availability and Access, 2023 Release, part of the SDGI collection, measures the average share of the built-up area of a city that is open space for public use for all. UN SDG 11 is \"make cities and human settlements inclusive, safe, resilient and sustainable\". Aside from environmental benefits, public space can also help improve public health, bolster community, and encourage economic exchange. As one measure of progress towards SDG 11, the UN has established SDG indicator 11.7.1. The indicator was computed by measuring both the proportion of OpenStreetMap (OSM) public space within a given urban center and the proportion of WorldPop gridded population within 400 meters to Open Public Space (OPS). Cities were delineated using the European Commission Joint Research Centre (JRC) Urban Center Database (GHS-UCDB). The SDG indicator 11.7.1 data set provides estimates of the average share of the built-up area of cities that is open space for public use for all for 8,873 urban centers across 180 countries.",
     "purpose": "To provide urban center level estimates of the average share of the built-up area of cities that is open space for public use for all.",
+    "authors": "Center for International Earth Science Information Network - CIESIN - Columbia University",
+    "publishers": "NASA Socioeconomic Data and Applications Center (SEDAC)",
+    "place": "Palisades, NY",
+    "version": "2023.00",
     "doi": "https://doi.org/10.7927/eavc-4k45",
+    "citation": "Center for International Earth Science Information Network - CIESIN - Columbia University. 2023-09-05T00:00:00Z. SDG Indicator 11.7.1: Urban Public Space, Availability and Access, 2023 Release. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/eavc-4k45. Accessed [DAY MONTH YEAR].",
     "stac_category": "sustainability",
     "keywords": [
       "EARTH SCIENCE > HUMAN DIMENSIONS > INFRASTRUCTURE > GREEN INFRASTRUCTURE",
@@ -244,6 +249,12 @@
   },
   "links": [
     {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/eavc-4k45",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
+    {
       "rel": "root",
       "href": "../../catalog.json",
       "type": "application/json",
@@ -267,14 +278,5 @@
     }
   },
   "datetime": "2023-09-05T00:00:00Z",
-  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
-  "providers": [
-    {
-      "name": "Center for International Earth Science Information Network - CIESIN - Columbia University",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided."
 }

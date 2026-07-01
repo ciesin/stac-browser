@@ -42,7 +42,12 @@
     "title": "Poverty Mapping Project: Small Area Estimates of Poverty and Inequality",
     "description": "The Poverty Mapping Project: Small Area Estimates of Poverty and Inequality data set consists of consumption-based poverty, inequality and related measures for subnational administrative units in approximately twenty countries throughout Africa, Asia, Europe, North America, and South America. These measures are derived on a country-level basis from a combination of census and survey data using small area estimates techniques. The collection of data have been compiled, integrated and standardized from the original data providers into a unified spatially referenced and globally consistent data set. The data products include shapefiles (vector data), tabular data sets (csv format), and centroids (csv file with latitude and longitude of a geographic unit and associated poverty estimates). Additionally, a data catalog (xls format) containing detailed information and documentation is provided. This data set is produced by the Columbia University Center for International Earth Science Information Network (CIESIN) in collaboration with a number of external data providers.",
     "purpose": "To provide high spatial resolution subnational estimates of poverty and inequality for use by a wide user community for interdisciplinary studies of poverty, inequality and the environment.",
+    "authors": "Center for International Earth Science Information Network - CIESIN - Columbia University",
+    "publishers": "NASA Socioeconomic Data and Applications Center (SEDAC)",
+    "place": "Palisades, NY",
+    "version": "1.00",
     "doi": "https://doi.org/10.7927/H49P2ZKM",
+    "citation": "Center for International Earth Science Information Network - CIESIN - Columbia University. 2005-12-31T00:00:00Z. Poverty Mapping Project: Small Area Estimates of Poverty and Inequality. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H49P2ZKM. Accessed [DAY MONTH YEAR].",
     "stac_category": "health",
     "keywords": [
       "Country",
@@ -85,6 +90,12 @@
   },
   "links": [
     {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/H49P2ZKM",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
+    {
       "rel": "root",
       "href": "../../catalog.json",
       "type": "application/json",
@@ -108,14 +119,5 @@
     }
   },
   "datetime": "2005-12-31T00:00:00Z",
-  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
-  "providers": [
-    {
-      "name": "Center for International Earth Science Information Network - CIESIN - Columbia University",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided."
 }

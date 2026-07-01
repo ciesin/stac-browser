@@ -42,7 +42,12 @@
     "title": "HANPP Collection: Global Patterns in Net Primary Productivity (NPP)",
     "description": "The HANPP Collection: Global Patterns in Net Primary Productivity (NPP) maps the net amount of solar energy converted to plant organic matter through photosynthesis. NPP is measured in units of elemental carbon and represents the primary food energy source for the world's ecosystems.",
     "purpose": "To be utilized in conjunction with a data set of human appropriation of net primary productivity (HANPP) in order to understand global energy flows and localized impacts on the environment.",
+    "authors": "Imhoff, M.L., L. Bounoua, T. Ricketts, C. Loucks, R. Harriss, and W.T. Lawrence",
+    "publishers": "NASA Socioeconomic Data and Applications Center (SEDAC)",
+    "place": "Palisades, NY",
+    "version": "1.00",
     "doi": "https://doi.org/10.7927/H40Z715X",
+    "citation": "Imhoff, M.L., L. Bounoua, T. Ricketts, C. Loucks, R. Harriss, and W.T. Lawrence. 2004-12-31T00:00:00Z. HANPP Collection: Global Patterns in Net Primary Productivity (NPP). Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H40Z715X. Accessed [DAY MONTH YEAR].",
     "stac_category": "agriculture",
     "keywords": [
       "Environment",
@@ -60,6 +65,12 @@
     "dataset_type": "raster, map"
   },
   "links": [
+    {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/H40Z715X",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
     {
       "rel": "root",
       "href": "../../catalog.json",
@@ -84,14 +95,5 @@
     }
   },
   "datetime": "2004-12-31T00:00:00Z",
-  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
-  "providers": [
-    {
-      "name": "Imhoff, M.L., L. Bounoua, T. Ricketts, C. Loucks, R. Harriss, and W.T. Lawrence",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided."
 }

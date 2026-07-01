@@ -42,7 +42,12 @@
     "title": "2018 Environmental Performance Index (EPI)",
     "description": "The 2018 Environmental Performance Index (EPI) ranks 180 countries on 24 performance indicators in the following 10 issue categories: air quality, water and sanitation, heavy metals, biodiversity and habitat, forests, fisheries, climate and energy, air pollution, water resources, and agriculture. These categories track performance and progress on two broad policy objectives, environmental health and ecosystem vitality. The EPI's proximity-to-target methodology facilitates cross-country comparisons among economic and regional peer groups. The data set includes the 2018 EPI, component scores, and time-series source data. The 2018 EPI was formally released in Davos, Switzerland, at the annual meeting of the World Economic Forum in January 2018. It is the result of collaboration of the Yale Center for Environmental Law and Policy (YCELP), Yale University, Columbia University Center for International Earth Science Information Network (CIESIN), and the World Economic Forum (WEF). The Interactive Website for the 2018 EPI is at https://epi.envirocenter.yale.edu/.",
     "purpose": "To provide quantitative metrics for evaluating a country's environmental performance in different policy categories relative to clearly defined targets.",
+    "authors": "Yale Center for Environmental Law and Policy - YCELP - Yale University, Yale Data-Driven Environmental Solutions Group - Yale University, Center for International Earth Science Information Network - CIESIN - Columbia University, and World Economic Forum - WEF",
+    "publishers": "Yale Center for Environmental Law and Policy (YCELP)/Yale University",
+    "place": "New Haven, CT",
+    "version": "2018.00",
     "doi": "https://doi.org/10.7927/H4X928CF",
+    "citation": "Yale Center for Environmental Law and Policy - YCELP - Yale University, Yale Data-Driven Environmental Solutions Group - Yale University, Center for International Earth Science Information Network - CIESIN - Columbia University, and World Economic Forum - WEF. 2018-10-04T00:00:00Z. 2018 Environmental Performance Index (EPI). New Haven, CT: Yale Center for Environmental Law and Policy (YCELP)/Yale University. https://doi.org/10.7927/H4X928CF. Accessed [DAY MONTH YEAR].",
     "stac_category": "agriculture",
     "keywords": [
       "EARTH SCIENCE > HUMAN DIMENSIONS > SUSTAINABILITY > ENVIRONMENTAL SUSTAINABILITY",
@@ -252,6 +257,12 @@
   },
   "links": [
     {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/H4X928CF",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
+    {
       "rel": "root",
       "href": "../../catalog.json",
       "type": "application/json",
@@ -275,14 +286,5 @@
     }
   },
   "datetime": "2018-10-04T00:00:00Z",
-  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
-  "providers": [
-    {
-      "name": "Yale Center for Environmental Law and Policy - YCELP - Yale University, Yale Data-Driven Environmental Solutions Group - Yale University, Center for International Earth Science Information Network - CIESIN - Columbia University, and World Economic Forum - WEF",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided."
 }

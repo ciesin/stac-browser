@@ -42,7 +42,12 @@
     "title": "Sea Level Rise Impacts on Ramsar Wetlands of International Importance",
     "description": "The Sea Level Rise Impacts on Ramsar Wetlands of International Importance data set represents the results of an analysis using the boundaries for Ramsar sites designated under the Ramsar Convention on Wetlands and intersecting them with different elevation zones in the coastal zone to assess area and percent area that would become inundated under 1 and 2 meter sea level rise scenarios. This data set provides results for 613 sites with defined boundaries that were found to intersect with the 0-5m above mean sea level coastal zone, defined by NASA Shuttle Radar Topography Mission (SRTM) elevation data. In addition to assessing the degree of risk of inundation, the data set provides population density and percent of land that is urban within the site and within 1km and 5km buffers surrounding the site. The data set also reports on infant mortality rates within 1km and 5km buffers around the site, as a measure of poverty levels that may affect adaptive capacity.",
     "purpose": "To provide a preliminary assessment of coastal Ramsar Sites that are at risk to inundation as a consequence of sea level rise.",
+    "authors": "Center for International Earth Science Information Network - CIESIN - Columbia University",
+    "publishers": "NASA Socioeconomic Data and Applications Center (SEDAC)",
+    "place": "Palisades, NY",
+    "version": "1.00",
     "doi": "https://doi.org/10.7927/H4CC0XMD",
+    "citation": "Center for International Earth Science Information Network - CIESIN - Columbia University. 2013-11-14T00:00:00Z. Sea Level Rise Impacts on Ramsar Wetlands of International Importance. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4CC0XMD. Accessed [DAY MONTH YEAR].",
     "stac_category": "climate",
     "keywords": [
       "Country",
@@ -182,6 +187,12 @@
   },
   "links": [
     {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/H4CC0XMD",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
+    {
       "rel": "root",
       "href": "../../catalog.json",
       "type": "application/json",
@@ -205,14 +216,5 @@
     }
   },
   "datetime": "2013-11-14T00:00:00Z",
-  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
-  "providers": [
-    {
-      "name": "Center for International Earth Science Information Network - CIESIN - Columbia University",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided."
 }

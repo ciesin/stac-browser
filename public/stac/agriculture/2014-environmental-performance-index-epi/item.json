@@ -42,7 +42,12 @@
     "title": "2014 Environmental Performance Index (EPI)",
     "description": "The 2014 Environmental Performance Index (EPI) ranks 178 countries on 20 performance indicators in the following 9 policy categories: health impacts, air quality, water and sanitation, water resources, agriculture, forests, fisheries, biodiversity and habitat, and climate and energy. These categories track performance and progress on two broad policy objectives, environmental health and ecosystem vitality. The EPI's proximity-to-target methodology facilitates cross-country comparisons among economic and regional peer groups. The data set includes the 2014 EPI and component scores, backcast EPI scores for 2002-2012, and time-series source data. The 2014 EPI was formally released in Davos, Switzerland, at the annual meeting of the World Economic Forum on January 25, 2014. These are the result of collaboration between the Yale Center for Environmental Law and Policy (YCELP) and the Columbia University Center for International Earth Science Information Network (CIESIN). The Interactive Website for the 2014 EPI is at http://epi.yale.edu/.",
     "purpose": "To provide quantitative metrics for evaluating a country's environmental performance in different policy categories relative to clearly defined targets.",
+    "authors": "Yale Center for Environmental Law and Policy - YCELP - Yale University, Center for International Earth Science Information Network - CIESIN - Columbia University, and World Economic Forum - WEF",
+    "publishers": "Yale Center for Environmental Law and Policy (YCELP)/Yale University",
+    "place": "New Haven, CT",
+    "version": "2014.00",
     "doi": "https://doi.org/10.7927/H4416V05",
+    "citation": "Yale Center for Environmental Law and Policy - YCELP - Yale University, Center for International Earth Science Information Network - CIESIN - Columbia University, and World Economic Forum - WEF. 2014-04-17T00:00:00Z. 2014 Environmental Performance Index (EPI). New Haven, CT: Yale Center for Environmental Law and Policy (YCELP)/Yale University. https://doi.org/10.7927/H4416V05. Accessed [DAY MONTH YEAR].",
     "stac_category": "agriculture",
     "keywords": [
       "Agriculture",
@@ -245,6 +250,12 @@
   },
   "links": [
     {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/H4416V05",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
+    {
       "rel": "root",
       "href": "../../catalog.json",
       "type": "application/json",
@@ -268,14 +279,5 @@
     }
   },
   "datetime": "2014-04-17T00:00:00Z",
-  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
-  "providers": [
-    {
-      "name": "Yale Center for Environmental Law and Policy - YCELP - Yale University, Center for International Earth Science Information Network - CIESIN - Columbia University, and World Economic Forum - WEF",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided."
 }

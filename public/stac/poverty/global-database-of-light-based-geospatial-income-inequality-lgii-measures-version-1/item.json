@@ -42,7 +42,12 @@
     "title": "Global Database of Light-based Geospatial Income Inequality (LGII) Measures, Version 1",
     "description": "The Global Database of Light-based Geospatial Income Inequality (LGII) Measures, Version 1 data set contains Gini-coefficients of inequality for 234 countries and territories from 1992 to 2013. The measurement unit is the Gini-Coefficient (Range: 0-1), with higher values representing higher inequality. These measures are constructed using worldwide geospatial satellite data on nighttime lights emission as a proxy for economic prosperity, matched with varying sources of data on geo-located population counts. The nighttime lights data were supplied by the National Oceanic and Atmospheric Administration (NOAA), National Centers for Environmental Information (NCEI), Earth Observation Group (EOG), and Operational Linescan System (OLS) instruments. The population data used consisted of CIESIN's Gridded Population of the World (GPW) collection, and the Oak Ridge National Laboratory (ORNL) LandScan (LSC) data set. The nighttime lights and population data were combined to produce an array of geospatially-informed Gini-coefficients, which were then weighted to optimize their correlation with a benchmark - specifically, the Standardized World Income Inequality Database (SWIID), to generate a parsimonious composite inequality metric.",
     "purpose": "To provide a database of inequality measures using satellite and population data at a global scale.",
+    "authors": "Galimberti, J. K., S. Pichler, and R. Pleninger",
+    "publishers": "NASA Socioeconomic Data and Applications Center (SEDAC)",
+    "place": "Palisades, NY",
+    "version": "1.00",
     "doi": "https://doi.org/10.7927/kd8b-2376",
+    "citation": "Galimberti, J. K., S. Pichler, and R. Pleninger. 2023-12-11T00:00:00Z. Global Database of Light-based Geospatial Income Inequality (LGII) Measures, Version 1. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/kd8b-2376. Accessed [DAY MONTH YEAR].",
     "stac_category": "poverty",
     "keywords": [
       "Poverty",
@@ -57,6 +62,12 @@
     "dataset_type": "tabular"
   },
   "links": [
+    {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/kd8b-2376",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
     {
       "rel": "root",
       "href": "../../catalog.json",
@@ -81,14 +92,5 @@
     }
   },
   "datetime": "2023-12-11T00:00:00Z",
-  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
-  "providers": [
-    {
-      "name": "Galimberti, J. K., S. Pichler, and R. Pleninger",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided."
 }

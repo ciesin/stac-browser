@@ -42,7 +42,12 @@
     "title": "Africa Climate Mobility Initiative (ACMI): Internal Migration Projections",
     "description": "The Africa Climate Mobility Initiative (ACMI) Internal Migration Projections project internal migration flows at 5-year intervals from 2020 to 2050 for a combination of 2 sets of Shared Socioeconomic Pathways (SSPs) scenarios and 3 sets of Representative Concentration Pathways (RCPs) scenarios. The unit of analysis is 7.5 arc-minutes, covering the entire African continent (approximately 15 km at the equator). These grid cells are drawn using a vector representation, and not a tessellation of grid cells (rasters). While the calibration and projection took place at a grid cell resolution of 2.5 arc-minutes, these data have been aggregated to a 7.5 arc-minute resolution. These data underpin the African Shifts Report, produced by the ACMI and enabled by the Global Centre for Climate Mobility (GCCM). The ACMI was launched in September 2021 as a joint initiative of the GCCM, the African Union Commission (AUC), the United Nations System (UN), and the World Bank.",
     "purpose": "To provide data on future internal migration projections for the African continent, including future impacts of climate change on migration.",
+    "authors": "CUNY Institute for Demographic Research - CIDR - City University of New York, Center for Integrated Earth System Information - CIESIN -  Columbia University, and Global Centre for Climate Mobility - GCCM",
+    "publishers": "NASA Socioeconomic Data and Applications Center (SEDAC)",
+    "place": "Palisades, NY",
+    "version": "1.00",
     "doi": "https://doi.org/10.7927/5tv3-ff20",
+    "citation": "CUNY Institute for Demographic Research - CIDR - City University of New York, Center for Integrated Earth System Information - CIESIN -  Columbia University, and Global Centre for Climate Mobility - GCCM. 2025-02-03T00:00:00Z. Africa Climate Mobility Initiative (ACMI): Internal Migration Projections. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/5tv3-ff20. Accessed [DAY MONTH YEAR].",
     "stac_category": "population",
     "keywords": [
       "Continent",
@@ -110,6 +115,12 @@
   },
   "links": [
     {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/5tv3-ff20",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
+    {
       "rel": "root",
       "href": "../../catalog.json",
       "type": "application/json",
@@ -133,14 +144,5 @@
     }
   },
   "datetime": "2025-02-03T00:00:00Z",
-  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
-  "providers": [
-    {
-      "name": "CUNY Institute for Demographic Research - CIDR - City University of New York, Center for Integrated Earth System Information - CIESIN -  Columbia University, and Global Centre for Climate Mobility - GCCM",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided."
 }

@@ -42,7 +42,12 @@
     "title": "U.S. Census Grids (Summary File 1), 2000: Metropolitan Statistical Areas",
     "description": "U.S. Census Grids (Summary File 1), 2000: Metropolitan Statistical Areas contain grids of demographic and socioeconomic data from the year 2000 U.S. census in ASCII and geotiff formats for 50 metropolitan statistical areas with at least one million in population. The grids have a resolution of 7.5 arc-seconds (0.002075 decimal degrees), or approximately 250 square meters. The gridded variables are based on census block geography from Census 2000 TIGER/Line Files and census variables (population, households, and housing variables). This data set is produced by the Columbia University Center for International Earth Science Information Network (CIESIN).",
     "purpose": "To provide gridded demographic data, including characteristics of age, race, ethnicity, and housing, for metropolitan statistical areas at a finer resolution than is available in the 30 arc-second grids used for the United States as a whole.",
+    "authors": "Seirup, L., and G. Yetman",
+    "publishers": "NASA Socioeconomic Data and Applications Center (SEDAC)",
+    "place": "Palisades, NY",
+    "version": "1.00",
     "doi": "https://doi.org/10.7927/H46H4FBC",
+    "citation": "Seirup, L., and G. Yetman. 2006-05-31T00:00:00Z. U.S. Census Grids (Summary File 1), 2000: Metropolitan Statistical Areas. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H46H4FBC. Accessed [DAY MONTH YEAR].",
     "stac_category": "population",
     "keywords": [
       "City",
@@ -199,6 +204,12 @@
   },
   "links": [
     {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/H46H4FBC",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
+    {
       "rel": "root",
       "href": "../../catalog.json",
       "type": "application/json",
@@ -222,14 +233,5 @@
     }
   },
   "datetime": "2006-05-31T00:00:00Z",
-  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
-  "providers": [
-    {
-      "name": "Seirup, L., and G. Yetman",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided."
 }

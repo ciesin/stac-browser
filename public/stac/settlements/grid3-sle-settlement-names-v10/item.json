@@ -42,7 +42,12 @@
     "title": "GRID3 SLE - Settlement Names v1.0",
     "description": "The data are provided in geodatabase file formats.   \n\nFile name: GRID3_SLE_settlement_names_v1.0.gdb with the following layers:\n\n- GRID3_SLE_settlement_names_v1.0\n- codebook_settlement_names\n\nExtent: Sierra Leone\n\nCoordinate system: GCS WGS 1984 \n\nFor full methodological details, please see data release notes available for download\u00a0here.Download the data as a\u00a0zip file.\n\nDataset citation:\n\nCenter for International Earth Science Information Network (CIESIN), Columbia University, Statistics Sierra Leone, and Sierra Leone Ministry of Basic and Senior Secondary Education. 2023. GRID3 SLE - Settlement Names v1. 0. New York: Geo-Referenced Infrastructure and Demographic Data for Development (GRID3). https://doi.org/10.7916/bxa4-bv46. Accessed DAY MONTH YEAR",
     "purpose": "The GRID3 SLE - Settlement Names v1.0 dataset consists of settlement points with name, and location in Sierra Leone.",
+    "authors": "Center for International Earth Science Information Network (CIESIN)",
+    "publishers": "Center for International Earth Science Information Network (CIESIN)",
+    "place": "Palisades, NY",
+    "version": "Version1.0",
     "doi": "https://doi.org/10.7916/bxa4-bv46",
+    "citation": "Center for International Earth Science Information Network (CIESIN). 2023-09-25T00:00:00Z. GRID3 SLE - Settlement Names v1.0. Palisades, NY: Center for International Earth Science Information Network (CIESIN). https://doi.org/10.7916/bxa4-bv46. Accessed [DAY MONTH YEAR].",
     "stac_category": "settlements",
     "keywords": [
       "Sierra Leone",
@@ -56,6 +61,12 @@
     "dataset_type": null
   },
   "links": [
+    {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7916/bxa4-bv46",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
     {
       "rel": "root",
       "href": "../../catalog.json",
@@ -88,14 +99,5 @@
     }
   },
   "datetime": "2023-09-25T00:00:00Z",
-  "license": "Terms of Use\n\nUsers are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.\n\nThe data and accompanying document are licensed under a Creative Commons Attribution 4.0 International License, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0) and specified in legal code (https://creativecommons.org/licenses/by/4.0/legalcode).\n\nCopyright 2023. The Trustees of Columbia University in the City of New York.\n\nCIESIN, Columbia University follows procedures designed to ensure that data disseminated by the project are of reasonable quality. If, despite these procedures, users encounter apparent errors or misstatements in the data, they should contact CIESIN at info@ciesin.columbia.edu. Suggested edits and feedback including errors and/or omissions are welcome, and will be reviewed and incorporated into subsequent versions of the dataset. \n\nCIESIN, Columbia University, and their sponsors do not guarantee the accuracy, reliability, or completeness of any data provided. We provide these data without warranty of any kind whatsoever, either expressed or implied, and shall not be liable for incidental, consequential, or special damages arising out of the use of any data provided.",
-  "providers": [
-    {
-      "name": "Center for International Earth Science Information Network (CIESIN)",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "Terms of Use\n\nUsers are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.\n\nThe data and accompanying document are licensed under a Creative Commons Attribution 4.0 International License, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0) and specified in legal code (https://creativecommons.org/licenses/by/4.0/legalcode).\n\nCopyright 2023. The Trustees of Columbia University in the City of New York.\n\nCIESIN, Columbia University follows procedures designed to ensure that data disseminated by the project are of reasonable quality. If, despite these procedures, users encounter apparent errors or misstatements in the data, they should contact CIESIN at info@ciesin.columbia.edu. Suggested edits and feedback including errors and/or omissions are welcome, and will be reviewed and incorporated into subsequent versions of the dataset. \n\nCIESIN, Columbia University, and their sponsors do not guarantee the accuracy, reliability, or completeness of any data provided. We provide these data without warranty of any kind whatsoever, either expressed or implied, and shall not be liable for incidental, consequential, or special damages arising out of the use of any data provided."
 }

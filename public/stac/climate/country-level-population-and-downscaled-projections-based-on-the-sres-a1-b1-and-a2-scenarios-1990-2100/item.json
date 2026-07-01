@@ -42,7 +42,12 @@
     "title": "Country-Level Population and Downscaled Projections Based on the SRES A1, B1, and A2 Scenarios, 1990-2100",
     "description": "The Country-Level Population and Downscaled Projections Based on Special Report on Emissions Scenarios (SRES) A1, B1, and A2 Scenarios, 1990-2100, were adopted in 2000 from population projections realized at the International Institute for Applied Systems Analysis (IIASA) in 1996. The Intergovernmental Panel on Climate Change (IPCC) SRES A1 and B1 scenarios both used the same IIASA \"rapid\" fertility transition projection, which assumes low fertility and low mortality rates. The SRES A2 scenario used a corresponding IIASA \"slow\" fertility transition projection (high fertility and high mortality rates). Both IIASA low and high projections are performed for 13 world regions including North Africa, Sub-Saharan Africa, China and Centrally Planned Asia, Pacific Asia, Pacific OECD, Central Asia, Middle East, South Asia, Eastern Europe, European part of the former Soviet Union, Western Europe, Latin America, and North America. This data set is produced and distributed by the Columbia University Center for International Earth Science Information Network (CIESIN).",
     "purpose": "To provide data on country-level population and downscaled projections based on the SRES A1, B1, and A2 marker scenarios.",
+    "authors": "Gaffin, S.R., X. Xing, and G. Yetman",
+    "publishers": "NASA Socioeconomic Data and Applications Center (SEDAC)",
+    "place": "Palisades, NY",
+    "version": "1.00",
     "doi": "https://doi.org/10.7927/H4T43R01",
+    "citation": "Gaffin, S.R., X. Xing, and G. Yetman. 2002-07-31T00:00:00Z. Country-Level Population and Downscaled Projections Based on the SRES A1, B1, and A2 Scenarios, 1990-2100. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4T43R01. Accessed [DAY MONTH YEAR].",
     "stac_category": "climate",
     "keywords": [
       "Climate",
@@ -245,6 +250,12 @@
   },
   "links": [
     {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/H4T43R01",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
+    {
       "rel": "root",
       "href": "../../catalog.json",
       "type": "application/json",
@@ -268,14 +279,5 @@
     }
   },
   "datetime": "2002-07-31T00:00:00Z",
-  "license": "The Trustees of Columbia University in the City of New York hold the copyright of this data set. Users are prohibited from any commercial, non-free resale, or redistribution without explicit written permission from CIESIN. Users should acknowledge CIESIN as the source used in the creation of any reports, publications, new data sets, derived products, or services resulting from the use of this data set. CIESIN also requests reprints of any publications and notification of any redistributing efforts.",
-  "providers": [
-    {
-      "name": "Gaffin, S.R., X. Xing, and G. Yetman",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "The Trustees of Columbia University in the City of New York hold the copyright of this data set. Users are prohibited from any commercial, non-free resale, or redistribution without explicit written permission from CIESIN. Users should acknowledge CIESIN as the source used in the creation of any reports, publications, new data sets, derived products, or services resulting from the use of this data set. CIESIN also requests reprints of any publications and notification of any redistributing efforts."
 }

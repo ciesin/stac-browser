@@ -42,7 +42,12 @@
     "title": "Gridded Population of the World, Version 3 (GPWv3): Subnational Administrative Boundaries",
     "description": "The Gridded Population of the World, Version 3 (GPWv3): Subnational Administrative Boundaries are the basis of the population data products in GPWv3. Due to copyright restrictions, only maps of the subnational administrative boundaries are available, the underlying data cannot be released. GPWv3 is produced by the Columbia University Center for International Earth Science Information Network (CIESIN) in collaboration with Centro Internacional de Agricultura Tropical (CIAT).",
     "purpose": "To provide maps of the input administrative units used in GPWv3.",
+    "authors": "Center for International Earth Science Information Network - CIESIN - Columbia University, and Centro Internacional de Agricultura Tropical - CIAT",
+    "publishers": "NASA Socioeconomic Data and Applications Center (SEDAC)",
+    "place": "Palisades, NY",
+    "version": "3.00",
     "doi": "https://doi.org/10.7927/H4P26W1B",
+    "citation": "Center for International Earth Science Information Network - CIESIN - Columbia University, and Centro Internacional de Agricultura Tropical - CIAT. 2005-12-31T00:00:00Z. Gridded Population of the World, Version 3 (GPWv3): Subnational Administrative Boundaries. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4P26W1B. Accessed [DAY MONTH YEAR].",
     "stac_category": "boundaries",
     "keywords": [
       "Country",
@@ -286,6 +291,12 @@
   },
   "links": [
     {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/H4P26W1B",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
+    {
       "rel": "root",
       "href": "../../catalog.json",
       "type": "application/json",
@@ -309,14 +320,5 @@
     }
   },
   "datetime": "2005-12-31T00:00:00Z",
-  "license": "The Trustees of Columbia University in the City of New York and the Centro Internacional de Agricultura Tropical (CIAT) hold the copyright of this data set. Users are prohibited from any commercial, non-free resale, or redistribution without explicit written permission from CIESIN and CIAT. Users should acknowledge CIESIN and CIAT as the source used in the creation of any reports, publications, new data sets, derived products, or services resulting from the use of this data set. CIESIN and CIAT also request reprints of any publications and notification of any redistributing efforts.",
-  "providers": [
-    {
-      "name": "Center for International Earth Science Information Network - CIESIN - Columbia University, and Centro Internacional de Agricultura Tropical - CIAT",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "The Trustees of Columbia University in the City of New York and the Centro Internacional de Agricultura Tropical (CIAT) hold the copyright of this data set. Users are prohibited from any commercial, non-free resale, or redistribution without explicit written permission from CIESIN and CIAT. Users should acknowledge CIESIN and CIAT as the source used in the creation of any reports, publications, new data sets, derived products, or services resulting from the use of this data set. CIESIN and CIAT also request reprints of any publications and notification of any redistributing efforts."
 }

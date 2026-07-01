@@ -42,7 +42,12 @@
     "title": "U.S. Population Grids (Summary File 1), 2000: Alabama, Louisiana, Mississippi and Texas, Alpha Version",
     "description": "The U.S. Population Grids (Summary File 1), 2000: Alabama, Louisiana, Mississippi and Texas, Alpha Version data set contains an ARC/INFO Workspace with grids of demographic data from the year 2000 census. The grids have a resolution of 30 arc-seconds (0.0083 decimal degrees), or approximately 1 square km. The gridded variables are based on census block geography from Census 2000 TIGER/Line Files and census variables (population, households, and housing variables). This data set is produced by the Columbia University Center for International Earth Science Information Network (CIESIN).",
     "purpose": "To provide gridded demographic data, including characteristics of age, race, ethnicity, and housing, for Alabama, Louisiana, Mississippi and Texas.",
+    "authors": "Seirup, L., and G. Yetman",
+    "publishers": "NASA Socioeconomic Data and Applications Center (SEDAC)",
+    "place": "Palisades, NY",
+    "version": "alpha",
     "doi": "https://doi.org/10.7927/H400001D",
+    "citation": "Seirup, L., and G. Yetman. 2005-09-13T00:00:00Z. U.S. Population Grids (Summary File 1), 2000: Alabama, Louisiana, Mississippi and Texas, Alpha Version. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H400001D. Accessed [DAY MONTH YEAR].",
     "stac_category": "hazards",
     "keywords": [
       "Boundaries",
@@ -62,6 +67,12 @@
     "dataset_type": "raster"
   },
   "links": [
+    {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/H400001D",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
     {
       "rel": "root",
       "href": "../../catalog.json",
@@ -86,14 +97,5 @@
     }
   },
   "datetime": "2005-09-13T00:00:00Z",
-  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
-  "providers": [
-    {
-      "name": "Seirup, L., and G. Yetman",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided."
 }

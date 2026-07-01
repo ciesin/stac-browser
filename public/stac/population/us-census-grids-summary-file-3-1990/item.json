@@ -42,7 +42,12 @@
     "title": "U.S. Census Grids (Summary File 3), 1990",
     "description": "The U.S. Census Grids (Summary File 3), 1990 data set contains grids of demographic and socioeconomic data from the year 1990 U.S. census in ASCII and GeoTIFF formats. The grids have a resolution of 30 arc-seconds (0.0083 decimal degrees), or approximately 1 square km. The gridded variables are based on census block geography from Census 1990 TIGER/Line Files and census variables (population, households, and housing variables). This data set is produced by the Columbia University Center for International Earth Science Information Network (CIESIN).",
     "purpose": "To provide gridded demographic data, including characteristics of income, education, and housing, for the United States  for data integration.",
+    "authors": "Seirup, L., G. Yetman, and L. Razafindrazay",
+    "publishers": "NASA Socioeconomic Data and Applications Center (SEDAC)",
+    "place": "Palisades, NY",
+    "version": "1.00",
     "doi": "https://doi.org/10.7927/H4JS9NC2",
+    "citation": "Seirup, L., G. Yetman, and L. Razafindrazay. 2013-05-17T00:00:00Z. U.S. Census Grids (Summary File 3), 1990. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4JS9NC2. Accessed [DAY MONTH YEAR].",
     "stac_category": "population",
     "keywords": [
       "Population",
@@ -110,6 +115,12 @@
   },
   "links": [
     {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/H4JS9NC2",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
+    {
       "rel": "root",
       "href": "../../catalog.json",
       "type": "application/json",
@@ -133,14 +144,5 @@
     }
   },
   "datetime": "2013-05-17T00:00:00Z",
-  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
-  "providers": [
-    {
-      "name": "Seirup, L., G. Yetman, and L. Razafindrazay",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided."
 }

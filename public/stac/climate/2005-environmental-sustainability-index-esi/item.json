@@ -42,7 +42,12 @@
     "title": "2005 Environmental Sustainability Index (ESI)",
     "description": "The 2005 Environmental Sustainability Index (ESI) is a measure of overall progress towards environmental sustainability, developed for 146 countries.  The index provides a composite profile of national environmental stewardship based on a compilation of 21 indicators derived from 76 underlying data sets. The 2005 version of the ESI represents a significant update and improvement on earlier versions; the country ESI scores or rankings should not be compared to earlier versions because of changes to the methodology and underlying data. The index was unveiled at the World Economic Forum's annual meeting, January 2005, Davos, Switzerland. The 2005 ESI is a joint product of the Yale Center for Environmental Law and Policy (YCELP) and the Columbia University Center for International Earth Science Information Network (CIESIN), in collaboration with the World Economic Forum (WEF) and the Joint Research Centre (JRC), European Commission.",
     "purpose": "To create a comparative index of national-level environmental sustainability and to provide a mechanism for making environmental management more quantitative, empirically grounded and systematic.",
+    "authors": "Yale Center for Environmental Law and Policy - YCELP - Yale University, Center for International Earth Science Information Network - CIESIN - Columbia University, World Economic Forum - WEF, and Joint Research Centre - JRC - European Commission",
+    "publishers": "Yale Center for Environmental Law and Policy (YCELP)/Yale University",
+    "place": "New Haven, CT",
+    "version": "2005.00",
     "doi": "https://doi.org/10.7927/H40V89R6",
+    "citation": "Yale Center for Environmental Law and Policy - YCELP - Yale University, Center for International Earth Science Information Network - CIESIN - Columbia University, World Economic Forum - WEF, and Joint Research Centre - JRC - European Commission. 2005-12-31T00:00:00Z. 2005 Environmental Sustainability Index (ESI). New Haven, CT: Yale Center for Environmental Law and Policy (YCELP)/Yale University. https://doi.org/10.7927/H40V89R6. Accessed [DAY MONTH YEAR].",
     "stac_category": "climate",
     "keywords": [
       "Country",
@@ -211,6 +216,12 @@
   },
   "links": [
     {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/H40V89R6",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
+    {
       "rel": "root",
       "href": "../../catalog.json",
       "type": "application/json",
@@ -234,14 +245,5 @@
     }
   },
   "datetime": "2005-12-31T00:00:00Z",
-  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
-  "providers": [
-    {
-      "name": "Yale Center for Environmental Law and Policy - YCELP - Yale University, Center for International Earth Science Information Network - CIESIN - Columbia University, World Economic Forum - WEF, and Joint Research Centre - JRC - European Commission",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided."
 }

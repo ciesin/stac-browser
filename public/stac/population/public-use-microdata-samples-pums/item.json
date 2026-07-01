@@ -42,7 +42,12 @@
     "title": "Public Use Microdata Samples (PUMS)",
     "description": "The Public Use Microdata Samples (PUMS) are computer-accessible files containing records for a sample of housing units, with information on the characteristics of each housing unit and the people in it for 1940-1990. Within the limits of sample size and geographical detail, these files allow users to prepare virtually any tabulations they require. Each datafile is documented in a codebook containing a data dictionary and supporting appendix information. Electronic versions for the codebooks are only available for the 1980 and 1990 datafiles. Identifying information has been removed to protect the confidentiality of the respondents. PUMS is produced by the United States Census Bureau (USCB) and is distributed by USCB, Inter-university Consortium for Political and Social Research (ICPSR), and Columbia University Center for International Earth Science Information Network (CIESIN).",
     "purpose": "To provide US housing and related data for demographic analysis; The samples can be extended to analysis of the whole United States for many purposes. Comparative analysis across different groups is possible using the PUMS data.",
+    "authors": "United States Census Bureau - USCB",
+    "publishers": "United States Census Bureau (USCB)",
+    "place": "Washington, DC",
+    "version": "1.00",
     "doi": "https://doi.org/10.7927/H41V5BWK",
+    "citation": "United States Census Bureau - USCB. 1990-12-31T00:00:00Z. Public Use Microdata Samples (PUMS). Washington, DC: United States Census Bureau (USCB). https://doi.org/10.7927/H41V5BWK. Accessed [DAY MONTH YEAR].",
     "stac_category": "population",
     "keywords": [
       "Country",
@@ -59,6 +64,12 @@
     "dataset_type": "tabular"
   },
   "links": [
+    {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/H41V5BWK",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
     {
       "rel": "root",
       "href": "../../catalog.json",
@@ -83,14 +94,5 @@
     }
   },
   "datetime": "1990-12-31T00:00:00Z",
-  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
-  "providers": [
-    {
-      "name": "United States Census Bureau - USCB",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided."
 }

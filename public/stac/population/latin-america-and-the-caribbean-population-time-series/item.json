@@ -42,7 +42,12 @@
     "title": "Latin America and the Caribbean Population Time Series",
     "description": "The Latin America and the Caribbean Population Time Series data set provides total population estimates using spatially consistent and comparable units for Latin American municipalities or equivalent administrative units for the years 1990 and 2000. The data set consists of two vector polygon layers: one layer displays population estimates for subnational administrative units in 1990 and 2000, including population counts, density, and percent change, at the municipality level or equivalent (level 2); a second layer summarizes this information at the country level (level 0).",
     "purpose": "To describe changing population distribution and growth in Latin America and the Caribbean using spatially consistent and comparable units at a spatial resolution suitable to regional change analysis.",
+    "authors": "Center for International Earth Science Information Network - CIESIN - Columbia University and University of Puerto Rico - UPR - Rio Piedras",
+    "publishers": "NASA Socioeconomic Data and Applications Center (SEDAC)",
+    "place": "Palisades, NY",
+    "version": "1.00",
     "doi": "https://doi.org/10.7927/H4R78C4K",
+    "citation": "Center for International Earth Science Information Network - CIESIN - Columbia University and University of Puerto Rico - UPR - Rio Piedras. 2020-02-14T00:00:00Z. Latin America and the Caribbean Population Time Series. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4R78C4K. Accessed [DAY MONTH YEAR].",
     "stac_category": "population",
     "keywords": [
       "EARTH SCIENCE > HUMAN DIMENSIONS > POPULATION",
@@ -105,6 +110,12 @@
   },
   "links": [
     {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/H4R78C4K",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
+    {
       "rel": "root",
       "href": "../../catalog.json",
       "type": "application/json",
@@ -128,14 +139,5 @@
     }
   },
   "datetime": "2020-02-14T00:00:00Z",
-  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for non-commercial purposes, without restriction, as long as clear attribution of the source is provided and all distributions carry the same share-alike provision.",
-  "providers": [
-    {
-      "name": "Center for International Earth Science Information Network - CIESIN - Columbia University and University of Puerto Rico - UPR - Rio Piedras",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for non-commercial purposes, without restriction, as long as clear attribution of the source is provided and all distributions carry the same share-alike provision."
 }

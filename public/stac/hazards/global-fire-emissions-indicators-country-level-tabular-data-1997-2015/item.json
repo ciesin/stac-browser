@@ -42,7 +42,12 @@
     "title": "Global Fire Emissions Indicators, Country-Level Tabular Data: 1997-2015",
     "description": "The Global Fire Emissions Indicators, Country-Level Tabular Data: 1997-2015 contains country tabulations from 1997 to 2015 for the total area burned (hectares) and total carbon content (tons). The annual total area burned is for all fire types per country. There are two groups of total carbon content (TCC), annual totals for all six fire types per country and annual totals for each of six fire types per country which include Agricultural, Boreal, Tropical Deforestation, Peat, Savanna, and Temperate forest fires.",
     "purpose": "To provide data that can be used to calculate trace gas and aerosol emissions due to fires; monitor and assess national efforts to manage emissions.",
+    "authors": "Center for International Earth Science Information Network - CIESIN - Columbia University",
+    "publishers": "NASA Socioeconomic Data and Applications Center (SEDAC)",
+    "place": "Palisades, NY",
+    "version": "1.00",
     "doi": "https://doi.org/10.7927/H4V69GJ5",
+    "citation": "Center for International Earth Science Information Network - CIESIN - Columbia University. 2018-02-23T00:00:00Z. Global Fire Emissions Indicators, Country-Level Tabular Data: 1997-2015. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4V69GJ5. Accessed [DAY MONTH YEAR].",
     "stac_category": "hazards",
     "keywords": [
       "EARTH SCIENCE > ATMOSPHERE > AIR QUALITY > EMISSIONS",
@@ -295,6 +300,12 @@
   },
   "links": [
     {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/H4V69GJ5",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
+    {
       "rel": "root",
       "href": "../../catalog.json",
       "type": "application/json",
@@ -318,14 +329,5 @@
     }
   },
   "datetime": "2018-02-23T00:00:00Z",
-  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
-  "providers": [
-    {
-      "name": "Center for International Earth Science Information Network - CIESIN - Columbia University",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided."
 }

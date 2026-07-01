@@ -42,7 +42,12 @@
     "title": "Global Urban Polygons and Points Dataset (GUPPD), Version 1",
     "description": "The Global Urban Polygons and Points Dataset (GUPPD), Version 1 is a global data set of 123,034 urban settlements with place names and population for the years 1975-2030 in five-year increments. The data set builds on and expands the European Commission, Joint Research Centre's (JRC) 2015 Global Human Settlement (GHS) Urban Centre Database (UCDB). The JRC Settlement Model (GHS-SMOD) data set includes a hierarchy of urban settlements, from urban centre (level 30), to dense urban cluster (level 23), to semi-dense urban cluster (level 22). The UCDB only includes level 30, whereas the GUPPDv1 adds levels 23 and 22, and uses open data sources to both check and validate the names that JRC assigned to its UCDB polygons and to label the newly added settlements. The methodology described in the documentation was able to consistently label a greater percentage of UCDB polygons than were previously labeled by JRC.",
     "purpose": "To validate and expand upon JRC's Urban Centre Database (UCDB) to provide place names and population data for settlements around the world.",
+    "authors": "Center for International Earth Science Information Network - CIESIN - Columbia University, and Joint Research Centre - JRC - European Commission",
+    "publishers": "NASA Socioeconomic Data and Applications Center (SEDAC)",
+    "place": "Palisades, NY",
+    "version": "1.00",
     "doi": "https://doi.org/10.7927/brq1-xc29",
+    "citation": "Center for International Earth Science Information Network - CIESIN - Columbia University, and Joint Research Centre - JRC - European Commission. 2024-07-10T00:00:00Z. Global Urban Polygons and Points Dataset (GUPPD), Version 1. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/brq1-xc29. Accessed [DAY MONTH YEAR].",
     "stac_category": "infrastructure",
     "keywords": [
       "Infrastructure",
@@ -60,6 +65,12 @@
     "dataset_type": "vector, map"
   },
   "links": [
+    {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/brq1-xc29",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
     {
       "rel": "root",
       "href": "../../catalog.json",
@@ -84,14 +95,5 @@
     }
   },
   "datetime": "2024-07-10T00:00:00Z",
-  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided. The data being disseminated is made available under the Open Data Commons Open Database License (ODbL) (https://opendatacommons.org/licenses/odbl), and includes place name data from OpenStreetMap, which retains copyright on their data (https://www.openstreetmap.org/copyright).",
-  "providers": [
-    {
-      "name": "Center for International Earth Science Information Network - CIESIN - Columbia University, and Joint Research Centre - JRC - European Commission",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided. The data being disseminated is made available under the Open Data Commons Open Database License (ODbL) (https://opendatacommons.org/licenses/odbl), and includes place name data from OpenStreetMap, which retains copyright on their data (https://www.openstreetmap.org/copyright)."
 }

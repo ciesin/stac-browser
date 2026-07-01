@@ -42,7 +42,12 @@
     "title": "Last of the Wild Project, Version 3 (LWP-3): 1993 Human Footprint, 2018 Release",
     "description": "The 1993 Human Footprint, 2018 Release provides a global map of the cumulative human pressure on the environment in 1993, at a spatial resolution of ~1 km. The human pressure is measured using eight variables including built-up environments, population density, electric power infrastructure, crop lands, pasture lands, roads, railways, and navigable waterways. The 1993 Human Footprint was developed to allow inter-comparability with the 2009 Human Footprint. The data set is produced by Venter et.al., and is available in the Mollweide projection.",
     "purpose": "To provide a map of cumulative human pressure on the environment in 1993.",
+    "authors": "Venter, O., E. W. Sanderson, A. Magrach, J. R. Allan, J. Beher, K. R. Jones, H. P. Possingham, W. F. Laurance, P. Wood, B. M. Fekete, M. A. Levy, and  J. E. Watson",
+    "publishers": "NASA Socioeconomic Data and Applications Center (SEDAC)",
+    "place": "Palisades, NY",
+    "version": "2018.00",
     "doi": "https://doi.org/10.7927/H4H9938Z",
+    "citation": "Venter, O., E. W. Sanderson, A. Magrach, J. R. Allan, J. Beher, K. R. Jones, H. P. Possingham, W. F. Laurance, P. Wood, B. M. Fekete, M. A. Levy, and  J. E. Watson. 2018-08-10T00:00:00Z. Last of the Wild Project, Version 3 (LWP-3): 1993 Human Footprint, 2018 Release. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4H9938Z. Accessed [DAY MONTH YEAR].",
     "stac_category": "conservation",
     "keywords": [
       "Conservation",
@@ -58,6 +63,12 @@
     "dataset_type": "raster"
   },
   "links": [
+    {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/H4H9938Z",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
     {
       "rel": "root",
       "href": "../../catalog.json",
@@ -82,14 +93,5 @@
     }
   },
   "datetime": "2018-08-10T00:00:00Z",
-  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
-  "providers": [
-    {
-      "name": "Venter, O., E. W. Sanderson, A. Magrach, J. R. Allan, J. Beher, K. R. Jones, H. P. Possingham, W. F. Laurance, P. Wood, B. M. Fekete, M. A. Levy, and  J. E. Watson",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided."
 }

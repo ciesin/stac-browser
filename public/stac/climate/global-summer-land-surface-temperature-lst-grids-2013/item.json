@@ -42,7 +42,12 @@
     "title": "Global Summer Land Surface Temperature (LST) Grids, 2013",
     "description": "The Global Summer Land Surface Temperature (LST) Grids, 2013, represent daytime maximum temperature and nighttime minimum temperature in degree Celsius at a spatial resolution of 30 arc-seconds (~1km) during summer months of the northern and southern hemisphere for the year 2013. The grids are produced using Aqua Level-3 Moderate Resolution Imaging Spectroradiometer (MODIS) Version 5 global daytime and nighttime LST 8-day composite data (MYD11A2). For most regions, the LST grids provide the daytime maximum (1:30 p.m. overpass) and nighttime minimum (1:30 a.m. overpass) LST values for each grid cell from a 40-day time-span during July-August (Julian days 185-224) 2013 in the northern hemisphere and January-February (Julian days 001-040) 2013 in the southern hemisphere. LST grid cells with missing values resulting from high cloud cover in tropical regions were filled with daytime maximum and nighttime minimum LST values from April-May 2013 in the northern hemisphere and December 2013-January 2014 in the southern hemisphere, where available. Some data gaps remain in areas where data were insufficient (e.g., Central Africa).",
     "purpose": "To provide raster representations of global summer daytime maximum and nighttime minimum surface temperature for studies related to human health and climate change.",
+    "authors": "Center for International Earth Science Information Network - CIESIN - Columbia University",
+    "publishers": "NASA Socioeconomic Data and Applications Center (SEDAC)",
+    "place": "Palisades, NY",
+    "version": "1.00",
     "doi": "http://doi.org/10.7927/H408638T",
+    "citation": "Center for International Earth Science Information Network - CIESIN - Columbia University. 2016-11-18T00:00:00Z. Global Summer Land Surface Temperature (LST) Grids, 2013. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). http://doi.org/10.7927/H408638T. Accessed [DAY MONTH YEAR].",
     "stac_category": "climate",
     "keywords": [
       "Climate",
@@ -71,6 +76,12 @@
   },
   "links": [
     {
+      "rel": "documentation",
+      "href": "http://doi.org/10.7927/H408638T",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
+    {
       "rel": "root",
       "href": "../../catalog.json",
       "type": "application/json",
@@ -94,14 +105,5 @@
     }
   },
   "datetime": "2016-11-18T00:00:00Z",
-  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
-  "providers": [
-    {
-      "name": "Center for International Earth Science Information Network - CIESIN - Columbia University",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided."
 }

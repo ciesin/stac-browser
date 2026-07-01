@@ -42,7 +42,12 @@
     "title": "Poverty Mapping Project: Global Subnational Prevalence of Child Malnutrition",
     "description": "The Poverty Mapping Project: Global Subnational Prevalence of Child Malnutrition data set consists of estimates of the percentage of children with weight-for-age z-scores that are more than two standard deviations below the median of the NCHS/CDC/WHO International Reference Population. Data are reported for the most recent year with subnational information available at the time of development. The data products include a shapefile (vector data) of percentage rates, grids (raster data) of rates (per thousand in order to preserve precision in integer format), the number of children under five (the rate denominator), and the number of underweight children under five (the rate numerator), and a tabular data set of the same and associated data. This data set is produced by the Columbia University Center for International Earth Science Information Network (CIESIN).",
     "purpose": "To provide a global subnational map of the prevalence of underweight children that can be used by a wide user community in interdisciplinary studies of health, poverty and the environment.",
+    "authors": "Center for International Earth Science Information Network - CIESIN - Columbia University",
+    "publishers": "NASA Socioeconomic Data and Applications Center (SEDAC)",
+    "place": "Palisades, NY",
+    "version": "1.00",
     "doi": "https://doi.org/10.7927/H4K64G12",
+    "citation": "Center for International Earth Science Information Network - CIESIN - Columbia University. 2005-12-31T00:00:00Z. Poverty Mapping Project: Global Subnational Prevalence of Child Malnutrition. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4K64G12. Accessed [DAY MONTH YEAR].",
     "stac_category": "agriculture",
     "keywords": [
       "Country",
@@ -299,6 +304,12 @@
   },
   "links": [
     {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/H4K64G12",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
+    {
       "rel": "root",
       "href": "../../catalog.json",
       "type": "application/json",
@@ -322,14 +333,5 @@
     }
   },
   "datetime": "2005-12-31T00:00:00Z",
-  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
-  "providers": [
-    {
-      "name": "Center for International Earth Science Information Network - CIESIN - Columbia University",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided."
 }

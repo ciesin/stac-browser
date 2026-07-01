@@ -42,7 +42,12 @@
     "title": "Development Threat Index",
     "description": "The Development Threat Index data set is a terrestrial global, future development threat map based on combining these resources: agricultural expansion, urban expansion, conventional oil and gas, unconventional oil and gas, coal, mining, biofuels, solar, and wind. Each threat ranked potential development from 0-100 with 100 indicating the highest potential for future development of the resource and were produced at a 50 square kilometer (km2) grid cell resolution, excluding all cells overlapping Antarctica and those with >50% considered marine.",
     "purpose": "To provide a future development threat map based on combining these resources: agricultural expansion, urban expansion, conventional oil and gas, unconventional oil and gas, coal, mining, biofuels, solar, and wind.",
+    "authors": "Oakleaf, J. R., C. M. Kennedy, S. Baruch-Mordo, P. C. West, J. S. Gerber, L. Jarvis, and J. Kiesecker",
+    "publishers": "NASA Socioeconomic Data and Applications Center (SEDAC)",
+    "place": "Palisades, NY",
+    "version": "1.00",
     "doi": "https://doi.org/10.7927/61jv-th84",
+    "citation": "Oakleaf, J. R., C. M. Kennedy, S. Baruch-Mordo, P. C. West, J. S. Gerber, L. Jarvis, and J. Kiesecker. 2019-05-16T00:00:00Z. Development Threat Index. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/61jv-th84. Accessed [DAY MONTH YEAR].",
     "stac_category": "agriculture",
     "keywords": [
       "Environment",
@@ -65,6 +70,12 @@
     "dataset_type": "raster, map, map service"
   },
   "links": [
+    {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/61jv-th84",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
     {
       "rel": "root",
       "href": "../../catalog.json",
@@ -89,14 +100,5 @@
     }
   },
   "datetime": "2019-05-16T00:00:00Z",
-  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
-  "providers": [
-    {
-      "name": "Oakleaf, J. R., C. M. Kennedy, S. Baruch-Mordo, P. C. West, J. S. Gerber, L. Jarvis, and J. Kiesecker",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided."
 }

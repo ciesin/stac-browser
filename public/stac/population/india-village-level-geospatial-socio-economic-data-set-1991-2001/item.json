@@ -42,7 +42,12 @@
     "title": "India Village-Level Geospatial Socio-Economic Data Set: 1991, 2001",
     "description": "The India Village-Level Geospatial Socio-Economic Data Set: 1991, 2001 is a compilation of the finest level of administrative boundaries in India (village/town-level) and over 200 socio-economic variables collected during the Indian Census in 1991 and 2001. This data set was developed by digitizing village/town level boundaries from the official analog maps published by the Survey of India for 2001. This data set also utilized tabular data for 1991 and 2001 from the Primary Census Abstract (PCA) and Village Directory (VD) data series of the Indian census. The data are in UTM 44N projection and are distributed primarily as shapefiles. Separate files are provided for each of the 28 states (number of states during 1991 and 2001 census) and combined Union Territories for 1991 and 2001.",
     "purpose": "To provide data that can be used in independent spatial statistical analyses, construction of development-related indices, or in combination with remote sensing data in order to identify spatio-temporal patterns and/or changes in different demographic categories, such as male, female, urban, rural, level of education, etc.",
+    "authors": "Meiyappan, P., P. S. Roy, A. Soliman, T. Li, P. Mondal, S. Wang, and A. K. Jain",
+    "publishers": "NASA Socioeconomic Data and Applications Center (SEDAC)",
+    "place": "Palisades, NY",
+    "version": "1.00",
     "doi": "https://doi.org/10.7927/H4CN71ZJ",
+    "citation": "Meiyappan, P., P. S. Roy, A. Soliman, T. Li, P. Mondal, S. Wang, and A. K. Jain. 2018-03-30T00:00:00Z. India Village-Level Geospatial Socio-Economic Data Set: 1991, 2001. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4CN71ZJ. Accessed [DAY MONTH YEAR].",
     "stac_category": "population",
     "keywords": [
       "EARTH SCIENCE > HUMAN DIMENSIONS > SOCIOECONOMICS",
@@ -60,6 +65,12 @@
     "dataset_type": "vector, map"
   },
   "links": [
+    {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/H4CN71ZJ",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
     {
       "rel": "root",
       "href": "../../catalog.json",
@@ -84,14 +95,5 @@
     }
   },
   "datetime": "2018-03-30T00:00:00Z",
-  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
-  "providers": [
-    {
-      "name": "Meiyappan, P., P. S. Roy, A. Soliman, T. Li, P. Mondal, S. Wang, and A. K. Jain",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided."
 }

@@ -42,7 +42,12 @@
     "title": "HANPP Collection: Human Appropriation of Net Primary Productivity (HANPP) by Country and Product",
     "description": "The HANPP Collection: Human Appropriation of Net Primary Productivity (HANPP) by Country and Product contains tabular data on carbon-equivalents of consumption by country and by type of product. The data were compiled from national-level FAO statistics on consumption of products such as vegetables, meat, paper, and wood.   HANPP represents the amount of carbon required to derive food and fibre products consumed by humans  including organic matter that is lost during harvesting and processing. Net primary productivity (NPP), the net amount of solar energy converted to plant organic matter through photosynthesis, can be measured in units of elemental carbon and represents the primary food energy source for the world's ecosystems. These tabular data were used to allocate country level NPP consumption to a spatial surface of NPP consumption (Global Patterns in Human Appropriation of Net Primary Productivity), which is part of this collection.",
     "purpose": "To provide tabular data on human appropriation of net primary productivity by country.",
+    "authors": "Imhoff, M.L., L. Bounoua, T. Ricketts, C. Loucks, R. Harriss, and W.T. Lawrence",
+    "publishers": "NASA Socioeconomic Data and Applications Center (SEDAC)",
+    "place": "Palisades, NY",
+    "version": "1.00",
     "doi": "https://doi.org/10.7927/H48G8HMK",
+    "citation": "Imhoff, M.L., L. Bounoua, T. Ricketts, C. Loucks, R. Harriss, and W.T. Lawrence. 2004-12-31T00:00:00Z. HANPP Collection: Human Appropriation of Net Primary Productivity (HANPP) by Country and Product. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H48G8HMK. Accessed [DAY MONTH YEAR].",
     "stac_category": "agriculture",
     "keywords": [
       "Global",
@@ -287,6 +292,12 @@
   },
   "links": [
     {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/H48G8HMK",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
+    {
       "rel": "root",
       "href": "../../catalog.json",
       "type": "application/json",
@@ -310,14 +321,5 @@
     }
   },
   "datetime": "2004-12-31T00:00:00Z",
-  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
-  "providers": [
-    {
-      "name": "Imhoff, M.L., L. Bounoua, T. Ricketts, C. Loucks, R. Harriss, and W.T. Lawrence",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided."
 }

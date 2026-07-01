@@ -42,7 +42,12 @@
     "title": "Global Landslide Hazard Distribution",
     "description": "The Global Landslide Hazard Distribution is a 2.5 minute grid of global landslide and snow avalanche hazards based upon work of the Norwegian Geotechnical Institute (NGI). The hazards mapping of NGI incorporates a range of data including slope, soil, soil moisture conditions, precipitation, seismicity, and temperature. Shuttle Radar Topography Mission (SRTM) elevation data at 30 seconds resolution are also incorporated. Hazards values less than or equal to 4 are considered negligible and only values 5 through 9 are utilized in further analyses. To ensure compatibility with other data sets, value 1 is added to each of the values to provide a hazard ranking ranging 6 through 10 in increasing hazard. This data set is the result of collaboration among the Columbia University Center for Hazards and Risk Research (CHRR), Norwegian Geotechnical Institute (NGI), and Columbia University Center for International Earth Science and Information Network (CIESIN).",
     "purpose": "To provide a means of assessing the relative distribution and frequency of global landslide hazard.",
+    "authors": "Center for Hazards and Risk Research - CHRR - Columbia University, Center for International Earth Science Information Network - CIESIN - Columbia University, and Norwegian Geotechnical Institute - NGI",
+    "publishers": "Center for Hazards and Risk Research (CHRR)/Columbia University",
+    "place": "Palisades, NY",
+    "version": "1.00",
     "doi": "https://doi.org/10.7927/H4P848VZ",
+    "citation": "Center for Hazards and Risk Research - CHRR - Columbia University, Center for International Earth Science Information Network - CIESIN - Columbia University, and Norwegian Geotechnical Institute - NGI. 2005-12-31T00:00:00Z. Global Landslide Hazard Distribution. Palisades, NY: Center for Hazards and Risk Research (CHRR)/Columbia University. https://doi.org/10.7927/H4P848VZ. Accessed [DAY MONTH YEAR].",
     "stac_category": "agriculture",
     "keywords": [
       "Agriculture",
@@ -60,6 +65,12 @@
     "dataset_type": "raster, map, map service"
   },
   "links": [
+    {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/H4P848VZ",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
     {
       "rel": "root",
       "href": "../../catalog.json",
@@ -84,14 +95,5 @@
     }
   },
   "datetime": "2005-12-31T00:00:00Z",
-  "license": "The Trustees of Columbia University in the City of New York, Center for Hazards and Risk Research (CHRR), and Norwegian Geotechnical Institute (NGI) hold the copyright of this data set. Users are prohibited from any commercial, non-free resale, or redistribution without explicit written permission from CHRR, CIESIN, and NGI. Users should acknowledge CHRR, CIESIN, and NGI as the source used in the creation of any reports, publications, new data sets, derived products, or services resulting from the use of this data set. CHRR, CIESIN, and NGI also request reprints of any publications and notification of any redistribution efforts.",
-  "providers": [
-    {
-      "name": "Center for Hazards and Risk Research - CHRR - Columbia University, Center for International Earth Science Information Network - CIESIN - Columbia University, and Norwegian Geotechnical Institute - NGI",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "The Trustees of Columbia University in the City of New York, Center for Hazards and Risk Research (CHRR), and Norwegian Geotechnical Institute (NGI) hold the copyright of this data set. Users are prohibited from any commercial, non-free resale, or redistribution without explicit written permission from CHRR, CIESIN, and NGI. Users should acknowledge CHRR, CIESIN, and NGI as the source used in the creation of any reports, publications, new data sets, derived products, or services resulting from the use of this data set. CHRR, CIESIN, and NGI also request reprints of any publications and notification of any redistribution efforts."
 }

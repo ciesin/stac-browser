@@ -42,7 +42,12 @@
     "title": "Effects of Climate Change on Global Food Production from SRES Emissions and Socioeconomic Scenarios",
     "description": "The Effects of Climate Change on Global Food Production from SRES Emissions and Socioeconomic Scenarios is an update to a major crop modeling study by the NASA Goddard Institute for Space Studies (GISS). The initial study was published in 1997, based on output of HadCM2 model forced with greenhouse gas concentration from the IS95 emission scenarios in 1997. Results of the initial study are presented at SEDAC's Potential Impacts of Climate Change on World Food Supply: Data Sets from a Major Crop Modeling Study, released in 2001. The co-authors developed and tested a method for investigating the spatial implications of climate change on crop production. The Decision Support System for Agrotechnology Transfer (DSSAT) dynamic process crop growth models, are specified and validated for one hundred and twenty seven sites in the major world agricultural regions. Results from the crop models, calibrated and validated in the major crop-growing regions, are then used to test functional forms describing the response of yield changes in the climate and environmental conditions. This updated version is based on HadCM3 model output along with GHG concentrations from the Special Report on Emissions Scenarios (SRES). The crop yield estimates incorporate some major improvements: 1) consistent crop simulation methodology and climate change scenarios; 2) weighting of model site results by contribution to regional and national, and rainfed and irrigated production; 3) quantitative foundation for estimation of physiological CO2 effects on crop yields; 4) Adaptation is explicitly considered; and 5) results are reported by country rather than by Basic Linked System region. The data are produced by A. Iglesias and C. Rosenzweig and the maps are produced by the Columbia University Center for International Earth Science Information Network (CIESIN).",
     "purpose": "To provide an assessment of potential climate change impacts on world crop production.",
+    "authors": "Iglesias, A., and C. Rosensweig",
+    "publishers": "NASA Socioeconomic Data and Applications Center (SEDAC)",
+    "place": "Palisades, NY",
+    "version": "1.00",
     "doi": "https://doi.org/10.7927/H4JM27JZ",
+    "citation": "Iglesias, A., and C. Rosensweig. 2009-12-31T00:00:00Z. Effects of Climate Change on Global Food Production from SRES Emissions and Socioeconomic Scenarios. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4JM27JZ. Accessed [DAY MONTH YEAR].",
     "stac_category": "agriculture",
     "keywords": [
       "Agriculture",
@@ -227,6 +232,12 @@
   },
   "links": [
     {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/H4JM27JZ",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
+    {
       "rel": "root",
       "href": "../../catalog.json",
       "type": "application/json",
@@ -250,14 +261,5 @@
     }
   },
   "datetime": "2009-12-31T00:00:00Z",
-  "license": "The Goddard Institute for Space Studies (GISS) and Trustees of Columbia University hold the copyright of this data set. Users are prohibited from any commercial, non-free resale, or redistribution without explicit written permission from GISS and CIESIN. Users should acknowledge GISS and CIESIN as the source used in the creation of any reports, publications, new data sets, derived products, or services resulting from the use of this data set. GISS and CIESIN also request reprints of any publications and notification of any redistributing efforts.",
-  "providers": [
-    {
-      "name": "Iglesias, A., and C. Rosensweig",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "The Goddard Institute for Space Studies (GISS) and Trustees of Columbia University hold the copyright of this data set. Users are prohibited from any commercial, non-free resale, or redistribution without explicit written permission from GISS and CIESIN. Users should acknowledge GISS and CIESIN as the source used in the creation of any reports, publications, new data sets, derived products, or services resulting from the use of this data set. GISS and CIESIN also request reprints of any publications and notification of any redistributing efforts."
 }

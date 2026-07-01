@@ -42,7 +42,12 @@
     "title": "Anthropogenic Biomes 12K Geographic Projection, 10,000 BCE - 2017 CE",
     "description": "The Anthropogenic Biomes 12K Geographic Projection, 10,000 BCE - 2017 CE, data set represents 12,000 years of gridded anthropogenic biomes at 75 time points between 10,000 BCE and 2017 CE. Anthropogenic Biomes, or \"Anthromes\" categorize how the Earth's landscape has been altered by human activity. This data set is derived from the \"Anthromes 12K Digital Global Grid (DGG) system version 1 shapefile\" created by Ellis Erle and Nick Gauthier, and has been transformed into geographic grids to provide a more accessible format for broader analysis.",
     "purpose": "To provide an assessment of the early and sustained global significance of cultural landscapes as a basis for better understanding and conserving terrestrial nature.",
+    "authors": "Center for Integrated Earth System Information - CIESIN - Columbia University",
+    "publishers": "Center for Integrated Earth System Information (CIESIN)",
+    "place": "Palisades, NY",
+    "version": "1.00",
     "doi": "https://doi.org/10.7927/np7r-df69",
+    "citation": "Center for Integrated Earth System Information - CIESIN - Columbia University. 2025-05-30T00:00:00Z. Anthropogenic Biomes 12K Geographic Projection, 10,000 BCE - 2017 CE. Palisades, NY: Center for Integrated Earth System Information (CIESIN). https://doi.org/10.7927/np7r-df69. Accessed [DAY MONTH YEAR].",
     "stac_category": "conservation",
     "keywords": [
       "Global",
@@ -58,6 +63,12 @@
     "dataset_type": "raster"
   },
   "links": [
+    {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/np7r-df69",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
     {
       "rel": "root",
       "href": "../../catalog.json",
@@ -82,14 +93,5 @@
     }
   },
   "datetime": "2025-05-30T00:00:00Z",
-  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
-  "providers": [
-    {
-      "name": "Center for Integrated Earth System Information - CIESIN - Columbia University",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided."
 }

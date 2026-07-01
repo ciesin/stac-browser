@@ -42,7 +42,12 @@
     "title": "2010 Environmental Performance Index (EPI)",
     "description": "The 2010 Environmental Performance Index (EPI) ranks 163 countries on environmental performance based on twenty-five indicators grouped within ten core policy categories addressing environmental health, air quality, water resource management, biodiversity and habitat, forestry, fisheries, agriculture, and climate change in the context of two broad objectives: environmental health and ecosystem vitality. The EPI\u0092s proximity-to-target methodology facilitates cross-country comparisons  among economic and regional peer groups. It was formally released in Davos, Switzerland, at the annual meeting of the World Economic Forum on January 28, 2010. The 2010 EPI is the result of collaboration between the Yale Center for Environmental Law and Policy (YCELP) and the Columbia University Center for International Earth Science Information Network (CIESIN).",
     "purpose": "To provide quantitative metrics for evaluating a country's environmental performance in different policy categories relative to clearly defined targets.",
+    "authors": "Yale Center for Environmental Law and Policy - YCELP - Yale University, Center for International Earth Science Information Network - CIESIN - Columbia University, World Economic Forum - WEF, and Joint Research Centre - JRC - European Commission",
+    "publishers": "Yale Center for Environmental Law and Policy (YCELP)/Yale University",
+    "place": "New Haven, CT",
+    "version": "2010.00",
     "doi": "https://doi.org/10.7927/H4D21VHT",
+    "citation": "Yale Center for Environmental Law and Policy - YCELP - Yale University, Center for International Earth Science Information Network - CIESIN - Columbia University, World Economic Forum - WEF, and Joint Research Centre - JRC - European Commission. 2010-12-31T00:00:00Z. 2010 Environmental Performance Index (EPI). New Haven, CT: Yale Center for Environmental Law and Policy (YCELP)/Yale University. https://doi.org/10.7927/H4D21VHT. Accessed [DAY MONTH YEAR].",
     "stac_category": "agriculture",
     "keywords": [
       "Agriculture",
@@ -230,6 +235,12 @@
   },
   "links": [
     {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/H4D21VHT",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
+    {
       "rel": "root",
       "href": "../../catalog.json",
       "type": "application/json",
@@ -253,14 +264,5 @@
     }
   },
   "datetime": "2010-12-31T00:00:00Z",
-  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
-  "providers": [
-    {
-      "name": "Yale Center for Environmental Law and Policy - YCELP - Yale University, Center for International Earth Science Information Network - CIESIN - Columbia University, World Economic Forum - WEF, and Joint Research Centre - JRC - European Commission",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided."
 }

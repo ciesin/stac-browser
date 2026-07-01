@@ -42,7 +42,12 @@
     "title": "Yale Center for Earth Observation (YCEO) Surface Urban Heat Islands, Version 4, 2003-2018",
     "description": "The Yale Center for Earth Observation (YCEO) Surface Urban Heat Islands, Version 4, 2003-2018 includes annual, summertime, and wintertime Surface Urban Heat Island (SUHI) intensities for daytime and nighttime for over 10,000 global urban extents. This global SUHI data set was created using the Simplified Urban-Extent (SUE) algorithm and is available at the pixel and urban cluster-levels (i.e. at the level of larger urban agglomerations). Monthly composites are also available as urban cluster means. A summary of older versions, including changes from the data set created and analyzed in the originally published manuscript (Chakraborty and Lee, 2019) can be found on the YCEO Global Surface UHI Explorer website  (https://yceo.yale.edu/research/global-surface-uhi-explorer).",
     "purpose": "To provide global estimates of the surface urban heat island intensity from monthly, seasonal, to annual scales for over 10,000 urban clusters developed using a simplified urban-extent algorithm.",
+    "authors": "Chakraborty, T., and  X. Lee",
+    "publishers": "NASA Socioeconomic Data and Applications Center (SEDAC)",
+    "place": "Palisades, NY",
+    "version": "4.00",
     "doi": "https://doi.org/10.7927/s5m5-zk14",
+    "citation": "Chakraborty, T., and  X. Lee. 2023-09-07T00:00:00Z. Yale Center for Earth Observation (YCEO) Surface Urban Heat Islands, Version 4, 2003-2018. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/s5m5-zk14. Accessed [DAY MONTH YEAR].",
     "stac_category": "climate",
     "keywords": [
       "Climate",
@@ -63,6 +68,12 @@
     "dataset_type": "raster, vector"
   },
   "links": [
+    {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/s5m5-zk14",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
     {
       "rel": "root",
       "href": "../../catalog.json",
@@ -87,14 +98,5 @@
     }
   },
   "datetime": "2023-09-07T00:00:00Z",
-  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
-  "providers": [
-    {
-      "name": "Chakraborty, T., and  X. Lee",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided."
 }

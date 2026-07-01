@@ -42,7 +42,12 @@
     "title": "Global Volcano Mortality Risks and Distribution",
     "description": "Global Volcano Mortality Risks and Distribution is a 2.5 minute grid representing global volcano mortality risks. The data set was constructed using historical hazard-specific mortality loss data from the Emergency Events Database (EM-DAT) maintained by the Centre for Research on the Epidemiology of Disasters (CRED), subnational year 2000 population estimates from Gridded Population of the World, Version 3 (GPWv3), and volcano hazard data from the Global Volcano Hazard Frequency and Distribution data set. Estimates were made as to the mortality numbers associated with volcano hazard. In turn, these mortality estimates were classified into deciles, 10 class of an approximately equal number of grid cells of increasing mortality risk. This data set is the result of collaboration among the Columbia University Center for Hazards and Risk Research (CHRR), International Bank for Reconstruction and Development/The World Bank, and Columbia University Center for International Earth Science Information Network (CIESIN).",
     "purpose": "To provide a means of assessing global volcano mortality risks and distribution.",
+    "authors": "Center for Hazards and Risk Research - CHRR - Columbia University, Center for International Earth Science Information Network - CIESIN - Columbia University, and International Bank for Reconstruction and Development - The World Bank",
+    "publishers": "Center for Hazards and Risk Research (CHRR)/Columbia University",
+    "place": "Palisades, NY",
+    "version": "1.00",
     "doi": "https://doi.org/10.7927/H4736NT2",
+    "citation": "Center for Hazards and Risk Research - CHRR - Columbia University, Center for International Earth Science Information Network - CIESIN - Columbia University, and International Bank for Reconstruction and Development - The World Bank. 2005-12-31T00:00:00Z. Global Volcano Mortality Risks and Distribution. Palisades, NY: Center for Hazards and Risk Research (CHRR)/Columbia University. https://doi.org/10.7927/H4736NT2. Accessed [DAY MONTH YEAR].",
     "stac_category": "hazards",
     "keywords": [
       "Geoscientific Information",
@@ -61,6 +66,12 @@
     "dataset_type": "raster, map, map service"
   },
   "links": [
+    {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/H4736NT2",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
     {
       "rel": "root",
       "href": "../../catalog.json",
@@ -85,14 +96,5 @@
     }
   },
   "datetime": "2005-12-31T00:00:00Z",
-  "license": "The Trustees of Columbia University in the City of New York, Center for Hazards and Risk Research (CHRR), and International Bank for Reconstruction and Development/The World Bank hold the copyright of this data set. Users are prohibited from any commercial, non-free resale, or redistribution without explicit written permission from CHRR, CIESIN, and The World Bank. Users should acknowledge CHRR, CIESIN, and The World Bank as the source used in the creation of any reports, publications, new data sets, derived products, or services resulting from the use of this data set. CHRR, CIESIN, and The World Bank also request reprints of any publications and notification of any redistribution efforts.",
-  "providers": [
-    {
-      "name": "Center for Hazards and Risk Research - CHRR - Columbia University, Center for International Earth Science Information Network - CIESIN - Columbia University, and International Bank for Reconstruction and Development - The World Bank",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "The Trustees of Columbia University in the City of New York, Center for Hazards and Risk Research (CHRR), and International Bank for Reconstruction and Development/The World Bank hold the copyright of this data set. Users are prohibited from any commercial, non-free resale, or redistribution without explicit written permission from CHRR, CIESIN, and The World Bank. Users should acknowledge CHRR, CIESIN, and The World Bank as the source used in the creation of any reports, publications, new data sets, derived products, or services resulting from the use of this data set. CHRR, CIESIN, and The World Bank also request reprints of any publications and notification of any redistribution efforts."
 }

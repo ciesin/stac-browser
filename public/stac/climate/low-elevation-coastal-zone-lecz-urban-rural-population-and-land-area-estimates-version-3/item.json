@@ -42,7 +42,12 @@
     "title": "Low Elevation Coastal Zone (LECZ) Urban-Rural Population and Land Area Estimates, Version 3",
     "description": "The Low Elevation Coastal Zone (LECZ) Urban-Rural Population and Land Area Estimates, Version 3 data set contains land areas with urban, quasi-urban, rural, and total populations (counts) within the LECZ for 234 countries and other recognized territories for the years 1990, 2000, and 2015. This data set updates initial estimates for the LECZ population by drawing on a newer collection of input data, and provides a range of estimates for at-risk population and land area. Constructing accurate estimates requires high-quality and methodologically consistent input data, and the LECZv3 evaluates multiple data sources for population totals, digital elevation model, and spatially-delimited urban classifications. Users can find the paper \"Estimating Population and Urban Areas at Risk of Coastal Hazards, 1990-2015: How data choices matter\" (MacManus, et al. 2021) in order to evaluate selected inputs for modeling Low Elevation Coastal Zones. According to the paper, the following are considered core data sets for the purposes of LECZv3 estimates: Multi-Error-Removed Improved-Terrain Digital Elevation Model (MERIT-DEM), Global Human Settlement (GHSL) Population Grid R2019 and Degree of Urbanization Settlement Model Grid R2019a v2, and the Gridded Population of the World, Version 4 (GPWv4), Revision 11. This data set is produced by the Columbia University Center for International Earth Science Information Network (CIESIN) and the City University of New York (CUNY) Institute for Demographic Research (CIDR).",
     "purpose": "To provide estimates of urban and rural populations and land areas for the years 1990, 2000, 2015 for 234 countries and statistical areas with contiguous coastal elevations of less than or equal to 5m above sea level, 5-10m above sea level, and national totals using multiple updated data sources for comparative analysis.",
+    "authors": "Center for International Earth Science Information Network - CIESIN - Columbia University, and CUNY Institute for Demographic Research - CIDR - City University of New York",
+    "publishers": "NASA Socioeconomic Data and Applications Center (SEDAC)",
+    "place": "Palisades, NY",
+    "version": "3.00",
     "doi": "https://doi.org/10.7927/d1x1-d702",
+    "citation": "Center for International Earth Science Information Network - CIESIN - Columbia University, and CUNY Institute for Demographic Research - CIDR - City University of New York. 2021-12-14T00:00:00Z. Low Elevation Coastal Zone (LECZ) Urban-Rural Population and Land Area Estimates, Version 3. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/d1x1-d702. Accessed [DAY MONTH YEAR].",
     "stac_category": "climate",
     "keywords": [
       "Country",
@@ -308,6 +313,12 @@
   },
   "links": [
     {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/d1x1-d702",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
+    {
       "rel": "root",
       "href": "../../catalog.json",
       "type": "application/json",
@@ -331,14 +342,5 @@
     }
   },
   "datetime": "2021-12-14T00:00:00Z",
-  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
-  "providers": [
-    {
-      "name": "Center for International Earth Science Information Network - CIESIN - Columbia University, and CUNY Institute for Demographic Research - CIDR - City University of New York",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided."
 }

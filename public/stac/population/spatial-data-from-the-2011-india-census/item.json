@@ -42,7 +42,12 @@
     "title": "Spatial Data from the 2011 India Census",
     "description": "The Spatial Data from the 2011 India Census contains gridded estimates of India population at a resolution of 1 kilometer along with two spatial renderings of urban areas, one based on the official tabulations of population and settlement type (statutory town, outgrowth, census town), and the second, remotely-sensed measures of built-up land derived from the Global Human Settlement Layer. This data set includes a constructed hybrid representation of the urban settlement continuum by cross-classifying the census and remotely-sensed data.",
     "purpose": "To provide high-resolution population and urban classification data for India for 2011.",
+    "authors": "Balk, D., M. R. Montgomery, H. Engin, N. Lin, E. Major and B. Jones",
+    "publishers": "NASA Socioeconomic Data and Applications Center (SEDAC)",
+    "place": "Palisades, NY",
+    "version": "1.00",
     "doi": "https://doi.org/10.7927/gya1-wp91",
+    "citation": "Balk, D., M. R. Montgomery, H. Engin, N. Lin, E. Major and B. Jones. 2020-06-18T00:00:00Z. Spatial Data from the 2011 India Census. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/gya1-wp91. Accessed [DAY MONTH YEAR].",
     "stac_category": "population",
     "keywords": [
       "EARTH SCIENCE > HUMAN DIMENSIONS > POPULATION",
@@ -57,6 +62,12 @@
     "dataset_type": "raster, vector, tabular, map, map service"
   },
   "links": [
+    {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/gya1-wp91",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
     {
       "rel": "root",
       "href": "../../catalog.json",
@@ -81,14 +92,5 @@
     }
   },
   "datetime": "2020-06-18T00:00:00Z",
-  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
-  "providers": [
-    {
-      "name": "Balk, D., M. R. Montgomery, H. Engin, N. Lin, E. Major and B. Jones",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0). Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided."
 }

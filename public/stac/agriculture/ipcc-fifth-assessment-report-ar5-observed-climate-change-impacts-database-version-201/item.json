@@ -42,7 +42,12 @@
     "title": "IPCC Fifth Assessment Report (AR5) Observed Climate Change Impacts Database, Version 2.01",
     "description": "The Intergovernmental Panel on Climate Change Fifth Assessment Report (AR5) Observed Climate Change Impacts Database, Version 2.01 contains observed responses to climate change across a wide range of systems as well as regions. These responses include systems for which climate change has played a major role in observed changes, regional-scale impacts where climate change has played a minor role, and sub-regional impacts. Impacts on physical, biological, and human systems were differentiated, and the area impacted can vary from specific locations to broad areas such as a major river basin.",
     "purpose": "To provide a database with observed responses to climate change for multidisciplinary studies.",
+    "authors": "Intergovernmental Panel on Climate Change (IPCC)",
+    "publishers": "NASA Socioeconomic Data and Applications Center (SEDAC)",
+    "place": "Palisades, NY",
+    "version": "2.01",
     "doi": "https://doi.org/10.7927/H4FT8J0X",
+    "citation": "Intergovernmental Panel on Climate Change (IPCC). 2017-06-28T00:00:00Z. IPCC Fifth Assessment Report (AR5) Observed Climate Change Impacts Database, Version 2.01. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4FT8J0X. Accessed [DAY MONTH YEAR].",
     "stac_category": "agriculture",
     "keywords": [
       "EARTH SCIENCE > HUMAN DIMENSIONS > ENVIRONMENTAL IMPACTS",
@@ -71,6 +76,12 @@
   },
   "links": [
     {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/H4FT8J0X",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
+    {
       "rel": "root",
       "href": "../../catalog.json",
       "type": "application/json",
@@ -94,14 +105,5 @@
     }
   },
   "datetime": "2017-06-28T00:00:00Z",
-  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
-  "providers": [
-    {
-      "name": "Intergovernmental Panel on Climate Change (IPCC)",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided."
 }

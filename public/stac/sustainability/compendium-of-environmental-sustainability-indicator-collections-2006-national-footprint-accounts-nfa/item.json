@@ -42,7 +42,12 @@
     "title": "Compendium of Environmental Sustainability Indicator Collections: 2006 National Footprint Accounts (NFA)",
     "description": "The 2006 National Footprint Accounts (NFA) portion of the Compendium of Environmental Sustainability Indicator Collections, version 1.1 is a data set that measures how much land and water area a human population requires to produce the resources it consumes and to absorb its wastes under prevailing technology and management. It includes Footprints for cropland, grazing land, carbon, nuclear, forest, built-up and fishing ground for 147 countries. It also identifies countries that are considered to have ecological deficits and reserves. These data are drawn from the National Footprint Accounts, 2006 Edition, produced by the Global Footprint Network and distributed by the Columbia University Center for International Earth Science Information Network (CIESIN).",
     "purpose": "To help assess a country's demand on and supply of biological capital.",
+    "authors": "Global Footprint Network - GFN",
+    "publishers": "Global Footprint Network (GFN)",
+    "place": "Oakland, CA",
+    "version": "2006.00",
     "doi": "https://doi.org/10.7927/H4RF5RZT",
+    "citation": "Global Footprint Network - GFN. 2006-12-31T00:00:00Z. Compendium of Environmental Sustainability Indicator Collections: 2006 National Footprint Accounts (NFA). Oakland, CA: Global Footprint Network (GFN). https://doi.org/10.7927/H4RF5RZT. Accessed [DAY MONTH YEAR].",
     "stac_category": "sustainability",
     "keywords": [
       "Sustainability",
@@ -207,6 +212,12 @@
   },
   "links": [
     {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/H4RF5RZT",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
+    {
       "rel": "root",
       "href": "../../catalog.json",
       "type": "application/json",
@@ -230,14 +241,5 @@
     }
   },
   "datetime": "2006-12-31T00:00:00Z",
-  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
-  "providers": [
-    {
-      "name": "Global Footprint Network - GFN",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided."
 }

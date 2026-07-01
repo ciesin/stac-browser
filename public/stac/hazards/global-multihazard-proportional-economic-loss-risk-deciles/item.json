@@ -42,7 +42,12 @@
     "title": "Global Multihazard Proportional Economic Loss Risk Deciles",
     "description": "The Global Multihazard Proportional Economic Loss Risks is a 2.5 minute grid of a multihazard-based economic loss risk as a proportion of the economic productivity of the analytical unit, the grid cell. Representation of multihazard risk is not based on a multihazard index but rather on combinations of hazard risk categories, drought, seismic, and hydro. The drought category includes drought only. The seismic category consists of earthquake and volcano hazards. Cyclones, floods, and landslides are included in the hydro category.\n\nFor each of the six hazards considered, a binary risk surface is constructed utilizing the three most-at-risk deciles of each hazard's global proportional economic loss risks data set (deciles 8-10). Each of the category risk surfaces are constructed by adding all the relevant hazard high-risk surfaces. These categorical risk surfaces are reclassified into binary high-risk surfaces. The combination of the category risk values forms a three digit identifier for determining those locations that are at higher-risk from multihazards. This data set is the result of collaboration among the Columbia University Center for Hazards and Risk Research (CHRR), International Bank for Reconstruction and Development/The World Bank, and Columbia University Center for International Earth Science Information Network (CIESIN).",
     "purpose": "To identify areas of the world that are at greater risk of multihazard proportional economic loss.",
+    "authors": "Center for Hazards and Risk Research - CHRR - Columbia University, Center for International Earth Science Information Network - CIESIN - Columbia University, and International Bank for Reconstruction and Development - The World Bank",
+    "publishers": "Center for Hazards and Risk Research (CHRR)/Columbia University",
+    "place": "Palisades, NY",
+    "version": "1.00",
     "doi": "https://doi.org/10.7927/H4WS8R5B",
+    "citation": "Center for Hazards and Risk Research - CHRR - Columbia University, Center for International Earth Science Information Network - CIESIN - Columbia University, and International Bank for Reconstruction and Development - The World Bank. 2005-12-31T00:00:00Z. Global Multihazard Proportional Economic Loss Risk Deciles. Palisades, NY: Center for Hazards and Risk Research (CHRR)/Columbia University. https://doi.org/10.7927/H4WS8R5B. Accessed [DAY MONTH YEAR].",
     "stac_category": "hazards",
     "keywords": [
       "Climatology/Meteorology/Atmosphere",
@@ -69,6 +74,12 @@
   },
   "links": [
     {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/H4WS8R5B",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
+    {
       "rel": "root",
       "href": "../../catalog.json",
       "type": "application/json",
@@ -92,14 +103,5 @@
     }
   },
   "datetime": "2005-12-31T00:00:00Z",
-  "license": "The Trustees of Columbia University in the City of New York, Center for Hazards and Risk Research (CHRR), and International Bank for Reconstruction and Development/The World Bank hold the copyright of this data set. Users are prohibited from any commercial, resale, or redistirbution without explicit written permission from CHRR, CIESIN, and The  World Bank. Users should acknowledge CHRR, CIESIN, and The World Bank as the source used in the creation of any reports, publications, new data sets, derived products, or services resulting from the use of this data set. CHRR, CIESIN, and The World Bank request reprints of any publications and notification of any redistribution efforts.",
-  "providers": [
-    {
-      "name": "Center for Hazards and Risk Research - CHRR - Columbia University, Center for International Earth Science Information Network - CIESIN - Columbia University, and International Bank for Reconstruction and Development - The World Bank",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "The Trustees of Columbia University in the City of New York, Center for Hazards and Risk Research (CHRR), and International Bank for Reconstruction and Development/The World Bank hold the copyright of this data set. Users are prohibited from any commercial, resale, or redistirbution without explicit written permission from CHRR, CIESIN, and The  World Bank. Users should acknowledge CHRR, CIESIN, and The World Bank as the source used in the creation of any reports, publications, new data sets, derived products, or services resulting from the use of this data set. CHRR, CIESIN, and The World Bank request reprints of any publications and notification of any redistribution efforts."
 }

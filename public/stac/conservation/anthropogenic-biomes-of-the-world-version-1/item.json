@@ -42,7 +42,12 @@
     "title": "Anthropogenic Biomes of the World, Version 1",
     "description": "The  Anthropogenic Biomes of the World, Version 1 data set describes globally-significant ecological patterns within the terrestrial biosphere caused by sustained direct human interaction with ecosystems, including agriculture, urbanization, forestry and other land uses. Conventional biomes, such as tropical rainforests or grasslands, are based on global vegetation patterns related to climate. Now that humans have fundamentally altered global patterns of ecosystem form, process, and biodiversity, anthropogenic biomes provide a contemporary view of the terrestrial biosphere in its human-altered form. Anthropogenic biomes may also be termed \"anthromes\" to distinguish them from conventional biome systems, or \"human biomes\" (a simpler but less precise term). This data set is distributed by the Columbia University Center for International Earth Science Information Network (CIESIN).",
     "purpose": "To provide information on global land use for research on human-environment interactions.",
+    "authors": "Ellis, E.C., and N. Ramankutty",
+    "publishers": "NASA Socioeconomic Data and Applications Center (SEDAC)",
+    "place": "Palisades, NY",
+    "version": "1.00",
     "doi": "https://doi.org/10.7927/H4H12ZXD",
+    "citation": "Ellis, E.C., and N. Ramankutty. 2008-12-31T00:00:00Z. Anthropogenic Biomes of the World, Version 1. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4H12ZXD. Accessed [DAY MONTH YEAR].",
     "stac_category": "conservation",
     "keywords": [
       "Conservation",
@@ -70,6 +75,12 @@
   },
   "links": [
     {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/H4H12ZXD",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
+    {
       "rel": "root",
       "href": "../../catalog.json",
       "type": "application/json",
@@ -93,14 +104,5 @@
     }
   },
   "datetime": "2008-12-31T00:00:00Z",
-  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.",
-  "providers": [
-    {
-      "name": "Ellis, E.C., and N. Ramankutty",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided."
 }

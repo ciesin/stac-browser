@@ -42,7 +42,12 @@
     "title": "Country-Level Population and Downscaled Projections Based on the SRES B2 Scenario, 1990-2100",
     "description": "The Country-Level Population and Downscaled Projections Based on Special Report on Emissions Scenarios (SRES) B2 Scenario, 1990-2100, were based on the UN 1998 Medium Long Range Projection for the years 1995 to 2100. The official version projects population for 8 regions of the world including Africa, Asia (minus India and China), India, China, Europe, Latin America, Northern America, and Oceania. This data set is produced and distributed by the Columbia University Center for International Earth Science Information Network (CIESIN).",
     "purpose": "To provide data on country-level population and downscaled projections based on the SRES B2 marker scenario.",
+    "authors": "Gaffin, S.R., X. Xing, and G. Yetman",
+    "publishers": "NASA Socioeconomic Data and Applications Center (SEDAC)",
+    "place": "Palisades, NY",
+    "version": "1.00",
     "doi": "https://doi.org/10.7927/H4PC308P",
+    "citation": "Gaffin, S.R., X. Xing, and G. Yetman. 2002-07-31T00:00:00Z. Country-Level Population and Downscaled Projections Based on the SRES B2 Scenario, 1990-2100. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4PC308P. Accessed [DAY MONTH YEAR].",
     "stac_category": "climate",
     "keywords": [
       "Global",
@@ -245,6 +250,12 @@
   },
   "links": [
     {
+      "rel": "documentation",
+      "href": "https://doi.org/10.7927/H4PC308P",
+      "type": "text/html",
+      "title": "DOI Link"
+    },
+    {
       "rel": "root",
       "href": "../../catalog.json",
       "type": "application/json",
@@ -268,14 +279,5 @@
     }
   },
   "datetime": "2002-07-31T00:00:00Z",
-  "license": "The Trustees of Columbia University in the City of New York hold the copyright of this data set. Users are prohibited from any commercial, non-free resale, or redistribution without explicit written permission from CIESIN. Users should acknowledge CIESIN as the source used in the creation of any reports, publications, new data sets, derived products, or services resulting from the use of this data set. CIESIN also requests reprints of any publications and notification of any redistributing efforts.",
-  "providers": [
-    {
-      "name": "Gaffin, S.R., X. Xing, and G. Yetman",
-      "roles": [
-        "producer"
-      ],
-      "url": "mailto:ciesin.info@ciesin.columbia.edu"
-    }
-  ]
+  "license": "The Trustees of Columbia University in the City of New York hold the copyright of this data set. Users are prohibited from any commercial, non-free resale, or redistribution without explicit written permission from CIESIN. Users should acknowledge CIESIN as the source used in the creation of any reports, publications, new data sets, derived products, or services resulting from the use of this data set. CIESIN also requests reprints of any publications and notification of any redistributing efforts."
 }
