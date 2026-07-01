@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "v1.0",
     "doi": "https://doi.org/10.7916/hesc-8041",
-    "citation": "Center for International Earth Science Information Network (CIESIN). 2024-05-10T00:00:00Z. GRID3 COD - Religious Centers v1.0. Palisades, NY: Center for International Earth Science Information Network (CIESIN). https://doi.org/10.7916/hesc-8041. Accessed [DAY MONTH YEAR].",
+    "citation": "Center for International Earth Science Information Network (CIESIN). 2024. GRID3 COD - Religious Centers v1.0. Palisades, NY: Center for International Earth Science Information Network (CIESIN). https://doi.org/10.7916/hesc-8041. Accessed [DAY MONTH YEAR].",
     "stac_category": "infrastructure",
     "keywords": [
       "COD",

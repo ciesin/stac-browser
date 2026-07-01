@@ -47,7 +47,7 @@
     "place": "New York, NY",
     "version": "1.01",
     "doi": "https://doi.org/10.7927/H41C1TT4",
-    "citation": "Intergovernmental Panel on Climate Change - IPCC. 2000-07-31T00:00:00Z. IPCC IS92 Emissions Scenarios (A, B, C, D, E, F) Dataset Version 1.1. New York, NY: Cambridge University Press. https://doi.org/10.7927/H41C1TT4. Accessed [DAY MONTH YEAR].",
+    "citation": "Intergovernmental Panel on Climate Change - IPCC. 2000. IPCC IS92 Emissions Scenarios (A, B, C, D, E, F) Dataset Version 1.1. New York, NY: Cambridge University Press. https://doi.org/10.7927/H41C1TT4. Accessed [DAY MONTH YEAR].",
     "stac_category": "climate",
     "keywords": [
       "Global",

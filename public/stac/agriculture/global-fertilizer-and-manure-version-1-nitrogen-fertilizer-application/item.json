@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "1.00",
     "doi": "https://doi.org/10.7927/H4Q81B0R",
-    "citation": "Potter, P., N. Ramankutty, E.M. Bennett, and S.D. Donner. 2012-02-21T00:00:00Z. Global Fertilizer and Manure, Version 1: Nitrogen Fertilizer Application. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4Q81B0R. Accessed [DAY MONTH YEAR].",
+    "citation": "Potter, P., N. Ramankutty, E.M. Bennett, and S.D. Donner. 2012. Global Fertilizer and Manure, Version 1: Nitrogen Fertilizer Application. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4Q81B0R. Accessed [DAY MONTH YEAR].",
     "stac_category": "agriculture",
     "keywords": [
       "Agriculture",

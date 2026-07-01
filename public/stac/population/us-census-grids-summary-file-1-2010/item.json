@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "1.00",
     "doi": "https://doi.org/10.7927/H40Z716C",
-    "citation": "Center for International Earth Science Information Network - CIESIN - Columbia University. 2017-05-26T00:00:00Z. U.S. Census Grids (Summary File 1), 2010. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H40Z716C. Accessed [DAY MONTH YEAR].",
+    "citation": "Center for International Earth Science Information Network - CIESIN - Columbia University. 2017. U.S. Census Grids (Summary File 1), 2010. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H40Z716C. Accessed [DAY MONTH YEAR].",
     "stac_category": "population",
     "keywords": [
       "Country",

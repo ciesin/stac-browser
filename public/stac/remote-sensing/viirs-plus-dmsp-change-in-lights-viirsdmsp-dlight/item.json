@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "1.00",
     "doi": "https://doi.org/10.7927/9ryj-6467",
-    "citation": "Small, C.,  and Center for International Earth Science Information Network - CIESIN - Columbia University. 2020-06-23T00:00:00Z. VIIRS Plus DMSP Change in Lights (VIIRS+DMSP dLIGHT). Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/9ryj-6467. Accessed [DAY MONTH YEAR].",
+    "citation": "Small, C.,  and Center for International Earth Science Information Network - CIESIN - Columbia University. 2020. VIIRS Plus DMSP Change in Lights (VIIRS+DMSP dLIGHT). Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/9ryj-6467. Accessed [DAY MONTH YEAR].",
     "stac_category": "remote-sensing",
     "keywords": [
       "Remote Sensing",

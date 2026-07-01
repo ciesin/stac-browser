@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "1.00",
     "doi": "https://doi.org/10.7927/H4H12ZXD",
-    "citation": "Ellis, E.C., and N. Ramankutty. 2008-12-31T00:00:00Z. Anthropogenic Biomes of the World, Version 1. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4H12ZXD. Accessed [DAY MONTH YEAR].",
+    "citation": "Ellis, E.C., and N. Ramankutty. 2008. Anthropogenic Biomes of the World, Version 1. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4H12ZXD. Accessed [DAY MONTH YEAR].",
     "stac_category": "conservation",
     "keywords": [
       "Conservation",

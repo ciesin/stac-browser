@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "1.00",
     "doi": "https://doi.org/10.7927/H4JW8BTT",
-    "citation": "Geddes, J.A., R.V. Martin, B.L. Boys, and A. van Donkelaar. 2017-05-19T00:00:00Z. Global 3-Year Running Mean Ground-Level Nitrogen Dioxide (NO2) Grids from GOME, SCIAMACHY and GOME-2. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4JW8BTT. Accessed [DAY MONTH YEAR].",
+    "citation": "Geddes, J.A., R.V. Martin, B.L. Boys, and A. van Donkelaar. 2017. Global 3-Year Running Mean Ground-Level Nitrogen Dioxide (NO2) Grids from GOME, SCIAMACHY and GOME-2. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4JW8BTT. Accessed [DAY MONTH YEAR].",
     "stac_category": "health",
     "keywords": [
       "Global",

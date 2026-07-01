@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "1.00",
     "doi": "https://doi.org/10.7927/9yp5-hz11",
-    "citation": "Wei,  Y., X. Xing, A. Shtein, E. Castro, C. Hultquist, M. D. Yazdi, L. Li, and J.  Schwartz. 2022-12-09T00:00:00Z. Daily and Annual PM2.5, O3, and NO2 Concentrations at ZIP Codes for the Contiguous U.S., 2000-2016, v1.0. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/9yp5-hz11. Accessed [DAY MONTH YEAR].",
+    "citation": "Wei,  Y., X. Xing, A. Shtein, E. Castro, C. Hultquist, M. D. Yazdi, L. Li, and J.  Schwartz. 2022. Daily and Annual PM2.5, O3, and NO2 Concentrations at ZIP Codes for the Contiguous U.S., 2000-2016, v1.0. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/9yp5-hz11. Accessed [DAY MONTH YEAR].",
     "stac_category": "health",
     "keywords": [
       "Health",

@@ -47,7 +47,7 @@
     "place": "Saginaw, MI",
     "version": "1.00",
     "doi": "https://doi.org/10.7927/H41N7Z2Z",
-    "citation": "Center for International Earth Science Information Network - CIESIN. 1994-12-31T00:00:00Z. Georeferenced Population Datasets of Mexico (GEO-MEX): Raster Based GIS Coverage of Mexican Population. Saginaw, MI: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H41N7Z2Z. Accessed [DAY MONTH YEAR].",
+    "citation": "Center for International Earth Science Information Network - CIESIN. 1994. Georeferenced Population Datasets of Mexico (GEO-MEX): Raster Based GIS Coverage of Mexican Population. Saginaw, MI: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H41N7Z2Z. Accessed [DAY MONTH YEAR].",
     "stac_category": "population",
     "keywords": [
       "Country",

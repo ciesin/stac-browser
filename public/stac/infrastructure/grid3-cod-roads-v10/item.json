@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "v1.0",
     "doi": "https://doi.org/10.7916/00gb-e164",
-    "citation": "Center for Integrated Earth System Information (CIESIN). 2026-01-08T00:00:00Z. GRID3 COD - Roads v1.0. Palisades, NY: Center for Integrated Earth System Information (CIESIN). https://doi.org/10.7916/00gb-e164. Accessed [DAY MONTH YEAR].",
+    "citation": "Center for Integrated Earth System Information (CIESIN). 2026. GRID3 COD - Roads v1.0. Palisades, NY: Center for Integrated Earth System Information (CIESIN). https://doi.org/10.7916/00gb-e164. Accessed [DAY MONTH YEAR].",
     "stac_category": "infrastructure",
     "keywords": [
       "Democratic Republic of the Congo",

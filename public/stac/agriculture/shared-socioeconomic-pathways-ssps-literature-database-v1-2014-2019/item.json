@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "1.00",
     "doi": "https://doi.org/10.7927/hn96-9703",
-    "citation": "Green, C., D. Carlisle, B. C. O'Neill, B. J. van Ruijven, C. Boyer, and  K. Ebi. 2021-03-03T00:00:00Z. Shared Socioeconomic Pathways (SSPs) Literature Database, v1, 2014-2019. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/hn96-9703. Accessed [DAY MONTH YEAR].",
+    "citation": "Green, C., D. Carlisle, B. C. O'Neill, B. J. van Ruijven, C. Boyer, and  K. Ebi. 2021. Shared Socioeconomic Pathways (SSPs) Literature Database, v1, 2014-2019. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/hn96-9703. Accessed [DAY MONTH YEAR].",
     "stac_category": "agriculture",
     "keywords": [
       "Global",

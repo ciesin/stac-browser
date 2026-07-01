@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "1.00",
     "doi": "https://doi.org/10.7927/3xxe-ap97",
-    "citation": "Center for International Earth Science Information Network - CIESIN - Columbia University. 2022-11-04T00:00:00Z. Global Gridded Relative Deprivation Index (GRDI), Version 1. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/3xxe-ap97. Accessed [DAY MONTH YEAR].",
+    "citation": "Center for International Earth Science Information Network - CIESIN - Columbia University. 2022. Global Gridded Relative Deprivation Index (GRDI), Version 1. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/3xxe-ap97. Accessed [DAY MONTH YEAR].",
     "stac_category": "poverty",
     "keywords": [
       "Poverty",

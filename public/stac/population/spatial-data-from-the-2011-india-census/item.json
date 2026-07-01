@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "1.00",
     "doi": "https://doi.org/10.7927/gya1-wp91",
-    "citation": "Balk, D., M. R. Montgomery, H. Engin, N. Lin, E. Major and B. Jones. 2020-06-18T00:00:00Z. Spatial Data from the 2011 India Census. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/gya1-wp91. Accessed [DAY MONTH YEAR].",
+    "citation": "Balk, D., M. R. Montgomery, H. Engin, N. Lin, E. Major and B. Jones. 2020. Spatial Data from the 2011 India Census. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/gya1-wp91. Accessed [DAY MONTH YEAR].",
     "stac_category": "population",
     "keywords": [
       "EARTH SCIENCE > HUMAN DIMENSIONS > POPULATION",

@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "1.00",
     "doi": "https://doi.org/10.7927/H4W66HPJ",
-    "citation": "Imhoff, M.L., L. Bounoua, T. Ricketts, C. Loucks, R. Harriss, and W.T. Lawrence. 2004-12-31T00:00:00Z. HANPP Collection: Human Appropriation of Net Primary Productivity as a Percentage of Net Primary Productivity. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4W66HPJ. Accessed [DAY MONTH YEAR].",
+    "citation": "Imhoff, M.L., L. Bounoua, T. Ricketts, C. Loucks, R. Harriss, and W.T. Lawrence. 2004. HANPP Collection: Human Appropriation of Net Primary Productivity as a Percentage of Net Primary Productivity. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4W66HPJ. Accessed [DAY MONTH YEAR].",
     "stac_category": "agriculture",
     "keywords": [
       "Global",

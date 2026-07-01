@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "2.00",
     "doi": "https://doi.org/10.7927/H4JW8BSC",
-    "citation": "Center for International Earth Science Information Network - CIESIN - Columbia University. 2007-12-31T00:00:00Z. National Aggregates of Geospatial Data Collection: Population, Landscape, And Climate Estimates, Version 2 (PLACE II). Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4JW8BSC. Accessed [DAY MONTH YEAR].",
+    "citation": "Center for International Earth Science Information Network - CIESIN - Columbia University. 2007. National Aggregates of Geospatial Data Collection: Population, Landscape, And Climate Estimates, Version 2 (PLACE II). Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4JW8BSC. Accessed [DAY MONTH YEAR].",
     "stac_category": "climate",
     "keywords": [
       "Climatology/Meteorology/Atmosphere",

@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "1.00",
     "doi": "https://doi.org/10.7927/H4542KJV",
-    "citation": "Rosenzweig, C., P. Neofotis, M. Vicarelii, and X. Xing. 2008-12-31T00:00:00Z. IPCC Fourth Assessment Report (AR4) Observed Climate Change Impacts Database. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4542KJV. Accessed [DAY MONTH YEAR].",
+    "citation": "Rosenzweig, C., P. Neofotis, M. Vicarelii, and X. Xing. 2008. IPCC Fourth Assessment Report (AR4) Observed Climate Change Impacts Database. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4542KJV. Accessed [DAY MONTH YEAR].",
     "stac_category": "agriculture",
     "keywords": [
       "Continent",

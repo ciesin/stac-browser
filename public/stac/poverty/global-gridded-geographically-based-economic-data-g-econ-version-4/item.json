@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "4.00",
     "doi": "http://doi.org/10.7927/H42V2D1C",
-    "citation": "Nordhaus, W.D., and X. Chen. 2016-12-02T00:00:00Z. Global Gridded Geographically Based Economic Data (G-Econ), Version 4. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). http://doi.org/10.7927/H42V2D1C. Accessed [DAY MONTH YEAR].",
+    "citation": "Nordhaus, W.D., and X. Chen. 2016. Global Gridded Geographically Based Economic Data (G-Econ), Version 4. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). http://doi.org/10.7927/H42V2D1C. Accessed [DAY MONTH YEAR].",
     "stac_category": "poverty",
     "keywords": [
       "Poverty",

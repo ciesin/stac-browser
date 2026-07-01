@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "2.00",
     "doi": "https://doi.org/10.7927/H4DF6P5Z",
-    "citation": "Agency for Toxic Substances and Disease Registry - ATSDR, National Institute for Environmental Health Sciences Columbia University Superfund Research Program - NIEHS CU SRP, and Center for International Earth Science Information Network - CIESIN - Columbia University. 2014-12-12T00:00:00Z. ATSDR Hazardous Waste Site Polygon Data with CIESIN Modifications, Version 2. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4DF6P5Z. Accessed [DAY MONTH YEAR].",
+    "citation": "Agency for Toxic Substances and Disease Registry - ATSDR, National Institute for Environmental Health Sciences Columbia University Superfund Research Program - NIEHS CU SRP, and Center for International Earth Science Information Network - CIESIN - Columbia University. 2014. ATSDR Hazardous Waste Site Polygon Data with CIESIN Modifications, Version 2. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4DF6P5Z. Accessed [DAY MONTH YEAR].",
     "stac_category": "hazards",
     "keywords": [
       "Hazards",

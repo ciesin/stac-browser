@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "1.00",
     "doi": "https://doi.org/10.7927/yxxc-jv91",
-    "citation": "Center for Integrated Earth System Information - CIESIN - Columbia University. 2025-06-09T00:00:00Z. U.S. Census Grids Demographic and Housing Characteristics File (DHC), 2020. Palisades, NY: Center for Integrated Earth System Information (CIESIN). https://doi.org/10.7927/yxxc-jv91. Accessed [DAY MONTH YEAR].",
+    "citation": "Center for Integrated Earth System Information - CIESIN - Columbia University. 2025. U.S. Census Grids Demographic and Housing Characteristics File (DHC), 2020. Palisades, NY: Center for Integrated Earth System Information (CIESIN). https://doi.org/10.7927/yxxc-jv91. Accessed [DAY MONTH YEAR].",
     "stac_category": "infrastructure",
     "keywords": [
       "Country",

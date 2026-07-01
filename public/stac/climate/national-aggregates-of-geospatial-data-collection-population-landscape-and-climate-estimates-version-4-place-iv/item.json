@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "4.00",
     "doi": "https://doi.org/10.7927/rht8-jv78",
-    "citation": "Center for International Earth Science Information Network - CIESIN - Columbia University. 2022-05-24T00:00:00Z. National Aggregates of Geospatial Data Collection: Population, Landscape, And Climate Estimates, Version 4 (PLACE IV). Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/rht8-jv78. Accessed [DAY MONTH YEAR].",
+    "citation": "Center for International Earth Science Information Network - CIESIN - Columbia University. 2022. National Aggregates of Geospatial Data Collection: Population, Landscape, And Climate Estimates, Version 4 (PLACE IV). Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/rht8-jv78. Accessed [DAY MONTH YEAR].",
     "stac_category": "climate",
     "keywords": [
       "Climate",

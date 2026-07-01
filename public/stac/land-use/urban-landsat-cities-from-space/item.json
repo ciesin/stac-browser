@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "1.00",
     "doi": "https://doi.org/10.7927/H4SQ8XB1",
-    "citation": "Small, C. 2006-12-31T00:00:00Z. Urban Landsat: Cities from Space. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4SQ8XB1. Accessed [DAY MONTH YEAR].",
+    "citation": "Small, C. 2006. Urban Landsat: Cities from Space. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4SQ8XB1. Accessed [DAY MONTH YEAR].",
     "stac_category": "land-use",
     "keywords": [
       "Land Use",

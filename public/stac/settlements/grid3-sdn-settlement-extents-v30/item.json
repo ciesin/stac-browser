@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "v3.0",
     "doi": "https://doi.org/10.7916/509j-p145",
-    "citation": "Center for International Earth Science Information Network (CIESIN). 2024-09-30T00:00:00Z. GRID3 SDN - Settlement Extents v3.0. Palisades, NY: Center for International Earth Science Information Network (CIESIN). https://doi.org/10.7916/509j-p145. Accessed [DAY MONTH YEAR].",
+    "citation": "Center for International Earth Science Information Network (CIESIN). 2024. GRID3 SDN - Settlement Extents v3.0. Palisades, NY: Center for International Earth Science Information Network (CIESIN). https://doi.org/10.7916/509j-p145. Accessed [DAY MONTH YEAR].",
     "stac_category": "settlements",
     "keywords": [
       "SDN",

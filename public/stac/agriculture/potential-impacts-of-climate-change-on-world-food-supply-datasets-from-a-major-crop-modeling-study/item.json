@@ -47,7 +47,7 @@
     "place": "New York, NY",
     "version": "1.00",
     "doi": "https://doi.org/10.7927/H43R0QR1",
-    "citation": "Rosensweig, C. and  A. Iglesias. 1999-12-31T00:00:00Z. Potential Impacts of Climate Change on World Food Supply: Datasets from a Major Crop Modeling Study. New York, NY: NASA Goddard Institute for Space Studies (GISS). https://doi.org/10.7927/H43R0QR1. Accessed [DAY MONTH YEAR].",
+    "citation": "Rosensweig, C. and  A. Iglesias. 1999. Potential Impacts of Climate Change on World Food Supply: Datasets from a Major Crop Modeling Study. New York, NY: NASA Goddard Institute for Space Studies (GISS). https://doi.org/10.7927/H43R0QR1. Accessed [DAY MONTH YEAR].",
     "stac_category": "agriculture",
     "keywords": [
       "Continent",

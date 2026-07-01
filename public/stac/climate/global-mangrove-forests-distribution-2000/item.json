@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "1.00",
     "doi": "https://doi.org/10.7927/H4J67DW8",
-    "citation": "Giri, C., E. Ochieng, L.L.Tieszen,  Z. Zhu,  A. Singh, T. Loveland, J. Masek, and N. Duke. 2005-12-31T00:00:00Z. Global Mangrove Forests Distribution, 2000. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4J67DW8. Accessed [DAY MONTH YEAR].",
+    "citation": "Giri, C., E. Ochieng, L.L.Tieszen,  Z. Zhu,  A. Singh, T. Loveland, J. Masek, and N. Duke. 2005. Global Mangrove Forests Distribution, 2000. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4J67DW8. Accessed [DAY MONTH YEAR].",
     "stac_category": "climate",
     "keywords": [
       "Climate",

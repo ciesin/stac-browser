@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "1.00",
     "doi": "https://doi.org/10.7927/H48W3B88",
-    "citation": "Goddard Space Flight Center - GSFC, and Center for International Earth Science Information Network - CIESIN - Columbia University. 2009-12-31T00:00:00Z. Indicators of Coastal Water Quality: Change in Chlorophyll-a Concentration 1998-2007. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H48W3B88. Accessed [DAY MONTH YEAR].",
+    "citation": "Goddard Space Flight Center - GSFC, and Center for International Earth Science Information Network - CIESIN - Columbia University. 2009. Indicators of Coastal Water Quality: Change in Chlorophyll-a Concentration 1998-2007. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H48W3B88. Accessed [DAY MONTH YEAR].",
     "stac_category": "conservation",
     "keywords": [
       "Oceans",

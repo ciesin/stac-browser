@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "1.00",
     "doi": "https://doi.org/10.7927/H4BR8Q45",
-    "citation": "Center for Hazards and Risk Research - CHRR - Columbia University, and Center for International Earth Science Information Network - CIESIN - Columbia University. 2005-12-31T00:00:00Z. Global Volcano Hazard Frequency and Distribution. Palisades, NY: Center for Hazards and Risk Research (CHRR)/Columbia University. https://doi.org/10.7927/H4BR8Q45. Accessed [DAY MONTH YEAR].",
+    "citation": "Center for Hazards and Risk Research - CHRR - Columbia University, and Center for International Earth Science Information Network - CIESIN - Columbia University. 2005. Global Volcano Hazard Frequency and Distribution. Palisades, NY: Center for Hazards and Risk Research (CHRR)/Columbia University. https://doi.org/10.7927/H4BR8Q45. Accessed [DAY MONTH YEAR].",
     "stac_category": "hazards",
     "keywords": [
       "Geoscientific Information",

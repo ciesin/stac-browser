@@ -47,7 +47,7 @@
     "place": "Atlanta, GA",
     "version": "2.00",
     "doi": "https://doi.org/10.7927/H48P5XF7",
-    "citation": "Agency for Toxic Substances and Disease Registry - ATSDR. 2010-05-26T00:00:00Z. ATSDR Hazardous Waste Site Polygon Data, Version 2. Atlanta, GA: Geospatial Research, Analysis, and Services Program (GRASP). https://doi.org/10.7927/H48P5XF7. Accessed [DAY MONTH YEAR].",
+    "citation": "Agency for Toxic Substances and Disease Registry - ATSDR. 2010. ATSDR Hazardous Waste Site Polygon Data, Version 2. Atlanta, GA: Geospatial Research, Analysis, and Services Program (GRASP). https://doi.org/10.7927/H48P5XF7. Accessed [DAY MONTH YEAR].",
     "stac_category": "hazards",
     "keywords": [
       "Hazards",

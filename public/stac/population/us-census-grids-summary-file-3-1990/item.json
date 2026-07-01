@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "1.00",
     "doi": "https://doi.org/10.7927/H4JS9NC2",
-    "citation": "Seirup, L., G. Yetman, and L. Razafindrazay. 2013-05-17T00:00:00Z. U.S. Census Grids (Summary File 3), 1990. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4JS9NC2. Accessed [DAY MONTH YEAR].",
+    "citation": "Seirup, L., G. Yetman, and L. Razafindrazay. 2013. U.S. Census Grids (Summary File 3), 1990. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4JS9NC2. Accessed [DAY MONTH YEAR].",
     "stac_category": "population",
     "keywords": [
       "Population",

@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "2.01",
     "doi": "https://doi.org/10.7927/H4FT8J0X",
-    "citation": "Intergovernmental Panel on Climate Change (IPCC). 2017-06-28T00:00:00Z. IPCC Fifth Assessment Report (AR5) Observed Climate Change Impacts Database, Version 2.01. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4FT8J0X. Accessed [DAY MONTH YEAR].",
+    "citation": "Intergovernmental Panel on Climate Change (IPCC). 2017. IPCC Fifth Assessment Report (AR5) Observed Climate Change Impacts Database, Version 2.01. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4FT8J0X. Accessed [DAY MONTH YEAR].",
     "stac_category": "agriculture",
     "keywords": [
       "EARTH SCIENCE > HUMAN DIMENSIONS > ENVIRONMENTAL IMPACTS",

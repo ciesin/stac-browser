@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "v1.0",
     "doi": "https://doi.org/10.7916/b42r-6w17",
-    "citation": "Center for Integrated Earth System Information (CIESIN). 2025-08-15T00:00:00Z. GRID3 NGA - Roads v1.0. Palisades, NY: Center for Integrated Earth System Information (CIESIN). https://doi.org/10.7916/b42r-6w17. Accessed [DAY MONTH YEAR].",
+    "citation": "Center for Integrated Earth System Information (CIESIN). 2025. GRID3 NGA - Roads v1.0. Palisades, NY: Center for Integrated Earth System Information (CIESIN). https://doi.org/10.7916/b42r-6w17. Accessed [DAY MONTH YEAR].",
     "stac_category": "infrastructure",
     "keywords": [
       "NGA",

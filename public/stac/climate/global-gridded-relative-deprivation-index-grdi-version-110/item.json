@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "1.10",
     "doi": "https://doi.org/10.7927/q57x-jt34",
-    "citation": "Center for Integrated Earth System Information - CIESIN - Columbia University. 2025-05-28T00:00:00Z. Global Gridded Relative Deprivation Index (GRDI), Version 1.10. Palisades, NY: Center for Integrated Earth System Information (CIESIN). https://doi.org/10.7927/q57x-jt34. Accessed [DAY MONTH YEAR].",
+    "citation": "Center for Integrated Earth System Information - CIESIN - Columbia University. 2025. Global Gridded Relative Deprivation Index (GRDI), Version 1.10. Palisades, NY: Center for Integrated Earth System Information (CIESIN). https://doi.org/10.7927/q57x-jt34. Accessed [DAY MONTH YEAR].",
     "stac_category": "climate",
     "keywords": [
       "Climate",

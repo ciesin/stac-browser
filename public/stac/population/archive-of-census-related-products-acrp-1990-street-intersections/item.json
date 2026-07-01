@@ -47,7 +47,7 @@
     "place": "Saginaw, MI",
     "version": "1.00",
     "doi": "https://doi.org/10.7927/H42Z13FP",
-    "citation": "Center for International Earth Science Information Network - CIESIN. 1996-12-31T00:00:00Z. Archive of Census Related Products (ACRP): 1990 Street Intersections. Saginaw, MI: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H42Z13FP. Accessed [DAY MONTH YEAR].",
+    "citation": "Center for International Earth Science Information Network - CIESIN. 1996. Archive of Census Related Products (ACRP): 1990 Street Intersections. Saginaw, MI: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H42Z13FP. Accessed [DAY MONTH YEAR].",
     "stac_category": "population",
     "keywords": [
       "County",

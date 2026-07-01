@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "1.00",
     "doi": "https://doi.org/10.7927/H4668B3D",
-    "citation": "Center for Hazards and Risk Research - CHRR - Columbia University, and Center for International Earth Science Information Network - CIESIN - Columbia University. 2005-12-31T00:00:00Z. Global Flood Hazard Frequency and Distribution. Palisades, NY: Center for Hazards and Risk Research (CHRR)/Columbia University. https://doi.org/10.7927/H4668B3D. Accessed [DAY MONTH YEAR].",
+    "citation": "Center for Hazards and Risk Research - CHRR - Columbia University, and Center for International Earth Science Information Network - CIESIN - Columbia University. 2005. Global Flood Hazard Frequency and Distribution. Palisades, NY: Center for Hazards and Risk Research (CHRR)/Columbia University. https://doi.org/10.7927/H4668B3D. Accessed [DAY MONTH YEAR].",
     "stac_category": "agriculture",
     "keywords": [
       "Agriculture",

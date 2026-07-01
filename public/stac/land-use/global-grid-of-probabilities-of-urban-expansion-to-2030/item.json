@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "1.00",
     "doi": "https://doi.org/10.7927/H4Z899CG",
-    "citation": "Seto, K., B. G\u00fcneralp, and L.R. Hutyra. 2016-03-04T00:00:00Z. Global Grid of Probabilities of Urban Expansion to 2030. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4Z899CG. Accessed [DAY MONTH YEAR].",
+    "citation": "Seto, K., B. G\u00fcneralp, and L.R. Hutyra. 2016. Global Grid of Probabilities of Urban Expansion to 2030. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4Z899CG. Accessed [DAY MONTH YEAR].",
     "stac_category": "land-use",
     "keywords": [
       "Land Use",

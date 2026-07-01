@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "1.00",
     "doi": "https://doi.org/10.7927/gr2e-dh86",
-    "citation": "Frolking, S., T. Milliman, R. Mahtta, A. Paget, D. G. Long, and K. C. Seto. 2022-09-29T00:00:00Z. Global Monthly and Seasonal Urban and Land Backscatter Time Series, 1993-2020. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/gr2e-dh86. Accessed [DAY MONTH YEAR].",
+    "citation": "Frolking, S., T. Milliman, R. Mahtta, A. Paget, D. G. Long, and K. C. Seto. 2022. Global Monthly and Seasonal Urban and Land Backscatter Time Series, 1993-2020. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/gr2e-dh86. Accessed [DAY MONTH YEAR].",
     "stac_category": "remote-sensing",
     "keywords": [
       "EARTH SCIENCE > ATMOSPHERE > ATMOSPHERIC RADIATION > REFLECTANCE",

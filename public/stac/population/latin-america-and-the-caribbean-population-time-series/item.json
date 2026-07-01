@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "1.00",
     "doi": "https://doi.org/10.7927/H4R78C4K",
-    "citation": "Center for International Earth Science Information Network - CIESIN - Columbia University and University of Puerto Rico - UPR - Rio Piedras. 2020-02-14T00:00:00Z. Latin America and the Caribbean Population Time Series. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4R78C4K. Accessed [DAY MONTH YEAR].",
+    "citation": "Center for International Earth Science Information Network - CIESIN - Columbia University and University of Puerto Rico - UPR - Rio Piedras. 2020. Latin America and the Caribbean Population Time Series. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4R78C4K. Accessed [DAY MONTH YEAR].",
     "stac_category": "population",
     "keywords": [
       "EARTH SCIENCE > HUMAN DIMENSIONS > POPULATION",

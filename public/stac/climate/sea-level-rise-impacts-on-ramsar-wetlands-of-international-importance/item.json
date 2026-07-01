@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "1.00",
     "doi": "https://doi.org/10.7927/H4CC0XMD",
-    "citation": "Center for International Earth Science Information Network - CIESIN - Columbia University. 2013-11-14T00:00:00Z. Sea Level Rise Impacts on Ramsar Wetlands of International Importance. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4CC0XMD. Accessed [DAY MONTH YEAR].",
+    "citation": "Center for International Earth Science Information Network - CIESIN - Columbia University. 2013. Sea Level Rise Impacts on Ramsar Wetlands of International Importance. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4CC0XMD. Accessed [DAY MONTH YEAR].",
     "stac_category": "climate",
     "keywords": [
       "Country",

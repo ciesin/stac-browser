@@ -47,7 +47,7 @@
     "place": "Saginaw, MI",
     "version": "1.00",
     "doi": "https://doi.org/10.7927/H4FT8HZ2",
-    "citation": "Administrative Center for China's Agenda 21 - ACCA21, United Nations Development Programme - UNDP, and Center for International Earth Science Information Network - CIESIN. 1997-02-28T00:00:00Z. China Dimensions Data Collection: Priority Programme for China's Agenda 21. Saginaw, MI: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4FT8HZ2. Accessed [DAY MONTH YEAR].",
+    "citation": "Administrative Center for China's Agenda 21 - ACCA21, United Nations Development Programme - UNDP, and Center for International Earth Science Information Network - CIESIN. 1997. China Dimensions Data Collection: Priority Programme for China's Agenda 21. Saginaw, MI: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4FT8HZ2. Accessed [DAY MONTH YEAR].",
     "stac_category": "governance",
     "keywords": [
       "Country",

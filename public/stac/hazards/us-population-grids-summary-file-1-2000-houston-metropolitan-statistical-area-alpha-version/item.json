@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "alpha",
     "doi": "https://doi.org/10.7927/H4V985ZG",
-    "citation": "Seirup, L., and G. Yetman. 2005-09-13T00:00:00Z. U.S. Population Grids (Summary File 1), 2000: Houston Metropolitan Statistical Area, Alpha Version. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4V985ZG. Accessed [DAY MONTH YEAR].",
+    "citation": "Seirup, L., and G. Yetman. 2005. U.S. Population Grids (Summary File 1), 2000: Houston Metropolitan Statistical Area, Alpha Version. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4V985ZG. Accessed [DAY MONTH YEAR].",
     "stac_category": "hazards",
     "keywords": [
       "City",

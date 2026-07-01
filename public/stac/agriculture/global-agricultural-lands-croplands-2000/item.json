@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "1.00",
     "doi": "https://doi.org/10.7927/H4C8276G",
-    "citation": "Ramankutty, N., A.T. Evan, C. Monfreda, and  J.A. Foley. 2010-12-31T00:00:00Z. Global Agricultural Lands: Croplands, 2000. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4C8276G. Accessed [DAY MONTH YEAR].",
+    "citation": "Ramankutty, N., A.T. Evan, C. Monfreda, and  J.A. Foley. 2010. Global Agricultural Lands: Croplands, 2000. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4C8276G. Accessed [DAY MONTH YEAR].",
     "stac_category": "agriculture",
     "keywords": [
       "Agriculture",

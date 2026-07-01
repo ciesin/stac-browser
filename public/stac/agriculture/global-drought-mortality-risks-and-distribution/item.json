@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "1.00",
     "doi": "https://doi.org/10.7927/H4R49NQV",
-    "citation": "Center for Hazards and Risk Research - CHRR - Columbia University, Center for International Earth Science Information Network - CIESIN - Columbia University, and International Bank for Reconstruction and Development - The World Bank. 2005-12-31T00:00:00Z. Global Drought Mortality Risks and Distribution. Palisades, NY: Center for Hazards and Risk Research (CHRR)/Columbia University. https://doi.org/10.7927/H4R49NQV. Accessed [DAY MONTH YEAR].",
+    "citation": "Center for Hazards and Risk Research - CHRR - Columbia University, Center for International Earth Science Information Network - CIESIN - Columbia University, and International Bank for Reconstruction and Development - The World Bank. 2005. Global Drought Mortality Risks and Distribution. Palisades, NY: Center for Hazards and Risk Research (CHRR)/Columbia University. https://doi.org/10.7927/H4R49NQV. Accessed [DAY MONTH YEAR].",
     "stac_category": "agriculture",
     "keywords": [
       "Agriculture",

@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "v2.0",
     "doi": "https://doi.org/10.7916/kv1n-0743",
-    "citation": "Center for Integrated Earth System Information (CIESIN). 2024-11-13T00:00:00Z. GRID3 NGA - Health Facilities v2.0. Palisades, NY: Center for Integrated Earth System Information (CIESIN). https://doi.org/10.7916/kv1n-0743. Accessed [DAY MONTH YEAR].",
+    "citation": "Center for Integrated Earth System Information (CIESIN). 2024. GRID3 NGA - Health Facilities v2.0. Palisades, NY: Center for Integrated Earth System Information (CIESIN). https://doi.org/10.7916/kv1n-0743. Accessed [DAY MONTH YEAR].",
     "stac_category": "infrastructure",
     "keywords": [
       "Nigeria",

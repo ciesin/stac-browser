@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "2023.00",
     "doi": "https://doi.org/10.7927/gxnr-sx57",
-    "citation": "Center for International Earth Science Information Network - CIESIN - Columbia University. 2023-09-05T00:00:00Z. SDG Indicator 7.1.1: Access to Electricity, 2023 Release. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/gxnr-sx57. Accessed [DAY MONTH YEAR].",
+    "citation": "Center for International Earth Science Information Network - CIESIN - Columbia University. 2023. SDG Indicator 7.1.1: Access to Electricity, 2023 Release. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/gxnr-sx57. Accessed [DAY MONTH YEAR].",
     "stac_category": "sustainability",
     "keywords": [
       "EARTH SCIENCE > HUMAN DIMENSIONS > INFRASTRUCTURE > ELECTRICITY",

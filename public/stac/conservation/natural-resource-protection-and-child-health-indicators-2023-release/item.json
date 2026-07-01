@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "2023.00",
     "doi": "https://doi.org/10.7927/hvgh-g750",
-    "citation": "Center for International Earth Science Information Network - CIESIN - Columbia University. 2023-12-31T00:00:00Z. Natural Resource Protection and Child Health Indicators, 2023 Release. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/hvgh-g750. Accessed [DAY MONTH YEAR].",
+    "citation": "Center for International Earth Science Information Network - CIESIN - Columbia University. 2023. Natural Resource Protection and Child Health Indicators, 2023 Release. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/hvgh-g750. Accessed [DAY MONTH YEAR].",
     "stac_category": "conservation",
     "keywords": [
       "Conservation",

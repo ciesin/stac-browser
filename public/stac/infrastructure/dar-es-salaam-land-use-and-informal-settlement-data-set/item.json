@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "1.00",
     "doi": "https://doi.org/10.7927/H43T9F56",
-    "citation": "Sliuzas, R.V., A. Hill, C. Lindner, and  S. Greiving. 2016-05-20T00:00:00Z. Dar es Salaam Land Use and Informal Settlement Data Set. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H43T9F56. Accessed [DAY MONTH YEAR].",
+    "citation": "Sliuzas, R.V., A. Hill, C. Lindner, and  S. Greiving. 2016. Dar es Salaam Land Use and Informal Settlement Data Set. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H43T9F56. Accessed [DAY MONTH YEAR].",
     "stac_category": "infrastructure",
     "keywords": [
       "Infrastructure",

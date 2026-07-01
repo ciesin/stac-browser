@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "1.00",
     "doi": "https://doi.org/10.7927/H41834D6",
-    "citation": "Center for International Earth Science Information Network - CIESIN - Columbia University. 2015-01-21T00:00:00Z. Population Exposure Estimates in Proximity to Nuclear Power Plants, Country-Level Aggregates. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H41834D6. Accessed [DAY MONTH YEAR].",
+    "citation": "Center for International Earth Science Information Network - CIESIN - Columbia University. 2015. Population Exposure Estimates in Proximity to Nuclear Power Plants, Country-Level Aggregates. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H41834D6. Accessed [DAY MONTH YEAR].",
     "stac_category": "hazards",
     "keywords": [
       "Hazards",

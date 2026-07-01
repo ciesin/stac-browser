@@ -47,7 +47,7 @@
     "place": "Saginaw, MI",
     "version": "1.00",
     "doi": "https://doi.org/10.7927/H4RB72JW",
-    "citation": "United States Department of Agriculture Extension Research Service - USDA/ERS, and Center for International Earth Science Information Network - CIESIN. 1996-05-31T00:00:00Z. China Dimensions Data Collection: Agricultural Statistics of the People's Republic of China: 1949-1990. Saginaw, MI: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4RB72JW. Accessed [DAY MONTH YEAR].",
+    "citation": "United States Department of Agriculture Extension Research Service - USDA/ERS, and Center for International Earth Science Information Network - CIESIN. 1996. China Dimensions Data Collection: Agricultural Statistics of the People's Republic of China: 1949-1990. Saginaw, MI: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4RB72JW. Accessed [DAY MONTH YEAR].",
     "stac_category": "agriculture",
     "keywords": [
       "Country",

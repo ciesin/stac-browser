@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "2013.00",
     "doi": "https://doi.org/10.7927/H4NZ85MP",
-    "citation": "Center for International Earth Science Information Network - CIESIN - Columbia University. 2013-12-31T00:00:00Z. Natural Resource Protection and Child Health Indicators, 2013 Release. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4NZ85MP. Accessed [DAY MONTH YEAR].",
+    "citation": "Center for International Earth Science Information Network - CIESIN - Columbia University. 2013. Natural Resource Protection and Child Health Indicators, 2013 Release. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4NZ85MP. Accessed [DAY MONTH YEAR].",
     "stac_category": "conservation",
     "keywords": [
       "Conservation",

@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "1.00",
     "doi": "https://doi.org/10.7927/H45X26V8",
-    "citation": "Center for International Earth Science Information Network - CIESIN - Columbia University, Economic Commission for Latin America and the Caribbean - ECLAC, and Centro Internacional de Agricultura Tropical - CIAT. 2005-12-31T00:00:00Z. Poverty Mapping Project: Unsatisfied Basic Needs. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H45X26V8. Accessed [DAY MONTH YEAR].",
+    "citation": "Center for International Earth Science Information Network - CIESIN - Columbia University, Economic Commission for Latin America and the Caribbean - ECLAC, and Centro Internacional de Agricultura Tropical - CIAT. 2005. Poverty Mapping Project: Unsatisfied Basic Needs. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H45X26V8. Accessed [DAY MONTH YEAR].",
     "stac_category": "health",
     "keywords": [
       "Country",

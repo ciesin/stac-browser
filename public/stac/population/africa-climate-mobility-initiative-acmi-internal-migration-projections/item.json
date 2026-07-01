@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "1.00",
     "doi": "https://doi.org/10.7927/5tv3-ff20",
-    "citation": "CUNY Institute for Demographic Research - CIDR - City University of New York, Center for Integrated Earth System Information - CIESIN -  Columbia University, and Global Centre for Climate Mobility - GCCM. 2025-02-03T00:00:00Z. Africa Climate Mobility Initiative (ACMI): Internal Migration Projections. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/5tv3-ff20. Accessed [DAY MONTH YEAR].",
+    "citation": "CUNY Institute for Demographic Research - CIDR - City University of New York, Center for Integrated Earth System Information - CIESIN -  Columbia University, and Global Centre for Climate Mobility - GCCM. 2025. Africa Climate Mobility Initiative (ACMI): Internal Migration Projections. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/5tv3-ff20. Accessed [DAY MONTH YEAR].",
     "stac_category": "population",
     "keywords": [
       "Continent",

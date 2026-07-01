@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "Version1.0",
     "doi": "https://doi.org/10.7916/bxa4-bv46",
-    "citation": "Center for International Earth Science Information Network (CIESIN). 2023-09-25T00:00:00Z. GRID3 SLE - Settlement Names v1.0. Palisades, NY: Center for International Earth Science Information Network (CIESIN). https://doi.org/10.7916/bxa4-bv46. Accessed [DAY MONTH YEAR].",
+    "citation": "Center for International Earth Science Information Network (CIESIN). 2023. GRID3 SLE - Settlement Names v1.0. Palisades, NY: Center for International Earth Science Information Network (CIESIN). https://doi.org/10.7916/bxa4-bv46. Accessed [DAY MONTH YEAR].",
     "stac_category": "settlements",
     "keywords": [
       "Sierra Leone",

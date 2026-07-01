@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "2.00",
     "doi": "https://doi.org/10.7927/H40G3H78",
-    "citation": "Berry, P. A. M., R. Smith, and J. Benveniste. 2019-03-22T00:00:00Z. Altimeter Corrected Elevations, Version 2 (ACE2). Palisades, NY: Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H40G3H78. Accessed [DAY MONTH YEAR].",
+    "citation": "Berry, P. A. M., R. Smith, and J. Benveniste. 2019. Altimeter Corrected Elevations, Version 2 (ACE2). Palisades, NY: Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H40G3H78. Accessed [DAY MONTH YEAR].",
     "stac_category": "climate",
     "keywords": [
       "Climate",

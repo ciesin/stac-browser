@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "alpha",
     "doi": "https://doi.org/10.7927/H4KS6PHF",
-    "citation": "Seirup, L., and G. Yetman. 2005-09-13T00:00:00Z. U.S. Population Grids (Summary File 3), 2000: Alabama, Louisiana, and Mississippi, Alpha Version. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4KS6PHF. Accessed [DAY MONTH YEAR].",
+    "citation": "Seirup, L., and G. Yetman. 2005. U.S. Population Grids (Summary File 3), 2000: Alabama, Louisiana, and Mississippi, Alpha Version. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4KS6PHF. Accessed [DAY MONTH YEAR].",
     "stac_category": "hazards",
     "keywords": [
       "State",

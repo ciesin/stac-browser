@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "1.00",
     "doi": "https://doi.org/10.7927/H4T43R01",
-    "citation": "Gaffin, S.R., X. Xing, and G. Yetman. 2002-07-31T00:00:00Z. Country-Level Population and Downscaled Projections Based on the SRES A1, B1, and A2 Scenarios, 1990-2100. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4T43R01. Accessed [DAY MONTH YEAR].",
+    "citation": "Gaffin, S.R., X. Xing, and G. Yetman. 2002. Country-Level Population and Downscaled Projections Based on the SRES A1, B1, and A2 Scenarios, 1990-2100. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4T43R01. Accessed [DAY MONTH YEAR].",
     "stac_category": "climate",
     "keywords": [
       "Climate",

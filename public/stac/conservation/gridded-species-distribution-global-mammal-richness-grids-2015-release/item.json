@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "2015.00",
     "doi": "https://doi.org/10.7927/H4N014G5",
-    "citation": "International Union for Conservation of Nature - IUCN, and Center for International Earth Science Information Network - CIESIN - Columbia University. 2015-12-31T00:00:00Z. Gridded Species Distribution: Global Mammal Richness Grids, 2015 Release. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4N014G5. Accessed [DAY MONTH YEAR].",
+    "citation": "International Union for Conservation of Nature - IUCN, and Center for International Earth Science Information Network - CIESIN - Columbia University. 2015. Gridded Species Distribution: Global Mammal Richness Grids, 2015 Release. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4N014G5. Accessed [DAY MONTH YEAR].",
     "stac_category": "conservation",
     "keywords": [
       "Conservation",

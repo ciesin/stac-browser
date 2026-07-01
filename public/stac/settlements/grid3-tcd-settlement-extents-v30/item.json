@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "v3.0",
     "doi": "https://doi.org/10.7916/e6j5-2141",
-    "citation": "Center for International Earth Science Information Network (CIESIN). 2024-09-30T00:00:00Z. GRID3 TCD - Settlement Extents v3.0. Palisades, NY: Center for International Earth Science Information Network (CIESIN). https://doi.org/10.7916/e6j5-2141. Accessed [DAY MONTH YEAR].",
+    "citation": "Center for International Earth Science Information Network (CIESIN). 2024. GRID3 TCD - Settlement Extents v3.0. Palisades, NY: Center for International Earth Science Information Network (CIESIN). https://doi.org/10.7916/e6j5-2141. Accessed [DAY MONTH YEAR].",
     "stac_category": "settlements",
     "keywords": [
       "Chad",

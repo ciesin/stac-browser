@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "1.00",
     "doi": "https://doi.org/10.7927/1z4r-ez63",
-    "citation": "Gao, J. and M. Pesaresi. 2021-11-01T00:00:00Z. Global 1-km Downscaled Urban Land Extent Projection and Base Year Grids by SSP Scenarios, 2000-2100. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/1z4r-ez63. Accessed [DAY MONTH YEAR].",
+    "citation": "Gao, J. and M. Pesaresi. 2021. Global 1-km Downscaled Urban Land Extent Projection and Base Year Grids by SSP Scenarios, 2000-2100. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/1z4r-ez63. Accessed [DAY MONTH YEAR].",
     "stac_category": "land-use",
     "keywords": [
       "Global",

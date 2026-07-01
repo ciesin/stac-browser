@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "1.01",
     "doi": "https://doi.org/10.7927/q7z9-9r69",
-    "citation": "Gao, J. 2020-04-09T00:00:00Z. Global 1-km Downscaled Population Base Year and Projection Grids Based on the Shared Socioeconomic Pathways, Revision 01. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/q7z9-9r69. Accessed [DAY MONTH YEAR].",
+    "citation": "Gao, J. 2020. Global 1-km Downscaled Population Base Year and Projection Grids Based on the Shared Socioeconomic Pathways, Revision 01. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/q7z9-9r69. Accessed [DAY MONTH YEAR].",
     "stac_category": "population",
     "keywords": [
       "Population",

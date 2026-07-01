@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "1.01",
     "doi": "https://doi.org/10.7927/H46D5QXN",
-    "citation": "Center for International Earth Science Information Network - CIESIN - Columbia University. 2006-12-31T00:00:00Z. Compendium of Environmental Sustainability Indicator Collections: Complete Collection, Version 1.1. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H46D5QXN. Accessed [DAY MONTH YEAR].",
+    "citation": "Center for International Earth Science Information Network - CIESIN - Columbia University. 2006. Compendium of Environmental Sustainability Indicator Collections: Complete Collection, Version 1.1. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H46D5QXN. Accessed [DAY MONTH YEAR].",
     "stac_category": "agriculture",
     "keywords": [
       "Agriculture",

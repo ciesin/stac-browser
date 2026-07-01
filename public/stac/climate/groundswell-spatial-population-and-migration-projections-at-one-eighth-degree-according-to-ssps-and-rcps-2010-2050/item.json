@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "1.00",
     "doi": "https://doi.org/10.7927/c5kq-fb78",
-    "citation": "CUNY Institute for Demographic Research - CIDR - City University of New York, Center for International Earth Science Information Network - CIESIN - Columbia University, and The World Bank. 2022-07-08T00:00:00Z. Groundswell Spatial Population and Migration Projections at One-Eighth Degree According to SSPs and RCPs, 2010-2050. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/c5kq-fb78. Accessed [DAY MONTH YEAR].",
+    "citation": "CUNY Institute for Demographic Research - CIDR - City University of New York, Center for International Earth Science Information Network - CIESIN - Columbia University, and The World Bank. 2022. Groundswell Spatial Population and Migration Projections at One-Eighth Degree According to SSPs and RCPs, 2010-2050. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/c5kq-fb78. Accessed [DAY MONTH YEAR].",
     "stac_category": "climate",
     "keywords": [
       "Country",

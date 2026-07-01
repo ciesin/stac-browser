@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "1.00",
     "doi": "https://doi.org/10.7927/H4BZ63ZS",
-    "citation": "Center for Hazards and Risk Research - CHRR - Columbia University, and Center for International Earth Science Information Network - CIESIN - Columbia University. 2005-12-31T00:00:00Z. Global Earthquake Hazard Distribution - Peak Ground Acceleration. Palisades, NY: Center for Hazards and Risk Research (CHRR)/Columbia University. https://doi.org/10.7927/H4BZ63ZS. Accessed [DAY MONTH YEAR].",
+    "citation": "Center for Hazards and Risk Research - CHRR - Columbia University, and Center for International Earth Science Information Network - CIESIN - Columbia University. 2005. Global Earthquake Hazard Distribution - Peak Ground Acceleration. Palisades, NY: Center for Hazards and Risk Research (CHRR)/Columbia University. https://doi.org/10.7927/H4BZ63ZS. Accessed [DAY MONTH YEAR].",
     "stac_category": "hazards",
     "keywords": [
       "Hazards",

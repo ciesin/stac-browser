@@ -47,7 +47,7 @@
     "place": "New York, NY",
     "version": "1.00",
     "doi": "https://doi.org/10.7927/H4RV0KMH",
-    "citation": "Intergovernmental Panel on Climate Change - IPCC. 2000-07-31T00:00:00Z. IPCC Special Report on Emissions Scenarios (SRES) 1x1 Degree Gridded Emissions Dataset. New York, NY: Cambridge University Press. https://doi.org/10.7927/H4RV0KMH. Accessed [DAY MONTH YEAR].",
+    "citation": "Intergovernmental Panel on Climate Change - IPCC. 2000. IPCC Special Report on Emissions Scenarios (SRES) 1x1 Degree Gridded Emissions Dataset. New York, NY: Cambridge University Press. https://doi.org/10.7927/H4RV0KMH. Accessed [DAY MONTH YEAR].",
     "stac_category": "climate",
     "keywords": [
       "Global",

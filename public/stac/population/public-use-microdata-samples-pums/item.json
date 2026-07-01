@@ -47,7 +47,7 @@
     "place": "Washington, DC",
     "version": "1.00",
     "doi": "https://doi.org/10.7927/H41V5BWK",
-    "citation": "United States Census Bureau - USCB. 1990-12-31T00:00:00Z. Public Use Microdata Samples (PUMS). Washington, DC: United States Census Bureau (USCB). https://doi.org/10.7927/H41V5BWK. Accessed [DAY MONTH YEAR].",
+    "citation": "United States Census Bureau - USCB. 1990. Public Use Microdata Samples (PUMS). Washington, DC: United States Census Bureau (USCB). https://doi.org/10.7927/H41V5BWK. Accessed [DAY MONTH YEAR].",
     "stac_category": "population",
     "keywords": [
       "Country",

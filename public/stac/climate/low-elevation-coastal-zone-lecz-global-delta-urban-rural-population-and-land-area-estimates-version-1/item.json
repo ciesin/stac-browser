@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "1.00",
     "doi": "https://doi.org/10.7927/4hgr-db70",
-    "citation": "Center for International Earth Science Information Network - CIESIN - Columbia University, and CUNY Institute for Demographic Research - CIDR - City University of New York. 2024-06-14T00:00:00Z. Low Elevation Coastal Zone (LECZ) Global Delta Urban-Rural Population and Land Area Estimates, Version 1. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/4hgr-db70. Accessed [DAY MONTH YEAR].",
+    "citation": "Center for International Earth Science Information Network - CIESIN - Columbia University, and CUNY Institute for Demographic Research - CIDR - City University of New York. 2024. Low Elevation Coastal Zone (LECZ) Global Delta Urban-Rural Population and Land Area Estimates, Version 1. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/4hgr-db70. Accessed [DAY MONTH YEAR].",
     "stac_category": "climate",
     "keywords": [
       "Country",

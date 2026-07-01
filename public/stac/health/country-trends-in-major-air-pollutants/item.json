@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "1.00",
     "doi": "https://doi.org/10.7927/et1q-jj80",
-    "citation": "Wolf, M. J., D. C. Esty, H. Kim, M. L. Bell, S. Brigham, Q. Nortonsmith, S. Zaharieva, Z. A. Wendling, A. de Sherbinin and J. W. Emerson. 2022-11-29T00:00:00Z. Country Trends in Major Air Pollutants. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/et1q-jj80. Accessed [DAY MONTH YEAR].",
+    "citation": "Wolf, M. J., D. C. Esty, H. Kim, M. L. Bell, S. Brigham, Q. Nortonsmith, S. Zaharieva, Z. A. Wendling, A. de Sherbinin and J. W. Emerson. 2022. Country Trends in Major Air Pollutants. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/et1q-jj80. Accessed [DAY MONTH YEAR].",
     "stac_category": "health",
     "keywords": [
       "EARTH SCIENCE > ATMOSPHERE > AEROSOLS > PARTICULATE MATTER",

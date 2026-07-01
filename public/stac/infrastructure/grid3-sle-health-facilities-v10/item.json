@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "Version 01",
     "doi": "https://doi.org/10.7916/ag19-s334",
-    "citation": "Center for International Earth Science Information Network (CIESIN). 2023-07-20T00:00:00Z. Sierra Leone National Health Facilities Dataset Version 01. Palisades, NY: Center for International Earth Science Information Network (CIESIN). https://doi.org/10.7916/ag19-s334. Accessed [DAY MONTH YEAR].",
+    "citation": "Center for International Earth Science Information Network (CIESIN). 2023. Sierra Leone National Health Facilities Dataset Version 01. Palisades, NY: Center for International Earth Science Information Network (CIESIN). https://doi.org/10.7916/ag19-s334. Accessed [DAY MONTH YEAR].",
     "stac_category": "infrastructure",
     "keywords": [
       "Sierra Leone",

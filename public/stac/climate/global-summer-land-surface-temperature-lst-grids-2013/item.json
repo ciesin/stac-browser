@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "1.00",
     "doi": "http://doi.org/10.7927/H408638T",
-    "citation": "Center for International Earth Science Information Network - CIESIN - Columbia University. 2016-11-18T00:00:00Z. Global Summer Land Surface Temperature (LST) Grids, 2013. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). http://doi.org/10.7927/H408638T. Accessed [DAY MONTH YEAR].",
+    "citation": "Center for International Earth Science Information Network - CIESIN - Columbia University. 2016. Global Summer Land Surface Temperature (LST) Grids, 2013. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). http://doi.org/10.7927/H408638T. Accessed [DAY MONTH YEAR].",
     "stac_category": "climate",
     "keywords": [
       "Climate",

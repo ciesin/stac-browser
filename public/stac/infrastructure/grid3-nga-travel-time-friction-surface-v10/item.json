@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "v1.0",
     "doi": "https://doi.org/10.7916/tw5k-ys98",
-    "citation": "Center for Integrated Earth System Information (CIESIN). 2025-09-17T00:00:00Z. GRID3 NGA - Travel Time Friction Surface v1.0 : Mix Travel Time. Palisades, NY: Center for Integrated Earth System Information (CIESIN). https://doi.org/10.7916/tw5k-ys98. Accessed [DAY MONTH YEAR].",
+    "citation": "Center for Integrated Earth System Information (CIESIN). 2025. GRID3 NGA - Travel Time Friction Surface v1.0 : Mix Travel Time. Palisades, NY: Center for Integrated Earth System Information (CIESIN). https://doi.org/10.7916/tw5k-ys98. Accessed [DAY MONTH YEAR].",
     "stac_category": "infrastructure",
     "keywords": [
       "NGA",

@@ -47,7 +47,7 @@
     "place": "Palisades, NY",
     "version": "5.04",
     "doi": "https://doi.org/10.7927/as2r-9p42",
-    "citation": "van Donkelaar, A., M. S. Hammer, L. Bindle, M. Brauer, J. R. Brook, M. J. Garay, N. C. Hsu, O. V. Kalashnikova, R. A. Kahn, C. Lee, R. C. Levy, A. Lyapustin, A. M. Sayer, and R. V. Martin. 2024-08-16T00:00:00Z. Global Annual PM2.5 Grids from MODIS, MISR, SeaWiFS and VIIRS Aerosol Optical Depth (AOD), 1998-2022, V5.GL.04. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/as2r-9p42. Accessed [DAY MONTH YEAR].",
+    "citation": "van Donkelaar, A., M. S. Hammer, L. Bindle, M. Brauer, J. R. Brook, M. J. Garay, N. C. Hsu, O. V. Kalashnikova, R. A. Kahn, C. Lee, R. C. Levy, A. Lyapustin, A. M. Sayer, and R. V. Martin. 2024. Global Annual PM2.5 Grids from MODIS, MISR, SeaWiFS and VIIRS Aerosol Optical Depth (AOD), 1998-2022, V5.GL.04. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/as2r-9p42. Accessed [DAY MONTH YEAR].",
     "stac_category": "health",
     "keywords": [
       "EARTH SCIENCE > ATMOSPHERE > AEROSOLS > PARTICULATE MATTER",
